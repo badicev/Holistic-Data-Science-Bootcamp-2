@@ -1,0 +1,75 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1990-06-14T23:28:48.920Z,31.57,-114.48,5.7,3.8,ml,,,,,us,usp0004ahb,2014-11-07T00:46:31.927Z,"13 km S of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-03-07T04:51:15.210Z,29.811,-116.512,1.2,3.6,md,,,,,us,usp00069c1,2014-11-07T00:55:07.277Z,"80 km WSW of El Rosario de Arriba, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-12-18T15:48:50.290Z,30.543,-114.077,36.6,3.6,md,,,,,us,usp0006q6c,2014-11-07T00:56:58.624Z,"90 km SE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-12-13T18:42:59.730Z,30.593,-113.878,31.8,4.1,ml,,,,,us,usp0006q0t,2016-02-12T02:57:02.518Z,"86 km SSW of Puerto Peñasco, Mexico",earthquake,,,,,reviewed,ecx,gs$
+1994-11-25T08:17:26.390Z,31.497,-114.421,15.9,3.5,md,,,,,us,usp0006p77,2014-11-07T00:56:50.523Z,"22 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-10-03T11:30:11.980Z,32.012,-114.845,9.5,3.8,md,,,,,us,usp0006kbu,2014-11-07T00:56:26.101Z,"13 km E of Ejido Doctor Alberto Oviedo Mota (El Indiviso), Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-09-12T08:30:34.930Z,30.981,-115.776,16.1,3.5,md,,,,,us,usp0006j93,2014-11-07T00:56:15.381Z,"31 km ENE of Camalú, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-09-04T16:43:22.350Z,30.195,-114.556,30.7,3.6,md,,,,,us,usp0006hyp,2014-11-07T00:56:13.577Z,"95 km SSE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-08-08T21:17:08.370Z,30.511,-114.373,35.1,4.4,md,,,,,us,usp0006gqm,2014-11-07T00:56:01.408Z,"72 km SE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-06-11T19:28:52.450Z,30.031,-114.506,1.1,4.2,md,,,,,us,usp0006e40,2016-02-13T06:21:48.351Z,"114 km SSE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-04-04T17:39:02.970Z,30.646,-115.953,14.4,3.6,md,,,,,us,usp0006an3,2014-11-07T00:55:15.703Z,"2 km NNE of Ejido General Leandro Valle, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1994-03-07T04:51:15.210Z,29.811,-116.512,1.2,3.6,md,,,,,us,usp00069c1,2014-11-07T00:55:07.277Z,"80 km WSW of El Rosario de Arriba, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-10-26T04:04:37.030Z,30.593,-113.854,8.0,4.3,md,,,,,us,usp00075t4,2016-02-11T19:39:24.204Z,"85 km SSW of Puerto Peñasco, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-10-06T23:39:33.150Z,31.312,-115.341,28.5,3.7,md,,,,,us,usp00074q2,2016-02-12T21:01:24.537Z,"57 km WNW of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-05-16T18:29:52.740Z,30.08,-115.867,18.4,3.8,md,,,,,us,usp0006xfw,2014-11-07T00:57:56.246Z,"13 km W of El Rosario de Arriba, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-04-12T14:40:08.000Z,30.55,-114.3,14.0,3.8,md,,,,,us,usp0006vj9,2014-11-07T00:57:41.433Z,"73 km SE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-04-06T08:59:26.520Z,31.316,-114.332,35.2,3.5,md,,,,,us,usp0006v8t,2014-11-07T00:57:39.988Z,"44 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-03-26T17:19:31.920Z,31.303,-114.371,26.8,4.2,md,,,,,us,usp0006usj,2016-02-13T04:18:38.644Z,"44 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1995-03-26T14:32:06.410Z,31.265,-114.351,35.2,4.2,ml,,,,,us,usp0006us9,2016-02-13T06:46:29.051Z,"48 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,gs$
+1995-03-23T04:18:18.940Z,31.301,-114.367,11.7,3.9,md,,,,,us,usp0006ukr,2014-11-07T00:57:32.934Z,"44 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1998-02-24T11:31:48.780Z,31.235,-115.601,12.0,4.6,mb,,,,,us,usp0008gh0,2016-02-13T05:40:22.547Z,"60 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,11.0,reviewed,ecx,us
+1998-09-23T22:31:20.300Z,31.153,-115.619,14.3,3.8,md,,,,,us,usp0008vdy,2016-02-11T21:05:39.657Z,"54 km NE of Camalú, Mexico",earthquake,,,,,reviewed,ecx,ecx
+1999-04-28T19:34:07.440Z,30.25,-115.614,2.5,4.4,mb,,,,,us,usp000970e,2014-11-07T01:07:31.359Z,"23 km NNE of El Rosario de Arriba, Mexico",earthquake,,,,1.0,reviewed,ecx,us
+1999-04-28T19:08:36.750Z,30.298,-115.535,6.8,4.5,mb,,,,,us,usp000970b,2014-11-07T01:07:31.350Z,"32 km NE of El Rosario de Arriba, Mexico",earthquake,,,,7.0,reviewed,ecx,us
+1999-04-28T13:12:39.570Z,30.422,-115.483,15.5,4.0,md,,,,,us,usp00096zv,2014-11-07T01:07:31.290Z,"38 km E of Luis Rodríguez (El Vergel), Mexico",earthquake,,,,,reviewed,ecx,ecx
+2000-04-25T17:08:17.240Z,32.144,-115.115,12.2,3.6,md,,,,,us,usp0009rvj,2014-11-07T01:09:56.653Z,"10 km SSE of Doctor Alberto Oviedo Mota, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2005-08-22T23:31:28.300Z,30.487,-114.442,5.0,4.2,md,7.0,225.2,,,us,usp000dxvg,2014-11-07T01:26:51.604Z,"70 km SSE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2005-07-28T21:11:52.000Z,31.358,-115.475,5.1,3.9,ml,7.0,247.3,,,us,usp000dw58,2016-03-07T21:21:37.678Z,"70 km WNW of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,pas
+2006-05-24T04:25:14.500Z,32.418,-115.2,6.0,3.9,md,8.0,171.9,,,us,usp000ehtu,2014-11-07T01:29:10.134Z,"1 km NW of Ejido Nuevo León, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2006-05-05T15:53:45.200Z,32.213,-115.075,7.0,3.9,ml,7.0,233.2,,,us,usp000egc0,2014-11-07T01:29:03.415Z,"4 km W of Ejido Plan de Ayala, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2008-01-29T14:46:05.600Z,31.336,-114.402,7.0,3.9,ml,8.0,210.6,,,us,usp000fxq4,2014-11-07T01:34:46.737Z,"39 km SSE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2007-05-22T20:55:19.800Z,31.364,-114.167,12.0,3.7,ml,9.0,226.7,,,us,usp000fch8,2016-03-09T14:20:50.926Z,"47 km SE of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2009-02-24T07:10:30.600Z,30.104,-114.348,4.0,4.6,mb,113.0,110.4,,,us,usp000gube,2022-07-15T04:48:45.473Z,"112 km SSE of San Felipe, Mexico",earthquake,,,,35.0,reviewed,ecx,us
+2008-12-13T19:28:22.500Z,31.288,-116.767,14.6,3.9,ml,18.0,232.3,,,us,usp000gqhu,2022-08-09T07:50:22.075Z,"48 km SSW of Benito García (El Zorrillo), Mexico",earthquake,,,,,reviewed,ecx,ecx
+2008-11-07T20:30:54.700Z,30.653,-114.45,6.0,3.7,ml,10.0,256.2,,,us,usp000gn6q,2014-11-07T01:37:42.000Z,"55 km SE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2010-02-17T15:55:16.500Z,32.415,-115.238,4.0,3.8,ml,19.0,206.0,,,us,usp000h7d8,2014-11-07T01:40:43.150Z,"4 km W of Ejido Nuevo León, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2009-05-11T22:35:49.800Z,31.711,-114.539,5.0,4.1,ml,13.0,170.1,,,us,usp000gx19,2014-11-07T01:38:56.801Z,"4 km NW of Golfo de Santa Clara, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2011-01-26T00:11:28.000Z,31.236,-115.653,5.0,4.5,mb,55.0,181.9,,,us,usp000htnp,2016-03-14T20:12:39.979Z,"56 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,1.0,reviewed,ecx,us
+2011-01-23T05:55:29.600Z,31.226,-115.69,5.0,4.1,ml,29.0,189.8,,,us,usp000hthn,2016-03-10T09:48:21.379Z,"52 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2011-01-23T05:29:59.800Z,31.217,-115.7,16.0,4.3,mb,155.0,176.7,,,us,usp000hthk,2022-08-08T22:35:28.471Z,"51 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,19.0,reviewed,ecx,us
+2011-01-23T03:15:08.200Z,31.235,-115.667,5.0,4.1,md,14.0,184.4,,,us,usp000hthg,2016-03-14T20:12:13.571Z,"54 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,unm
+2011-01-13T01:17:54.100Z,31.239,-115.65,5.0,3.8,ml,15.0,161.8,,,us,usp000ht00,2016-03-10T02:18:38.165Z,"56 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,pas
+2010-12-13T16:11:20.900Z,31.249,-115.592,4.0,3.5,ml,7.0,175.6,,,us,usp000hqw3,2016-03-10T23:59:28.533Z,"61 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,pas
+2010-11-07T06:37:46.400Z,31.256,-115.65,9.0,4.0,md,20.0,178.0,,,us,usp000hp7y,2016-03-10T11:12:12.141Z,"57 km E of San Vicente, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2010-11-02T14:39:52.500Z,31.225,-115.668,5.0,3.6,ml,8.0,254.1,,,us,usp000hnx1,2016-03-10T02:13:27.588Z,"54 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,pas
+2010-11-02T13:51:35.700Z,31.237,-115.662,5.0,4.2,md,28.0,183.2,,,us,usp000hnx0,2016-03-10T08:14:24.032Z,"55 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,unm
+2010-10-20T23:01:54.800Z,31.399,-116.024,8.0,4.3,mwr,126.0,166.6,,,us,usp000hnbm,2016-03-10T05:12:28.556Z,"22 km ENE of San Vicente, Mexico",earthquake,,,,,reviewed,ecx,us
+2010-10-08T11:45:20.200Z,31.248,-115.637,5.0,4.0,mb,83.0,157.4,,,us,usp000hmtz,2016-03-10T08:11:57.223Z,"57 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,13.0,reviewed,ecx,us
+2010-09-29T08:19:57.300Z,31.232,-115.63,5.0,4.0,md,9.0,178.3,,,us,usp000hmb1,2016-03-10T20:38:04.298Z,"57 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,unm
+2010-09-25T16:49:26.300Z,31.23,-115.648,11.4,4.1,mb,59.0,182.1,,,us,usp000hm5y,2022-08-08T22:33:38.162Z,,earthquake,,,,9.0,reviewed,ecx,us
+2010-09-25T16:47:38.500Z,31.244,-115.652,7.0,4.2,ml,23.0,180.3,,,us,usp000hm5x,2016-03-10T03:41:32.546Z,"56 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2010-09-22T07:18:23.600Z,31.187,-115.653,5.0,4.3,mb,89.0,179.5,,,us,usp000hm1z,2022-08-08T22:32:35.275Z,"53 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,19.0,reviewed,ecx,us
+2010-06-25T23:23:15.700Z,31.256,-115.65,8.3,4.4,ml,61.0,178.0,,,us,usp000hehr,2022-08-08T22:31:37.634Z,"57 km E of San Vicente, Mexico",earthquake,,,,,reviewed,ecx,pas
+2010-06-16T22:32:07.000Z,31.248,-115.634,7.8,4.2,mb,85.0,178.2,,,us,usp000he5z,2022-08-08T22:29:38.167Z,"58 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,8.0,reviewed,ecx,us
+2012-01-19T01:38:55.600Z,30.888,-114.169,8.0,4.0,ml,15.0,228.1,,,us,usp000jdp4,2014-11-07T01:46:48.129Z,"65 km ESE of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2011-06-15T12:29:07.100Z,31.244,-115.672,12.0,4.2,md,57.0,178.8,,,us,usp000j375,2016-03-10T17:31:39.024Z,"54 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2011-04-11T13:00:12.600Z,31.217,-115.592,5.0,4.1,ml,15.0,241.9,,,us,usp000hzrg,2016-03-10T17:26:15.921Z,"60 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2011-04-07T13:40:57.800Z,31.235,-115.617,5.0,4.1,mb,134.0,163.2,,,us,usp000hzf4,2022-08-08T22:36:26.338Z,"58 km ENE of Licenciado Gustavo Díaz Ordaz, Mexico",earthquake,,,,7.0,reviewed,ecx,us
+2013-02-25T22:53:04.200Z,31.215,-115.917,5.0,4.2,mb,120.0,186.4,,,us,usc000fdd1,2022-08-06T13:53:42.745Z,"33 km ESE of San Vicente, Mexico",earthquake,,,,5.0,reviewed,ecx,us
+2013-12-20T05:27:08.000Z,31.22,-115.908,6.0,4.8,mwr,,,,1.57,us,usc000lnnb,2022-08-06T20:30:17.704Z,"34 km ESE of San Vicente, Mexico",earthquake,,1.8,0.066,,reviewed,ecx,us
+2013-10-04T22:20:52.000Z,29.717,-113.889,15.0,4.3,mwr,,,,1.66,us,usb000k73j,2013-12-19T02:51:36.000Z,"117 km W of La Libertad, Mexico",earthquake,,4.6,0.062,,reviewed,ecx,us
+2013-06-07T21:13:40.700Z,30.019,-114.168,12.0,4.3,mb,55.0,100.0,,,us,usp000k15j,2014-11-07T01:51:02.779Z,"128 km SSE of San Felipe, Mexico",earthquake,,,,6.0,reviewed,ecx,us
+2013-04-04T16:30:51.500Z,31.225,-115.913,5.0,4.0,ml,44.0,,,,us,usb000fzqs,2022-08-06T14:41:36.850Z,"33 km ESE of San Vicente, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2015-01-19T18:56:08.000Z,31.4533,-114.398,8.0,4.2,md,,,,1.77,us,usc000th8p,2020-05-07T03:39:25.375Z,"27 km SSE of Golfo de Santa Clara, Mexico",earthquake,2.2,6.7,,12.0,reviewed,ecx,unm
+2014-11-06T16:56:46.000Z,31.4348,-115.333,0.0,3.7,ml,,,,1.16,us,usc000sv1k,2022-08-07T03:44:53.830Z,"65 km NW of San Felipe, Mexico",earthquake,2.3,3.3,,,reviewed,ecx,ecx
+2014-09-17T22:13:05.000Z,30.5947,-114.237,7.0,4.1,mb,,,,0.95,us,usb000sdqy,2016-03-11T07:58:52.060Z,"74 km SE of San Felipe, Mexico",earthquake,5.4,5.3,0.084,39.0,reviewed,ecx,us
+2014-03-22T00:58:09.440Z,30.44,-114.0633,12.5,5.3,mwr,,,,2.53,us,usc000nkku,2022-07-26T10:12:14.229Z,"98 km SE of San Felipe, Mexico",earthquake,,3.4,0.033,87.0,reviewed,ecx,us
+2014-03-20T10:24:03.200Z,30.4733,-114.0544,17.9,4.0,ml,,,,1.43,us,usc000ni8g,2014-05-24T00:54:35.000Z,"96 km SE of San Felipe, Mexico",earthquake,,6.2,,,reviewed,ecx,ecx
+2016-01-11T07:52:39.000Z,30.515,-114.321,20.0,4.2,ml,,,,1.59,us,us20004xck,2016-03-30T02:27:54.040Z,"75 km SE of San Felipe, Mexico",earthquake,5.2,8.5,,,reviewed,ecx,ecx
+2016-01-04T18:19:48.000Z,31.135,-116.723,7.0,3.5,ml,,,,0.91,us,us10004bwk,2022-06-19T00:44:15.531Z,"50 km WSW of San Vicente, Mexico",earthquake,4.5,2.0,,,reviewed,ecx,ecx
+2015-04-06T17:58:07.000Z,31.2277,-115.88,5.0,3.6,ml,,,,1.7,us,us10001v3f,2022-06-19T00:42:46.911Z,"36 km ESE of San Vicente, Mexico",earthquake,2.6,6.4,0.119,94.0,reviewed,ecx,ci
+2016-10-07T02:14:37.000Z,30.587,-114.202,2.0,3.7,ml,,,,0.9,us,us20007dw2,2017-01-07T00:20:44.040Z,"77 km SE of San Felipe, Mexico",earthquake,5.7,7.8,,,reviewed,ecx,ecx
+2016-08-05T15:25:34.000Z,31.216,-116.081,16.0,3.6,ml,,,,1.06,us,us10006ac4,2022-06-19T00:45:48.640Z,"19 km SE of San Vicente, Mexico",earthquake,3.8,7.4,,,reviewed,ecx,ecx
+2016-05-11T09:03:10.000Z,30.7643,-115.607,27.0,4.4,mwr,,,,1.74,us,us10005ggm,2022-08-02T22:11:00.320Z,"36 km ENE of Santa Fé, Mexico",earthquake,5.3,6.3,0.036,75.0,reviewed,ecx,us

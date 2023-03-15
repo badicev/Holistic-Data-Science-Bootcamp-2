@@ -1,0 +1,476 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1985-03-06T22:38:24.010Z,61.997,-150.449,9.7,4.1,ml,,,,,us,usp0002cht,2014-11-07T00:36:17.297Z,"35 km NW of Willow, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-03-05T11:41:43.690Z,58.385,-153.288,61.9,4.1,mb,,,,,us,usp0002cfp,2014-11-07T00:36:16.893Z,"42 km NNW of Aleneva, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-02-26T00:06:39.510Z,62.438,-153.244,14.0,4.0,ml,,,,,us,usp0002c84,2014-11-07T00:36:11.991Z,"86 km SE of Nikolai, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-02-17T14:53:41.450Z,61.624,-149.775,39.4,3.8,ml,,,,,us,usp0002bze,2014-11-07T00:36:10.939Z,"2 km ESE of Houston, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-02-13T15:59:54.340Z,61.856,-150.329,8.7,3.9,ml,,,,,us,usp0002bvh,2014-11-07T00:36:10.460Z,"19 km NW of Willow, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-01-09T19:28:21.250Z,60.289,-140.744,14.7,5.7,mb,,,,,us,usp0002awg,2022-04-27T22:56:51.161Z,"100 km NW of Yakutat, Alaska",earthquake,,,,69.0,reviewed,ags,us
+1986-03-09T07:55:32.300Z,60.592,-137.805,1.7,3.6,ml,,,,,us,usp0002rp9,2014-11-07T00:38:02.038Z,"24 km SW of Haines Junction, Canada",earthquake,,,,,reviewed,ags,pmr
+1986-03-08T17:33:14.570Z,61.038,-146.566,9.2,4.0,ml,,,,,us,usp0002rnq,2014-11-07T00:38:01.966Z,"15 km SW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-01-26T23:11:54.100Z,61.869,-148.738,38.4,4.1,mb,,,,,us,usp0002qf2,2014-11-07T00:37:48.827Z,"10 km N of Sutton-Alpine, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-01-16T14:36:36.110Z,61.489,-146.537,27.8,4.0,ml,,,,,us,usp0002q46,2014-11-07T00:37:47.712Z,"41 km NNW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-01-08T22:34:06.500Z,59.746,-152.828,76.3,4.3,mb,,,,,us,usp0002pwe,2014-11-07T00:37:46.030Z,"56 km W of Anchor Point, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-12-30T05:14:08.680Z,62.107,-154.316,12.0,3.5,ml,,,,,us,usp0002pkb,2014-11-07T00:37:41.391Z,"101 km S of Nikolai, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-12-25T18:37:56.980Z,59.784,-152.319,94.3,4.5,mb,,,,,us,usp0002pdq,2014-11-07T00:37:40.145Z,"27 km W of Anchor Point, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1985-12-17T04:10:59.980Z,61.604,-148.178,24.6,3.5,ml,,,,,us,usp0002nzr,2014-11-07T00:37:38.092Z,"26 km SE of Chickaloon, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-12-08T16:24:14.490Z,60.671,-143.212,13.2,3.6,ml,,,,,us,usp0002npa,2014-11-07T00:37:36.806Z,"86 km S of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-12-08T07:32:23.310Z,59.882,-150.244,39.1,4.8,mb,,,,,us,usp0002nnw,2014-11-07T00:37:36.713Z,"40 km E of Fox River, Alaska",earthquake,,,,6.0,reviewed,ags,us
+1985-11-21T19:03:26.700Z,61.412,-146.652,20.4,3.6,ml,,,,,us,usp0002n1b,2014-11-07T00:37:29.818Z,"35 km NNW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-11-20T11:38:14.290Z,61.472,-149.734,40.4,3.5,ml,,,,,us,usp0002mzb,2014-11-07T00:37:29.528Z,"1 km N of Knik, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-11-14T20:48:52.370Z,61.668,-150.035,6.5,3.6,ml,,,,,us,usp0002msg,2014-11-07T00:37:28.228Z,"8 km S of Willow, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-11-07T13:32:47.550Z,61.657,-146.783,29.7,3.7,ml,,,,,us,usp0002mhk,2014-11-07T00:37:26.721Z,"37 km S of Nelchina, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-11-05T19:01:24.360Z,62.305,-149.852,18.8,3.7,ml,,,,,us,usp0002mg1,2014-11-07T00:37:26.317Z,"13 km E of Talkeetna, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-10-28T14:04:25.090Z,60.225,-141.192,0.2,4.3,mb,,,,,us,usp0002m7h,2014-11-07T00:37:21.742Z,"111 km NW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1985-10-23T16:41:06.650Z,62.273,-150.413,10.0,3.7,ml,,,,,us,usp0002m2c,2014-11-07T00:37:20.600Z,"10 km WSW of Trapper Creek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-10-19T12:43:19.260Z,61.831,-151.077,8.2,3.7,ml,,,,,us,usp0002ky1,2014-11-07T00:37:20.127Z,"24 km SE of Skwentna, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-09-22T05:43:00.310Z,59.108,-151.32,53.4,4.6,mb,,,,,us,usp0002k01,2014-11-07T00:37:11.982Z,"39 km SE of Port Graham, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1985-09-15T01:28:16.760Z,59.102,-136.423,1.9,5.9,ms,,,,,us,usp0002jsb,2022-04-27T22:37:50.220Z,"41 km SSW of Covenant Life, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1985-09-10T17:20:05.730Z,61.356,-151.693,97.9,4.4,mb,,,,,us,usp0002jm7,2014-11-07T00:37:09.023Z,"40 km NW of Beluga, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1985-09-09T22:53:48.910Z,61.736,-150.953,77.5,4.3,mb,,,,,us,usp0002jk4,2014-11-07T00:37:08.623Z,"31 km NW of Susitna, Alaska",earthquake,,,,8.0,reviewed,ags,us
+1985-08-31T06:58:38.040Z,60.18,-140.943,9.8,4.3,ml,,,,,us,usp0002ja8,2014-11-07T00:37:04.055Z,"98 km NW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-08-23T02:16:03.490Z,60.853,-151.737,15.0,3.9,mb,,,,,us,usp0002j1b,2014-11-07T00:37:02.565Z,"30 km NW of Nikiski, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-08-14T10:36:27.740Z,61.45,-151.312,70.4,4.2,mb,,,,,us,usp0002hqq,2014-11-07T00:37:00.815Z,"36 km NNW of Beluga, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1985-08-08T21:38:45.050Z,58.465,-154.739,0.1,3.7,ml,,,,,us,usp0002hgz,2014-11-07T00:36:58.988Z,"101 km N of Karluk, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-08-07T03:54:31.930Z,61.789,-148.892,13.2,3.5,ml,,,,,us,usp0002hf8,2014-11-07T00:36:58.541Z,"6 km W of Sutton-Alpine, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-08-02T13:41:43.780Z,60.154,-141.03,8.4,4.2,mb,,,,,us,usp0002haz,2014-11-07T00:36:57.270Z,"99 km NW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1985-06-23T19:31:30.620Z,62.226,-154.802,15.9,3.7,ml,,,,,us,usp0002g39,2014-11-07T00:36:45.250Z,"90 km SSW of Nikolai, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-06-22T12:06:13.630Z,61.624,-146.409,25.9,3.7,ml,,,,,us,usp0002g23,2014-11-07T00:36:45.085Z,"45 km SSE of Nelchina, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-05-26T08:16:44.340Z,61.244,-147.293,25.9,3.6,ml,,,,,us,usp0002f70,2014-11-07T00:36:37.001Z,"52 km WNW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-05-20T13:54:31.490Z,60.644,-147.616,30.0,4.1,mb,,,,,us,usp0002f0j,2014-11-07T00:36:36.274Z,"56 km WSW of Tatitlek, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1985-05-18T22:06:56.170Z,58.507,-154.592,9.8,4.3,mb,,,,,us,usp0002eyn,2014-11-07T00:36:35.995Z,"104 km S of Kokhanok, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-05-09T04:09:16.900Z,62.28,-141.334,1.8,4.3,mb,,,,,us,usp0002ek5,2014-11-07T00:36:33.840Z,"45 km SSW of Alcan Border, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1985-04-25T02:41:51.300Z,61.819,-150.816,65.2,4.1,mb,,,,,us,usp0002e4q,2014-11-07T00:36:28.242Z,"34 km NNW of Susitna, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-04-23T06:32:04.870Z,59.316,-144.764,29.9,4.2,mb,,,,,us,usp0002e29,2014-11-07T00:36:27.902Z,"147 km SSE of Cordova, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1985-04-21T22:14:56.860Z,62.41,-148.555,34.6,4.3,ml,,,,,us,usp0002e0q,2014-11-07T00:36:27.757Z,"68 km N of Chickaloon, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-04-12T02:33:39.520Z,60.027,-147.202,26.8,4.6,mb,,,,,us,usp0002dqs,2014-11-07T00:36:26.403Z,"45 km E of Chenega, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1985-04-07T16:24:00.570Z,60.277,-150.754,45.6,4.1,mb,,,,,us,usp0002dju,2014-11-07T00:36:25.660Z,"25 km S of Funny River, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1985-03-31T08:04:23.270Z,61.553,-147.127,27.9,3.6,ml,,,,,us,usp0002dba,2014-11-07T00:36:21.059Z,"39 km SE of Glacier View, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-03-24T14:38:57.080Z,61.359,-146.704,30.1,3.6,ml,,,,,us,usp0002d5v,2014-11-07T00:36:20.051Z,"31 km NW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-03-20T23:27:23.780Z,61.282,-146.729,28.9,3.5,ml,,,,,us,usp0002d2u,2014-11-07T00:36:19.649Z,"26 km NW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1985-03-20T09:09:53.720Z,60.22,-153.1,125.5,4.1,mb,,,,,us,usp0002d2b,2014-11-07T00:36:19.599Z,"67 km E of Port Alsworth, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1985-03-06T22:38:24.010Z,61.997,-150.449,9.7,4.1,ml,,,,,us,usp0002cht,2014-11-07T00:36:17.297Z,"35 km NW of Willow, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-02-28T16:22:41.080Z,59.841,-151.261,40.4,3.6,ml,,,,,us,usp00032vp,2014-11-07T00:39:54.589Z,"11 km N of Fritz Creek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-02-27T06:23:06.110Z,59.976,-153.308,143.3,4.4,mb,,,,,us,usp00032u2,2014-11-07T00:39:54.187Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-02-25T17:43:15.270Z,62.352,-147.767,41.2,3.5,ml,,,,,us,usp00032s1,2014-11-07T00:39:53.848Z,"55 km NW of Eureka Roadhouse, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-02-25T12:26:33.970Z,60.404,-147.539,26.7,4.0,mb,,,,,us,usp00032rt,2014-11-07T00:39:53.769Z,Southern Alaska,earthquake,,,,1.0,reviewed,ags,us
+1987-02-19T22:30:47.030Z,61.394,-149.702,39.2,3.7,ml,,,,,us,usp00032md,2014-11-07T00:39:52.912Z,"7 km SSE of Knik, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-02-15T16:55:05.410Z,61.505,-151.637,86.5,3.9,mb,,,,,us,usp00032gy,2014-11-07T00:39:52.122Z,"50 km NW of Beluga, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-01-27T13:29:56.400Z,62.827,-149.617,6.2,3.5,ml,,,,,us,usp00031yz,2014-11-07T00:39:40.978Z,"48 km NNE of Chase, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-01-19T22:09:34.190Z,58.512,-150.926,93.9,4.3,mb,,,,,us,usp00031sf,2014-11-07T00:39:39.912Z,"107 km SSE of Port Graham, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-01-13T23:08:17.810Z,61.387,-149.535,41.7,3.5,ml,,,,,us,usp00031na,2014-11-07T00:39:39.204Z,"7 km NNE of Eagle River, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-01-10T10:24:56.580Z,59.641,-145.522,26.8,4.1,mb,,,,,us,usp00031jr,2014-11-07T00:39:38.798Z,"101 km S of Cordova, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-12-21T17:45:20.830Z,60.088,-140.98,10.5,4.6,mb,,,,,us,usp0003125,2014-11-07T00:39:30.917Z,"92 km NW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-12-16T17:26:29.820Z,60.958,-146.995,13.9,3.7,ml,,,,,us,usp00030x6,2014-11-07T00:39:29.889Z,"20 km WNW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-12-01T18:00:24.600Z,61.444,-140.41,0.2,3.8,ml,,,,,us,usp00030j5,2014-11-07T00:39:26.037Z,"134 km E of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-12-01T16:16:42.270Z,61.534,-140.28,1.0,4.4,mb,,,,,us,usp00030j3,2014-11-07T00:39:26.000Z,"134 km SSE of Alcan Border, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-11-25T16:44:19.220Z,61.408,-150.371,16.2,3.5,ml,,,,,us,usp00030d4,2014-11-07T00:39:23.023Z,"16 km SSE of Susitna, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-11-15T07:02:14.050Z,61.468,-146.441,23.3,3.8,ml,,,,,us,usp0003015,2014-11-07T00:39:21.225Z,"37 km N of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-11-09T02:17:00.560Z,60.145,-141.026,11.5,4.1,mb,,,,,us,usp0002ztq,2014-11-07T00:39:20.099Z,"98 km NW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-11-04T06:55:55.080Z,61.317,-150.642,47.2,4.3,mb,,,,,us,usp0002znz,2014-11-07T00:39:18.768Z,"26 km SSW of Susitna, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1986-11-04T06:14:18.720Z,61.341,-151.9,98.0,4.7,mb,,,,,us,usp0002zny,2014-11-07T00:39:18.746Z,"49 km WNW of Beluga, Alaska",earthquake,,,,25.0,reviewed,ags,us
+1986-11-01T08:18:15.160Z,61.504,-147.45,19.4,3.6,ml,,,,,us,usp0002zjm,2014-11-07T00:39:15.028Z,"35 km SSE of Glacier View, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-10-27T19:39:36.520Z,60.928,-149.464,39.3,3.6,ml,,,,,us,usp0002zdr,2014-11-07T00:39:12.092Z,"5 km NNW of Sunrise, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-10-26T05:57:50.390Z,61.568,-146.357,34.3,3.5,ml,,,,,us,usp0002zc8,2014-11-07T00:39:11.880Z,"48 km N of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-10-22T18:31:34.140Z,61.339,-146.849,38.3,4.0,ml,,,,,us,usp0002z82,2014-11-07T00:39:11.084Z,"35 km NW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-10-13T02:26:03.050Z,62.753,-143.388,26.4,3.6,ml,,,,,us,usp0002ywu,2014-11-07T00:39:08.966Z,"26 km SE of Mentasta Lake, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-10-10T09:02:16.490Z,59.764,-138.394,1.3,3.8,mb,,,,,us,usp0002yty,2014-11-07T00:39:08.499Z,"78 km ENE of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-10-09T01:21:06.170Z,62.129,-149.544,58.0,4.5,mb,,,,,us,usp0002yt1,2014-11-07T00:39:08.314Z,"16 km ESE of Susitna North, Alaska",earthquake,,,,24.0,reviewed,ags,us
+1986-10-01T10:43:24.270Z,57.438,-152.22,44.4,3.7,mb,,,,,us,usp0002yjp,2014-11-07T00:39:05.703Z,"19 km S of Chiniak, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-09-15T14:48:22.110Z,61.528,-143.8,52.3,4.5,mb,,,,,us,usp0002y3y,2014-11-07T00:39:00.947Z,"34 km E of Chitina, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1986-09-13T12:30:40.710Z,61.245,-146.939,41.5,3.8,ml,,,,,us,usp0002y1p,2014-11-07T00:39:00.485Z,"34 km WNW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-09-07T00:22:32.580Z,60.244,-143.445,17.6,3.8,ml,,,,,us,usp0002xw6,2014-11-07T00:38:59.033Z,"131 km ESE of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-08-27T14:12:10.480Z,59.025,-142.758,30.0,4.5,mb,,,,,us,usp0002xkd,2014-11-07T00:38:53.889Z,"182 km WSW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1986-08-25T23:27:54.360Z,61.352,-150.333,47.2,4.5,mb,,,,,us,usp0002xj0,2014-11-07T00:38:53.656Z,"18 km W of Point MacKenzie, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-08-04T04:48:36.560Z,60.484,-147.247,19.2,3.6,ml,,,,,us,usp0002wv1,2014-11-07T00:38:48.524Z,"52 km SW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-08-03T06:26:26.690Z,61.542,-140.401,0.9,3.6,ml,,,,,us,usp0002wu9,2014-11-07T00:38:48.289Z,"131 km SSE of Alcan Border, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-07-31T14:04:34.520Z,60.797,-149.614,45.0,3.7,ml,,,,,us,usp0002wrp,2014-11-07T00:38:45.490Z,"13 km S of Hope, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-07-28T14:31:14.160Z,60.577,-150.386,47.0,4.4,mb,,,,,us,usp0002wmw,2014-11-07T00:38:44.659Z,"21 km ENE of Sterling, Alaska",earthquake,,,,6.0,reviewed,ags,us
+1986-07-20T19:44:29.740Z,57.042,-154.533,91.6,4.6,mb,,,,,us,usp0002w8b,2014-11-07T00:38:42.962Z,"24 km WNW of Akhiok, Alaska",earthquake,,,,9.0,reviewed,ags,us
+1986-07-13T03:54:40.510Z,62.254,-150.228,10.8,3.9,ml,,,,,us,usp0002vza,2014-11-07T00:38:41.272Z,"6 km S of Trapper Creek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-07-07T07:12:26.150Z,58.794,-153.281,83.0,4.3,mb,,,,,us,usp0002vs7,2014-11-07T00:38:40.023Z,"84 km NNW of Aleneva, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1986-07-06T07:34:35.440Z,56.176,-149.99,39.1,4.1,mb,,,,,us,usp0002vre,2014-11-07T00:38:39.738Z,"212 km SE of Chiniak, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-07-05T22:31:49.260Z,59.967,-141.844,16.2,4.1,ml,,,,,us,usp0002vr8,2014-11-07T00:38:39.711Z,"127 km WNW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-07-05T11:57:17.520Z,57.134,-154.892,93.0,4.4,mb,,,,,us,usp0002vqv,2014-11-07T00:38:39.523Z,"48 km WNW of Akhiok, Alaska",earthquake,,,,7.0,reviewed,ags,us
+1986-07-01T19:26:42.640Z,61.597,-149.704,43.3,3.7,ml,,,,,us,usp0002vmu,2014-11-07T00:38:38.410Z,"6 km WSW of Meadow Lakes, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-06-27T07:22:33.000Z,59.016,-152.505,70.8,4.0,mb,,,,,us,usp0002vf5,2014-11-07T00:38:35.197Z,"50 km SW of Nanwalek, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-06-26T13:55:43.650Z,59.73,-152.182,22.5,3.6,ml,,,,,us,usp0002ve9,2014-11-07T00:38:35.109Z,"20 km WSW of Anchor Point, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-06-20T22:13:49.600Z,62.248,-150.234,9.7,3.8,ml,,,,,us,usp0002v8a,2014-11-07T00:38:33.935Z,"7 km S of Trapper Creek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-06-16T21:54:02.040Z,61.838,-149.433,43.4,3.8,ml,,,,,us,usp0002v42,2014-11-07T00:38:33.186Z,"14 km NW of Fishhook, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-06-04T05:12:57.830Z,58.074,-151.494,45.6,4.0,mb,,,,,us,usp0002us8,2014-11-07T00:38:30.800Z,"61 km ENE of Ouzinkie, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-05-22T07:24:35.950Z,61.889,-147.357,30.0,3.5,mb,,,,,us,usp0002u9z,2014-11-07T00:38:25.458Z,"11 km WSW of Eureka Roadhouse, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-05-17T03:24:29.590Z,58.889,-152.952,75.3,4.7,mb,,,,,us,usp0002u38,2014-11-07T00:38:24.059Z,"78 km SW of Nanwalek, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-05-11T06:15:13.830Z,60.228,-151.681,49.2,3.9,mb,,,,,us,usp0002tw0,2014-11-07T00:38:22.975Z,"15 km W of Clam Gulch, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-04-27T10:55:41.240Z,59.723,-152.918,96.1,4.0,mb,,,,,us,usp0002t8g,2014-11-07T00:38:15.887Z,"61 km W of Anchor Point, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-04-26T03:51:26.700Z,57.954,-151.473,108.7,3.9,mb,,,,,us,usp0002t70,2014-11-07T00:38:15.645Z,"58 km ENE of Kodiak, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-04-09T20:20:10.870Z,60.207,-152.879,99.0,4.3,mb,,,,,us,usp0002ssz,2014-11-07T00:38:12.353Z,"69 km WNW of Ninilchik, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-04-02T22:57:40.930Z,59.879,-153.396,129.9,4.0,mb,,,,,us,usp0002ske,2014-11-07T00:38:10.611Z,"41 km ENE of Pedro Bay, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-04-02T13:37:07.160Z,58.075,-154.085,63.9,3.9,mb,,,,,us,usp0002sk2,2014-11-07T00:38:10.000Z,"59 km N of Larsen Bay, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1986-04-01T23:46:51.450Z,61.886,-150.937,72.1,3.9,mb,,,,,us,usp0002sjf,2014-11-07T00:38:09.283Z,"26 km ESE of Skwentna, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1986-03-22T21:45:48.930Z,61.217,-150.382,16.0,3.5,ml,,,,,us,usp0002s4e,2014-11-07T00:38:05.134Z,"25 km W of Anchorage, Alaska",earthquake,,,,,reviewed,ags,pmr
+1986-03-22T05:30:01.990Z,60.348,-153.297,165.2,4.4,mb,,,,,us,usp0002s1t,2014-11-07T00:38:04.191Z,"58 km ENE of Port Alsworth, Alaska",earthquake,,,,9.0,reviewed,ags,us
+1986-03-18T23:25:16.680Z,56.974,-154.295,86.2,4.7,mb,,,,,us,usp0002ryv,2014-11-07T00:38:03.836Z,"8 km WNW of Akhiok, Alaska",earthquake,,,,10.0,reviewed,ags,us
+1986-03-15T02:34:12.830Z,62.613,-151.232,87.0,3.9,mb,,,,,us,usp0002rvh,2014-11-07T00:38:03.389Z,"27 km WNW of Petersville, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1986-03-14T12:20:50.980Z,60.355,-152.046,75.7,3.7,mb,,,,,us,usp0002ruv,2014-11-07T00:38:03.308Z,"38 km WNW of Clam Gulch, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1986-03-09T07:55:32.300Z,60.592,-137.805,1.7,3.6,ml,,,,,us,usp0002rp9,2014-11-07T00:38:02.038Z,"24 km SW of Haines Junction, Canada",earthquake,,,,,reviewed,ags,pmr
+1986-03-08T17:33:14.570Z,61.038,-146.566,9.2,4.0,ml,,,,,us,usp0002rnq,2014-11-07T00:38:01.966Z,"15 km SW of Valdez, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-13T20:53:29.270Z,57.674,-143.06,10.0,3.6,mb,,,,,us,usp0003dxp,2020-09-14T17:42:18.777Z,"284 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-13T14:20:35.110Z,57.629,-142.979,10.0,4.0,ml,,,,,us,usp0003dxe,2020-09-14T17:42:20.740Z,"285 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-13T12:37:59.930Z,57.094,-143.413,10.0,3.9,mb,,,,,us,usp0003dxa,2020-09-14T17:42:21.069Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-13T08:43:48.530Z,57.454,-142.911,10.0,3.9,mb,,,,,us,usp0003dx4,2020-09-14T17:42:21.406Z,"297 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-11T00:33:56.620Z,57.259,-143.032,10.0,4.7,mb,,,,,us,usp0003due,2020-09-14T17:42:24.979Z,Gulf of Alaska,earthquake,,,,10.0,reviewed,ags,us
+1988-03-10T14:25:19.990Z,57.187,-143.545,10.0,4.6,mb,,,,,us,usp0003dtu,2020-09-14T17:42:27.255Z,Gulf of Alaska,earthquake,,,,17.0,reviewed,ags,us
+1988-03-10T14:21:33.420Z,57.119,-142.881,10.0,4.1,mb,,,,,us,usp0003dtt,2020-09-14T17:42:27.614Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,ags,us
+1988-03-10T09:13:07.470Z,56.989,-142.705,10.0,4.4,mb,,,,,us,usp0003dt8,2020-09-14T17:42:29.273Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-10T07:39:04.120Z,57.586,-142.814,10.0,3.7,mb,,,,,us,usp0003dt2,2020-09-14T17:42:29.956Z,"282 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T20:35:03.730Z,57.089,-143.466,10.0,4.0,mb,,,,,us,usp0003ds5,2020-09-14T17:42:33.252Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T19:11:23.180Z,56.856,-142.687,10.0,3.7,mb,,,,,us,usp0003ds2,2020-09-14T17:42:33.929Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T03:11:33.640Z,57.507,-142.977,10.0,4.0,mb,,,,,us,usp0003dr9,2020-09-14T17:42:38.220Z,"295 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-09T00:13:19.720Z,57.604,-142.943,10.0,4.0,mb,,,,,us,usp0003dr7,2020-09-14T17:42:38.581Z,"286 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-09T00:04:52.370Z,57.468,-142.965,10.0,4.2,mb,,,,,us,usp0003dr5,2020-09-14T17:42:38.949Z,"298 km SW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1988-03-08T20:23:30.420Z,57.858,-143.074,10.0,3.7,mb,,,,,us,usp0003dr0,2020-09-14T17:42:39.305Z,"270 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-08T10:33:57.750Z,56.884,-142.978,10.0,4.2,mb,,,,,us,usp0003dqg,2020-09-14T17:42:40.980Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-08T10:22:34.750Z,57.193,-143.207,10.0,4.0,mb,,,,,us,usp0003dqf,2020-09-14T17:42:41.325Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-08T07:06:40.890Z,57.753,-142.85,10.0,3.5,ml,,,,,us,usp0003dq9,2020-09-14T17:42:42.003Z,"269 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-08T06:41:41.110Z,57.291,-143.146,10.0,3.6,ml,,,,,us,usp0003dq8,2020-09-14T17:42:42.366Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-08T02:09:27.330Z,57.186,-143.364,10.0,3.8,mb,,,,,us,usp0003dq4,2020-09-14T17:42:44.046Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:50:36.800Z,57.738,-143.016,10.0,3.7,mb,,,,,us,usp0003dpp,2020-09-14T17:42:45.413Z,"277 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:38:09.250Z,57.41,-143.132,10.0,4.0,mb,,,,,us,usp0003dpm,2020-09-14T17:42:45.735Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:18:21.840Z,57.7,-143.057,10.0,3.8,mb,,,,,us,usp0003dpk,2020-09-14T17:42:46.061Z,"282 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-07T11:30:36.470Z,57.68,-142.697,10.0,3.9,mb,,,,,us,usp0003dpg,2020-09-14T17:42:46.729Z,"270 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-07T05:57:21.920Z,57.54,-142.816,10.0,3.8,ml,,,,,us,usp0003dpa,2020-09-14T17:42:48.063Z,"286 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T05:33:43.980Z,57.013,-142.719,10.0,4.2,mb,,,,,us,usp0003dp9,2020-09-14T17:42:48.389Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T05:01:12.400Z,57.761,-142.599,10.0,3.9,mb,,,,,us,usp0003dp7,2020-09-14T17:42:49.047Z,"259 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T04:19:36.900Z,57.598,-142.98,10.0,3.6,ml,,,,,us,usp0003dp5,2020-09-14T17:42:49.680Z,"287 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T03:42:36.710Z,57.574,-142.847,10.0,3.6,mb,,,,,us,usp0003dp3,2020-09-14T17:42:50.012Z,"285 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T03:28:42.980Z,57.524,-142.876,10.0,4.0,mb,,,,,us,usp0003dp2,2020-09-14T17:42:50.345Z,"290 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1988-03-07T02:59:53.850Z,57.013,-143.29,10.0,4.4,mb,,,,,us,usp0003dp0,2020-09-14T17:42:50.670Z,Gulf of Alaska,earthquake,,,,13.0,reviewed,ags,us
+1988-03-07T02:28:48.460Z,56.849,-140.712,10.0,4.3,mb,,,,,us,usp0003dnz,2020-09-14T17:42:50.990Z,off the coast of Southeastern Alaska,earthquake,,,,6.0,reviewed,ags,us
+1988-03-07T01:57:14.210Z,57.119,-144.091,10.0,4.3,mb,,,,,us,usp0003dnx,2020-09-14T17:42:51.612Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-07T01:34:35.070Z,57.071,-142.889,10.0,4.1,mb,,,,,us,usp0003dnw,2020-09-14T17:42:51.936Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T01:29:08.720Z,57.081,-143.329,10.0,3.9,ml,,,,,us,usp0003dnv,2020-09-14T17:42:52.259Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T01:18:26.320Z,57.96,-142.986,10.0,4.3,mb,,,,,us,usp0003dnu,2020-09-14T17:42:52.585Z,"258 km SW of Yakutat, Alaska",earthquake,,,,7.0,reviewed,ags,us
+1988-03-07T00:54:27.460Z,56.974,-143.336,10.0,4.0,ml,,,,,us,usp0003dnt,2020-09-14T17:42:52.908Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:44:59.220Z,57.54,-142.939,10.0,3.6,ml,,,,,us,usp0003dns,2020-09-14T17:42:53.563Z,"291 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:42:49.570Z,57.5,-142.949,10.0,3.7,mb,,,,,us,usp0003dnr,2020-09-14T17:42:53.891Z,"295 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T00:39:43.820Z,57.072,-144.07,10.0,3.6,ml,,,,,us,usp0003dnq,2020-09-14T17:42:54.218Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:15:47.410Z,57.0,-143.012,10.0,3.8,ml,,,,,us,usp0003dnk,2020-09-14T17:42:55.173Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-06T23:39:49.590Z,57.099,-142.898,10.0,4.5,mb,,,,,us,usp0003dnj,2020-09-14T17:42:55.504Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T23:23:59.900Z,57.675,-142.941,10.0,4.4,mb,,,,,us,usp0003dnf,2020-09-14T17:42:56.494Z,"279 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T23:14:38.460Z,57.499,-142.803,10.0,6.2,mb,,,,,us,usp0003dne,2022-04-28T20:51:19.771Z,"290 km SW of Yakutat, Alaska",earthquake,,,,56.0,reviewed,ags,us
+1988-03-06T23:11:05.100Z,56.907,-143.038,10.0,4.4,ml,,,,,us,usp0003dnd,2020-09-14T17:42:57.103Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-06T23:05:56.840Z,56.751,-142.987,10.0,5.1,mb,,,,,us,usp0003dnc,2020-09-14T17:42:57.436Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T22:35:38.140Z,56.953,-143.032,10.0,7.8,mw,,,,,us,usp0003dnb,2022-04-28T20:51:18.629Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,hrv
+1988-03-04T23:19:54.750Z,58.406,-142.7,10.0,4.8,mb,,,,,us,usp0003dkm,2020-09-14T17:43:01.460Z,"213 km SW of Yakutat, Alaska",earthquake,,,,24.0,reviewed,ags,us
+1988-02-26T19:26:49.880Z,58.245,-142.466,10.0,3.8,mb,,,,,us,usp0003dct,2020-09-14T17:40:38.073Z,"214 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-02-26T19:21:43.330Z,58.136,-142.505,10.0,3.7,mb,,,,,us,usp0003dcs,2020-09-14T17:40:38.400Z,"224 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-02-25T22:27:55.580Z,57.888,-142.763,10.0,4.2,mb,,,,,us,usp0003dbt,2020-09-14T17:40:39.017Z,"255 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-02-22T05:41:04.220Z,58.32,-142.772,10.0,3.9,ml,,,,,us,usp0003d8c,2020-09-14T17:40:43.563Z,"222 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-02-19T04:53:31.690Z,58.495,-142.678,10.0,4.7,mb,,,,,us,usp0003d5c,2020-09-14T17:40:50.091Z,"206 km SW of Yakutat, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1988-01-26T13:58:58.330Z,58.192,-142.82,10.0,4.9,mb,,,,,us,usp0003cef,2020-09-14T17:39:28.376Z,"233 km SW of Yakutat, Alaska",earthquake,,,,23.0,reviewed,ags,us
+1988-01-25T23:58:13.110Z,58.15,-142.938,10.0,4.1,mb,,,,,us,usp0003cdh,2020-09-14T17:39:29.032Z,"241 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-01-21T12:01:13.070Z,57.582,-142.766,10.0,4.0,mb,,,,,us,usp0003c8d,2020-09-14T17:39:33.316Z,"281 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-01-19T19:18:05.040Z,58.595,-142.743,10.0,3.5,ml,,,,,us,usp0003c6j,2020-09-14T17:39:38.094Z,"202 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-01-08T18:50:57.470Z,58.199,-142.778,10.0,3.9,mb,,,,,us,usp0003bwv,2020-09-14T17:40:10.139Z,"231 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-01-08T13:58:19.280Z,58.715,-143.55,10.0,4.3,mb,,,,,us,usp0003bwp,2020-09-14T17:40:10.477Z,"237 km WSW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-01-07T11:07:11.210Z,58.04,-142.583,10.0,3.9,mb,,,,,us,usp0003bvw,2020-09-14T17:40:13.353Z,"235 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-01-04T06:33:33.730Z,58.711,-142.67,10.0,4.1,mb,,,,,us,usp0003bt2,2020-09-14T17:40:22.856Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,ags,us
+1987-12-31T03:53:11.860Z,58.42,-142.783,10.0,3.7,ml,,,,,us,usp0003bpd,2014-11-07T00:41:25.544Z,"215 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-29T21:35:54.620Z,60.218,-152.708,99.8,3.9,mb,,,,,us,usp0003bn7,2014-11-07T00:41:25.388Z,"60 km WNW of Ninilchik, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-29T13:40:22.110Z,61.939,-151.829,108.7,3.6,mb,,,,,us,usp0003bn1,2014-11-07T00:41:25.376Z,"23 km WSW of Skwentna, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-26T19:55:36.910Z,58.734,-142.983,10.0,3.7,ml,,,,,us,usp0003bk3,2014-11-07T00:41:25.144Z,"207 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-26T00:01:32.610Z,58.145,-143.307,10.0,4.8,mb,,,,,us,usp0003bje,2014-11-07T00:41:25.063Z,"258 km SW of Yakutat, Alaska",earthquake,,,,29.0,reviewed,ags,us
+1987-12-25T05:25:30.660Z,57.909,-142.673,10.0,3.5,ml,,,,,us,usp0003bhz,2014-11-07T00:41:25.000Z,"249 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-25T01:07:46.280Z,58.063,-143.217,10.0,4.1,mb,,,,,us,usp0003bht,2014-11-07T00:41:24.978Z,"260 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-21T10:28:27.730Z,58.219,-142.735,10.0,3.7,ml,,,,,us,usp0003bey,2014-11-07T00:41:24.585Z,"227 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-21T03:40:44.080Z,57.68,-143.036,10.0,4.3,ml,,,,,us,usp0003bep,2014-11-07T00:41:24.545Z,"283 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-19T09:58:23.060Z,57.127,-143.037,10.0,3.6,ml,,,,,us,usp0003bdn,2014-11-07T00:41:24.399Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1987-12-15T15:11:06.130Z,58.985,-142.774,10.0,5.5,mw,,,,,us,usp0003bac,2016-11-10T00:12:41.632Z,"184 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-12-15T10:58:43.550Z,58.493,-142.851,10.0,3.7,ml,,,,,us,usp0003ba5,2014-11-07T00:41:23.815Z,"214 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-15T06:16:37.600Z,57.584,-142.296,10.0,3.9,ml,,,,,us,usp0003ba0,2014-11-07T00:41:23.794Z,"264 km SSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-14T15:20:45.840Z,58.593,-142.608,10.0,4.2,mb,,,,,us,usp0003b9d,2014-11-07T00:41:23.583Z,"196 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-13T12:51:17.030Z,59.036,-142.727,10.0,4.5,mb,,,,,us,usp0003b8r,2014-11-07T00:41:23.172Z,"180 km WSW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-12-13T06:15:24.480Z,58.255,-142.737,10.0,4.2,mb,,,,,us,usp0003b8c,2014-11-07T00:41:23.109Z,"225 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-12T00:27:03.960Z,57.874,-142.884,10.0,4.4,mb,,,,,us,usp0003b72,2014-11-07T00:41:22.841Z,"261 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-11T04:07:03.770Z,62.042,-146.997,42.6,3.5,ml,,,,,us,usp0003b64,2014-11-07T00:41:22.760Z,"13 km WNW of Nelchina, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-11T02:58:36.440Z,58.645,-142.74,10.0,3.8,ml,,,,,us,usp0003b62,2014-11-07T00:41:22.754Z,"199 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-10T02:13:21.550Z,61.16,-151.272,71.0,4.0,mb,,,,,us,usp0003b4t,2014-11-07T00:41:22.135Z,"10 km WNW of Beluga, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-12-09T21:10:41.670Z,58.114,-142.869,10.0,3.8,ml,,,,,us,usp0003b4k,2014-11-07T00:41:22.111Z,"241 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-09T04:13:39.360Z,58.88,-143.233,10.0,3.7,ml,,,,,us,usp0003b3s,2014-11-07T00:41:22.024Z,"213 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-08T23:25:49.170Z,58.166,-143.326,10.0,3.7,ml,,,,,us,usp0003b3n,2014-11-07T00:41:22.008Z,"258 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-08T14:14:32.600Z,62.078,-148.713,35.7,3.5,ml,,,,,us,usp0003b2w,2014-11-07T00:41:21.925Z,"33 km N of Sutton-Alpine, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-08T05:12:34.610Z,58.638,-142.863,10.0,4.8,mb,,,,,us,usp0003b2k,2014-11-07T00:41:21.895Z,"206 km WSW of Yakutat, Alaska",earthquake,,,,7.0,reviewed,ags,us
+1987-12-07T09:23:32.370Z,58.423,-142.75,10.0,4.1,ml,,,,,us,usp0003b1k,2014-11-07T00:41:21.509Z,"214 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-06T02:32:02.210Z,58.124,-142.689,10.0,4.2,mb,,,,,us,usp0003b07,2014-11-07T00:41:21.286Z,"233 km SW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-12-05T20:10:22.840Z,58.968,-142.89,10.0,4.2,mb,,,,,us,usp0003azs,2014-11-07T00:41:21.240Z,"191 km WSW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-05T04:59:18.740Z,58.834,-142.802,10.0,4.2,ml,,,,,us,usp0003ayw,2014-11-07T00:41:21.007Z,"192 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-05T01:33:53.820Z,58.257,-142.192,10.0,4.3,mb,,,,,us,usp0003ayq,2014-11-07T00:41:20.971Z,"202 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-04T09:14:37.540Z,58.094,-142.95,10.0,4.3,mb,,,,,us,usp0003axx,2014-11-07T00:41:20.742Z,"246 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-04T02:15:41.890Z,58.428,-142.556,10.0,4.3,mb,,,,,us,usp0003axn,2014-11-07T00:41:20.703Z,"204 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-12-03T23:31:49.760Z,58.777,-142.864,10.0,4.2,mb,,,,,us,usp0003axf,2014-11-07T00:41:20.669Z,"198 km WSW of Yakutat, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1987-12-03T17:41:34.970Z,58.538,-151.497,72.1,4.4,mb,,,,,us,usp0003ax3,2014-11-07T00:41:20.560Z,"90 km NE of Ouzinkie, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-03T09:20:18.250Z,58.514,-142.664,10.0,5.4,mw,,,,,us,usp0003awn,2016-11-10T00:06:57.086Z,"204 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-12-03T04:43:44.210Z,58.534,-142.777,10.0,3.7,ml,,,,,us,usp0003awg,2014-11-07T00:41:20.227Z,"208 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-03T01:29:05.520Z,58.096,-142.894,10.0,4.3,mb,,,,,us,usp0003awa,2014-11-07T00:41:20.018Z,"244 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-12-02T21:50:06.230Z,58.982,-142.76,10.0,4.5,mb,,,,,us,usp0003aw4,2014-11-07T00:41:19.988Z,"184 km WSW of Yakutat, Alaska",earthquake,,,,13.0,reviewed,ags,us
+1987-12-02T17:35:16.550Z,58.175,-142.695,10.0,3.6,ml,,,,,us,usp0003avt,2014-11-07T00:41:19.941Z,"229 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-02T08:40:00.220Z,58.188,-142.748,10.0,3.8,ml,,,,,us,usp0003av5,2014-11-07T00:41:19.835Z,"230 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-02T07:25:12.380Z,58.158,-142.888,10.0,3.6,ml,,,,,us,usp0003av4,2014-11-07T00:41:19.828Z,"239 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-02T05:13:08.930Z,58.52,-142.76,10.0,5.2,mb,,,,,us,usp0003auy,2014-11-07T00:41:19.767Z,"208 km SW of Yakutat, Alaska",earthquake,,,,52.0,reviewed,ags,us
+1987-12-02T02:16:11.540Z,57.79,-142.937,10.0,4.6,mb,,,,,us,usp0003aur,2014-11-07T00:41:19.704Z,"270 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-12-02T01:53:29.620Z,58.921,-142.888,10.0,5.4,mw,,,,,us,usp0003auq,2016-11-10T00:06:37.371Z,"193 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-12-02T01:50:01.810Z,58.173,-142.638,10.0,4.1,mb,,,,,us,usp0003aun,2014-11-07T00:41:19.652Z,"227 km SW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-12-01T21:35:32.250Z,58.346,-141.62,10.0,4.2,mb,,,,,us,usp0003auc,2014-11-07T00:41:19.574Z,"172 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T20:41:12.060Z,58.717,-143.076,10.0,4.6,mb,,,,,us,usp0003au8,2014-11-07T00:41:19.551Z,"212 km WSW of Yakutat, Alaska",earthquake,,,,14.0,reviewed,ags,us
+1987-12-01T19:45:46.990Z,58.559,-142.708,10.0,3.9,mb,,,,,us,usp0003au5,2014-11-07T00:41:19.537Z,"203 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T19:44:24.090Z,58.462,-142.729,10.0,3.5,ml,,,,,us,usp0003au4,2014-11-07T00:41:19.529Z,"210 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T19:05:04.050Z,58.251,-142.718,10.0,3.9,ml,,,,,us,usp0003au3,2014-11-07T00:41:19.520Z,"224 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T15:38:32.770Z,58.197,-143.144,10.0,4.5,mb,,,,,us,usp0003atw,2014-11-07T00:41:19.406Z,"247 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T14:38:42.690Z,58.079,-142.848,10.0,4.2,mb,,,,,us,usp0003ats,2014-11-07T00:41:19.381Z,"243 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-12-01T14:12:16.360Z,58.146,-143.07,10.0,3.6,ml,,,,,us,usp0003atq,2014-11-07T00:41:19.358Z,"248 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T14:08:01.650Z,58.876,-142.886,10.0,3.5,ml,,,,,us,usp0003atp,2014-11-07T00:41:19.347Z,"195 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T13:47:03.010Z,58.463,-142.773,10.0,3.7,ml,,,,,us,usp0003atk,2014-11-07T00:41:19.326Z,"212 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T13:43:17.250Z,58.908,-145.126,10.0,3.6,ml,,,,,us,usp0003atj,2014-11-07T00:41:19.313Z,"185 km S of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T12:30:24.420Z,58.762,-142.736,10.0,4.4,ml,,,,,us,usp0003atg,2014-11-07T00:41:19.296Z,"193 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T12:03:59.770Z,57.953,-142.611,10.0,5.8,mw,,,,,us,usp0003ata,2022-04-27T21:24:43.889Z,"243 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-12-01T11:44:27.670Z,58.413,-142.81,10.0,3.5,ml,,,,,us,usp0003at9,2014-11-07T00:41:19.164Z,"217 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T11:30:07.090Z,58.543,-142.685,10.0,3.8,ml,,,,,us,usp0003at8,2014-11-07T00:41:19.148Z,"203 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T09:25:03.650Z,58.226,-141.694,10.0,3.9,mb,,,,,us,usp0003at1,2014-11-07T00:41:19.042Z,"185 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T08:49:52.160Z,58.32,-141.792,10.0,3.6,ml,,,,,us,usp0003asy,2014-11-07T00:41:18.987Z,"181 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T08:43:32.950Z,58.219,-141.617,10.0,3.8,ml,,,,,us,usp0003asx,2014-11-07T00:41:18.965Z,"183 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T08:22:23.050Z,58.113,-143.228,10.0,3.5,ml,,,,,us,usp0003asu,2014-11-07T00:41:18.928Z,"257 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T07:12:25.610Z,58.249,-141.615,10.0,3.8,ml,,,,,us,usp0003asq,2014-11-07T00:41:18.885Z,"180 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T06:59:35.720Z,58.705,-142.903,10.0,3.7,ml,,,,,us,usp0003asn,2014-11-07T00:41:18.867Z,"204 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T04:25:15.960Z,58.745,-142.62,10.0,4.9,ms,,,,,us,usp0003asd,2014-11-07T00:41:18.622Z,"188 km WSW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T02:37:20.000Z,58.202,-141.657,10.0,3.6,ml,,,,,us,usp0003as4,2014-11-07T00:41:18.287Z,"186 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T02:17:19.270Z,58.023,-143.118,10.0,3.6,ml,,,,,us,usp0003as2,2014-11-07T00:41:18.250Z,"259 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T01:35:15.860Z,58.526,-142.905,10.0,4.3,mb,,,,,us,usp0003arz,2014-11-07T00:41:18.181Z,"214 km WSW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T01:19:49.640Z,57.844,-142.694,10.0,3.9,ml,,,,,us,usp0003arx,2014-11-07T00:41:18.127Z,"256 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T01:13:13.290Z,58.592,-142.289,10.0,4.6,mb,,,,,us,usp0003arv,2014-11-07T00:41:18.063Z,"181 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-12-01T01:07:38.000Z,58.062,-142.886,10.0,4.2,mb,,,,,us,usp0003aru,2014-11-07T00:41:17.997Z,"246 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-12-01T00:33:47.460Z,58.486,-142.739,10.0,3.7,ml,,,,,us,usp0003arq,2014-11-07T00:41:17.915Z,"209 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-12-01T00:14:21.900Z,58.747,-142.686,10.0,3.9,ml,,,,,us,usp0003arn,2014-11-07T00:41:17.844Z,"191 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T23:48:19.080Z,58.124,-142.911,10.0,5.3,ms,,,,,us,usp0003arj,2022-04-27T21:31:18.795Z,"242 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-11-30T23:40:55.380Z,58.086,-142.983,10.0,3.6,ml,,,,,us,usp0003arh,2014-11-07T00:41:16.553Z,"248 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T23:26:16.740Z,58.59,-142.736,10.0,4.2,mb,,,,,us,usp0003arf,2014-11-07T00:41:16.548Z,"202 km WSW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-11-30T22:50:43.970Z,58.404,-142.862,10.0,4.0,ml,,,,,us,usp0003ard,2014-11-07T00:41:16.541Z,"220 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T22:48:05.980Z,58.5,-142.621,10.0,4.3,mb,,,,,us,usp0003arc,2014-11-07T00:41:16.538Z,"203 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-11-30T22:43:58.940Z,58.28,-142.753,10.0,3.7,ml,,,,,us,usp0003arb,2014-11-07T00:41:16.535Z,"224 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T22:37:51.520Z,57.825,-142.972,10.0,4.3,mb,,,,,us,usp0003ara,2014-11-07T00:41:16.531Z,"268 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-30T22:34:42.580Z,57.907,-142.703,10.0,3.8,ml,,,,,us,usp0003ar8,2014-11-07T00:41:16.525Z,"251 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T22:21:30.470Z,58.567,-142.572,10.0,3.5,ml,,,,,us,usp0003ar7,2014-11-07T00:41:16.523Z,"196 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:57:48.520Z,58.189,-142.66,10.0,4.0,mb,,,,,us,usp0003ar4,2014-11-07T00:41:16.514Z,"226 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-11-30T21:55:31.570Z,58.14,-142.602,10.0,3.8,ml,,,,,us,usp0003ar3,2014-11-07T00:41:16.511Z,"228 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:50:34.290Z,58.128,-143.128,10.0,3.7,ml,,,,,us,usp0003ar2,2014-11-07T00:41:16.508Z,"252 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:46:46.480Z,58.548,-142.736,10.0,3.9,mb,,,,,us,usp0003ar1,2014-11-07T00:41:16.505Z,"205 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-30T21:40:49.160Z,58.087,-142.938,10.0,4.0,mb,,,,,us,usp0003ar0,2014-11-07T00:41:16.502Z,"246 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-11-30T21:38:18.400Z,58.548,-142.744,10.0,3.6,ml,,,,,us,usp0003aqz,2014-11-07T00:41:16.499Z,"205 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:26:55.700Z,58.076,-143.175,10.0,3.8,ml,,,,,us,usp0003aqw,2014-11-07T00:41:16.492Z,"257 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:24:57.610Z,58.435,-142.701,10.0,4.3,ml,,,,,us,usp0003aqv,2014-11-07T00:41:16.489Z,"211 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T21:02:19.500Z,58.622,-142.622,10.0,3.6,ml,,,,,us,usp0003aqt,2014-11-07T00:41:16.485Z,"195 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T20:54:33.550Z,58.773,-142.807,10.0,4.5,mb,,,,,us,usp0003aqs,2014-11-07T00:41:16.481Z,"196 km WSW of Yakutat, Alaska",earthquake,,,,9.0,reviewed,ags,us
+1987-11-30T20:50:07.130Z,58.69,-142.735,10.0,4.6,ml,,,,,us,usp0003aqr,2014-11-07T00:41:16.478Z,"196 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T20:41:11.320Z,58.132,-142.645,10.0,4.8,mb,,,,,us,usp0003aqn,2014-11-07T00:41:16.459Z,"230 km SW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-11-30T20:36:45.010Z,58.626,-142.974,10.0,3.9,ml,,,,,us,usp0003aqm,2014-11-07T00:41:16.456Z,"212 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T20:34:05.020Z,58.186,-143.051,10.0,3.9,ml,,,,,us,usp0003aqk,2014-11-07T00:41:16.453Z,"244 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T20:15:20.310Z,58.866,-142.899,10.0,4.9,mb,,,,,us,usp0003aqh,2014-11-07T00:41:16.447Z,"196 km WSW of Yakutat, Alaska",earthquake,,,,10.0,reviewed,ags,us
+1987-11-30T20:13:39.690Z,58.132,-142.556,10.0,3.6,ml,,,,,us,usp0003aqg,2014-11-07T00:41:16.444Z,"226 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T20:05:00.330Z,58.069,-142.784,10.0,3.9,ml,,,,,us,usp0003aqe,2014-11-07T00:41:16.438Z,"241 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-30T19:48:26.060Z,58.239,-142.742,10.0,5.9,mb,,,,,us,usp0003aqa,2022-04-27T21:31:17.290Z,"226 km SW of Yakutat, Alaska",earthquake,,,,51.0,reviewed,ags,us
+1987-11-30T19:23:15.590Z,58.679,-142.786,10.0,4.5,mb,,,,,us,usp0003aq7,2018-06-04T20:43:45.000Z,"200 km WSW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-11-30T17:59:47.290Z,58.609,-142.794,10.0,4.4,ml,,,,,us,usp0003aq3,2014-11-07T00:41:16.342Z,"204 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-29T12:18:03.850Z,61.528,-141.446,0.0,3.6,ml,,,,,us,usp0003anz,2014-11-07T00:41:16.228Z,"79 km E of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-26T16:14:58.470Z,58.54,-142.712,10.0,4.0,mb,,,,,us,usp0003aka,2014-11-07T00:41:15.838Z,"204 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-25T17:15:49.560Z,58.523,-143.377,10.0,3.6,ml,,,,,us,usp0003aj5,2014-11-07T00:41:15.647Z,"238 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-24T04:55:22.350Z,59.867,-135.621,30.2,3.6,ml,,,,,us,usp0003aej,2014-11-07T00:41:14.971Z,"46 km NE of Mosquito Lake, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-23T09:31:08.970Z,60.557,-142.952,0.0,3.9,ml,,,,,us,usp0003acu,2014-11-07T00:41:14.873Z,"97 km S of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-23T07:54:04.170Z,61.709,-141.24,0.0,3.6,ml,,,,,us,usp0003acq,2014-11-07T00:41:14.866Z,"94 km ENE of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-23T07:18:20.500Z,61.616,-141.323,5.0,5.5,mw,,,,,us,usp0003acn,2022-04-27T21:30:13.905Z,"87 km ENE of McCarthy, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-11-22T15:28:40.520Z,58.582,-143.584,10.0,4.7,ml,,,,,us,usp0003ac7,2014-11-07T00:41:14.803Z,"245 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-21T16:07:07.100Z,58.678,-143.166,10.0,3.8,mb,,,,,us,usp0003ab2,2014-11-07T00:41:14.684Z,"219 km WSW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-18T17:55:03.110Z,58.623,-143.334,10.0,3.6,ml,,,,,us,usp0003a8g,2014-11-07T00:41:14.422Z,"230 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-18T15:45:59.840Z,58.604,-143.382,10.0,4.0,ml,,,,,us,usp0003a89,2014-11-07T00:41:14.371Z,"234 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-18T14:53:00.620Z,58.446,-143.83,10.0,4.3,mb,,,,,us,usp0003a86,2014-11-07T00:41:14.363Z,"257 km SSE of Cordova, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-11-18T13:01:55.220Z,58.642,-143.19,10.0,5.8,mw,,,,,us,usp0003a84,2022-04-27T21:29:55.288Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,hrv
+1987-11-18T11:54:02.080Z,58.657,-143.741,10.0,3.6,ml,,,,,us,usp0003a7z,2014-11-07T00:41:14.292Z,"239 km SSE of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-18T07:13:23.050Z,58.696,-143.398,10.0,5.0,mw,,,,,us,usp0003a7u,2016-11-09T23:59:32.599Z,"230 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-11-18T06:57:04.880Z,58.594,-143.685,10.0,4.0,mb,,,,,us,usp0003a7t,2014-11-07T00:41:14.270Z,"246 km SSE of Cordova, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-11-18T06:18:52.550Z,58.597,-143.781,10.0,5.4,mw,,,,,us,usp0003a7q,2016-11-09T23:59:32.015Z,"243 km SSE of Cordova, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-11-17T22:21:59.670Z,58.562,-143.682,10.0,3.7,ml,,,,,us,usp0003a7c,2014-11-07T00:41:14.196Z,"249 km SSE of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T20:01:33.630Z,58.647,-143.758,10.0,4.0,ml,,,,,us,usp0003a76,2014-11-07T00:41:14.179Z,"239 km SSE of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T15:54:13.910Z,58.632,-143.56,10.0,3.6,ml,,,,,us,usp0003a72,2014-11-07T00:41:14.164Z,"242 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T14:34:20.770Z,58.571,-143.285,10.0,3.7,ml,,,,,us,usp0003a70,2014-11-07T00:41:14.158Z,"231 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T13:42:23.600Z,58.57,-143.784,10.0,3.5,ml,,,,,us,usp0003a6y,2014-11-07T00:41:14.151Z,"246 km SSE of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T13:26:12.450Z,58.96,-135.149,12.8,4.9,mb,,,,,us,usp0003a6w,2014-11-07T00:41:14.139Z,"25 km SSE of Mud Bay, Alaska",earthquake,,,,29.0,reviewed,ags,us
+1987-11-17T12:35:50.250Z,58.526,-143.698,10.0,3.8,mb,,,,,us,usp0003a6v,2014-11-07T00:41:14.134Z,"253 km SSE of Cordova, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-17T12:12:46.980Z,58.499,-143.583,10.0,3.7,ml,,,,,us,usp0003a6t,2014-11-07T00:41:14.103Z,"250 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T11:29:47.650Z,58.53,-143.679,10.0,3.9,mb,,,,,us,usp0003a6r,2014-11-07T00:41:14.097Z,"253 km SSE of Cordova, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-17T10:10:03.230Z,58.537,-143.31,10.0,3.8,mb,,,,,us,usp0003a6m,2014-11-07T00:41:14.085Z,"234 km WSW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-11-17T09:38:12.330Z,58.608,-143.096,10.0,5.5,mb,,,,,us,usp0003a6j,2022-04-27T21:29:44.630Z,"219 km WSW of Yakutat, Alaska",earthquake,,,,45.0,reviewed,ags,us
+1987-11-17T09:11:28.740Z,58.476,-143.658,10.0,4.0,ml,,,,,us,usp0003a6f,2014-11-07T00:41:14.055Z,"255 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-17T09:00:53.950Z,58.439,-143.608,10.0,4.7,mb,,,,,us,usp0003a6e,2014-11-07T00:41:14.052Z,"254 km WSW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-11-17T08:46:53.320Z,58.586,-143.27,10.0,6.9,ms,,,,,us,usp0003a6c,2022-04-27T21:29:43.453Z,Gulf of Alaska,earthquake,,,,19.0,reviewed,ags,us
+1987-11-14T18:38:29.580Z,58.964,-135.325,10.0,4.0,mb,,,,,us,usp0003a4g,2014-11-07T00:41:13.657Z,"21 km S of Mud Bay, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-11-14T15:48:29.960Z,58.961,-135.241,5.0,5.0,mw,,,,,us,usp0003a4c,2016-11-09T23:57:31.140Z,"23 km SSE of Mud Bay, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-11-08T09:57:00.850Z,60.958,-147.368,13.6,3.7,ml,,,,,us,usp00039za,2014-11-07T00:41:12.683Z,"38 km WNW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-11-04T00:33:25.850Z,61.561,-149.364,41.5,4.9,mb,,,,,us,usp00039v9,2014-11-07T00:41:11.145Z,"4 km ESE of Wasilla, Alaska",earthquake,,,,23.0,reviewed,ags,us
+1987-11-03T00:41:09.300Z,58.25,-154.979,11.0,4.0,mb,,,,,us,usp00039uu,2014-11-07T00:41:10.842Z,"81 km NNW of Karluk, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-10-27T03:07:25.020Z,59.073,-151.214,41.1,3.8,ml,,,,,us,usp00039n4,2014-11-07T00:41:07.343Z,"46 km SE of Port Graham, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-10-19T15:25:41.550Z,61.684,-151.602,100.9,4.0,mb,,,,,us,usp00039dr,2014-11-07T00:41:05.791Z,"35 km SSW of Skwentna, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-10-07T02:18:59.410Z,60.702,-152.283,114.0,4.4,mb,,,,,us,usp000391u,2014-11-07T00:41:04.052Z,"53 km W of Salamatof, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1987-09-18T04:57:29.930Z,57.976,-152.549,78.4,4.1,mb,,,,,us,usp00038g6,2014-11-07T00:40:57.144Z,"6 km NNW of Ouzinkie, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-09-15T06:49:15.500Z,62.718,-152.01,0.0,3.8,ml,,,,,us,usp00038dp,2014-11-07T00:40:56.827Z,"68 km WNW of Petersville, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-09-12T12:02:47.600Z,61.692,-151.878,101.8,4.4,mb,,,,,us,usp00038bc,2014-11-07T00:40:56.200Z,"41 km SW of Skwentna, Alaska",earthquake,,,,5.0,reviewed,ags,us
+1987-09-11T22:08:33.040Z,61.078,-152.456,132.7,3.8,mb,,,,,us,usp00038av,2014-11-07T00:40:56.039Z,"71 km W of Tyonek, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-09-09T22:45:16.920Z,62.284,-150.41,6.2,3.9,ml,,,,,us,usp000388z,2014-11-07T00:40:55.771Z,"9 km WSW of Trapper Creek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-09-08T07:07:09.360Z,62.156,-153.249,7.4,3.6,ml,,,,,us,usp0003873,2014-11-07T00:40:55.414Z,"98 km W of Skwentna, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-08-24T20:12:24.240Z,61.754,-149.574,40.3,4.0,ml,,,,,us,usp00037sw,2014-11-07T00:40:49.740Z,"14 km N of Meadow Lakes, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-08-24T11:00:46.190Z,57.587,-154.2,44.0,4.3,mb,,,,,us,usp00037sk,2014-11-07T00:40:49.715Z,"14 km WNW of Larsen Bay, Alaska",earthquake,,,,8.0,reviewed,ags,us
+1987-08-21T20:05:29.000Z,61.397,-146.884,17.8,3.7,ml,,,,,us,usp00037py,2014-11-07T00:40:49.435Z,Southern Alaska,earthquake,,,,,reviewed,ags,pmr
+1987-08-13T21:39:30.580Z,58.822,-154.304,120.8,4.6,mb,,,,,us,usp00037gm,2014-11-07T00:40:48.530Z,"73 km SSE of Kokhanok, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-08-09T01:48:22.160Z,62.119,-151.165,86.0,4.0,mb,,,,,us,usp00037ch,2014-11-07T00:40:47.672Z,"18 km NE of Skwentna, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-07-28T02:38:48.070Z,62.453,-153.914,8.4,3.6,ml,,,,,us,usp0003705,2014-11-07T00:40:42.265Z,"66 km SSE of Nikolai, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-07-26T20:28:57.070Z,61.676,-152.009,121.2,3.7,mb,,,,,us,usp00036z2,2014-11-07T00:40:42.157Z,"47 km SW of Skwentna, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-07-26T14:55:49.700Z,60.316,-152.379,96.4,4.0,mb,,,,,us,usp00036yt,2014-11-07T00:40:42.129Z,"49 km NW of Ninilchik, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1987-07-18T18:17:14.140Z,60.963,-147.012,17.6,3.5,ml,,,,,us,usp00036rr,2014-11-07T00:40:41.414Z,"21 km WNW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,us
+1987-06-13T13:09:22.870Z,60.739,-147.528,33.0,4.1,ml,,,,,us,usp00035rw,2014-11-07T00:40:32.358Z,"48 km WSW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-06-10T01:44:41.880Z,59.306,-152.352,61.4,4.6,mb,,,,,us,usp00035p7,2014-11-07T00:40:31.960Z,"25 km WSW of Nanwalek, Alaska",earthquake,,,,24.0,reviewed,ags,us
+1987-06-09T17:32:43.260Z,61.678,-147.425,28.3,3.6,ml,,,,,us,usp00035nt,2014-11-07T00:40:31.897Z,"18 km SE of Glacier View, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-05-09T00:43:34.000Z,60.374,-146.892,19.7,4.2,ml,,,,,us,usp00034uh,2014-11-07T00:40:23.927Z,"55 km SSW of Tatitlek, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-05-02T17:47:59.760Z,59.178,-145.276,15.0,3.5,ml,,,,,us,usp00034nm,2014-11-07T00:40:20.246Z,"154 km S of Cordova, Alaska",earthquake,,,,,reviewed,ags,pmr
+1987-04-18T02:13:38.950Z,61.368,-150.616,66.4,4.4,mb,,,,,us,usp000348j,2014-11-07T00:40:15.164Z,"20 km SSW of Susitna, Alaska",earthquake,,,,10.0,reviewed,ags,us
+1987-04-18T02:01:38.890Z,61.374,-150.656,68.0,5.3,mw,,,,,us,usp000348h,2018-06-04T20:43:45.000Z,"20 km SSW of Susitna, Alaska",earthquake,,,,,reviewed,ags,hrv
+1987-04-01T13:05:00.530Z,59.989,-153.443,129.3,4.0,mb,,,,,us,usp00033u3,2014-11-07T00:40:11.068Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1987-03-23T05:10:12.190Z,60.557,-148.98,33.9,4.0,mb,,,,,us,usp00033jh,2014-11-07T00:40:06.627Z,"22 km ENE of Moose Pass, Alaska",earthquake,,,,6.0,reviewed,ags,us
+1987-03-22T00:06:50.090Z,60.216,-152.408,76.0,3.9,mb,,,,,us,usp00033h4,2014-11-07T00:40:06.185Z,"45 km WNW of Ninilchik, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1987-03-17T11:12:26.690Z,61.589,-150.667,58.1,3.8,mb,,,,,us,usp00033cx,2014-11-07T00:40:04.747Z,"9 km WNW of Susitna, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1989-03-13T04:59:37.820Z,57.175,-142.948,10.0,3.6,ml,,,,,us,usp0003sw8,2020-09-14T17:57:48.082Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1989-03-13T01:59:56.940Z,56.961,-143.421,10.0,4.2,mb,,,,,us,usp0003svy,2020-09-14T17:57:49.732Z,Gulf of Alaska,earthquake,,,,5.0,reviewed,ags,us
+1989-02-16T05:48:58.140Z,57.251,-142.922,10.0,4.5,mb,,,,,us,usp0003ryk,2020-09-14T17:54:26.756Z,Gulf of Alaska,earthquake,,,,10.0,reviewed,ags,us
+1989-01-26T06:59:11.450Z,58.775,-143.051,10.0,4.5,mb,,,,,us,usp0003r82,2020-09-14T17:51:30.255Z,"208 km WSW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-01-17T05:47:21.720Z,58.044,-142.624,10.0,4.5,mb,,,,,us,usp0003qxw,2020-09-14T17:52:05.372Z,"236 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-12-07T21:47:36.170Z,56.889,-143.223,10.0,4.3,mb,,,,,us,usp0003pnp,2020-09-14T17:51:03.569Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-11-15T01:57:28.440Z,57.054,-143.096,10.0,4.5,ml,,,,,us,usp0003nvh,2020-09-14T17:49:52.772Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-11-08T21:45:37.170Z,57.874,-142.912,10.0,4.4,mb,,,,,us,usp0003nq3,2020-09-14T17:50:03.829Z,"262 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-10-11T15:20:27.690Z,57.228,-153.021,42.7,4.9,mb,,,,,us,usp0003mr1,2014-11-07T00:42:57.625Z,"17 km E of Old Harbor, Alaska",earthquake,,,,20.0,reviewed,ags,us
+1988-09-18T21:47:19.050Z,57.848,-142.897,10.0,4.5,mb,,,,,us,usp0003m2u,2020-09-14T17:48:03.543Z,"263 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-09-06T19:03:59.750Z,58.192,-142.684,10.0,3.8,ml,,,,,us,usp0003krb,2020-09-14T17:48:16.269Z,"227 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-09-06T10:48:58.540Z,57.552,-142.956,10.0,4.0,ml,,,,,us,usp0003kqs,2020-09-14T17:48:16.869Z,"290 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-09-06T09:16:52.130Z,57.825,-142.92,10.0,4.0,ml,,,,,us,usp0003kqm,2020-09-14T17:48:17.191Z,"266 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-05-24T09:20:00.800Z,57.849,-142.756,10.0,4.1,ml,,,,,us,usp0003gb1,2020-09-14T17:44:23.635Z,"258 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-05-16T15:25:39.430Z,57.416,-143.156,10.0,3.8,ml,,,,,us,usp0003g0a,2020-09-14T17:44:35.132Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-05-13T11:17:04.380Z,57.566,-143.07,10.0,4.0,mb,,,,,us,usp0003fxu,2020-09-14T17:44:41.947Z,"294 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-05-10T13:04:03.860Z,57.282,-143.031,10.0,4.6,mb,,,,,us,usp0003fud,2020-09-14T17:44:47.659Z,Gulf of Alaska,earthquake,,,,12.0,reviewed,ags,us
+1988-04-30T12:01:56.700Z,57.753,-142.924,10.0,4.0,mb,,,,,us,usp0003fhz,2020-09-14T17:43:10.164Z,"272 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-04-29T22:51:42.040Z,57.994,-142.905,10.0,3.9,mb,,,,,us,usp0003fhf,2020-09-14T17:43:12.009Z,"252 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-04-28T03:36:25.500Z,57.077,-143.126,10.0,3.7,mb,,,,,us,usp0003ffk,2020-09-14T17:43:15.954Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-04-28T00:50:47.170Z,57.025,-143.445,10.0,4.3,mb,,,,,us,usp0003ffh,2020-09-14T17:43:16.884Z,Gulf of Alaska,earthquake,,,,8.0,reviewed,ags,us
+1988-04-26T02:32:35.660Z,58.507,-141.572,10.0,4.0,ml,,,,,us,usp0003fcw,2020-09-14T17:43:19.096Z,"156 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-04-26T01:47:35.020Z,57.534,-143.073,10.0,5.8,mw,,,,,us,usp0003fcq,2022-04-28T20:50:35.459Z,"296 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,hrv
+1988-04-21T19:30:38.630Z,58.5,-143.11,10.0,4.4,mb,,,,,us,usp0003f83,2020-09-14T17:43:25.676Z,Gulf of Alaska,earthquake,,,,6.0,reviewed,ags,us
+1988-04-20T17:26:16.730Z,57.101,-143.36,10.0,4.0,mb,,,,,us,usp0003f6y,2020-09-14T17:43:27.955Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-04-16T19:41:59.720Z,57.33,-143.01,10.0,4.2,mb,,,,,us,usp0003f32,2020-09-14T17:43:31.620Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-04-16T03:50:08.900Z,57.912,-142.6,10.0,4.1,mb,,,,,us,usp0003f2k,2020-09-14T17:43:33.215Z,"246 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-04-14T12:09:36.570Z,58.204,-142.899,10.0,4.2,mb,,,,,us,usp0003f19,2020-09-14T17:43:37.972Z,"236 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-04-13T12:15:44.370Z,57.088,-143.398,10.0,3.9,mb,,,,,us,usp0003f05,2020-09-14T17:43:41.484Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-04-13T00:02:46.770Z,57.026,-143.303,10.0,5.2,mb,,,,,us,usp0003ezk,2020-09-14T17:43:42.803Z,Gulf of Alaska,earthquake,,,,36.0,reviewed,ags,us
+1988-04-08T14:24:47.730Z,57.074,-143.438,10.0,3.6,mb,,,,,us,usp0003ets,2020-09-14T17:43:50.560Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-04-05T12:45:09.280Z,57.836,-142.641,10.0,3.7,ml,,,,,us,usp0003eq0,2020-09-14T17:43:56.932Z,"254 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-04-04T08:57:09.310Z,57.725,-142.937,10.0,3.6,ml,,,,,us,usp0003enk,2020-09-14T17:43:59.945Z,"275 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-04-04T00:01:18.080Z,57.897,-142.951,10.0,3.9,mb,,,,,us,usp0003en6,2020-09-14T17:44:00.902Z,"261 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-04-01T18:25:12.590Z,57.232,-144.278,10.0,3.7,mb,,,,,us,usp0003ej8,2020-09-14T17:44:07.556Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-29T01:16:26.100Z,57.278,-143.051,10.0,5.0,mb,,,,,us,usp0003ee2,2020-09-14T17:41:40.910Z,Gulf of Alaska,earthquake,,,,37.0,reviewed,ags,us
+1988-03-27T22:03:19.600Z,58.168,-142.958,10.0,4.4,mb,,,,,us,usp0003ecx,2020-09-14T17:41:43.530Z,"241 km SW of Yakutat, Alaska",earthquake,,,,9.0,reviewed,ags,us
+1988-03-27T02:07:12.460Z,57.251,-143.179,10.0,4.1,mb,,,,,us,usp0003ec9,2020-09-14T17:41:44.481Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-26T06:11:23.050Z,57.643,-143.173,10.0,4.8,mb,,,,,us,usp0003eb8,2020-09-14T17:41:46.519Z,"291 km SW of Yakutat, Alaska",earthquake,,,,16.0,reviewed,ags,us
+1988-03-26T00:39:00.960Z,57.657,-142.901,10.0,4.3,mb,,,,,us,usp0003eaz,2020-09-14T17:41:47.509Z,"279 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1988-03-24T23:44:47.230Z,57.842,-142.994,10.0,4.2,mb,,,,,us,usp0003e9h,2020-09-14T17:41:51.148Z,"268 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-23T19:18:54.540Z,57.374,-142.894,10.0,3.8,mb,,,,,us,usp0003e8b,2020-09-14T17:41:53.178Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-23T03:08:35.830Z,57.449,-143.187,10.0,3.9,mb,,,,,us,usp0003e7n,2020-09-14T17:41:54.824Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-23T01:38:07.750Z,57.225,-143.281,10.0,3.7,mb,,,,,us,usp0003e7k,2020-09-14T17:41:55.155Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-21T23:51:01.300Z,57.073,-142.971,10.0,4.0,mb,,,,,us,usp0003e6e,2020-09-14T17:41:58.487Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,ags,us
+1988-03-21T17:22:37.410Z,57.572,-142.963,10.0,3.7,ml,,,,,us,usp0003e61,2020-09-14T17:41:59.093Z,"289 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-21T12:20:36.000Z,57.026,-143.376,10.0,4.7,ms,,,,,us,usp0003e5t,2020-09-14T17:41:59.748Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-21T10:51:42.490Z,57.16,-143.404,10.0,3.9,ml,,,,,us,usp0003e5r,2020-09-14T17:42:00.093Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-19T04:59:06.320Z,57.46,-142.996,10.0,3.7,ml,,,,,us,usp0003e3g,2020-09-14T17:42:03.118Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-18T18:44:53.840Z,58.294,-142.861,10.0,4.2,mb,,,,,us,usp0003e31,2020-09-14T17:42:04.708Z,"228 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-18T14:28:52.240Z,56.859,-142.535,10.0,4.2,mb,,,,,us,usp0003e2x,2020-09-14T17:42:05.333Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-18T02:59:50.420Z,56.894,-142.996,10.0,3.8,mb,,,,,us,usp0003e2f,2020-09-14T17:42:06.883Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-16T17:24:19.660Z,57.167,-143.077,10.0,4.1,mb,,,,,us,usp0003e0w,2020-09-14T17:42:09.253Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,ags,us
+1988-03-15T23:56:17.240Z,57.037,-142.898,10.0,5.1,mw,,,,,us,usp0003e09,2020-09-14T17:42:11.158Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,hrv
+1988-03-15T17:53:35.500Z,57.608,-142.844,10.0,3.5,ml,,,,,us,usp0003e00,2020-09-14T17:42:12.116Z,"281 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-15T14:25:14.650Z,57.482,-142.956,10.0,4.1,mb,,,,,us,usp0003dzv,2020-09-14T17:42:12.750Z,"297 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-13T20:53:29.270Z,57.674,-143.06,10.0,3.6,mb,,,,,us,usp0003dxp,2020-09-14T17:42:18.777Z,"284 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-13T14:20:35.110Z,57.629,-142.979,10.0,4.0,ml,,,,,us,usp0003dxe,2020-09-14T17:42:20.740Z,"285 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-13T12:37:59.930Z,57.094,-143.413,10.0,3.9,mb,,,,,us,usp0003dxa,2020-09-14T17:42:21.069Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-13T08:43:48.530Z,57.454,-142.911,10.0,3.9,mb,,,,,us,usp0003dx4,2020-09-14T17:42:21.406Z,"297 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-11T00:33:56.620Z,57.259,-143.032,10.0,4.7,mb,,,,,us,usp0003due,2020-09-14T17:42:24.979Z,Gulf of Alaska,earthquake,,,,10.0,reviewed,ags,us
+1988-03-10T14:25:19.990Z,57.187,-143.545,10.0,4.6,mb,,,,,us,usp0003dtu,2020-09-14T17:42:27.255Z,Gulf of Alaska,earthquake,,,,17.0,reviewed,ags,us
+1988-03-10T14:21:33.420Z,57.119,-142.881,10.0,4.1,mb,,,,,us,usp0003dtt,2020-09-14T17:42:27.614Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,ags,us
+1988-03-10T09:13:07.470Z,56.989,-142.705,10.0,4.4,mb,,,,,us,usp0003dt8,2020-09-14T17:42:29.273Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-10T07:39:04.120Z,57.586,-142.814,10.0,3.7,mb,,,,,us,usp0003dt2,2020-09-14T17:42:29.956Z,"282 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T20:35:03.730Z,57.089,-143.466,10.0,4.0,mb,,,,,us,usp0003ds5,2020-09-14T17:42:33.252Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T19:11:23.180Z,56.856,-142.687,10.0,3.7,mb,,,,,us,usp0003ds2,2020-09-14T17:42:33.929Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-09T03:11:33.640Z,57.507,-142.977,10.0,4.0,mb,,,,,us,usp0003dr9,2020-09-14T17:42:38.220Z,"295 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-09T00:13:19.720Z,57.604,-142.943,10.0,4.0,mb,,,,,us,usp0003dr7,2020-09-14T17:42:38.581Z,"286 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-09T00:04:52.370Z,57.468,-142.965,10.0,4.2,mb,,,,,us,usp0003dr5,2020-09-14T17:42:38.949Z,"298 km SW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1988-03-08T20:23:30.420Z,57.858,-143.074,10.0,3.7,mb,,,,,us,usp0003dr0,2020-09-14T17:42:39.305Z,"270 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-08T10:33:57.750Z,56.884,-142.978,10.0,4.2,mb,,,,,us,usp0003dqg,2020-09-14T17:42:40.980Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-08T10:22:34.750Z,57.193,-143.207,10.0,4.0,mb,,,,,us,usp0003dqf,2020-09-14T17:42:41.325Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-08T07:06:40.890Z,57.753,-142.85,10.0,3.5,ml,,,,,us,usp0003dq9,2020-09-14T17:42:42.003Z,"269 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-08T06:41:41.110Z,57.291,-143.146,10.0,3.6,ml,,,,,us,usp0003dq8,2020-09-14T17:42:42.366Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-08T02:09:27.330Z,57.186,-143.364,10.0,3.8,mb,,,,,us,usp0003dq4,2020-09-14T17:42:44.046Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:50:36.800Z,57.738,-143.016,10.0,3.7,mb,,,,,us,usp0003dpp,2020-09-14T17:42:45.413Z,"277 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:38:09.250Z,57.41,-143.132,10.0,4.0,mb,,,,,us,usp0003dpm,2020-09-14T17:42:45.735Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T13:18:21.840Z,57.7,-143.057,10.0,3.8,mb,,,,,us,usp0003dpk,2020-09-14T17:42:46.061Z,"282 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-07T11:30:36.470Z,57.68,-142.697,10.0,3.9,mb,,,,,us,usp0003dpg,2020-09-14T17:42:46.729Z,"270 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1988-03-07T05:57:21.920Z,57.54,-142.816,10.0,3.8,ml,,,,,us,usp0003dpa,2020-09-14T17:42:48.063Z,"286 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T05:33:43.980Z,57.013,-142.719,10.0,4.2,mb,,,,,us,usp0003dp9,2020-09-14T17:42:48.389Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T05:01:12.400Z,57.761,-142.599,10.0,3.9,mb,,,,,us,usp0003dp7,2020-09-14T17:42:49.047Z,"259 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T04:19:36.900Z,57.598,-142.98,10.0,3.6,ml,,,,,us,usp0003dp5,2020-09-14T17:42:49.680Z,"287 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T03:42:36.710Z,57.574,-142.847,10.0,3.6,mb,,,,,us,usp0003dp3,2020-09-14T17:42:50.012Z,"285 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T03:28:42.980Z,57.524,-142.876,10.0,4.0,mb,,,,,us,usp0003dp2,2020-09-14T17:42:50.345Z,"290 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1988-03-07T02:59:53.850Z,57.013,-143.29,10.0,4.4,mb,,,,,us,usp0003dp0,2020-09-14T17:42:50.670Z,Gulf of Alaska,earthquake,,,,13.0,reviewed,ags,us
+1988-03-07T02:28:48.460Z,56.849,-140.712,10.0,4.3,mb,,,,,us,usp0003dnz,2020-09-14T17:42:50.990Z,off the coast of Southeastern Alaska,earthquake,,,,6.0,reviewed,ags,us
+1988-03-07T01:57:14.210Z,57.119,-144.091,10.0,4.3,mb,,,,,us,usp0003dnx,2020-09-14T17:42:51.612Z,Gulf of Alaska,earthquake,,,,3.0,reviewed,ags,us
+1988-03-07T01:34:35.070Z,57.071,-142.889,10.0,4.1,mb,,,,,us,usp0003dnw,2020-09-14T17:42:51.936Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T01:29:08.720Z,57.081,-143.329,10.0,3.9,ml,,,,,us,usp0003dnv,2020-09-14T17:42:52.259Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T01:18:26.320Z,57.96,-142.986,10.0,4.3,mb,,,,,us,usp0003dnu,2020-09-14T17:42:52.585Z,"258 km SW of Yakutat, Alaska",earthquake,,,,7.0,reviewed,ags,us
+1988-03-07T00:54:27.460Z,56.974,-143.336,10.0,4.0,ml,,,,,us,usp0003dnt,2020-09-14T17:42:52.908Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:44:59.220Z,57.54,-142.939,10.0,3.6,ml,,,,,us,usp0003dns,2020-09-14T17:42:53.563Z,"291 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:42:49.570Z,57.5,-142.949,10.0,3.7,mb,,,,,us,usp0003dnr,2020-09-14T17:42:53.891Z,"295 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-07T00:39:43.820Z,57.072,-144.07,10.0,3.6,ml,,,,,us,usp0003dnq,2020-09-14T17:42:54.218Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-07T00:15:47.410Z,57.0,-143.012,10.0,3.8,ml,,,,,us,usp0003dnk,2020-09-14T17:42:55.173Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-06T23:39:49.590Z,57.099,-142.898,10.0,4.5,mb,,,,,us,usp0003dnj,2020-09-14T17:42:55.504Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T23:23:59.900Z,57.675,-142.941,10.0,4.4,mb,,,,,us,usp0003dnf,2020-09-14T17:42:56.494Z,"279 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T23:14:38.460Z,57.499,-142.803,10.0,6.2,mb,,,,,us,usp0003dne,2022-04-28T20:51:19.771Z,"290 km SW of Yakutat, Alaska",earthquake,,,,56.0,reviewed,ags,us
+1988-03-06T23:11:05.100Z,56.907,-143.038,10.0,4.4,ml,,,,,us,usp0003dnd,2020-09-14T17:42:57.103Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1988-03-06T23:05:56.840Z,56.751,-142.987,10.0,5.1,mb,,,,,us,usp0003dnc,2020-09-14T17:42:57.436Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1988-03-06T22:35:38.140Z,56.953,-143.032,10.0,7.8,mw,,,,,us,usp0003dnb,2022-04-28T20:51:18.629Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,hrv
+1990-03-10T23:13:05.180Z,57.993,-142.694,10.0,3.8,mb,,,,,us,usp00046ec,2020-09-14T18:28:17.720Z,"243 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1990-02-26T11:39:41.110Z,58.485,-143.399,10.0,4.0,ml,,,,,us,usp00045xt,2020-09-14T18:25:09.859Z,"241 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1990-02-25T01:43:38.860Z,58.556,-142.773,10.0,5.1,mb,,,,,us,usp00045vy,2020-09-14T18:25:15.782Z,"206 km WSW of Yakutat, Alaska",earthquake,,,,28.0,reviewed,ags,us
+1990-01-23T01:23:48.140Z,61.188,-140.376,0.0,3.5,ml,,,,,us,usp00044mc,2014-11-07T00:45:35.292Z,"139 km ESE of McCarthy, Alaska",earthquake,,,,,reviewed,ags,pmr
+1989-12-20T03:27:15.810Z,58.944,-145.114,10.0,3.8,mb,,,,,us,usp00043aq,2020-09-14T18:21:18.716Z,"181 km S of Cordova, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-11-28T20:14:25.460Z,57.894,-142.662,10.0,4.2,mb,,,,,us,usp00042he,2020-09-14T18:18:46.444Z,"250 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-11-28T20:09:46.000Z,57.953,-142.644,10.0,4.5,mb,,,,,us,usp00042hd,2020-09-14T18:18:46.831Z,"244 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1989-11-28T19:52:14.320Z,58.049,-142.548,10.0,4.2,mb,,,,,us,usp00042hb,2020-09-14T18:18:47.298Z,"233 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-10-14T23:35:08.150Z,57.744,-142.929,10.0,4.0,mb,,,,,us,usp00040q6,2020-09-14T18:17:29.396Z,"273 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-08-14T20:07:20.180Z,56.917,-142.698,10.0,3.8,ml,,,,,us,usp0003yft,2020-09-14T18:12:34.194Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1989-08-07T07:13:40.080Z,57.73,-143.027,10.0,4.1,ml,,,,,us,usp0003y67,2020-09-14T18:13:24.167Z,"278 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,ags,pmr
+1989-06-25T23:56:39.560Z,58.284,-142.768,10.0,4.1,mb,,,,,us,usp0003wnj,2020-09-14T18:06:31.894Z,"224 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1989-06-11T11:34:49.150Z,57.459,-142.885,10.0,4.5,mb,,,,,us,usp0003w65,2020-09-14T18:07:52.569Z,"296 km SW of Yakutat, Alaska",earthquake,,,,11.0,reviewed,ags,us
+1989-05-13T06:42:30.350Z,56.321,-148.193,12.0,4.5,mb,,,,,us,usp0003v6p,2020-09-14T18:04:44.420Z,"287 km ESE of Chiniak, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1989-04-08T01:22:23.260Z,57.064,-143.49,10.0,5.1,mw,,,,,us,usp0003tqu,2020-09-14T18:02:08.554Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,hrv
+1989-03-13T04:59:37.820Z,57.175,-142.948,10.0,3.6,ml,,,,,us,usp0003sw8,2020-09-14T17:57:48.082Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1989-03-13T01:59:56.940Z,56.961,-143.421,10.0,4.2,mb,,,,,us,usp0003svy,2020-09-14T17:57:49.732Z,Gulf of Alaska,earthquake,,,,5.0,reviewed,ags,us
+1990-10-10T18:35:34.490Z,56.973,-143.381,10.0,3.9,mb,,,,,us,usp0004fky,2020-09-14T18:39:12.296Z,Gulf of Alaska,earthquake,,,,1.0,reviewed,ags,us
+1990-09-27T00:54:26.070Z,58.457,-142.699,10.0,4.5,mb,,,,,us,usp0004f3j,2020-09-14T18:36:19.920Z,"209 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us
+1990-09-21T08:22:13.470Z,60.125,-151.715,76.1,3.6,mb,,,,,us,usp0004exp,2014-11-07T00:47:07.738Z,"8 km NNW of Ninilchik, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1990-08-18T08:03:28.110Z,58.224,-142.728,10.0,4.5,mb,,,,,us,usp0004dk0,2020-09-14T18:35:24.854Z,"227 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1990-08-10T11:07:51.800Z,57.109,-143.141,10.0,4.1,ml,,,,,us,usp0004d6p,2014-11-07T00:46:55.586Z,Gulf of Alaska,earthquake,,,,,reviewed,ags,pmr
+1990-07-25T03:58:11.870Z,57.175,-143.055,10.0,4.1,mb,,,,,us,usp0004cgm,2020-09-14T18:33:35.539Z,Gulf of Alaska,earthquake,,,,6.0,reviewed,ags,us
+1990-07-03T11:43:11.170Z,58.779,-142.696,10.0,4.3,mb,,,,,us,usp0004bat,2020-09-14T18:34:34.344Z,"190 km WSW of Yakutat, Alaska",earthquake,,,,4.0,reviewed,ags,us
+1990-05-17T06:02:57.670Z,59.691,-138.993,5.9,4.0,mb,,,,,us,usp00049dm,2014-11-07T00:46:22.482Z,"44 km ENE of Yakutat, Alaska",earthquake,,,,3.0,reviewed,ags,us
+1990-05-09T18:49:52.390Z,58.344,-142.725,10.0,3.7,mb,,,,,us,usp000493d,2020-09-14T18:31:53.445Z,"218 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1990-04-30T22:20:40.700Z,69.204,-145.559,11.7,4.2,mb,,,,,us,usp00048pk,2014-11-07T00:46:12.609Z,"120 km N of Arctic Village, Alaska",earthquake,,,,1.0,reviewed,ags,us
+1990-03-10T23:13:05.180Z,57.993,-142.694,10.0,3.8,mb,,,,,us,usp00046ec,2020-09-14T18:28:17.720Z,"243 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,ags,us

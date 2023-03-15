@@ -1,0 +1,36 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1999-02-26T09:27:48.500Z,-26.34,27.51,2.0,3.9,mb,,,,,us,usp00093g1,2014-11-07T01:07:05.232Z,"11 km ENE of Carletonville, South Africa",earthquake,,,,1.0,reviewed,pre,us
+1999-02-02T10:33:23.900Z,-26.42,27.39,2.0,3.5,ml,,,,,us,usp000924h,2014-11-07T01:06:55.925Z,"6 km S of Carletonville, South Africa",earthquake,,,,,reviewed,pre,pre
+2006-01-24T09:13:38.000Z,-26.256,28.264,2.0,3.6,ml,4.0,207.5,,,us,usp000e8sg,2014-11-07T01:28:09.242Z,"4 km S of Boksburg, South Africa",earthquake,,,,,reviewed,pre,pre
+2005-10-12T14:10:34.600Z,-27.011,26.769,2.0,4.8,mb,75.0,59.0,,,us,usp000e1nz,2022-07-14T14:15:27.049Z,"10 km ESE of Orkney, South Africa",earthquake,,,,31.0,reviewed,pre,us
+2007-02-05T03:11:51.800Z,-27.018,26.795,2.0,4.5,mb,30.0,92.9,,,us,usp000f4a0,2020-09-18T21:22:12.827Z,"12 km ESE of Orkney, South Africa",earthquake,,,,4.0,reviewed,pre,us
+2008-03-08T04:20:12.100Z,-26.399,27.468,2.0,4.2,mb,19.0,136.4,,,us,usp000g0yf,2014-11-07T01:35:12.836Z,"8 km ESE of Carletonville, South Africa",earthquake,,,,4.0,reviewed,pre,us
+2007-08-04T04:50:09.500Z,-26.386,27.471,2.0,4.0,mb,17.0,145.7,,,us,usp000fhug,2014-11-07T01:33:11.592Z,"7 km ESE of Carletonville, South Africa",earthquake,,,,2.0,reviewed,pre,us
+2007-04-23T17:42:13.700Z,-26.961,26.749,2.0,3.8,ml,13.0,111.8,,,us,usp000faeb,2014-11-07T01:32:15.635Z,"7 km ENE of Orkney, South Africa",earthquake,,,,,reviewed,pre,pre
+2007-04-10T08:43:13.600Z,-26.995,26.723,2.0,4.1,ml,19.0,100.4,,,us,usp000f9a5,2014-11-07T01:32:09.752Z,"5 km ESE of Orkney, South Africa",earthquake,,,,,reviewed,pre,pre
+2008-03-08T04:20:12.100Z,-26.399,27.468,2.0,4.2,mb,19.0,136.4,,,us,usp000g0yf,2014-11-07T01:35:12.836Z,"8 km ESE of Carletonville, South Africa",earthquake,,,,4.0,reviewed,pre,us
+2010-02-15T21:09:16.400Z,-26.972,26.804,2.0,4.5,mb,34.0,53.1,,,us,usp000h7be,2020-09-21T16:31:23.766Z,"13 km E of Orkney, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2010-02-14T01:02:16.170Z,-26.495,27.577,2.0,4.2,mb,24.0,91.7,,,us,usp000h79n,2014-11-07T01:40:42.459Z,"8 km E of Fochville, South Africa",earthquake,,,,4.0,reviewed,pre,us
+2010-01-21T22:53:24.600Z,-27.874,26.678,2.0,4.3,mb,24.0,95.8,,,us,usp000h6fe,2014-11-07T01:40:32.639Z,"8 km WSW of Kutloanong, South Africa",earthquake,,,,1.0,reviewed,pre,us
+2009-12-18T15:12:34.600Z,-26.232,28.208,2.0,4.2,mb,22.0,130.9,,,us,usp000h55f,2014-11-07T01:40:17.368Z,"5 km WSW of Boksburg, South Africa",earthquake,,,,4.0,reviewed,pre,us
+2009-12-08T17:30:15.800Z,-26.383,27.462,2.0,4.2,mb,22.0,71.0,,,us,usp000h4vs,2014-11-07T01:40:15.090Z,"6 km ESE of Carletonville, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2009-12-06T21:51:59.850Z,-26.414,27.494,2.0,3.5,ml,28.0,73.9,,,us,usp000h4tt,2021-10-20T17:53:57.262Z,"8 km N of Fochville, South Africa",earthquake,,,,,reviewed,pre,pre
+2009-11-29T01:04:46.900Z,-26.944,26.781,2.0,4.6,mb,62.0,29.9,,,us,usp000h4j0,2020-09-21T16:23:41.355Z,"11 km S of Stilfontein, South Africa",earthquake,,,,14.0,reviewed,pre,us
+2009-11-05T12:39:54.700Z,-32.843,22.152,5.0,4.3,ml,22.0,106.5,,,us,usp000h3sf,2014-11-07T01:40:04.735Z,"43 km NNE of Prince Albert, South Africa",earthquake,,,,,reviewed,pre,pre
+2009-10-29T07:43:02.900Z,-3.864,34.863,10.0,4.1,ml,5.0,168.3,,,us,usp000h3hp,2014-11-07T01:39:59.316Z,"60 km NNW of Basotu, Tanzania",earthquake,,,,,reviewed,pre,pre
+2009-10-26T02:08:46.600Z,-7.412,36.144,10.0,4.5,ml,4.0,214.2,,,us,usp000h3du,2014-11-07T01:39:58.596Z,"31 km NNE of Ilula, Tanzania",earthquake,,,,,reviewed,pre,pre
+2009-10-26T01:39:28.400Z,-3.793,34.767,10.0,4.6,ml,4.0,165.9,,,us,usp000h3dt,2014-11-07T01:39:58.595Z,"Lake Victoria region, Tanzania",earthquake,,,,,reviewed,pre,pre
+2009-10-25T09:49:17.100Z,-21.333,33.499,10.0,4.0,mb,8.0,257.1,,,us,usp000h3cx,2014-11-07T01:39:58.451Z,"156 km SE of Chipinge, Zimbabwe",earthquake,,,,1.0,reviewed,pre,us
+2009-10-24T09:55:49.500Z,-3.766,35.846,10.0,4.5,ml,4.0,184.7,,,us,usp000h3bw,2014-11-07T01:39:58.222Z,"29 km NNE of Magugu, Tanzania",earthquake,,,,,reviewed,pre,pre
+2009-10-15T05:13:41.000Z,-3.514,35.148,10.0,4.7,ml,4.0,168.3,,,us,usp000h2zk,2014-11-07T01:39:56.080Z,"48 km SW of Ngorongoro, Tanzania",earthquake,,,,,reviewed,pre,pre
+2009-10-09T19:27:57.100Z,-26.438,27.44,2.0,4.7,mb,81.0,43.2,,,us,usp000h2nv,2020-09-21T16:18:08.838Z,"7 km NW of Fochville, South Africa",earthquake,,,,27.0,reviewed,pre,us
+2009-03-16T14:05:42.300Z,-26.949,26.753,2.0,5.0,mb,53.0,52.1,,,us,usp000gv1h,2020-09-21T16:02:07.272Z,"8 km ENE of Orkney, South Africa",earthquake,,,,15.0,reviewed,pre,us
+2009-03-13T07:51:29.700Z,-26.935,26.842,2.0,4.4,mb,31.0,87.7,,,us,usp000guya,2014-11-07T01:38:34.746Z,"12 km SE of Stilfontein, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2011-01-25T02:39:53.820Z,-28.721,20.404,5.0,4.4,mb,15.0,91.2,,,us,usp000htmg,2014-11-07T01:43:29.257Z,"88 km WSW of Upington, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2011-01-13T17:36:55.900Z,-28.707,20.399,5.0,4.4,mb,22.0,60.2,,,us,usp000ht1q,2014-11-07T01:43:26.219Z,"88 km WSW of Upington, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2011-01-12T06:14:20.890Z,-28.698,20.36,5.0,4.2,ml,20.0,84.0,,,us,usp000hsyf,2014-11-07T01:43:25.610Z,"91 km WSW of Upington, South Africa",earthquake,,,,,reviewed,pre,pre
+2011-01-07T12:56:42.100Z,-28.804,20.478,5.0,4.1,mb,17.0,95.4,,,us,usp000hspy,2014-11-07T01:43:22.937Z,"85 km WSW of Upington, South Africa",earthquake,,,,3.0,reviewed,pre,us
+2010-06-14T11:51:56.320Z,-26.415,27.474,2.0,5.0,mb,100.0,50.1,,,us,usp000hdz5,2022-07-16T15:33:04.102Z,"8 km NNW of Fochville, South Africa",earthquake,,,,27.0,reviewed,pre,us
+2010-06-07T13:21:40.500Z,-26.992,26.82,2.0,4.4,mb,47.0,35.6,,,us,usp000hdpm,2014-11-07T01:41:39.244Z,"14 km E of Orkney, South Africa",earthquake,,,,1.0,reviewed,pre,us
+2010-05-24T11:00:48.300Z,-24.403,15.824,10.0,4.1,ml,18.0,212.9,,,us,usp000hd48,2014-11-07T01:41:32.350Z,"126 km WNW of Maltahöhe, Namibia",earthquake,,,,,reviewed,pre,pre
+2011-05-14T14:10:41.400Z,-32.881,22.12,5.0,4.1,ml,17.0,82.1,,,us,usp000j1kh,2022-07-19T15:17:05.837Z,"39 km NNE of Prince Albert, South Africa",earthquake,,,,,reviewed,pre,pre

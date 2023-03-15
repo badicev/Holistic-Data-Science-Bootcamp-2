@@ -1,0 +1,222 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2005-02-08T04:47:52.400Z,-33.08,-66.6,38.4,4.3,mb,15.0,135.9,,,us,usp000dfpx,2014-11-07T01:24:57.261Z,"29 km WNW of La Punta, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2004-09-28T04:19:27.400Z,-28.5,-66.1,33.0,4.4,mb,29.0,120.3,,,us,usp000d570,2014-11-07T01:23:34.202Z,"16 km SE of Pomán, Argentina",earthquake,,,,8.0,reviewed,sja,us
+2004-03-21T08:02:51.900Z,-31.21,-68.37,107.0,4.2,mb,32.0,78.0,,,us,usp000cqhf,2014-11-07T01:21:45.736Z,"27 km NNE of San Martín, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2005-08-23T19:14:07.000Z,-32.81,-68.77,10.0,4.8,mwc,70.0,41.4,,,us,usp000dxwz,2016-11-10T01:10:35.603Z,"10 km NNE of Mendoza, Argentina",earthquake,,,,,reviewed,sja,hrv
+2005-06-20T06:32:09.800Z,-32.85,-68.31,10.0,4.4,mb,54.0,57.5,,,us,usp000dtgt,2014-11-07T01:26:15.726Z,"29 km NNE of San Martín, Argentina",earthquake,,,,5.0,reviewed,sja,us
+2005-04-12T07:51:32.400Z,-31.01,-66.38,13.0,4.4,mb,22.0,107.3,,,us,usp000dn51,2014-11-07T01:25:34.352Z,"72 km S of Chamical, Argentina",earthquake,,,,3.0,reviewed,sja,us
+2006-11-14T19:44:27.000Z,-27.6,-64.84,40.0,4.6,md,4.0,183.6,,,us,usp000exds,2014-11-07T01:30:49.103Z,"11 km S of Termas de Río Hondo, Argentina",earthquake,,,,,reviewed,sja,sja
+2007-10-30T21:52:13.000Z,-31.244,-68.622,106.0,3.8,md,25.0,69.3,,,us,usp000frmt,2014-11-07T01:34:01.409Z,"23 km NNW of Albardón, Argentina",earthquake,,,,,reviewed,sja,guc
+2007-10-22T21:17:47.000Z,-28.299,-65.873,31.0,4.8,mb,63.0,61.7,,,us,usp000fr2y,2014-11-07T01:33:58.497Z,"9 km S of El Rodeo, Argentina",earthquake,,,,18.0,reviewed,sja,us
+2007-08-21T00:35:25.000Z,-29.649,-67.73,10.0,4.0,mb,7.0,153.5,,,us,usp000fkbc,2014-11-07T01:33:20.194Z,"58 km SSW of Chilecito, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2007-05-17T07:20:37.300Z,-27.948,-64.757,29.6,4.3,md,6.0,140.8,,,us,usp000fc53,2014-11-07T01:32:28.923Z,"40 km E of San Pedro de Guasayán, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-02-05T14:16:39.000Z,-32.904,-69.167,11.0,4.3,md,5.0,153.2,,,us,usp000gtfv,2014-11-07T01:38:20.410Z,"31 km W of Mendoza, Argentina",earthquake,,,,,reviewed,sja,sja
+2008-12-10T10:53:50.000Z,-32.938,-69.259,10.0,4.1,mb,17.0,136.2,,,us,usp000gqb8,2021-10-20T18:14:05.063Z,"40 km W of Mendoza, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2008-10-17T02:20:13.000Z,-33.57,-68.801,10.0,3.8,md,10.0,151.1,,,us,usp000gke5,2014-11-07T01:37:29.906Z,"62 km SSW of San Martín, Argentina",earthquake,,,,,reviewed,sja,sja
+2008-04-24T11:24:48.000Z,-31.276,-68.903,108.0,3.7,md,12.0,118.2,,,us,usp000g4qy,2014-11-07T01:35:42.546Z,"34 km NNW of Villa Basilio Nievas, Argentina",earthquake,,,,,reviewed,sja,sja
+2008-03-17T12:14:42.000Z,-24.966,-65.316,21.0,3.5,md,12.0,91.9,,,us,usp000g1p5,2014-11-07T01:35:16.219Z,"21 km NE of El Carril, Argentina",earthquake,,,,,reviewed,sja,sja
+2010-02-27T15:45:37.000Z,-24.872,-65.602,10.0,6.3,mwc,376.0,44.2,,,us,usp000h7yb,2022-07-16T03:32:42.887Z,"5 km NE of Campo Quijano, Argentina",earthquake,,,,,reviewed,sja,gcmt
+2010-01-28T00:53:18.000Z,-28.909,-64.586,65.0,4.0,md,11.0,97.3,,,us,usp000h6pw,2014-11-07T01:40:34.781Z,"62 km NE of Recreo, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-12-26T00:42:57.000Z,-31.02,-64.43,12.0,4.0,md,6.0,109.7,,,us,usp000h5ca,2014-11-07T01:40:18.650Z,"5 km ENE of Villa Giardino, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-10-01T14:03:14.000Z,-31.261,-68.881,110.0,4.2,md,7.0,173.7,,,us,usp000h263,2014-11-07T01:39:49.800Z,"34 km NNW of Villa Basilio Nievas, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-08-12T09:07:57.000Z,-31.173,-68.043,20.0,3.8,md,6.0,166.8,,,us,usp000h08a,2014-11-07T01:39:29.947Z,"San Juan, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-07-10T21:39:27.000Z,-33.275,-68.62,25.0,4.1,md,12.0,254.9,,,us,usp000gz3x,2014-11-07T01:39:18.698Z,"25 km SSW of San Martín, Argentina",earthquake,,,,,reviewed,sja,sja
+2009-05-28T14:47:17.000Z,-24.16,-65.056,22.0,4.0,md,6.0,189.6,,,us,usp000gxm0,2014-11-07T01:39:01.556Z,"19 km NE of Palpalá, Argentina",earthquake,,,,,reviewed,sja,sja
+2011-03-09T13:24:06.000Z,-27.54,-69.09,101.0,5.2,mwc,215.0,74.4,,,us,usp000hvjv,2022-07-19T07:43:36.365Z,"Atacama, Chile",earthquake,,,,,reviewed,sja,gcmt
+2011-02-20T22:25:49.000Z,-27.898,-66.575,152.0,5.0,mb,77.0,66.9,,,us,usp000hutv,2014-11-07T01:43:41.698Z,"43 km SW of Andalgalá, Argentina",earthquake,,,,24.0,reviewed,sja,us
+2011-01-24T04:58:18.000Z,-24.199,-66.933,190.0,4.5,mb,50.0,96.3,,,us,usp000htk8,2014-11-07T01:43:29.150Z,"62 km W of San Antonio de los Cobres, Argentina",earthquake,,,,6.0,reviewed,sja,us
+2011-01-04T22:59:10.000Z,-29.039,-69.486,110.0,5.3,mwc,258.0,49.7,,,us,usp000hskd,2022-07-19T01:57:04.424Z,"128 km WSW of Vinchina, Argentina",earthquake,,,,,reviewed,sja,gcmt
+2010-12-23T13:23:39.000Z,-31.301,-68.92,118.0,4.5,md,5.0,166.7,,,us,usp000hrpu,2014-11-07T01:43:13.124Z,"32 km NNW of Villa Basilio Nievas, Argentina",earthquake,,,,,reviewed,sja,sja
+2010-09-20T03:25:29.000Z,-28.085,-66.515,188.0,5.1,mwc,166.0,40.8,,,us,usp000hkz2,2016-11-10T02:33:23.419Z,"44 km NW of Pomán, Argentina",earthquake,,,,,reviewed,sja,gcmt
+2010-08-30T02:02:45.000Z,-30.7,-68.977,113.0,3.8,mb,9.0,105.7,,,us,usp000hjxs,2014-11-07T01:42:18.773Z,"55 km SSW of San José de Jáchal, Argentina",earthquake,,,,3.0,reviewed,sja,us
+2010-08-25T09:51:48.000Z,-31.857,-68.385,110.0,4.3,md,6.0,93.8,,,us,usp000hjrb,2014-11-07T01:42:17.832Z,"20 km S of Nueve de Julio, Argentina",earthquake,,,,,reviewed,sja,sja
+2010-06-16T04:31:52.000Z,-27.4,-65.878,10.0,4.7,mb,50.0,72.8,,,us,usp000he3x,2014-11-07T01:41:41.963Z,"26 km W of Aguilares, Argentina",earthquake,,,,19.0,reviewed,sja,us
+2010-06-12T23:25:54.000Z,-29.175,-68.357,5.0,4.0,md,16.0,74.3,,,us,usp000hdwq,2014-11-07T01:41:40.561Z,"48 km SSW of Vinchina, Argentina",earthquake,,,,,reviewed,sja,sja
+2010-04-11T22:54:03.000Z,-31.947,-67.738,121.0,4.9,mb,136.0,72.3,,,us,usp000hb7p,2022-07-16T10:33:08.254Z,"60 km ESE of Caucete, Argentina",earthquake,,,,61.0,reviewed,sja,us
+2010-03-19T04:00:41.000Z,-24.915,-65.533,10.0,4.0,md,5.0,159.4,,,us,usp000h9nx,2014-11-07T01:41:03.316Z,"10 km E of Campo Quijano, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-02-14T05:58:02.000Z,-32.01,-70.034,103.0,4.5,mb,47.0,103.3,,,us,usp000jex7,2014-11-07T01:47:01.062Z,"91 km ESE of Salamanca, Chile",earthquake,,,,14.0,reviewed,sja,us
+2012-02-08T01:11:24.000Z,-31.685,-68.349,34.0,4.2,md,9.0,134.0,,,us,usp000jenu,2014-11-07T01:46:59.217Z,"4 km ESE of Nueve de Julio, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-01-19T03:58:15.000Z,-31.628,-68.739,95.0,4.6,mb,9.0,91.9,,,us,usp000jdp8,2014-11-07T01:46:48.153Z,"8 km S of Villa Basilio Nievas, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2011-12-31T16:15:10.000Z,-23.422,-64.402,14.0,5.3,mb,175.0,44.7,,,us,usp000jcw1,2022-04-08T20:25:11.814Z,"25 km NNE of Yuto, Argentina",earthquake,,,,122.0,reviewed,sja,us
+2011-11-24T07:34:56.000Z,-29.158,-67.55,140.0,4.7,mb,66.0,55.1,,,us,usp000jbb5,2014-11-07T01:46:24.477Z,"5 km W of Chilecito, Argentina",earthquake,,,,36.0,reviewed,sja,us
+2011-11-21T23:23:11.000Z,-24.198,-64.266,5.0,4.0,md,7.0,179.2,,,us,usp000jb7z,2014-11-07T01:46:23.647Z,"24 km S of Palma Sola, Argentina",earthquake,,,,,reviewed,sja,sja
+2011-11-15T10:20:09.000Z,-24.239,-64.351,5.0,5.2,mb,226.0,47.3,,,us,usp000jawn,2022-04-08T22:11:25.166Z,"29 km S of Palma Sola, Argentina",earthquake,,,,179.0,reviewed,sja,us
+2011-11-09T02:36:57.000Z,-24.096,-66.901,212.0,4.8,mb,36.0,65.1,,,us,usp000jakz,2014-11-07T01:46:19.525Z,"60 km WNW of San Antonio de los Cobres, Argentina",earthquake,,,,11.0,reviewed,sja,us
+2011-11-09T02:35:32.000Z,-24.078,-66.908,204.0,4.3,mb,23.0,65.0,,,us,usp000jaky,2014-11-07T01:46:19.523Z,"61 km WNW of San Antonio de los Cobres, Argentina",earthquake,,,,9.0,reviewed,sja,us
+2011-11-08T22:06:11.000Z,-24.43,-67.28,190.0,4.5,mb,50.0,73.2,,,us,usp000jaku,2014-11-07T01:46:19.511Z,"100 km WSW of San Antonio de los Cobres, Argentina",earthquake,,,,17.0,reviewed,sja,us
+2011-09-23T17:56:25.000Z,-30.574,-64.656,53.0,4.0,md,8.0,98.0,,,us,usp000j8fh,2014-11-07T01:45:56.765Z,"22 km NE of Cruz del Eje, Argentina",earthquake,,,,,reviewed,sja,sja
+2011-09-03T20:34:58.000Z,-31.184,-68.311,113.0,4.1,md,14.0,84.3,,,us,usp000j7j6,2014-11-07T01:45:49.836Z,"32 km NNE of San Martín, Argentina",earthquake,,,,,reviewed,sja,sja
+2011-09-02T01:41:00.000Z,-28.86,-69.583,111.0,4.4,mb,66.0,67.5,,,us,usp000j7cu,2014-11-07T01:45:48.118Z,"119 km ESE of Vallenar, Chile",earthquake,,,,26.0,reviewed,sja,us
+2011-08-09T23:30:49.000Z,-32.727,-68.931,128.0,4.7,mb,180.0,58.3,,,us,usp000j68g,2015-03-24T02:32:44.466Z,"20 km NNW of Mendoza, Argentina",earthquake,,,,121.0,reviewed,sja,us
+2011-07-14T01:47:02.000Z,-22.768,-66.082,268.0,4.7,mb,52.0,46.1,,,us,usp000j4ug,2014-11-07T01:45:21.655Z,"39 km W of Abra Pampa, Argentina",earthquake,,,,22.0,reviewed,sja,us
+2011-05-03T03:57:24.000Z,-31.308,-68.541,108.0,4.4,mb,31.0,89.2,,,us,usp000j0xr,2014-11-07T01:44:44.154Z,"14 km NNW of San Martín, Argentina",earthquake,,,,6.0,reviewed,sja,us
+2011-04-08T13:00:18.000Z,-31.254,-68.638,105.0,4.5,md,9.0,91.9,,,us,usp000hzhw,2014-11-07T01:44:30.385Z,"22 km NNW of Albardón, Argentina",earthquake,,,,,reviewed,sja,sja
+2011-03-09T13:24:06.000Z,-27.54,-69.09,101.0,5.2,mwc,215.0,74.4,,,us,usp000hvjv,2022-07-19T07:43:36.365Z,"Atacama, Chile",earthquake,,,,,reviewed,sja,gcmt
+2013-03-06T01:52:05.000Z,-31.668,-68.184,27.0,4.7,mb,89.0,46.8,,,us,usc000fgsu,2022-07-24T19:45:56.230Z,"9 km E of Caucete, Argentina",earthquake,,,,29.0,reviewed,sja,us
+2013-02-19T19:07:50.000Z,-31.185,-68.384,101.0,3.7,md,8.0,135.8,,,us,usp000jzev,2014-11-07T01:50:09.867Z,"29 km NNE of San Martín, Argentina",earthquake,,,,,reviewed,sja,sja
+2013-02-14T06:43:38.000Z,-24.025,-66.65,248.0,4.2,md,10.0,97.2,,,us,us2013lqa5,2014-11-07T01:50:07.519Z,"39 km WNW of San Antonio de los Cobres, Argentina",earthquake,,,,,reviewed,sja,sja
+2013-01-31T02:45:01.000Z,-28.497,-67.437,148.0,4.5,mb,141.0,43.1,,,us,usc000eyzc,2014-11-07T01:49:54.944Z,"49 km SSE of Tinogasta, Argentina",earthquake,,,,94.0,reviewed,sja,us
+2013-01-17T04:54:58.000Z,-28.622,-69.55,126.0,4.5,mwr,101.0,70.1,,,us,usp000jygw,2014-11-07T01:49:50.964Z,"118 km E of Vallenar, Chile",earthquake,,,,,reviewed,sja,us
+2012-12-17T08:38:25.000Z,-32.342,-65.287,20.0,4.4,mb,17.0,104.3,,,us,usp000jx2c,2014-11-07T01:49:37.271Z,"7 km W of Santa Rosa del Conlara, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2012-12-07T21:31:59.000Z,-31.405,-68.501,109.0,4.1,md,12.0,77.3,,,us,usp000jwn4,2014-11-07T01:49:34.180Z,"2 km N of San Martín, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-11-29T00:49:01.000Z,-32.874,-69.093,9.0,4.1,md,14.0,151.8,,,us,usp000jw7a,2014-11-07T01:49:27.435Z,"24 km W of Mendoza, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-11-29T00:09:39.000Z,-32.91,-69.106,8.0,5.0,mb,85.0,53.5,,,us,usp000jw78,2022-05-03T16:00:04.583Z,"26 km W of Mendoza, Argentina",earthquake,,,,42.0,reviewed,sja,us
+2012-11-08T22:04:46.000Z,-31.371,-64.819,56.0,4.0,mb,9.0,157.2,,,us,usp000jv81,2014-11-07T01:49:19.669Z,"26 km ESE of Salsacate, Argentina",earthquake,,,,3.0,reviewed,sja,us
+2012-11-08T12:25:37.000Z,-23.412,-66.822,225.0,4.1,md,14.0,96.4,,,us,usp000jv7e,2014-11-07T01:49:19.591Z,"102 km NNW of San Antonio de los Cobres, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-09-18T03:53:30.000Z,-31.893,-69.262,26.0,4.4,mb,29.0,88.5,,,us,usp000jsh1,2014-11-07T01:48:52.613Z,"62 km SW of Villa Basilio Nievas, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2012-09-11T06:35:38.000Z,-31.875,-68.35,124.0,5.1,mb,425.0,30.0,,,us,usp000js4r,2015-03-24T02:22:26.352Z,"23 km S of Nueve de Julio, Argentina",earthquake,,,,232.0,reviewed,sja,us
+2012-09-09T21:29:52.000Z,-27.49,-67.237,162.0,4.4,mb,34.0,73.8,,,us,usp000js28,2014-11-07T01:48:49.854Z,"22 km WNW of La Puerta de San José, Argentina",earthquake,,,,13.0,reviewed,sja,us
+2012-08-27T01:29:45.000Z,-31.386,-67.746,105.0,4.2,mb,39.0,54.5,,,us,usp000jqv5,2014-11-07T01:48:37.793Z,"58 km ENE of Caucete, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2012-08-04T13:11:46.000Z,-32.835,-69.175,33.0,4.3,mb,27.0,89.9,,,us,usp000jpw9,2015-03-24T02:37:01.167Z,"33 km W of Mendoza, Argentina",earthquake,,,,2.0,reviewed,sja,us
+2012-06-17T20:22:38.000Z,-31.739,-69.678,4.0,4.2,md,13.0,105.8,,,us,usp000jmwb,2014-11-07T01:48:06.317Z,"51 km SSW of Calingasta, Argentina",earthquake,,,,,reviewed,sja,sja
+2012-05-05T23:06:53.000Z,-31.474,-69.173,110.0,4.3,mb,23.0,102.2,,,us,usp000jk26,2014-11-07T01:47:44.766Z,"28 km ESE of Calingasta, Argentina",earthquake,,,,5.0,reviewed,sja,us
+2012-05-05T21:40:33.000Z,-28.842,-68.869,107.0,4.6,mb,48.0,59.3,,,us,usp000jk22,2014-11-07T01:47:44.755Z,"65 km W of Vinchina, Argentina",earthquake,,,,6.0,reviewed,sja,us
+2012-04-30T02:08:23.000Z,-23.708,-66.997,230.0,4.0,mb,11.0,149.9,,,us,usp000jjt1,2014-11-07T01:47:38.841Z,"89 km NW of San Antonio de los Cobres, Argentina",earthquake,,,,2.0,reviewed,sja,us
+2012-04-15T22:50:44.000Z,-34.202,-68.594,12.0,4.2,mb,22.0,65.2,,,us,usp000jj1j,2014-11-07T01:47:32.549Z,"52 km NNW of San Rafael, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2012-04-02T22:47:46.000Z,-22.676,-66.339,249.0,4.2,mb,12.0,98.3,,,us,usp000jh5m,2014-11-07T01:47:25.169Z,"66 km W of Abra Pampa, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2012-03-26T23:41:57.000Z,-28.822,-68.056,113.0,4.1,mb,18.0,74.8,,,us,usp000jgut,2014-11-07T01:47:19.656Z,"16 km ESE of Vinchina, Argentina",earthquake,,,,1.0,reviewed,sja,us
+2012-03-12T01:29:41.000Z,-24.158,-67.047,201.0,4.1,mb,18.0,67.3,,,us,usp000jg44,2014-11-07T01:47:13.837Z,"74 km W of San Antonio de los Cobres, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2014-03-05T07:35:31.000Z,-28.711,-65.857,15.0,3.9,md,,,,0.87,us,usc000nbg6,2014-05-15T02:23:05.000Z,"11 km E of Huillapima, Argentina",earthquake,,4.8,,,reviewed,sja,sja
+2014-03-04T09:41:07.000Z,-31.594,-68.683,112.0,4.2,mb,,,,1.41,us,usc000nb6n,2014-05-13T21:36:51.000Z,"6 km SE of Villa Basilio Nievas, Argentina",earthquake,,4.1,0.306,4.0,reviewed,sja,us
+2014-02-21T10:43:47.000Z,-28.532,-67.95,127.0,4.7,mb,,,,1.51,us,usc000mvd7,2014-05-07T00:03:05.000Z,"35 km NE of Vinchina, Argentina",earthquake,,5.5,0.117,24.0,reviewed,sja,us
+2014-02-14T12:40:14.000Z,-28.857,-67.394,130.0,4.1,mb,,,,0.81,us,usc000ne4l,2014-04-30T21:18:20.000Z,"35 km NNE of Chilecito, Argentina",earthquake,,8.3,0.261,4.0,reviewed,sja,us
+2014-02-14T01:11:28.000Z,-32.031,-68.509,118.0,4.1,md,,,,0.83,us,usb000my3y,2014-04-30T21:18:19.000Z,"39 km S of Pocito, Argentina",earthquake,,4.4,,,reviewed,sja,sja
+2014-02-12T10:46:22.000Z,-31.298,-68.703,112.0,4.6,mb,,,,0.97,us,usc000mnya,2014-04-30T21:18:17.000Z,"22 km NW of Albardón, Argentina",earthquake,,4.3,0.07,68.0,reviewed,sja,us
+2014-02-08T19:58:11.000Z,-30.129,-69.029,123.0,4.5,mb,,,,0.85,us,usc000mvjl,2014-04-22T18:30:09.000Z,"29 km WNW of San José de Jáchal, Argentina",earthquake,,4.6,0.271,4.0,reviewed,sja,us
+2014-02-02T20:02:45.000Z,-32.484,-69.928,126.0,4.3,mb,,,,1.96,us,usc000msq0,2014-04-08T01:43:23.000Z,"73 km ENE of Los Andes, Chile",earthquake,,6.9,0.237,6.0,reviewed,sja,us
+2014-01-23T03:05:40.000Z,-28.504,-67.396,149.0,4.4,mb,,,,1.18,us,usb000m6iu,2014-03-27T18:15:36.000Z,"51 km SSE of Tinogasta, Argentina",earthquake,,6.1,0.19,9.0,reviewed,sja,us
+2014-01-19T12:09:46.000Z,-24.438,-68.032,139.0,4.6,mb,,,,1.97,us,usc000mgzr,2014-03-22T00:05:23.000Z,"169 km S of San Pedro de Atacama, Chile",earthquake,,5.0,0.105,29.0,reviewed,sja,us
+2014-01-16T03:32:40.000Z,-27.918,-66.908,174.0,4.6,mb,,,,0.87,us,usb000m204,2014-03-22T00:05:15.000Z,"31 km SE of Londres, Argentina",earthquake,,5.6,0.158,16.0,reviewed,sja,us
+2014-01-04T19:20:31.000Z,-28.024,-65.533,13.0,3.6,md,,,,1.01,us,usc000mlfl,2014-03-07T00:25:58.000Z,"4 km NW of Los Altos, Argentina",earthquake,,5.2,,,reviewed,sja,sja
+2013-12-21T19:42:17.000Z,-28.764,-66.962,153.0,4.8,mb,,,,1.65,us,usc000lpm6,2014-02-27T21:37:25.000Z,"26 km SW of Arauco, Argentina",earthquake,,4.7,0.063,,reviewed,sja,us
+2013-12-20T11:43:12.000Z,-24.16,-66.97,204.0,4.3,mb,,,,0.93,us,usc000lnrt,2014-02-27T21:37:23.000Z,"66 km W of San Antonio de los Cobres, Argentina",earthquake,,8.7,0.266,,reviewed,sja,us
+2013-11-24T23:50:54.000Z,-24.13,-67.009,195.0,4.1,mb,,,,1.51,us,usb000l5x4,2014-02-11T02:18:58.000Z,"70 km W of San Antonio de los Cobres, Argentina",earthquake,,5.5,0.175,,reviewed,sja,us
+2013-11-11T11:47:59.000Z,-33.274,-68.715,10.0,3.7,md,,,,1.02,us,usb000kz53,2014-01-17T00:29:16.000Z,"31 km SW of San Martín, Argentina",earthquake,,6.5,,,reviewed,sja,sja
+2013-11-04T21:52:22.000Z,-28.504,-67.591,133.0,4.3,mb,,,,1.86,us,usb000kska,2014-01-10T10:03:47.000Z,"48 km S of Tinogasta, Argentina",earthquake,,6.0,0.266,,reviewed,sja,us
+2013-10-11T01:45:08.000Z,-28.079,-65.753,33.0,4.6,mb,,,,0.83,us,usb000kair,2022-07-25T23:27:31.338Z,"8 km SSW of San Antonio, Argentina",earthquake,,0.8,0.092,,reviewed,sja,us
+2013-10-02T03:01:33.000Z,-24.311,-67.205,193.0,4.1,mb,,,,1.73,us,usb000k4b4,2013-12-19T02:51:32.000Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,,8.2,0.261,,reviewed,sja,us
+2013-09-28T03:36:31.000Z,-32.285,-68.633,130.0,4.1,mb,,,,1.49,us,usb000k1f1,2013-12-13T09:00:35.000Z,"66 km S of Pocito, Argentina",earthquake,,8.8,0.301,,reviewed,sja,us
+2013-07-13T04:24:26.000Z,-34.345,-66.634,11.0,4.2,md,10.0,100.0,,,us,usp000k1yc,2014-11-07T01:51:15.819Z,"109 km NW of Unión, Argentina",earthquake,,,,,reviewed,sja,sja
+2013-05-27T22:27:43.000Z,-23.685,-66.74,219.0,4.4,mb,26.0,100.0,,,us,usp000k0zz,2014-11-07T01:50:54.811Z,"72 km NW of San Antonio de los Cobres, Argentina",earthquake,,,,23.0,reviewed,sja,us
+2013-05-21T04:28:59.000Z,-31.516,-68.935,110.0,4.2,mb,24.0,79.5,,,us,usp000k0uy,2014-11-07T01:50:52.128Z,"19 km W of Villa Basilio Nievas, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2013-04-29T11:44:18.000Z,-31.558,-69.408,110.0,4.2,mb,18.0,100.0,,,us,usb000ghfk,2014-11-07T01:50:39.492Z,"24 km S of Calingasta, Argentina",earthquake,,,,4.0,reviewed,sja,us
+2013-04-27T12:44:02.000Z,-24.053,-67.163,203.0,4.2,mb,21.0,100.0,,,us,us2013pmc6,2014-11-07T01:50:39.086Z,"87 km WNW of San Antonio de los Cobres, Argentina",earthquake,,,,7.0,reviewed,sja,us
+2013-04-20T19:14:33.000Z,-29.399,-68.543,6.0,4.6,mb,39.0,100.0,,,us,usb000gcsh,2014-11-07T01:50:36.852Z,"78 km SSW of Vinchina, Argentina",earthquake,,,,9.0,reviewed,sja,us
+2013-04-16T08:00:09.000Z,-27.699,-64.698,23.0,4.4,mb,19.0,100.0,,,us,usb000gbuq,2014-11-07T01:50:34.426Z,"27 km SE of Termas de Río Hondo, Argentina",earthquake,,,,2.0,reviewed,sja,us
+2013-04-07T23:32:39.000Z,-29.451,-68.093,108.0,4.6,mb,59.0,76.5,,,us,usb000g1uq,2014-11-07T01:50:31.717Z,"66 km WSW of Chilecito, Argentina",earthquake,,,,21.0,reviewed,sja,us
+2013-04-04T02:20:34.000Z,-23.963,-66.821,223.0,4.7,mb,289.0,43.6,,,us,usb000fzgu,2014-11-07T01:50:30.149Z,"58 km WNW of San Antonio de los Cobres, Argentina",earthquake,,,,222.0,reviewed,sja,us
+2013-03-15T10:32:24.000Z,-31.265,-68.897,114.0,4.4,mb,35.0,77.2,,,us,usb000flbb,2014-11-07T01:50:20.566Z,"35 km NNW of Villa Basilio Nievas, Argentina",earthquake,,,,9.0,reviewed,sja,us
+2013-03-06T01:52:05.000Z,-31.668,-68.184,27.0,4.7,mb,89.0,46.8,,,us,usc000fgsu,2022-07-24T19:45:56.230Z,"9 km E of Caucete, Argentina",earthquake,,,,29.0,reviewed,sja,us
+2015-03-07T23:45:28.000Z,-24.296,-67.168,188.0,4.2,mb,,,,0.92,us,usc000twgv,2015-05-28T00:48:37.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,9.4,7.7,0.176,9.0,reviewed,sja,us
+2015-03-05T07:23:10.000Z,-24.308,-67.23,191.0,4.3,mb,,,,1.26,us,usc000tv50,2015-05-28T00:48:33.040Z,"93 km W of San Antonio de los Cobres, Argentina",earthquake,6.0,5.8,0.129,21.0,reviewed,sja,us
+2015-03-05T03:41:01.000Z,-33.565,-68.013,186.0,4.5,mb,,,,0.88,us,usc000tv4e,2015-05-28T00:48:32.040Z,"68 km SE of San Martín, Argentina",earthquake,8.7,6.0,0.171,11.0,reviewed,sja,us
+2015-03-02T05:39:51.000Z,-28.048,-66.454,180.0,4.6,mb,,,,1.42,us,usc000tuar,2015-05-19T00:29:33.040Z,"43 km NW of Mutquín, Argentina",earthquake,7.7,5.3,0.077,50.0,reviewed,sja,us
+2015-02-27T11:18:19.000Z,-23.944,-66.862,210.0,4.0,mb,,,,1.25,us,usc000ttjp,2015-05-19T00:28:55.040Z,"63 km WNW of San Antonio de los Cobres, Argentina",earthquake,5.6,6.6,0.26,4.0,reviewed,sja,us
+2015-02-18T19:06:32.000Z,-24.016,-66.688,210.0,4.1,mb,,,,1.46,us,usb000tqds,2015-05-11T23:20:23.040Z,"Salta, Argentina",earthquake,9.9,6.2,0.261,4.0,reviewed,sja,us
+2015-02-17T07:50:04.000Z,-31.152,-67.369,125.0,4.0,md,,,,0.7,us,usc000trwk,2022-07-28T01:02:11.892Z,"58 km S of San Agustín de Valle Fértil, Argentina",earthquake,11.9,9.3,,,reviewed,sja,sja
+2015-02-15T03:05:52.000Z,-31.151,-68.44,107.0,4.1,mb,,,,1.37,us,usb000tpfx,2015-05-11T23:20:15.040Z,"31 km N of San Martín, Argentina",earthquake,8.3,5.3,0.302,3.0,reviewed,sja,us
+2015-02-07T02:29:59.000Z,-27.998,-66.668,177.0,4.5,mb,,,,1.4,us,usc000tmy4,2022-07-27T19:29:24.814Z,"55 km SE of Londres, Argentina",earthquake,6.3,4.7,0.172,15.0,reviewed,sja,us
+2015-02-04T12:20:23.000Z,-24.093,-66.895,205.0,4.2,mb,,,,1.03,us,usc000tlh5,2015-05-02T14:07:05.040Z,"60 km WNW of San Antonio de los Cobres, Argentina",earthquake,5.7,6.9,0.263,4.0,reviewed,sja,us
+2015-02-03T16:49:47.000Z,-31.571,-68.579,108.0,3.8,md,,,,0.83,us,usc000tlb6,2015-05-02T14:07:06.040Z,"5 km SW of San Juan, Argentina",earthquake,10.6,3.3,,,reviewed,sja,sja
+2015-01-30T20:07:42.000Z,-28.286,-67.899,126.0,4.2,mb,,,,1.53,us,usc000tkg2,2015-05-02T14:06:02.040Z,"41 km SW of Tinogasta, Argentina",earthquake,7.0,7.0,0.236,6.0,reviewed,sja,us
+2015-01-30T08:42:56.000Z,-24.286,-67.204,177.0,4.2,mb,,,,1.08,us,usc000tkai,2015-05-02T14:07:05.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,9.2,0.304,3.0,reviewed,sja,us
+2015-01-24T10:20:24.000Z,-23.988,-66.894,211.0,4.1,mb,,,,1.32,us,usc000tisr,2015-04-24T16:55:19.040Z,"63 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.5,9.4,0.371,2.0,reviewed,sja,us
+2015-01-22T10:33:35.000Z,-32.059,-70.168,111.0,4.2,mb,,,,1.3,us,usc000ti6m,2015-04-24T16:55:00.040Z,"81 km ESE of Salamanca, Chile",earthquake,7.9,6.8,0.264,5.0,reviewed,sja,us
+2015-01-18T12:13:06.000Z,-24.256,-67.269,187.0,4.5,mb,,,,1.19,us,usc000tgxz,2015-04-20T16:05:33.040Z,Chile-Argentina border region,earthquake,8.7,4.6,0.22,7.0,reviewed,sja,us
+2015-01-17T14:26:03.000Z,-24.257,-67.165,179.0,4.4,mb,,,,1.03,us,usc000tgrc,2015-04-20T15:34:58.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,11.4,9.1,0.38,3.0,reviewed,sja,us
+2015-01-15T03:06:37.000Z,-24.26,-67.141,193.0,4.0,mb,,,,0.91,us,usc000tfxi,2015-04-20T15:34:40.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,6.2,7.1,0.26,5.0,reviewed,sja,us
+2015-01-10T23:51:16.000Z,-31.182,-68.404,107.0,4.3,mb,,,,1.2,us,usc000teln,2015-04-10T18:56:29.040Z,"28 km NNE of San Martín, Argentina",earthquake,8.4,5.6,0.137,17.0,reviewed,sja,us
+2015-01-10T14:57:59.000Z,-24.265,-66.964,203.0,4.6,mb,,,,2.59,us,usc000teh2,2015-04-10T18:56:28.040Z,"65 km W of San Antonio de los Cobres, Argentina",earthquake,8.6,5.5,0.063,95.0,reviewed,sja,us
+2015-01-08T12:15:26.000Z,-23.144,-66.861,207.0,4.2,mb,,,,1.28,us,usc000td3i,2015-04-10T18:56:26.040Z,"121 km W of El Aguilar, Argentina",earthquake,8.4,5.4,0.263,11.0,reviewed,sja,us
+2015-01-05T10:41:05.000Z,-23.921,-66.869,209.0,4.1,mb,,,,1.22,us,usc000tbta,2015-03-27T07:01:56.040Z,"64 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.8,6.0,0.214,6.0,reviewed,sja,us
+2015-01-02T02:29:36.000Z,-31.901,-69.87,105.0,4.1,mb,,,,1.23,us,usc000tb7u,2015-03-27T07:01:08.040Z,"75 km SW of Calingasta, Argentina",earthquake,4.9,5.1,0.302,9.0,reviewed,sja,us
+2014-12-28T22:13:24.000Z,-31.565,-68.79,108.0,4.5,mwr,,,,0.35,us,usc000tagk,2015-03-17T02:37:47.040Z,"5 km WSW of Villa Basilio Nievas, Argentina",earthquake,6.9,4.6,0.069,20.0,reviewed,sja,us
+2014-12-21T20:38:32.000Z,-22.86,-66.825,214.0,4.5,mb,,,,1.99,us,usc000t8yd,2015-03-06T02:59:08.040Z,"116 km W of Abra Pampa, Argentina",earthquake,9.9,6.6,0.171,11.0,reviewed,sja,us
+2014-12-16T03:49:18.000Z,-28.292,-67.488,144.0,3.7,mb,,,,0.96,us,usc000t78a,2015-03-04T21:55:06.040Z,"26 km SSE of Tinogasta, Argentina",earthquake,9.1,9.5,0.502,1.0,reviewed,sja,us
+2014-12-16T03:27:51.000Z,-27.203,-64.719,26.0,3.7,mb,,,,0.93,us,usc000tcll,2015-03-04T21:55:06.040Z,"35 km NNE of Termas de Río Hondo, Argentina",earthquake,8.7,6.8,0.355,3.0,reviewed,sja,us
+2014-12-03T17:44:04.000Z,-24.253,-67.172,185.0,4.1,mb,,,,1.14,us,usb000t2i4,2015-02-28T02:16:06.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,7.0,7.9,0.369,2.0,reviewed,sja,us
+2014-11-28T15:01:51.000Z,-31.157,-64.344,24.0,4.3,mb,,,,3.11,us,usb000t1gk,2022-07-27T09:17:03.688Z,"2 km WNW of Río Ceballos, Argentina",earthquake,9.6,5.4,0.376,2.0,reviewed,sja,us
+2014-11-20T07:49:44.000Z,-22.952,-66.519,279.0,4.0,mb,,,,1.08,us,usb000sy6a,2015-02-18T03:30:47.040Z,"88 km WSW of Abra Pampa, Argentina",earthquake,11.1,8.1,0.259,4.0,reviewed,sja,us
+2014-11-16T23:38:02.000Z,-23.42,-67.09,239.0,4.4,mb,,,,1.08,us,usc000sxzj,2015-02-12T01:42:52.040Z,"118 km NW of San Antonio de los Cobres, Argentina",earthquake,8.8,7.2,0.203,8.0,reviewed,sja,us
+2014-11-12T13:32:43.000Z,-31.68,-69.332,113.0,4.6,mb,,,,1.33,us,usb000szxe,2015-02-12T01:42:36.040Z,"39 km SSE of Calingasta, Argentina",earthquake,7.5,4.6,0.126,21.0,reviewed,sja,us
+2014-11-10T05:05:23.000Z,-23.706,-66.781,212.0,4.0,mb,,,,1.48,us,usc000svyh,2015-01-31T02:50:15.040Z,"73 km NW of San Antonio de los Cobres, Argentina",earthquake,7.0,9.6,0.52,1.0,reviewed,sja,us
+2014-10-29T07:23:07.000Z,-24.235,-67.211,198.0,4.0,mb,,,,0.53,us,usb000srb5,2015-01-20T09:02:59.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,4.9,9.0,0.3,3.0,reviewed,sja,us
+2014-10-28T00:58:17.000Z,-31.732,-69.919,115.0,4.5,mwr,,,,0.72,us,usb000sr09,2015-01-17T01:25:42.040Z,"64 km SW of Calingasta, Argentina",earthquake,5.8,2.3,0.066,22.0,reviewed,sja,us
+2014-10-20T18:19:09.000Z,-24.066,-66.884,209.0,3.8,mb,,,,1.18,us,usc000st5a,2015-01-15T20:03:35.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.6,6.9,0.293,4.0,reviewed,sja,us
+2014-10-16T21:05:51.000Z,-24.083,-64.841,13.0,3.9,mb,,,,1.88,us,usc000t69f,2015-01-15T20:03:28.040Z,"16 km N of Ingenio La Esperanza, Argentina",earthquake,8.4,6.3,0.256,4.0,reviewed,sja,us
+2014-10-06T12:03:41.000Z,-31.33,-68.447,116.0,4.8,mww,,,,1.17,us,usb000sj5j,2022-07-27T04:14:38.117Z,"12 km NNE of San Martín, Argentina",earthquake,7.2,3.3,,,reviewed,sja,us
+2014-10-03T10:41:50.000Z,-31.387,-69.008,119.0,4.5,mb,,,,1.08,us,usb000sige,2014-12-23T01:41:59.040Z,"31 km NW of Villa Basilio Nievas, Argentina",earthquake,8.0,4.6,0.054,117.0,reviewed,sja,us
+2014-09-27T20:45:01.000Z,-24.068,-67.106,195.0,4.0,mb,,,,0.83,us,usb000sgs0,2014-12-20T00:54:00.040Z,"81 km WNW of San Antonio de los Cobres, Argentina",earthquake,5.9,6.4,0.15,13.0,reviewed,sja,us
+2014-09-24T01:58:25.000Z,-23.977,-66.968,211.0,4.1,mb,,,,0.96,us,usb000sff6,2014-12-20T00:53:55.040Z,"71 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.4,5.8,0.14,16.0,reviewed,sja,us
+2014-09-21T15:12:43.000Z,-31.199,-68.462,108.0,3.6,mb,,,,1.81,us,usb000ser9,2014-12-19T00:05:25.040Z,"25 km N of San Martín, Argentina",earthquake,9.2,5.8,0.501,2.0,reviewed,sja,us
+2014-09-18T07:13:35.000Z,-24.251,-67.153,201.0,4.0,mb,,,,0.64,us,usb000sh1i,2014-12-19T00:05:20.040Z,Chile-Argentina border region,earthquake,8.6,9.0,0.299,3.0,reviewed,sja,us
+2014-09-14T05:33:27.000Z,-28.235,-69.276,115.0,4.6,mb,,,,0.88,us,usb000sc8c,2014-12-08T23:31:00.040Z,"119 km WNW of Vinchina, Argentina",earthquake,4.4,4.6,0.055,102.0,reviewed,sja,us
+2014-09-06T05:14:26.000Z,-23.043,-66.54,212.0,4.0,mb,,,,0.97,us,usb000s9uz,2014-12-05T23:36:34.040Z,"90 km WNW of El Aguilar, Argentina",earthquake,7.7,8.6,0.195,7.0,reviewed,sja,us
+2014-08-25T13:24:31.000Z,-31.187,-67.532,110.0,4.2,ml,,,,2.4,us,usb000s60p,2014-11-22T02:06:36.000Z,"61 km S of San Agustín de Valle Fértil, Argentina",earthquake,8.2,7.5,0.066,32.0,reviewed,sja,us
+2014-07-16T23:30:31.000Z,-24.193,-66.959,195.0,4.1,mb,,,,1.01,us,usc000s7wa,2014-10-17T21:12:06.000Z,"65 km W of San Antonio de los Cobres, Argentina",earthquake,,8.5,0.369,2.0,reviewed,sja,us
+2014-07-01T09:12:57.000Z,-31.362,-68.863,105.0,4.3,mb,,,,1.31,us,usc000rp51,2014-09-26T11:49:51.000Z,"24 km NNW of Villa Basilio Nievas, Argentina",earthquake,,3.5,0.178,9.0,reviewed,sja,us
+2014-07-01T09:06:02.000Z,-27.874,-66.819,184.0,4.1,mb,,,,1.4,us,usc000rp4x,2014-09-26T11:49:51.000Z,"35 km ESE of Londres, Argentina",earthquake,,6.3,0.261,4.0,reviewed,sja,us
+2014-06-24T11:04:31.000Z,-31.297,-69.266,122.0,4.1,mb,,,,1.38,us,usc000rl2j,2014-09-19T17:23:34.000Z,"15 km ENE of Calingasta, Argentina",earthquake,,7.5,0.521,1.0,reviewed,sja,us
+2014-06-15T07:08:29.000Z,-27.41,-68.101,147.0,4.1,md,,,,1.45,us,usc000rfqm,2014-09-12T15:47:34.000Z,"55 km WNW of Fiambalá, Argentina",earthquake,,8.9,,,reviewed,sja,sja
+2014-06-14T20:30:44.000Z,-24.065,-66.905,211.0,4.2,mb,,,,0.94,us,usc000rfkx,2014-09-12T15:47:31.000Z,"61 km WNW of San Antonio de los Cobres, Argentina",earthquake,,5.4,0.166,11.0,reviewed,sja,us
+2014-05-16T07:35:34.000Z,-23.116,-66.572,238.0,4.0,mb,,,,1.52,us,usb000qqh5,2014-08-09T02:53:45.000Z,"91 km W of El Aguilar, Argentina",earthquake,,9.8,0.52,1.0,reviewed,sja,us
+2014-05-16T06:37:01.000Z,-24.207,-67.144,194.0,4.0,mb,,,,1.23,us,usb000qqg5,2014-08-09T02:53:45.000Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,,9.7,0.518,1.0,reviewed,sja,us
+2014-05-05T12:08:49.000Z,-24.265,-66.993,184.0,4.1,mb,,,,1.15,us,usb000qad8,2014-07-27T21:51:22.000Z,"68 km W of San Antonio de los Cobres, Argentina",earthquake,,6.1,0.262,4.0,reviewed,sja,us
+2014-04-27T04:39:30.000Z,-27.927,-66.521,199.0,4.4,mb,,,,1.25,us,usb000q10y,2014-07-14T20:11:20.000Z,"43 km SSW of Andalgalá, Argentina",earthquake,,6.1,0.268,5.0,reviewed,sja,us
+2014-04-25T04:28:15.000Z,-24.073,-66.924,224.0,4.3,mb,,,,0.63,us,usb000pyrf,2014-07-14T20:11:14.000Z,"63 km WNW of San Antonio de los Cobres, Argentina",earthquake,,8.4,0.533,2.0,reviewed,sja,us
+2014-04-05T11:52:53.000Z,-33.237,-69.639,10.0,4.0,mb,,,,0.7,us,usb000pp3l,2014-06-11T06:06:09.000Z,"84 km WSW of Mendoza, Argentina",earthquake,,6.0,0.299,3.0,reviewed,sja,us
+2014-03-24T04:08:37.000Z,-23.024,-66.461,243.0,4.2,mb,,,,0.79,us,usc000nml7,2014-05-24T00:54:42.000Z,"82 km WNW of El Aguilar, Argentina",earthquake,,8.5,0.264,5.0,reviewed,sja,us
+2014-03-17T08:10:26.000Z,-31.711,-69.773,109.0,4.5,mb,,,,0.74,us,usc000nssb,2014-05-16T21:51:46.000Z,"53 km SW of Calingasta, Argentina",earthquake,,4.6,0.087,42.0,reviewed,sja,us
+2014-03-17T03:52:10.000Z,-31.228,-67.859,10.0,4.1,mb,,,,1.72,us,usc000ne3z,2014-05-16T21:51:45.000Z,"61 km NE of Caucete, Argentina",earthquake,,1.8,0.213,9.0,reviewed,sja,us
+2014-03-11T00:38:19.000Z,-31.248,-69.143,104.0,4.4,mb,,,,1.06,us,usc000n79v,2014-05-15T02:24:18.000Z,"28 km ENE of Calingasta, Argentina",earthquake,,4.3,0.155,15.0,reviewed,sja,us
+2014-03-05T07:35:31.000Z,-28.711,-65.857,15.0,3.9,md,,,,0.87,us,usc000nbg6,2014-05-15T02:23:05.000Z,"11 km E of Huillapima, Argentina",earthquake,,4.8,,,reviewed,sja,sja
+2014-03-04T09:41:07.000Z,-31.594,-68.683,112.0,4.2,mb,,,,1.41,us,usc000nb6n,2014-05-13T21:36:51.000Z,"6 km SE of Villa Basilio Nievas, Argentina",earthquake,,4.1,0.306,4.0,reviewed,sja,us
+2016-02-26T16:48:28.000Z,-24.144,-66.979,192.0,4.5,mb,,,,0.82,us,us10004sz3,2016-05-06T23:34:14.040Z,"67 km W of San Antonio de los Cobres, Argentina",earthquake,10.8,8.3,0.242,5.0,reviewed,sja,us
+2016-02-03T05:00:40.000Z,-23.568,-66.812,215.0,4.4,md,,,,0.48,us,us20004wrz,2016-04-14T22:51:41.040Z,"87 km NW of San Antonio de los Cobres, Argentina",earthquake,10.1,8.3,,,reviewed,sja,sja
+2015-12-19T16:55:33.000Z,-23.572,-64.78,22.0,4.4,mb,,,,1.54,us,us100048va,2016-03-12T02:29:17.040Z,"22 km N of Calilegua, Argentina",earthquake,7.9,6.6,0.381,2.0,reviewed,sja,us
+2015-11-23T14:49:40.000Z,-22.23,-63.86,529.0,4.3,mb,,,,0.38,us,us100040h5,2016-02-18T04:48:51.040Z,"Salta, Argentina",earthquake,12.0,7.1,0.143,14.0,reviewed,sja,us
+2015-11-16T13:03:17.000Z,-31.377,-68.684,110.9,3.6,md,,,,1.37,us,us10003ynf,2016-02-13T02:08:25.040Z,"16 km WNW of Albardón, Argentina",earthquake,9.9,3.4,,,reviewed,sja,sja
+2015-11-08T02:47:16.000Z,-22.396,-66.174,283.0,4.2,mb,,,,0.84,us,us10003vn8,2016-02-05T03:16:35.040Z,"60 km NW of Abra Pampa, Argentina",earthquake,9.1,7.1,0.176,9.0,reviewed,sja,us
+2015-09-15T02:40:08.000Z,-22.777,-66.315,257.0,4.1,mb,,,,0.89,us,us20003p2q,2015-12-12T00:42:53.040Z,"63 km W of Abra Pampa, Argentina",earthquake,9.6,7.2,0.26,4.0,reviewed,sja,us
+2015-09-08T03:03:14.000Z,-22.895,-64.202,36.0,4.6,mb,,,,0.95,us,us20003h6u,2015-12-05T01:40:36.040Z,"22 km SE of Bermejo, Bolivia",earthquake,7.9,1.9,0.088,39.0,reviewed,sja,us
+2015-08-16T19:07:35.000Z,-28.297,-67.531,153.0,4.8,mb,,,,1.21,us,us100032px,2015-11-17T00:13:32.040Z,"26 km S of Tinogasta, Argentina",earthquake,4.6,7.9,0.196,8.0,reviewed,sja,us
+2015-08-13T20:15:39.000Z,-22.437,-66.04,269.0,4.2,mb,,,,0.8,us,us1000323m,2015-11-17T00:13:26.040Z,"47 km NW of Abra Pampa, Argentina",earthquake,8.5,6.1,0.167,10.0,reviewed,sja,us
+2015-07-27T09:47:10.000Z,-31.906,-67.338,125.0,4.1,mb,,,,1.31,us,us200030ci,2015-10-22T20:05:05.040Z,"93 km ESE of Caucete, Argentina",earthquake,8.4,6.3,0.174,9.0,reviewed,sja,us
+2015-07-20T21:21:57.000Z,-23.955,-66.761,210.0,4.2,mb,,,,1.19,us,us20002yr0,2015-10-14T21:05:47.040Z,"Jujuy, Argentina",earthquake,9.4,9.6,0.529,1.0,reviewed,sja,us
+2015-07-15T17:19:49.000Z,-32.051,-69.238,117.0,4.7,mb,,,,0.92,us,us20002xpr,2022-07-31T18:49:05.406Z,"73 km SW of Villa Basilio Nievas, Argentina",earthquake,5.8,4.3,0.051,115.0,reviewed,sja,us
+2015-07-13T05:09:01.000Z,-23.754,-66.897,203.0,4.2,mb,,,,1.19,us,us10002wx2,2015-10-09T20:19:15.040Z,"78 km NW of San Antonio de los Cobres, Argentina",earthquake,10.3,9.6,0.526,1.0,reviewed,sja,us
+2015-06-28T03:19:47.000Z,-24.276,-67.157,191.0,4.2,mb,,,,0.92,us,us10002m6e,2015-09-02T22:37:22.040Z,"85 km W of San Antonio de los Cobres, Argentina",earthquake,6.9,6.2,0.215,6.0,reviewed,sja,us
+2015-06-23T04:05:12.000Z,-24.228,-67.181,202.0,4.0,mb,,,,1.07,us,us10002l26,2015-09-01T00:53:54.040Z,"87 km W of San Antonio de los Cobres, Argentina",earthquake,9.2,8.3,0.365,2.0,reviewed,sja,us
+2015-06-18T09:55:52.000Z,-29.616,-68.163,100.0,4.0,mb,,,,0.75,us,us10002jxx,2015-09-01T00:53:49.040Z,"81 km SW of Chilecito, Argentina",earthquake,8.5,8.7,0.517,1.0,reviewed,sja,us
+2015-06-16T14:46:33.000Z,-32.427,-68.772,136.0,4.4,mb,,,,1.55,us,us20002qat,2015-08-20T00:44:00.040Z,"51 km N of Mendoza, Argentina",earthquake,7.8,5.5,0.19,8.0,reviewed,sja,us
+2015-06-15T05:01:17.000Z,-31.96,-68.384,114.0,4.5,mb,,,,1.34,us,us20002pvp,2015-08-20T00:43:58.040Z,"32 km S of Nueve de Julio, Argentina",earthquake,7.2,5.7,0.111,24.0,reviewed,sja,us
+2015-06-13T06:20:52.000Z,-29.735,-69.234,119.0,4.3,mb,,,,2.12,us,us20002plf,2015-08-20T00:43:56.040Z,"73 km NW of San José de Jáchal, Argentina",earthquake,7.1,6.2,0.16,11.0,reviewed,sja,us
+2015-06-07T21:14:06.000Z,-28.993,-67.532,11.0,4.3,mwr,,,,1.03,us,us20002mty,2022-07-31T11:46:19.370Z,"19 km N of Chilecito, Argentina",earthquake,4.2,3.6,0.069,20.0,reviewed,sja,us
+2015-06-06T07:03:42.000Z,-23.089,-66.768,229.0,4.1,mb,,,,0.98,us,us20002qbe,2015-08-10T13:08:22.040Z,"112 km W of El Aguilar, Argentina",earthquake,11.7,8.8,0.262,4.0,reviewed,sja,us
+2015-05-27T00:27:41.000Z,-24.299,-67.222,186.0,4.2,mb,,,,1.1,us,us10002cct,2015-07-29T01:35:48.040Z,"92 km W of San Antonio de los Cobres, Argentina",earthquake,10.0,5.9,0.199,7.0,reviewed,sja,us
+2015-05-21T09:48:49.000Z,-24.051,-66.905,200.0,3.8,mb,,,,1.34,us,us20002kyk,2015-07-29T01:35:30.040Z,"62 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.0,7.0,0.255,4.0,reviewed,sja,us
+2015-04-23T17:57:47.000Z,-23.288,-66.727,228.0,4.3,mb,,,,1.23,us,us200028ma,2015-07-03T00:23:37.040Z,"107 km W of El Aguilar, Argentina",earthquake,8.9,5.5,0.188,8.0,reviewed,sja,us
+2015-04-20T17:02:13.000Z,-22.112,-66.054,256.0,4.2,mb,,,,1.19,us,us200027tt,2015-06-26T23:15:59.040Z,"47 km W of Villazón, Bolivia",earthquake,7.9,5.4,0.058,82.0,reviewed,sja,us
+2015-04-18T07:26:27.000Z,-24.32,-67.215,186.0,4.0,mb,,,,1.01,us,us200027ig,2015-06-26T23:15:55.040Z,"91 km W of San Antonio de los Cobres, Argentina",earthquake,6.3,7.0,0.233,5.0,reviewed,sja,us
+2015-04-12T07:28:12.000Z,-32.989,-67.618,178.0,4.7,mb,,,,0.7,us,us200025wp,2022-07-28T07:31:21.766Z,"80 km E of San Martín, Argentina",earthquake,8.2,4.6,0.048,131.0,reviewed,sja,us
+2015-04-12T00:53:28.000Z,-31.351,-68.778,111.0,4.3,mb,,,,1.01,us,us200025vy,2015-06-22T23:18:57.040Z,"22 km N of Villa Basilio Nievas, Argentina",earthquake,7.8,4.7,0.201,7.0,reviewed,sja,us
+2015-04-05T13:51:46.000Z,-24.224,-67.043,195.0,3.9,mb,,,,1.41,us,us10001u40,2015-06-16T01:00:28.040Z,"73 km W of San Antonio de los Cobres, Argentina",earthquake,9.5,6.0,0.23,5.0,reviewed,sja,us
+2015-04-01T10:26:47.000Z,-24.264,-67.222,189.0,4.3,mb,,,,1.09,us,us10001sqc,2015-06-12T01:53:33.040Z,"91 km W of San Antonio de los Cobres, Argentina",earthquake,8.8,7.8,0.266,4.0,reviewed,sja,us
+2015-03-24T22:29:47.000Z,-31.145,-68.996,116.0,4.4,mb,,,,1.06,us,us10001qgy,2015-06-09T21:30:05.040Z,"45 km ENE of Calingasta, Argentina",earthquake,7.3,4.6,0.219,6.0,reviewed,sja,us
+2015-03-23T05:41:45.000Z,-24.219,-67.144,192.0,4.0,mb,,,,1.42,us,us10001pqv,2015-06-09T21:30:02.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,11.1,8.0,0.517,1.0,reviewed,sja,us
+2015-03-19T19:13:54.000Z,-27.955,-66.742,182.0,4.0,mb,,,,1.13,us,us10001nx1,2015-06-09T21:29:58.040Z,"46 km SE of Londres, Argentina",earthquake,8.8,6.7,0.183,8.0,reviewed,sja,us
+2015-03-17T22:11:55.000Z,-24.075,-66.931,214.0,4.1,mb,,,,0.63,us,us10001naa,2015-06-04T00:46:24.040Z,"64 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.8,8.2,0.213,6.0,reviewed,sja,us
+2015-03-17T11:04:55.000Z,-24.287,-67.303,181.0,4.1,mb,,,,1.01,us,us10001n1i,2015-06-04T00:46:24.040Z,"100 km W of San Antonio de los Cobres, Argentina",earthquake,7.5,7.1,0.368,2.0,reviewed,sja,us
+2015-03-07T23:45:28.000Z,-24.296,-67.168,188.0,4.2,mb,,,,0.92,us,usc000twgv,2015-05-28T00:48:37.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,9.4,7.7,0.176,9.0,reviewed,sja,us
+2015-03-05T07:23:10.000Z,-24.308,-67.23,191.0,4.3,mb,,,,1.26,us,usc000tv50,2015-05-28T00:48:33.040Z,"93 km W of San Antonio de los Cobres, Argentina",earthquake,6.0,5.8,0.129,21.0,reviewed,sja,us
+2015-03-05T03:41:01.000Z,-33.565,-68.013,186.0,4.5,mb,,,,0.88,us,usc000tv4e,2015-05-28T00:48:32.040Z,"68 km SE of San Martín, Argentina",earthquake,8.7,6.0,0.171,11.0,reviewed,sja,us
+2015-03-02T05:39:51.000Z,-28.048,-66.454,180.0,4.6,mb,,,,1.42,us,usc000tuar,2015-05-19T00:29:33.040Z,"43 km NW of Mutquín, Argentina",earthquake,7.7,5.3,0.077,50.0,reviewed,sja,us
+2017-03-06T13:35:16.000Z,-31.238,-68.376,104.0,4.1,ml,,,,1.1,us,us100087a1,2017-05-31T01:58:55.040Z,"24 km NNE of San Martín, Argentina",earthquake,5.6,9.7,0.052,48.0,reviewed,sja,us
+2016-12-05T18:06:04.000Z,-23.185,-66.656,223.0,5.0,mww,,,,1.88,us,us10007f0t,2017-03-03T07:06:04.040Z,"99 km W of El Aguilar, Argentina",earthquake,7.1,6.0,,,reviewed,sja,us
+2016-10-16T09:03:20.000Z,-24.19,-64.37,10.0,5.0,mb,,,,0.83,us,us20007eiy,2017-01-15T01:13:54.040Z,"24 km SSW of Palma Sola, Argentina",earthquake,7.4,4.6,0.133,18.0,reviewed,sja,us
+2016-07-22T01:25:11.000Z,-31.704,-64.935,24.0,3.8,mb,,,,1.01,us,us20006hat,2016-08-11T23:24:10.618Z,"7 km ENE of Mina Clavero, Argentina",earthquake,8.6,7.1,0.255,4.0,reviewed,sja,us
+2016-06-09T18:37:15.000Z,-28.72,-67.6,155.0,4.2,md,,,,0.77,us,us2000637d,2016-08-18T00:36:36.040Z,"49 km NNW of Chilecito, Argentina",earthquake,4.1,9.7,,,reviewed,sja,sja
+2016-05-04T07:24:42.000Z,-23.073,-66.635,222.0,4.2,mb,,,,0.89,us,us10005djz,2016-07-19T20:03:12.040Z,"99 km W of El Aguilar, Argentina",earthquake,9.7,6.7,0.236,5.0,reviewed,sja,us
+2016-04-25T08:06:34.000Z,-24.29,-67.27,180.0,4.3,mb,,,,1.19,us,us20005lir,2016-07-08T02:49:21.040Z,"96 km W of San Antonio de los Cobres, Argentina",earthquake,4.0,7.2,0.189,8.0,reviewed,sja,us
+2016-04-10T14:23:58.000Z,-23.602,-66.812,262.0,4.3,mb,,,,0.75,us,us20005gth,2016-06-21T01:14:07.040Z,"84 km NW of San Antonio de los Cobres, Argentina",earthquake,10.8,8.4,0.267,4.0,reviewed,sja,us
+2017-03-06T13:35:16.000Z,-31.238,-68.376,104.0,4.1,ml,,,,1.1,us,us100087a1,2017-05-31T01:58:55.040Z,"24 km NNE of San Martín, Argentina",earthquake,5.6,9.7,0.052,48.0,reviewed,sja,us

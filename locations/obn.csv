@@ -1,0 +1,10 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2000-10-30T01:17:20.600Z,43.723,39.47,5.0,3.7,mb,23.0,,,,us,usp000a2pg,2014-11-07T01:11:19.900Z,"6 km W of Vardane, Russia",earthquake,,,,2.0,reviewed,obn,us
+2000-10-25T07:27:29.300Z,56.02,160.95,163.0,3.6,mb,15.0,,,,us,usp000a2cf,2014-11-07T01:11:18.768Z,"34 km S of Klyuchi, Russia",earthquake,,,,1.0,reviewed,obn,us
+2000-09-06T21:33:20.600Z,38.269,57.381,10.0,4.3,mb,8.0,,,,us,usp0009ztr,2014-11-07T01:11:03.199Z,"19 km SSW of Baharly, Turkmenistan",earthquake,,,,1.0,reviewed,obn,us
+2001-07-11T16:00:32.600Z,56.121,114.461,10.0,3.7,mb,25.0,,,,us,usp000ajcj,2014-11-07T01:13:16.438Z,"36 km SW of Taksimo, Russia",earthquake,,,,1.0,reviewed,obn,us
+2004-11-14T08:15:00.600Z,54.52,109.81,11.0,4.0,mb,32.0,71.6,,,us,usp000d8e3,2014-11-07T01:24:00.356Z,"39 km NW of Kurumkan, Russia",earthquake,,,,4.0,reviewed,obn,us
+2005-11-29T11:02:05.000Z,52.65,107.14,18.0,4.4,mb,21.0,93.0,,,us,usp000e550,2014-11-07T01:27:44.977Z,"52 km ESE of Yelantsy, Russia",earthquake,,,,3.0,reviewed,obn,us
+2010-09-18T22:34:01.200Z,42.88,46.96,6.0,3.6,mb,6.0,133.8,,,us,usp000hkx3,2014-11-07T01:42:29.426Z,"8 km N of Erpeli, Russia",earthquake,,,,2.0,reviewed,obn,us
+2013-01-27T07:05:35.700Z,53.35,142.67,10.0,3.7,mb,12.0,105.0,,,us,usp000jyuz,2014-11-07T01:49:53.543Z,"19 km WSW of Tungor, Russia",earthquake,,,,2.0,reviewed,obn,us
+2016-09-11T08:07:41.500Z,53.61,127.1,10.0,4.2,mb,,,,0.58,us,us10006q57,2016-12-07T02:56:10.040Z,"13 km ENE of Ovsyanka, Russia",earthquake,10.4,2.0,0.176,9.0,reviewed,obn,us

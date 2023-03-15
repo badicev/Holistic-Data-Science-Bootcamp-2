@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1990-02-27T13:23:22.000Z,33.953,-106.588,5.0,3.9,md,,,,,us,usp00045z9,2014-11-07T00:45:48.289Z,"25 km E of San Antonio, New Mexico",earthquake,,,,,reviewed,snm,snm
+1990-01-29T13:16:10.680Z,34.463,-106.879,12.0,4.5,mb,,,,,us,usp00044ve,2020-08-28T23:21:36.336Z,"6 km W of Abeytas, New Mexico",earthquake,,,,6.0,reviewed,snm,us
+1989-11-29T06:54:38.500Z,34.455,-106.891,13.0,4.6,mb,,,,,us,usp00042j1,2018-06-04T20:43:45.000Z,"7 km W of Abeytas, New Mexico",earthquake,,,,5.0,reviewed,snm,us
+1990-11-15T07:25:24.380Z,34.457,-106.859,6.5,3.6,md,,,,,us,usp0004gyy,2014-11-07T00:47:26.950Z,"4 km WSW of Abeytas, New Mexico",earthquake,,,,,reviewed,snm,snm
+1990-11-08T10:46:53.770Z,34.449,-106.856,6.1,4.4,mb,,,,,us,usp0004gn9,2014-11-07T00:47:25.618Z,"4 km WSW of Abeytas, New Mexico",earthquake,,,,2.0,reviewed,snm,us
+1990-07-22T21:27:05.130Z,34.838,-106.006,10.0,3.7,md,,,,,us,usp0004cdb,2014-11-07T00:46:45.592Z,"5 km SE of McIntosh, New Mexico",earthquake,,,,,reviewed,snm,snm
+1990-05-05T16:26:22.890Z,34.449,-106.878,6.5,3.6,md,,,,,us,usp00048ws,2014-11-07T00:46:18.421Z,"6 km WSW of Abeytas, New Mexico",earthquake,,,,,reviewed,snm,snm
+1999-05-30T19:04:25.600Z,32.575,-104.664,10.0,3.9,md,,,,,us,usp000991w,2014-11-07T01:07:44.921Z,"26 km SSE of Hope, New Mexico",earthquake,,,,,reviewed,snm,snm
+1999-03-17T12:29:23.110Z,32.582,-104.672,1.0,3.5,md,,,,,us,usp00094ny,2014-11-07T01:07:14.229Z,"25 km SSE of Hope, New Mexico",earthquake,,,,,reviewed,snm,snm
+1999-03-14T22:43:17.970Z,32.591,-104.63,1.0,4.0,md,,,,,us,usp00094hc,2014-11-07T01:07:13.801Z,"26 km SSE of Hope, New Mexico",earthquake,,,,,reviewed,snm,snm

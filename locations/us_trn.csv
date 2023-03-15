@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-08-24T11:51:59.700Z,17.753,-61.627,30.8,4.6,mb,,,,0.88,us,usb000jb72,2022-07-25T20:59:18.525Z,"25 km ENE of Codrington, Antigua and Barbuda",earthquake,,4.1,0.064,,reviewed,us_trn,us
+2013-08-17T15:06:23.200Z,17.246,-61.87,17.5,4.2,mb,,,,1.48,us,usb000j5jx,2015-01-29T23:16:08.540Z,"14 km NNW of Saint John’s, Antigua and Barbuda",earthquake,,4.7,0.158,,reviewed,us_trn,us
+2013-08-06T14:56:21.600Z,10.791,-62.167,52.4,4.0,mwr,,,,1.11,us,usb000ix9a,2022-07-25T19:47:44.000Z,"27 km NNE of Güiria, Venezuela",earthquake,,9.0,,,reviewed,us_trn,us_car
+2013-08-02T11:15:31.000Z,11.642,-61.93,129.2,4.3,mb,,,,1.23,us,usb000itzl,2013-09-25T17:45:50.000Z,"49 km SSW of Saint George's, Grenada",earthquake,,5.1,0.168,,reviewed,us_trn,us

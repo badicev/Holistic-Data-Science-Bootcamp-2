@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1998-03-23T13:07:19.000Z,47.12,9.1,10.0,3.6,ml,,,,,us,usp0008hwn,2014-11-07T01:04:49.095Z,"1 km S of Weesen, Switzerland",earthquake,,,,,reviewed,fbb,vie
+1999-09-12T13:25:23.000Z,47.59,8.52,5.0,3.5,ml,,,,,us,usp0009ecb,2014-11-07T01:08:28.384Z,"1 km N of Seglingen, Switzerland",earthquake,,,,,reviewed,fbb,grf
+2002-01-27T02:24:17.000Z,47.97,9.32,17.0,3.9,ml,129.0,,,,us,usp000ax88,2014-11-07T01:14:45.524Z,"5 km WNW of Ostrach, Germany",earthquake,,,,,reviewed,fbb,fbb
+2001-09-01T19:01:38.000Z,49.39,6.91,1.0,3.7,ml,55.0,,,,us,usp000aneg,2014-11-07T01:13:42.553Z,"2 km S of Lebach, Germany",earthquake,,,,,reviewed,fbb,ldg
+2001-08-26T23:08:20.000Z,49.38,6.9,1.0,3.6,ml,71.0,,,,us,usp000an3x,2014-11-07T01:13:37.140Z,"3 km SSW of Lebach, Germany",earthquake,,,,,reviewed,fbb,ldg
+2001-03-16T10:13:54.000Z,49.15,6.85,1.0,3.7,ml,71.0,,,,us,usp000abh1,2014-11-07T01:12:21.570Z,"0 km NW of Cocheren, France",earthquake,,,,,reviewed,fbb,ldg
+2002-07-06T14:09:56.000Z,47.76,9.73,26.0,3.6,ml,69.0,,,,us,usp000b7m2,2014-11-07T01:16:01.452Z,"1 km ENE of Waldburg, Germany",earthquake,,,,,reviewed,fbb,zamg
+2003-03-22T13:36:16.000Z,48.21,9.0,6.0,4.7,ml,216.0,10.0,,,us,usp000bt8d,2020-09-18T19:20:45.666Z,"2 km WSW of Albstadt, Germany",earthquake,,,,,reviewed,fbb,grf
+2004-05-22T05:19:03.000Z,50.42,7.36,10.0,4.2,ml,147.0,50.7,,,us,usp000cvv1,2014-11-07T01:22:22.501Z,"2 km ENE of Nickenich, Germany",earthquake,,,,,reviewed,fbb,ldg
+2005-07-20T01:27:46.000Z,49.38,6.91,1.0,3.9,ml,113.0,67.2,,,us,usp000dvj2,2014-11-07T01:26:31.120Z,"3 km S of Lebach, Germany",earthquake,,,,,reviewed,fbb,ldg
+2005-05-15T13:46:47.000Z,49.38,6.87,1.0,3.8,ml,78.0,65.2,,,us,usp000dqvz,2014-11-07T01:25:54.742Z,"4 km SW of Lebach, Germany",earthquake,,,,,reviewed,fbb,ldg
+2005-05-13T19:44:08.000Z,48.08,8.04,11.0,3.5,ml,109.0,19.6,,,us,usp000dqqy,2014-11-07T01:25:53.037Z,"5 km SE of Gutach im Breisgau, Germany",earthquake,,,,,reviewed,fbb,ldg
+2005-03-18T22:55:13.000Z,49.38,6.93,1.0,3.8,ml,88.0,47.9,,,us,usp000djgb,2014-11-07T01:25:16.189Z,"3 km SW of Eppelborn, Germany",earthquake,,,,,reviewed,fbb,ldg
+2005-03-14T12:34:59.000Z,48.08,7.78,5.0,3.8,ml,106.0,19.4,,,us,usp000dj6s,2014-11-07T01:25:14.413Z,"3 km ESE of Eichstetten, Germany",earthquake,,,,,reviewed,fbb,zamg
+2008-01-10T11:17:33.700Z,49.37,6.84,1.0,3.5,ml,35.0,83.3,,,us,usp000fwd8,2014-11-07T01:34:40.000Z,"3 km NE of Saarwellingen, Germany",earthquake,,,,,reviewed,fbb,ldg
+2007-11-10T10:31:31.200Z,49.38,6.86,1.0,4.0,ml,74.0,64.2,,,us,usp000fsad,2014-11-07T01:34:09.019Z,"4 km NE of Saarwellingen, Germany",earthquake,,,,,reviewed,fbb,ldg
+2011-02-14T12:43:12.710Z,50.34,7.841,12.0,3.9,mwr,90.0,31.8,,,us,usp000huh2,2022-07-19T04:15:18.266Z,"4 km NE of Nassau, Germany",earthquake,,,,,reviewed,fbb,us

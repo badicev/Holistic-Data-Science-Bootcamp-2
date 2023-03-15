@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-08-29T04:47:26.450Z,47.508,-47.925,18.0,4.2,mb,,,,1.88,us,usb000jgr1,2013-11-06T01:33:32.000Z,North Atlantic Ocean,earthquake,,4.3,0.136,,reviewed,us_ott,us

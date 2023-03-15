@@ -1,0 +1,146 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1998-02-03T18:08:22.000Z,43.0,-0.2,2.0,3.7,ml,,,,,us,usp0008fcw,2014-11-07T01:04:28.552Z,"8 km W of Argelès-Gazost, France",earthquake,,,,,reviewed,ldg,str
+1998-01-27T08:36:14.600Z,50.5,1.2,2.0,3.8,ml,,,,,us,usp0008f1f,2014-11-07T01:04:23.267Z,"27 km W of Le Touquet-Paris-Plage, France",earthquake,,,,,reviewed,ldg,ldg
+1998-12-07T13:46:27.400Z,46.1,7.5,2.0,3.5,ml,,,,,us,usp0008z9x,2014-11-07T01:06:37.007Z,"1 km SSE of Evolène, Switzerland",earthquake,,,,,reviewed,ldg,str
+1998-08-22T14:41:04.500Z,47.5,-4.0,19.0,3.6,ml,,,,,us,usp0008tpv,2014-11-07T01:05:52.210Z,"38 km SSE of Plobannalec-Lesconil, France",earthquake,,,,,reviewed,ldg,ldg
+1998-08-17T17:01:01.200Z,43.5,-0.6,8.0,3.5,ml,,,,,us,usp0008te1,2014-11-07T01:05:50.207Z,"4 km NNE of Arthez-de-Béarn, France",earthquake,,,,,reviewed,ldg,ldg
+1998-07-11T09:10:21.000Z,46.6,-1.2,2.0,3.6,ml,,,,,us,usp0008ray,2014-11-07T01:05:34.756Z,"3 km NE of Château-Guibert, France",earthquake,,,,,reviewed,ldg,ldg
+2000-03-13T04:16:07.700Z,43.297,-0.946,13.2,4.2,ml,,,,,us,usp0009pn3,2014-11-07T01:09:41.096Z,"7 km ESE of Saint-Palais, France",earthquake,,,,,reviewed,ldg,str
+2000-01-03T18:28:36.200Z,42.321,2.497,2.0,3.5,ml,,,,,us,usp0009kqa,2014-11-07T01:09:16.904Z,"9 km S of Prats de Molló, France",earthquake,,,,,reviewed,ldg,ldg
+1999-10-04T18:14:26.500Z,42.9,0.6,10.0,4.4,mb,,,,,us,usp0009few,2014-11-07T01:08:39.851Z,"12 km N of Bagnères-de-Luchon, France",earthquake,,,,3.0,reviewed,ldg,us
+1999-10-03T20:03:34.000Z,47.1,1.2,2.0,3.8,ml,,,,,us,usp0009fdk,2014-11-07T01:08:39.569Z,"11 km W of Écueillé, France",earthquake,,,,,reviewed,ldg,ldg
+1999-10-03T11:30:19.800Z,43.2,-1.7,5.0,3.9,ml,,,,,us,usp0009fcr,2014-11-07T01:08:39.419Z,"5 km S of Lesaka, Spain",earthquake,,,,,reviewed,ldg,str
+1999-09-13T23:27:11.000Z,45.5,5.4,2.0,4.0,ml,,,,,us,usp0009edu,2014-11-07T01:08:28.589Z,"1 km NE of Biol, France",earthquake,,,,,reviewed,ldg,ldg
+1999-05-20T13:11:36.400Z,46.7,7.3,2.0,4.2,ml,,,,,us,usp00098cs,2014-11-07T01:07:41.892Z,"4 km SSE of Plaffeien, Switzerland",earthquake,,,,,reviewed,ldg,grf
+1999-05-03T06:33:37.300Z,47.9,-4.1,15.0,3.5,ml,,,,,us,usp0009799,2014-11-07T01:07:36.782Z,"1 km SE of Gouesnach, France",earthquake,,,,,reviewed,ldg,ldg
+2001-03-08T09:07:48.600Z,49.155,6.856,1.0,3.6,ml,55.0,,,,us,usp000ab3h,2014-11-07T01:12:19.481Z,"1 km N of Cocheren, France",earthquake,,,,,reviewed,ldg,ldg
+2001-02-25T01:22:32.500Z,46.106,7.046,3.0,3.9,ml,94.0,,,,us,usp000aaa9,2014-11-07T01:12:11.710Z,"2 km W of Martigny-Ville, Switzerland",earthquake,,,,,reviewed,ldg,vie
+2000-11-13T16:30:40.700Z,47.224,7.495,2.0,3.8,ml,105.0,,,,us,usp000a3jb,2014-11-07T01:11:28.362Z,"1 km WNW of Langendorf, Switzerland",earthquake,,,,,reviewed,ldg,vie
+2000-08-19T08:37:25.600Z,46.028,6.673,2.0,3.6,ml,90.0,,,,us,usp0009ys7,2014-11-07T01:10:53.365Z,"3 km ESE of Arâches-la-Frasse, France",earthquake,,,,,reviewed,ldg,grf
+2000-03-13T04:16:07.700Z,43.297,-0.946,13.2,4.2,ml,,,,,us,usp0009pn3,2014-11-07T01:09:41.096Z,"7 km ESE of Saint-Palais, France",earthquake,,,,,reviewed,ldg,str
+2002-02-18T06:11:44.000Z,44.127,3.004,6.0,3.7,ml,68.0,,,,us,usp000ayps,2014-11-07T01:14:56.106Z,"6 km NW of Creissels, France",earthquake,,,,,reviewed,ldg,ldg
+2001-10-29T21:25:23.100Z,49.367,6.879,1.0,3.6,ml,65.0,,,,us,usp000arw6,2014-11-07T01:14:05.036Z,"5 km NW of Heusweiler, Germany",earthquake,,,,,reviewed,ldg,brg
+2001-10-06T12:15:53.000Z,49.39,6.95,1.0,3.7,ml,71.0,,,,us,usp000aqau,2014-11-07T01:13:56.912Z,"1 km SW of Eppelborn, Germany",earthquake,,,,,reviewed,ldg,ldg
+2001-08-01T12:07:49.100Z,43.048,-0.054,6.0,3.7,ml,53.0,,,,us,usp000akp5,2014-11-07T01:13:26.997Z,"5 km S of Lourdes, France",earthquake,,,,,reviewed,ldg,ldg
+2001-06-25T06:49:18.000Z,45.897,-1.418,2.0,4.2,ml,85.0,,,,us,usp000ahdf,2014-11-07T01:13:07.802Z,"10 km WSW of Saint-Pierre-d'Oléron, France",earthquake,,,,,reviewed,ldg,str
+2001-06-21T19:55:49.000Z,49.147,6.87,1.0,4.2,ml,147.0,,,,us,usp000ah16,2021-10-20T17:50:51.360Z,Germany,earthquake,,,,,reviewed,ldg,ldg
+2001-06-04T19:17:57.900Z,43.026,0.128,6.0,3.6,ml,61.0,,,,us,usp000ag1u,2014-11-07T01:12:58.623Z,"4 km WNW of Campan, France",earthquake,,,,,reviewed,ldg,str
+2001-03-08T09:07:48.600Z,49.155,6.856,1.0,3.6,ml,55.0,,,,us,usp000ab3h,2014-11-07T01:12:19.481Z,"1 km N of Cocheren, France",earthquake,,,,,reviewed,ldg,ldg
+2003-03-04T19:08:12.400Z,48.335,6.651,10.0,3.6,ml,102.0,44.4,,,us,usp000bryb,2014-11-07T01:17:59.183Z,"1 km SE of Rambervillers, France",earthquake,,,,,reviewed,ldg,ldg
+2003-02-24T21:21:22.900Z,47.022,6.186,2.0,3.9,ml,89.0,,,,us,usp000brdr,2014-11-07T01:17:51.682Z,"9 km NNE of Levier, France",earthquake,,,,,reviewed,ldg,ldg
+2003-02-23T23:58:52.800Z,48.312,6.667,15.0,3.7,ml,90.0,,,,us,usp000brbf,2014-11-07T01:17:51.400Z,"3 km SSW of Jeanménil, France",earthquake,,,,,reviewed,ldg,fur
+2003-02-22T20:54:25.600Z,48.338,6.666,13.0,3.7,ml,101.0,,,,us,usp000br8g,2014-11-07T01:17:51.064Z,"1 km W of Jeanménil, France",earthquake,,,,,reviewed,ldg,fur
+2003-01-21T18:01:01.400Z,43.12,-0.362,5.0,4.6,ml,109.0,,,,us,usp000bny7,2014-11-07T01:17:37.006Z,"5 km NE of Louvie-Juzon, France",earthquake,,,,,reviewed,ldg,ldg
+2002-12-09T13:44:54.500Z,43.02,0.176,10.0,3.7,ml,67.0,,,,us,usp000bkdc,2014-11-07T01:17:19.729Z,"0 km NNW of Campan, France",earthquake,,,,,reviewed,ldg,ldg
+2002-12-02T23:14:10.000Z,47.248,-0.741,5.0,3.5,ml,32.0,,,,us,usp000bjzv,2014-11-07T01:17:18.009Z,"3 km SSW of La Jumellière, France",earthquake,,,,,reviewed,ldg,ldg
+2002-09-30T10:06:50.400Z,47.832,-3.138,4.0,4.1,ml,54.0,,,,us,usp000bdgb,2014-11-07T01:16:36.513Z,"1 km E of Languidic, France",earthquake,,,,,reviewed,ldg,ldg
+2002-09-30T06:44:48.000Z,47.832,-3.207,9.6,4.2,mb,236.0,,,,us,usp000bdfx,2020-04-16T17:51:32.753Z,"3 km W of Languidic, France",earthquake,,,,8.0,reviewed,ldg,us
+2002-08-06T17:25:14.100Z,47.325,0.441,5.0,3.6,ml,38.0,,,,us,usp000b9dx,2014-11-07T01:16:13.840Z,"2 km SSW of Cinq-Mars-la-Pile, France",earthquake,,,,,reviewed,ldg,ldg
+2002-05-31T16:50:35.300Z,46.327,7.318,2.0,3.6,ml,73.0,,,,us,usp000b5a6,2014-11-07T01:15:41.542Z,"8 km NW of Ayent, Switzerland",earthquake,,,,,reviewed,ldg,grf
+2002-05-16T15:14:46.100Z,42.955,-0.159,4.0,4.4,ml,108.0,,,,us,usp000b4eb,2014-11-07T01:15:37.946Z,"6 km W of Pierrefitte-Nestalas, France",earthquake,,,,,reviewed,ldg,ldg
+2002-05-16T14:56:34.700Z,42.929,-0.17,3.0,4.8,ml,160.0,,,,us,usp000b4e9,2014-11-07T01:15:37.923Z,"6 km NW of Cauterets, France",earthquake,,,,,reviewed,ldg,ldg
+2002-04-23T06:45:38.100Z,47.903,-3.81,6.0,3.8,ml,29.0,,,,us,usp000b2zt,2014-11-07T01:15:27.520Z,"1 km ESE of Melgven, France",earthquake,,,,,reviewed,ldg,str
+2002-04-02T12:21:17.400Z,47.195,-0.449,5.0,3.6,ml,29.0,,,,us,usp000b1km,2014-11-07T01:15:20.070Z,"4 km SSW of Martigné-Briand, France",earthquake,,,,,reviewed,ldg,ldg
+2002-03-28T10:07:45.100Z,47.247,-3.612,15.0,3.8,ml,40.0,,,,us,usp000b18c,2014-11-07T01:15:15.157Z,"36 km WSW of Le Palais, France",earthquake,,,,,reviewed,ldg,ldg
+2002-03-18T15:18:54.900Z,42.987,-1.94,5.0,4.1,ml,81.0,,,,us,usp000b0jz,2014-11-07T01:15:11.949Z,"5 km SE of Betelu, Spain",earthquake,,,,,reviewed,ldg,ldg
+2002-03-14T13:32:46.900Z,46.674,-1.082,5.0,4.1,ml,46.0,,,,us,usp000b09s,2014-11-07T01:15:08.846Z,"2 km WSW of Chantonnay, France",earthquake,,,,,reviewed,ldg,ldg
+2004-03-13T20:00:18.500Z,48.029,7.992,14.0,3.6,ml,90.0,46.4,,,us,usp000cpvd,2014-11-07T01:21:41.761Z,"3 km WNW of Sankt Peter, Germany",earthquake,,,,,reviewed,ldg,fur
+2004-02-23T17:31:21.100Z,47.272,6.271,17.4,4.4,mb,281.0,9.0,,,us,usp000cmwa,2014-11-07T01:21:25.239Z,"5 km SSE of Roulans, France",earthquake,,,,6.0,reviewed,ldg,us
+2004-02-16T09:58:28.500Z,48.326,6.679,12.0,3.5,ml,66.0,30.4,,,us,usp000cmb4,2014-11-07T01:21:21.748Z,"1 km SSW of Jeanménil, France",earthquake,,,,,reviewed,ldg,ldg
+2004-02-03T21:16:13.500Z,42.576,0.83,3.0,4.0,ml,90.0,32.4,,,us,usp000ckbv,2014-11-07T01:21:16.871Z,"14 km SSE of Vielha, Spain",earthquake,,,,,reviewed,ldg,str
+2004-01-28T20:09:23.300Z,45.435,5.453,3.0,3.8,ml,124.0,33.3,,,us,usp000cjw1,2014-11-07T01:21:09.947Z,"2 km ESE of Châbons, France",earthquake,,,,,reviewed,ldg,ldg
+2004-01-13T11:39:35.100Z,43.399,-0.639,7.0,3.8,ml,54.0,68.1,,,us,usp000cht8,2014-11-07T01:21:03.634Z,"1 km NE of Lagor, France",earthquake,,,,,reviewed,ldg,ldg
+2003-11-05T10:21:30.800Z,47.956,-4.212,10.0,3.5,ml,29.0,160.6,,,us,usp000cc4c,2014-11-07T01:20:24.903Z,"3 km SW of Pluguffan, France",earthquake,,,,,reviewed,ldg,ldg
+2003-10-16T16:12:42.100Z,44.465,6.786,2.0,3.5,ml,86.0,31.2,,,us,usp000cahk,2014-11-07T01:20:12.727Z,"6 km NE of Jausiers, France",earthquake,,,,,reviewed,ldg,gen
+2003-10-13T03:28:18.700Z,43.413,-0.598,5.0,4.0,ml,87.0,67.9,,,us,usp000ca9g,2014-11-07T01:20:11.543Z,"2 km NW of Artix, France",earthquake,,,,,reviewed,ldg,ldg
+2003-08-19T19:53:40.400Z,45.978,2.802,5.0,3.8,ml,106.0,39.2,,,us,usp000c5cn,2014-11-07T01:19:33.143Z,"5 km NNW of Saint-Georges-de-Mons, France",earthquake,,,,,reviewed,ldg,ldg
+2003-08-19T17:12:53.300Z,45.968,2.812,2.0,3.5,ml,59.0,59.6,,,us,usp000c5c9,2014-11-07T01:19:33.102Z,"3 km NNW of Saint-Georges-de-Mons, France",earthquake,,,,,reviewed,ldg,ldg
+2003-06-10T22:54:13.600Z,48.91,7.865,7.0,3.5,ml,68.0,27.8,,,us,usp000bzkd,2014-11-07T01:18:54.271Z,"1 km E of Surbourg, France",earthquake,,,,,reviewed,ldg,ldg
+2003-05-25T23:03:32.400Z,45.144,6.477,6.0,4.0,ml,146.0,23.8,,,us,usp000by5b,2014-11-07T01:18:42.664Z,"4 km ESE of Valloire, France",earthquake,,,,,reviewed,ldg,pdg
+2003-05-05T03:08:45.000Z,47.054,-1.118,3.0,3.7,ml,56.0,66.2,,,us,usp000bwmy,2014-11-07T01:18:34.397Z,"1 km N of Torfou, France",earthquake,,,,,reviewed,ldg,ldg
+2003-04-18T02:54:36.600Z,41.948,2.746,2.0,3.6,ml,67.0,96.4,,,us,usp000bve6,2014-11-07T01:18:21.802Z,"1 km NW of Aiguaviva, Spain",earthquake,,,,,reviewed,ldg,str
+2003-03-24T07:54:22.700Z,47.648,6.678,17.0,3.6,ml,91.0,33.7,,,us,usp000btd1,2014-11-07T01:18:07.865Z,"5 km WSW of Frahier-et-Chatebier, France",earthquake,,,,,reviewed,ldg,ldg
+2005-02-09T15:20:44.800Z,41.977,2.587,4.0,3.6,ml,77.0,117.2,,,us,usp000dfsv,2014-11-07T01:24:57.690Z,"4 km WNW of Anglès, Spain",earthquake,,,,,reviewed,ldg,str
+2005-01-15T07:13:07.200Z,42.789,0.794,11.1,3.7,ml,93.0,26.7,,,us,usp000ddcj,2014-11-07T01:24:39.375Z,"7 km ESE of Les, Spain",earthquake,,,,,reviewed,ldg,str
+2005-01-09T20:58:31.100Z,49.359,6.923,1.0,3.7,ml,69.0,72.9,,,us,usp000dcxp,2014-11-07T01:24:36.361Z,"2 km NNW of Heusweiler, Germany",earthquake,,,,,reviewed,ldg,ldg
+2004-10-20T19:22:19.700Z,37.017,3.174,10.0,4.0,m,34.0,209.2,,,us,usp000d6rh,2014-11-07T01:23:47.377Z,"26 km NNW of Aïn Taya, Algeria",earthquake,,,,,reviewed,ldg,mdd
+2004-09-18T19:58:27.800Z,42.899,-1.492,2.0,3.6,ml,63.0,63.6,,,us,usp000d4k5,2014-11-07T01:23:30.710Z,"11 km NE of Huarte-Uharte, Spain",earthquake,,,,,reviewed,ldg,str
+2004-07-18T14:23:09.400Z,47.608,-3.535,16.4,3.8,ml,54.0,154.8,,,us,usp000d0ea,2014-11-07T01:22:55.623Z,"6 km WSW of Groix, France",earthquake,,,,,reviewed,ldg,ldg
+2004-06-12T04:44:34.400Z,45.703,6.952,3.0,3.7,ml,106.0,23.0,,,us,usp000cxr6,2014-11-07T01:22:37.055Z,"1 km S of La Thuile, Italy",earthquake,,,,,reviewed,ldg,ldg
+2004-06-04T04:56:51.300Z,42.313,2.197,8.0,3.5,ml,86.0,72.2,,,us,usp000cx29,2014-11-07T01:22:32.603Z,"2 km ENE of Ribes de Freser, Spain",earthquake,,,,,reviewed,ldg,ldg
+2004-03-13T20:00:18.500Z,48.029,7.992,14.0,3.6,ml,90.0,46.4,,,us,usp000cpvd,2014-11-07T01:21:41.761Z,"3 km WNW of Sankt Peter, Germany",earthquake,,,,,reviewed,ldg,fur
+2006-02-07T22:22:08.900Z,49.37,6.892,1.0,3.7,ml,45.0,101.1,,,us,usp000e9qz,2014-11-07T01:28:17.318Z,Germany,earthquake,,,,,reviewed,ldg,ldg
+2006-01-05T17:30:39.800Z,42.762,12.875,10.0,3.8,md,54.0,84.0,,,us,usp000e7ng,2014-11-07T01:28:04.029Z,"1 km NE of Meggiano, Italy",earthquake,,,,,reviewed,ldg,pdg
+2005-12-19T03:37:11.600Z,49.373,6.944,1.0,3.6,ml,70.0,66.8,,,us,usp000e6du,2014-11-07T01:27:54.899Z,"3 km SSW of Eppelborn, Germany",earthquake,,,,,reviewed,ldg,ldg
+2005-11-26T14:47:00.200Z,49.365,6.859,1.0,3.6,ml,58.0,77.8,,,us,usp000e4yh,2014-11-07T01:27:44.008Z,"4 km ENE of Saarwellingen, Germany",earthquake,,,,,reviewed,ldg,ldg
+2005-11-05T15:17:53.400Z,45.709,6.383,2.0,3.5,ml,99.0,27.5,,,us,usp000e3jn,2014-11-07T01:27:36.354Z,"2 km SW of Marthod, France",earthquake,,,,,reviewed,ldg,csem
+2005-11-05T00:30:08.600Z,43.044,0.088,3.0,3.7,ml,95.0,53.4,,,us,usp000e3h9,2014-11-07T01:27:36.043Z,"5 km WSW of Bagnères-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2005-10-31T03:39:59.200Z,45.725,6.411,2.0,4.1,ml,122.0,27.6,,,us,usp000e36c,2014-11-07T01:27:30.655Z,"0 km ESE of Marthod, France",earthquake,,,,,reviewed,ldg,ldg
+2005-10-01T23:19:33.400Z,45.041,5.738,8.0,3.5,ml,117.0,21.0,,,us,usp000e0pa,2014-11-07T01:27:15.175Z,"2 km E of Saint-Georges-de-Commiers, France",earthquake,,,,,reviewed,ldg,ldg
+2005-09-09T21:37:37.500Z,46.998,0.572,3.0,3.7,ml,62.0,53.0,,,us,usp000dz4j,2014-11-07T01:27:02.761Z,"3 km SW of La Celle-Saint-Avant, France",earthquake,,,,,reviewed,ldg,ldg
+2005-09-08T11:29:03.000Z,46.025,6.942,2.0,3.7,ml,11.0,119.9,,,us,usp000dz02,2014-11-07T01:27:02.096Z,"10 km SW of Martigny-Combe, Switzerland",earthquake,,,,,reviewed,ldg,ldg
+2005-07-16T09:52:55.100Z,43.343,-0.603,4.0,3.5,ml,64.0,67.4,,,us,usp000dvap,2014-11-07T01:26:30.234Z,"3 km NW of Monein, France",earthquake,,,,,reviewed,ldg,ldg
+2005-06-15T21:27:50.500Z,43.13,-0.66,7.0,3.5,ml,100.0,48.0,,,us,usp000dt5a,2014-11-07T01:26:13.785Z,Pyrenees,earthquake,,,,,reviewed,ldg,ldg
+2005-06-08T10:21:06.000Z,48.329,6.635,12.1,3.5,ml,80.0,26.7,,,us,usp000dsh0,2014-11-07T01:26:09.486Z,"1 km S of Rambervillers, France",earthquake,,,,,reviewed,ldg,ldg
+2005-05-10T20:26:38.900Z,49.355,6.939,2.0,3.8,ml,110.0,33.0,,,us,usp000dqdz,2014-11-07T01:25:51.097Z,"2 km NNE of Heusweiler, Germany",earthquake,,,,,reviewed,ldg,ldg
+2005-04-10T08:04:39.200Z,45.355,6.564,3.0,3.8,ml,122.0,30.5,,,us,usp000dmtf,2014-11-07T01:25:31.936Z,"5 km ESE of Saint-Martin-de-Belleville, France",earthquake,,,,,reviewed,ldg,ldg
+2005-04-02T04:33:53.100Z,44.738,6.781,2.0,3.5,ml,95.0,24.9,,,us,usp000dkz9,2014-11-07T01:25:27.437Z,"13 km NE of Guillestre, France",earthquake,,,,,reviewed,ldg,ldg
+2007-02-16T22:56:11.400Z,43.107,0.195,4.0,3.8,ml,83.0,57.3,,,us,usp000f4zv,2014-11-07T01:31:38.780Z,"5 km ENE of Pouzac, France",earthquake,,,,,reviewed,ldg,ldg
+2007-01-08T11:36:54.600Z,47.069,0.43,3.0,3.6,ml,46.0,52.1,,,us,usp000f1z3,2014-11-07T01:31:19.862Z,"5 km S of L'Île-Bouchard, France",earthquake,,,,,reviewed,ldg,ldg
+2006-12-19T20:39:58.100Z,46.464,-4.261,15.0,3.6,ml,51.0,153.9,,,us,usp000f0kg,2014-11-07T01:31:10.073Z,"129 km SW of Le Palais, France",earthquake,,,,,reviewed,ldg,ldg
+2006-11-18T20:34:20.100Z,43.014,-0.029,10.0,3.6,ml,73.0,49.8,,,us,usp000ey67,2014-11-07T01:30:53.753Z,"5 km ENE of Argelès-Gazost, France",earthquake,,,,,reviewed,ldg,ldg
+2006-11-05T00:37:40.400Z,47.281,0.113,6.0,4.1,ml,96.0,47.9,,,us,usp000ewn8,2014-11-07T01:30:45.361Z,"1 km WSW of Saint-Nicolas-de-Bourgueil, France",earthquake,,,,,reviewed,ldg,ldg
+2006-11-01T15:53:06.900Z,45.772,-1.079,5.0,3.6,ml,68.0,66.3,,,us,usp000ewe3,2014-11-07T01:30:42.114Z,"4 km NNE of Étaules, France",earthquake,,,,,reviewed,ldg,ldg
+2006-10-24T17:31:48.900Z,43.875,7.648,3.0,3.8,ml,121.0,49.6,,,us,usp000evya,2014-11-07T01:30:37.585Z,"0 km SE of Isolabona, Italy",earthquake,,,,,reviewed,ldg,ldg
+2006-09-13T13:05:02.000Z,46.295,1.518,8.0,3.8,ml,59.0,49.8,,,us,usp000et15,2014-11-07T01:30:13.173Z,"1 km NNE of Saint-Agnant-de-Versillat, France",earthquake,,,,,reviewed,ldg,ldg
+2006-09-02T01:21:31.500Z,43.952,7.68,2.0,4.3,ml,156.0,80.5,,,us,usp000es9f,2014-11-07T01:30:08.265Z,"2 km NE of Pigna, Italy",earthquake,,,,,reviewed,ldg,ldg
+2006-07-20T01:02:48.300Z,44.2,15.9,2.0,3.8,ml,43.0,93.7,,,us,usp000ep56,2014-11-07T01:29:43.542Z,"11 km SSE of Gra?ac, Croatia",earthquake,,,,,reviewed,ldg,pdg
+2008-02-23T15:30:56.200Z,49.364,6.845,2.0,4.5,mb,132.0,34.6,,,us,usp000fzsc,2020-09-18T22:06:34.957Z,"3 km ENE of Saarwellingen, Germany",earthquake,,,,3.0,reviewed,ldg,us
+2008-02-15T07:34:04.700Z,42.352,0.601,4.0,3.9,ml,84.0,36.2,,,us,usp000fyyp,2014-11-07T01:34:57.255Z,"9 km SSW of Bonansa, Spain",earthquake,,,,,reviewed,ldg,str
+2008-02-01T00:36:43.800Z,46.051,2.927,3.0,3.6,ml,57.0,50.7,,,us,usp000fxw8,2014-11-07T01:34:49.242Z,"8 km ENE of Saint-Gervais-d'Auvergne, France",earthquake,,,,,reviewed,ldg,ldg
+2008-01-04T09:53:41.500Z,49.386,6.845,2.0,3.5,ml,39.0,84.4,,,us,usp000fvye,2014-11-07T01:34:36.531Z,"4 km E of Nalbach, Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-11T20:29:15.000Z,49.373,6.804,10.0,3.7,ml,60.0,96.5,,,us,usp000fu9m,2014-11-07T01:34:23.954Z,"1 km SE of Nalbach, Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-12-05T13:51:03.600Z,49.394,6.852,1.0,3.8,ml,49.0,84.6,,,us,usp000ftw1,2014-11-07T01:34:21.503Z,"4 km S of Schmelz, Germany",earthquake,,,,,reviewed,ldg,ldg
+2007-11-25T03:10:20.400Z,50.445,5.869,13.0,3.7,ml,53.0,182.4,,,us,usp000ft86,2014-11-07T01:34:14.440Z,"4 km NNE of La Gleize, Belgium",earthquake,,,,,reviewed,ldg,ldg
+2007-10-28T13:48:52.400Z,46.88,-1.958,4.0,3.5,ml,52.0,87.8,,,us,usp000frfk,2014-11-07T01:34:00.251Z,"2 km N of Sallertaine, France",earthquake,,,,,reviewed,ldg,ldg
+2007-10-21T03:55:36.400Z,42.412,13.071,10.0,4.3,mb,120.0,48.9,,,us,usp000fqzn,2014-11-07T01:33:58.071Z,"0 km SW of Antrodoco, Italy",earthquake,,,,5.0,reviewed,ldg,us
+2007-10-08T03:50:27.800Z,48.219,-3.489,11.3,3.5,ml,36.0,201.6,,,us,usp000fq3e,2014-11-07T01:33:51.987Z,"6 km W of Glomel, France",earthquake,,,,,reviewed,ldg,str
+2007-10-05T06:05:23.100Z,45.003,6.53,2.0,3.7,ml,87.0,28.5,,,us,usp000fpx9,2014-11-07T01:33:50.968Z,"3 km NNE of Le Monêtier-les-Bains, France",earthquake,,,,,reviewed,ldg,ldg
+2007-08-19T07:32:55.100Z,48.335,6.647,11.3,3.9,ml,81.0,32.3,,,us,usp000fk68,2014-11-07T01:33:19.229Z,"1 km SE of Rambervillers, France",earthquake,,,,,reviewed,ldg,ldg
+2009-02-09T08:38:30.300Z,43.12,-0.246,3.0,4.2,ml,62.0,57.1,,,us,usp000gtk0,2014-11-07T01:38:21.310Z,"2 km SSE of Asson, France",earthquake,,,,,reviewed,ldg,str
+2008-12-24T12:22:58.100Z,44.596,10.541,20.0,3.8,ml,66.0,73.3,,,us,usp000grcc,2014-11-07T01:38:02.244Z,"0 km SSW of Vezzano sul Crostolo, Italy",earthquake,,,,,reviewed,ldg,zamg
+2008-12-23T15:18:21.600Z,44.587,10.587,30.0,3.6,ml,51.0,134.0,,,us,usp000gr90,2014-11-07T01:38:01.509Z,"3 km ESE of Vezzano sul Crostolo, Italy",earthquake,,,,,reviewed,ldg,zamg
+2008-07-16T20:33:34.200Z,43.169,-0.375,5.0,4.4,ml,119.0,60.6,,,us,usp000gcbx,2014-11-07T01:36:38.899Z,"4 km SSW of Bosdarros, France",earthquake,,,,,reviewed,ldg,ldg
+2008-07-13T13:45:49.900Z,50.632,4.576,4.0,3.8,ml,72.0,94.1,,,us,usp000gc23,2014-11-07T01:36:37.397Z,"0 km ESE of Court-Saint-Étienne, Belgium",earthquake,,,,,reviewed,ldg,ldg
+2008-06-25T15:31:42.400Z,43.013,0.046,3.0,3.5,ml,53.0,72.0,,,us,usp000gahz,2014-11-07T01:36:26.030Z,"10 km SW of Bagnères-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2008-05-18T01:57:22.500Z,43.115,-0.139,5.0,4.0,mb,133.0,57.0,,,us,usp000g74a,2014-11-07T01:36:02.319Z,"2 km NE of Saint-Pé-de-Bigorre, France",earthquake,,,,3.0,reviewed,ldg,us
+2008-05-03T12:14:22.200Z,42.993,0.254,4.0,4.1,ml,106.0,39.4,,,us,usp000g5dm,2014-11-07T01:35:50.469Z,"6 km ESE of Campan, France",earthquake,,,,,reviewed,ldg,ldg
+2010-11-14T22:13:55.600Z,43.117,-0.158,2.0,4.0,ml,42.0,130.5,,,us,usp000hpn9,2014-11-07T01:42:55.311Z,"1 km N of Saint-Pé-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2010-11-09T18:23:35.300Z,42.064,6.854,18.3,4.5,mb,76.0,57.5,,,us,usp000hpb9,2014-11-07T01:42:53.495Z,"125 km SSE of Le Lavandou, France",earthquake,,,,6.0,reviewed,ldg,us
+2010-09-28T11:29:39.800Z,45.954,-1.423,2.0,4.2,mb,68.0,113.2,,,us,usp000hma0,2014-11-07T01:42:31.516Z,"9 km W of Saint-Pierre-d'Oléron, France",earthquake,,,,1.0,reviewed,ldg,us
+2010-07-25T16:34:19.100Z,46.403,0.474,2.0,4.0,ml,45.0,73.2,,,us,usp000hgt0,2014-11-07T01:42:01.526Z,"5 km ENE of Saint-Maurice-la-Clouère, France",earthquake,,,,,reviewed,ldg,ldg
+2010-06-30T11:53:45.000Z,45.41,6.474,2.0,4.3,ml,85.0,50.4,,,us,usp000heqt,2014-11-07T01:41:45.925Z,"3 km NW of Saint-Martin-de-Belleville, France",earthquake,,,,,reviewed,ldg,str
+2010-06-30T07:15:14.300Z,46.474,-0.784,3.0,4.2,ml,64.0,126.3,,,us,usp000heqh,2014-11-07T01:41:45.855Z,"1 km ENE of Fontenay-le-Comte, France",earthquake,,,,,reviewed,ldg,ldg
+2010-04-01T01:36:39.500Z,42.975,0.268,15.0,4.3,ml,66.0,44.3,,,us,usp000ha6g,2014-11-07T01:41:07.988Z,"8 km ESE of Campan, France",earthquake,,,,,reviewed,ldg,ldg
+2012-03-02T07:15:50.780Z,44.489,6.705,10.0,4.5,mb,78.0,37.8,,,us,usp000jfpa,2014-11-07T01:47:09.240Z,"8 km NNW of Jausiers, France",earthquake,,,,4.0,reviewed,ldg,us
+2011-08-03T01:36:13.800Z,44.299,4.399,4.0,4.3,ml,70.0,81.8,,,us,usp000j5vy,2014-11-07T01:45:32.947Z,"4 km ESE of Barjac, France",earthquake,,,,,reviewed,ldg,ldg
+2011-07-07T19:21:46.800Z,41.948,7.698,10.9,5.1,mwc,410.0,29.9,,,us,usp000j4b6,2015-03-24T01:18:48.116Z,"77 km WSW of Cargèse, France",earthquake,,,,,reviewed,ldg,gcmt
+2013-03-06T22:40:58.900Z,46.208,-1.515,2.0,3.9,ml,17.0,176.6,,,us,usp000jzny,2014-11-07T01:50:18.494Z,"0 km E of Ars-en-Ré, France",earthquake,,,,,reviewed,ldg,ldg
+2013-01-07T04:20:24.100Z,44.768,6.637,7.0,4.1,ml,71.0,40.5,,,us,usp000jy0g,2014-11-07T01:49:47.337Z,"7 km SE of Saint-Martin-de-Queyrières, France",earthquake,,,,,reviewed,ldg,ldg
+2013-01-05T23:26:12.400Z,43.069,-0.216,2.0,4.1,ml,56.0,119.5,,,us,usp000jxxw,2014-11-07T01:49:46.962Z,"5 km SW of Saint-Pé-de-Bigorre, France",earthquake,,,,,reviewed,ldg,ldg
+2012-12-30T23:35:02.590Z,43.183,-0.233,2.0,4.8,ml,80.0,66.6,,,us,usp000jxn1,2014-11-07T01:49:41.171Z,"1 km N of Coarraze, France",earthquake,,,,,reviewed,ldg,ldg
+2012-05-20T02:25:05.000Z,44.917,11.435,2.0,4.2,mb,31.0,55.2,,,us,usp000jknb,2014-11-07T01:47:49.606Z,"3 km NNE of Bondeno, Italy",earthquake,,,,3.0,reviewed,ldg,us
+2012-05-20T02:21:53.600Z,44.91,11.274,2.0,4.2,mb,53.0,55.0,,,us,usp000jkna,2014-11-07T01:47:49.601Z,"5 km WNW of Scortichino, Italy",earthquake,,,,1.0,reviewed,ldg,us
+2012-03-02T07:15:50.780Z,44.489,6.705,10.0,4.5,mb,78.0,37.8,,,us,usp000jfpa,2014-11-07T01:47:09.240Z,"8 km NNW of Jausiers, France",earthquake,,,,4.0,reviewed,ldg,us
+2013-12-11T22:49:09.000Z,48.267,-4.25,2.0,3.5,ml,,,,1.36,us,usc000lim7,2022-07-26T03:18:02.675Z,"6 km WSW of Le Faou, France",earthquake,,2.0,,,reviewed,ldg,ldg
+2013-11-21T09:53:06.300Z,47.6928,-2.8274,4.0,4.5,mb,,89.0,0.32,1.35,us,usb000l3gp,2022-07-26T02:06:16.578Z,"1 km WSW of Plescop, France",earthquake,,5.6,0.312,,reviewed,ldg,us
+2013-03-23T02:57:40.300Z,42.855,-1.797,2.0,4.2,ml,54.0,119.3,,,us,us2013ncad,2014-11-07T01:50:22.500Z,"2 km WNW of Oltza, Spain",earthquake,,,,,reviewed,ldg,ldg
+2013-03-06T22:40:58.900Z,46.208,-1.515,2.0,3.9,ml,17.0,176.6,,,us,usp000jzny,2014-11-07T01:50:18.494Z,"0 km E of Ars-en-Ré, France",earthquake,,,,,reviewed,ldg,ldg
+2015-02-25T22:55:07.500Z,49.0,-2.4,2.0,3.7,ml,,,,0.82,us,usc000tt9q,2022-07-27T23:15:00.195Z,"30 km SW of Saint Helier, Jersey",earthquake,3.8,6.8,,,reviewed,ldg,ldg
+2014-07-14T03:09:25.500Z,44.4833,6.6833,2.0,4.1,mb,,,,0.96,us,usb000rsq4,2014-10-10T08:02:17.000Z,"8 km NNW of Jausiers, France",earthquake,,5.5,0.234,5.0,reviewed,ldg,us
+2014-06-22T01:32:15.300Z,44.48,6.69,2.0,4.0,ml,,,,0.74,us,usc000rjvd,2014-09-19T17:23:04.000Z,"7 km NNW of Jausiers, France",earthquake,,6.3,,,reviewed,ldg,ldg
+2015-11-06T04:03:05.100Z,44.444,6.697,2.0,3.8,mwr,,,,1.13,us,us10003v3y,2022-08-01T16:08:49.722Z,"3 km NW of Jausiers, France",earthquake,6.0,2.9,0.042,54.0,reviewed,ldg,us
+2016-12-11T21:27:23.000Z,48.49,-4.46,2.0,3.9,ml,,,,1.15,us,us2000802d,2017-03-09T02:14:28.040Z,"2 km WSW of Plabennec, France",earthquake,5.1,6.8,,,reviewed,ldg,ldg
+2016-12-03T09:01:43.000Z,47.06,5.43,2.0,4.1,ml,,,,1.14,us,us10007ela,2017-03-03T07:06:00.040Z,"2 km SE of Damparis, France",earthquake,4.3,6.8,,,reviewed,ldg,ldg
+2016-10-01T23:17:39.000Z,46.04,6.87,2.0,3.8,ml,,,,1.45,us,us10006ukc,2017-03-20T19:44:07.354Z,"12 km ESE of Samoëns, France",earthquake,5.6,7.8,,,reviewed,ldg,ldg
+2016-05-02T10:36:57.300Z,47.07,0.47,2.0,4.2,ml,,,,1.37,us,us10005gi0,2016-07-19T20:03:09.040Z,"6 km SE of L'Île-Bouchard, France",earthquake,4.6,6.0,,,reviewed,ldg,ldg

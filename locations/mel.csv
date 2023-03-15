@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2000-08-29T12:05:51.670Z,-38.385,146.226,12.2,5.0,ml,21.0,,,,us,usp0009zbk,2020-07-08T01:00:57.162Z,"5 km ENE of Mirboo North, Australia",earthquake,,,,,reviewed,mel,aust

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1996-05-30T10:00:37.800Z,47.44,-115.82,1.0,3.6,ml,,,,,us,usp0007hy5,2014-11-07T01:00:29.637Z,"3 km SSW of Mullan, Idaho",earthquake,,,,,reviewed,macr,but
+2000-12-16T22:08:54.000Z,35.4,-101.8,5.0,3.9,mblg,8.0,,,,us,usp000a66c,2014-11-07T01:11:44.337Z,"19 km N of Amarillo, Texas",earthquake,,,,,reviewed,macr,us
+2008-02-29T04:46:00.000Z,-3.7,-40.35,10.0,4.3,mb,3.0,183.0,,,us,usp000g09e,2014-11-07T01:35:05.072Z,"1 km S of Sobral, Brazil",earthquake,,,,1.0,reviewed,macr,us
+2009-08-28T02:09:06.000Z,35.565,-97.29,5.0,3.5,mblg,4.0,132.1,,,us,usp000h0y9,2022-07-15T16:43:11.567Z,"0 km WSW of Jones, Oklahoma",earthquake,,,,,reviewed,macr,us

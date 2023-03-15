@@ -1,0 +1,11 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2005-03-11T21:14:22.490Z,47.067,82.859,0.0,3.9,mb,27.0,60.0,,,us,usp000dj0j,2014-11-07T01:25:13.460Z,"93 km E of Urzhar, Kazakhstan",earthquake,,,,6.0,reviewed,nnc,us
+2006-01-10T12:59:53.700Z,40.312,71.145,28.1,3.6,mb,11.0,202.5,,,us,usp000e7zc,2014-11-07T01:28:05.545Z,"28 km ESE of Yaypan, Uzbekistan",earthquake,,,,1.0,reviewed,nnc,us
+2005-12-28T01:52:49.000Z,42.736,75.375,2.9,4.1,mb,37.0,120.7,,,us,usp000e72m,2014-11-07T01:27:57.716Z,"13 km SSE of Tokmok, Kyrgyzstan",earthquake,,,,8.0,reviewed,nnc,us
+2005-12-03T20:21:38.870Z,37.95,70.495,0.0,3.8,mb,6.0,294.4,,,us,usp000e5f5,2014-11-07T01:27:50.037Z,"44 km ESE of M?’minobod, Tajikistan",earthquake,,,,1.0,reviewed,nnc,us
+2005-09-11T23:27:21.720Z,36.27,70.934,103.1,4.1,mb,4.0,296.3,,,us,usp000dz9c,2014-11-07T01:27:03.461Z,"66 km S of Jurm, Afghanistan",earthquake,,,,3.0,reviewed,nnc,us
+2005-08-23T22:09:00.940Z,44.842,78.746,6.2,3.5,m,9.0,169.7,,,us,usp000dxx5,2014-11-07T01:26:51.784Z,"6 km W of Tekeli, Kazakhstan",earthquake,,,,,reviewed,nnc,nnc
+2005-08-16T17:21:04.600Z,43.64,77.312,0.0,3.5,m,8.0,169.6,,,us,usp000dxfs,2014-11-07T01:26:49.669Z,"32 km SE of Kapshagay, Kazakhstan",earthquake,,,,,reviewed,nnc,nnc
+2005-06-23T18:00:09.540Z,48.027,67.447,2.7,4.0,mb,19.0,92.4,,,us,usp000dtrx,2014-11-07T01:26:16.613Z,"36 km NW of Zhezqazghan, Kazakhstan",earthquake,,,,4.0,reviewed,nnc,us
+2005-05-24T22:34:54.910Z,44.23,77.84,18.7,3.5,m,12.0,168.4,,,us,usp000drhd,2014-11-07T01:25:57.962Z,"18 km SW of Saryozek, Kazakhstan",earthquake,,,,,reviewed,nnc,nnc
+2005-03-11T21:14:22.490Z,47.067,82.859,0.0,3.9,mb,27.0,60.0,,,us,usp000dj0j,2014-11-07T01:25:13.460Z,"93 km E of Urzhar, Kazakhstan",earthquake,,,,6.0,reviewed,nnc,us

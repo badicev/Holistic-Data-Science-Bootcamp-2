@@ -1,0 +1,34 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1991-01-14T16:24:57.340Z,58.269,-142.691,10.0,4.5,mb,,,,,us,usp0004kpv,2020-09-14T18:46:00.484Z,"222 km SW of Yakutat, Alaska",earthquake,,,,5.0,reviewed,aei,us
+1992-01-14T06:15:57.990Z,57.665,-142.849,10.0,3.9,ml,,,,,us,usp00051sm,2020-09-14T19:21:40.486Z,"277 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,pmr
+1991-10-30T21:53:18.030Z,58.222,-142.808,10.0,3.9,mb,,,,,us,usp0004ymw,2020-09-14T19:12:18.885Z,"230 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1991-10-27T17:53:12.310Z,57.609,-143.104,10.0,3.7,ml,,,,,us,usp0004yg0,2020-09-14T19:12:33.188Z,"291 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,aei
+1991-10-22T20:38:58.200Z,64.63,-138.306,26.7,4.8,mb,,,,,us,usp0004y6j,2020-09-14T19:13:06.874Z,"83 km NE of Dawson City, Canada",earthquake,,,,18.0,reviewed,aei,us
+1991-10-12T05:51:11.690Z,58.216,-142.892,10.0,4.2,mb,,,,,us,usp0004xqg,2020-09-14T19:14:02.325Z,"235 km SW of Yakutat, Alaska",earthquake,,,,2.0,reviewed,aei,us
+1991-09-20T22:30:20.440Z,57.664,-142.962,10.0,3.9,ml,,,,,us,usp0004wuy,2020-09-14T19:10:34.424Z,"281 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,aei
+1991-08-25T16:31:08.780Z,56.028,-149.922,10.0,4.1,mb,,,,,us,usp0004vv4,2020-09-14T19:07:29.045Z,"227 km SE of Chiniak, Alaska",earthquake,,,,3.0,reviewed,aei,us
+1991-07-09T22:42:10.010Z,54.647,-139.965,10.0,3.9,ml,,,,,us,usp0004tyd,2020-09-14T19:06:01.251Z,West of the Queen Charlotte Islands,earthquake,,,,,reviewed,aei,aei
+1991-05-18T23:04:08.070Z,58.031,-142.693,10.0,4.4,mb,,,,,us,usp0004ru2,2020-09-14T18:58:19.417Z,"240 km SW of Yakutat, Alaska",earthquake,,,,3.0,reviewed,aei,us
+1991-03-21T03:31:44.840Z,57.421,-143.064,10.0,4.0,mb,,,,,us,usp0004pax,2020-09-14T18:51:09.424Z,Gulf of Alaska,earthquake,,,,2.0,reviewed,aei,us
+1993-01-25T07:53:59.870Z,54.827,-160.155,6.2,5.0,mb,,,,,us,usp0005m7f,2020-09-14T19:51:38.887Z,"60 km SSE of Sand Point, Alaska",earthquake,,,,35.0,reviewed,aei,us
+1993-01-22T10:36:34.050Z,57.818,-143.102,10.0,4.4,ml,,,,,us,usp0005m39,2020-09-14T19:51:53.743Z,"274 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,pgc
+1993-01-21T07:35:52.910Z,58.112,-142.738,10.0,3.5,mb,,,,,us,usp0005m16,2020-09-14T19:51:57.472Z,"236 km SW of Yakutat, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1993-01-18T11:47:22.280Z,60.555,-140.717,3.4,4.3,ml,,,,,us,usp0005kx6,2020-09-14T19:52:06.696Z,"125 km NNW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,pmr
+1992-10-12T23:13:29.570Z,68.108,-157.596,10.0,3.9,mb,,,,,us,usp0005f8t,2014-11-07T00:51:39.654Z,"114 km N of Ambler, Alaska",earthquake,,,,2.0,reviewed,aei,us
+1992-10-06T14:19:09.100Z,58.486,-154.895,108.3,3.8,mb,,,,,us,usp0005f0h,2014-11-07T00:51:38.238Z,"105 km ESE of King Salmon, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1992-09-17T07:55:38.360Z,58.952,-142.769,10.0,3.5,ml,,,,,us,usp0005e3v,2020-09-14T19:44:23.893Z,"185 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,pgc
+1992-09-12T12:03:48.580Z,56.247,-150.127,19.7,4.1,mb,,,,,us,usp0005dwy,2020-09-14T19:44:42.356Z,"200 km SE of Chiniak, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1992-08-11T18:27:46.860Z,57.601,-143.057,10.0,3.7,ml,,,,,us,usp0005cag,2020-09-14T19:42:35.395Z,"290 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,aei
+1992-08-08T01:46:24.930Z,57.459,-142.771,10.0,3.5,ml,,,,,us,usp0005c57,2020-09-14T19:42:53.404Z,"292 km SW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,aei
+1992-07-16T04:28:42.620Z,57.133,-143.097,10.0,3.7,ml,,,,,us,usp0005axd,2020-09-14T19:39:27.177Z,Gulf of Alaska,earthquake,,,,,reviewed,aei,aei
+1992-05-16T02:55:59.910Z,58.987,-160.279,0.0,4.2,ml,,,,,us,usp00057ew,2014-11-07T00:50:37.865Z,"10 km SE of Togiak, Alaska",earthquake,,,,,reviewed,aei,aei
+1992-05-12T22:57:10.430Z,54.069,-156.317,69.3,4.0,mb,,,,,us,usp0005794,2020-09-14T19:33:37.072Z,"273 km SE of Perryville, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1994-02-02T12:09:25.090Z,60.954,-140.215,0.0,4.0,mb,,,,,us,usp00067w2,2020-09-14T20:23:44.197Z,"148 km W of Haines Junction, Canada",earthquake,,,,8.0,reviewed,aei,us
+1993-10-21T19:14:35.950Z,67.58,-161.632,10.0,4.1,mb,,,,,us,usp00062de,2014-11-07T00:54:14.113Z,"56 km E of Noatak, Alaska",earthquake,,,,1.0,reviewed,aei,us
+1993-09-12T22:50:34.940Z,54.382,-161.591,1.7,4.6,mb,,,,,us,usp000607u,2020-09-14T20:11:51.465Z,"88 km SSE of King Cove, Alaska",earthquake,,,,2.0,reviewed,aei,us
+1993-08-26T11:47:04.370Z,59.918,-140.916,0.0,3.7,ml,,,,,us,usp0005z8a,2014-11-07T00:53:48.857Z,"78 km WNW of Yakutat, Alaska",earthquake,,,,,reviewed,aei,aei
+1993-06-22T04:12:53.950Z,55.097,-159.984,22.9,4.1,ml,,,,,us,usp0005uzx,2014-11-07T00:53:17.951Z,"42 km SE of Sand Point, Alaska",earthquake,,,,,reviewed,aei,aei
+1993-03-24T03:12:42.240Z,66.206,-140.596,10.0,3.9,ml,,,,,us,usp0005q0u,2020-09-14T19:56:05.371Z,"148 km ESE of Chalkyitsik, Alaska",earthquake,,,,,reviewed,aei,aei
+1994-08-08T23:31:17.660Z,64.76,-140.4,24.7,4.0,ml,,,,,us,usp0006gqp,2020-09-14T20:37:54.837Z,"34 km E of Eagle Village, Alaska",earthquake,,,,,reviewed,aei,pgc
+1994-07-18T03:03:44.630Z,54.581,-153.248,19.4,3.9,mb,,,,,us,usp0006fuj,2014-11-07T00:55:52.702Z,"269 km SSE of Akhiok, Alaska",earthquake,,,,5.0,reviewed,aei,us
+1994-04-26T08:11:20.970Z,63.3,-134.36,0.0,3.5,ml,,,,,us,usp0006bnh,2020-09-14T20:26:32.478Z,"264 km ESE of Dawson City, Canada",earthquake,,,,,reviewed,aei,aei

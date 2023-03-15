@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1996-07-25T04:14:03.930Z,18.9,-155.25,10.0,4.2,mb,,,,,us,usp0007mk9,2014-11-07T01:00:50.290Z,"39 km ESE of Naalehu, Hawaii",earthquake,,,,1.0,reviewed,spec,us
+1996-07-24T10:54:21.410Z,18.9,-155.25,10.0,4.4,mb,,,,,us,usp0007mj2,2014-11-07T01:00:50.127Z,"39 km ESE of Naalehu, Hawaii",earthquake,,,,4.0,reviewed,spec,us
+1997-12-31T13:32:06.600Z,34.55,-106.15,5.0,3.5,ml,,,,,us,usp0008dfx,2014-11-07T01:04:12.462Z,"8 km ENE of Mountainair, New Mexico",earthquake,,,,,reviewed,spec,us
+1997-10-26T23:27:12.000Z,31.1,-87.3,10.0,3.7,mblg,,,,,us,usp00089nk,2022-06-28T14:56:29.971Z,"11 km NNW of Flomaton, Alabama",earthquake,,,,,reviewed,spec,us
+2006-02-10T04:14:22.200Z,27.828,-90.21,5.0,5.3,ms,53.0,122.6,,,us,usp000e9v9,2022-07-13T00:17:37.575Z,"157 km S of Grand Isle, Louisiana",earthquake,,,,103.0,reviewed,spec,us
+2006-04-26T05:37:08.000Z,-60.7,153.0,10.0,4.8,mwc,4.0,199.8,,,us,usp000efhr,2016-11-10T01:21:09.117Z,west of Macquarie Island,earthquake,,,,,reviewed,spec,hrv
+2010-04-25T02:10:42.770Z,27.708,-97.845,5.0,3.9,mblg,67.0,63.1,,,us,usp000hbvf,2022-08-08T18:59:03.854Z,"10 km WNW of Driscoll, Texas",earthquake,,,,,reviewed,spec,us
+2013-02-15T03:20:26.000Z,55.15,61.41,0.0,4.2,mblg,11.0,135.7,,,us,usc000f7rz,2022-08-06T14:54:04.119Z,"1 km WSW of Chelyabinsk, Russia",earthquake,,,,,reviewed,spec,us

@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2006-01-04T22:54:37.720Z,-24.43,-50.689,10.0,4.3,mblg,4.0,136.5,,,us,usp000e7kz,2014-11-07T01:28:03.840Z,"13 km SSW of Telêmaco Borba, Brazil",earthquake,,,,,reviewed,bdf,bdf
+2005-07-20T16:41:25.000Z,-11.6,-56.8,3.0,4.3,mb,18.0,84.3,,,us,usp000dvk5,2014-11-07T01:26:31.252Z,"144 km WNW of Sinop, Brazil",earthquake,,,,6.0,reviewed,bdf,us
+2015-11-25T18:47:56.000Z,-10.4,-70.54,655.0,4.3,mb,,,,1.04,us,us100041au,2016-02-18T04:48:55.040Z,"121 km WNW of Iñapari, Peru",earthquake,9.9,5.4,0.039,184.0,reviewed,bdf,us

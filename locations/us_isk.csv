@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-09-16T10:31:39.640Z,39.006,41.4143,6.5,4.1,mb,,,,1.38,us,usc000jvbx,2013-11-19T17:38:13.000Z,"18 km S of Varto, Turkey",earthquake,,6.2,0.522,,reviewed,us_isk,us
+2013-09-07T23:59:44.430Z,38.453,30.6133,4.6,4.0,mb,,,,0.76,us,usb000jldi,2013-11-15T03:20:28.000Z,"10 km SE of ?uhut, Turkey",earthquake,,4.9,0.134,,reviewed,us_isk,us
+2013-08-29T06:20:34.940Z,40.3423,27.4427,14.1,4.4,mb,,,,0.73,us,usb000jd1a,2013-11-06T01:33:32.000Z,"21 km NE of Biga, Turkey",earthquake,,2.6,0.379,,reviewed,us_isk,us
+2013-08-17T18:16:31.000Z,40.4095,29.1213,5.7,4.1,mb,,,,0.7,us,usb000j5ms,2013-10-19T02:41:48.000Z,"4 km SW of Gemlik, Turkey",earthquake,,6.3,0.198,,reviewed,us_isk,us
+2013-08-07T05:20:31.840Z,39.1985,29.4525,9.6,4.4,mb,,,,0.88,us,usb000ix8w,2013-10-12T21:32:30.000Z,"23 km SE of Emet, Turkey",earthquake,,4.3,0.24,,reviewed,us_isk,us

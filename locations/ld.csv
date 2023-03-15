@@ -1,0 +1,21 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2002-04-20T11:04:42.420Z,44.4898333,-73.6898333,5.0,3.7,mlg,8.0,88.0,0.3575,0.26,ld,ld2002042001,2022-07-12T22:41:23.409Z,"5 km NNW of Au Sable Forks, New York",earthquake,0.6,31.61,,,reviewed,ld,ld
+2002-04-20T10:50:47.450Z,44.5123333,-73.6973333,4.83,5.3,mlg,11.0,91.0,0.3375,0.18,ld,ld2002042000,2022-07-12T22:43:31.502Z,"8 km NNW of Au Sable Forks, New York",earthquake,0.5,1.73,,,reviewed,ld,ld
+2006-02-25T01:39:22.790Z,45.6275,-75.2003333,10.56,3.96,md,16.0,164.0,,0.24,ld,ld2006022500,2022-08-09T09:18:30.939Z,"4 km NE of Thurso, Canada",earthquake,0.46,0.88,,,reviewed,ld,ld
+2006-01-09T15:35:40.590Z,45.0255,-73.8815,12.69,3.72,md,13.0,78.0,,0.24,ld,ld2006010900,2022-07-12T22:01:18.606Z,"2 km ESE of Franklin, Canada",earthquake,0.45,1.17,,,reviewed,ld,ld
+2006-10-03T00:07:38.150Z,44.3666667,-68.1468333,10.0,3.66,md,23.0,171.0,,0.63,ld,ld2006100300,2022-08-09T09:19:36.124Z,"5 km ESE of Bar Harbor, Maine",earthquake,1.23,31.61,,,reviewed,ld,ld
+2006-07-14T09:34:48.830Z,46.8763333,-68.6856667,13.81,3.86,md,32.0,149.0,,0.59,ld,ld2006071400,2021-05-13T21:57:00.518Z,"13 km SW of Winterville, Maine",earthquake,1.24,1.43,,,reviewed,ld,ld
+2009-11-02T03:16:45.290Z,46.1083333,-74.7528333,3.92,3.59,md,21.0,106.0,0.1775,0.18,ld,ld2009110200,2022-07-15T20:22:16.062Z,"5 km S of Lac-Simon, Canada",earthquake,0.24,0.58,,,reviewed,ld,ld
+2010-11-30T15:45:57.040Z,39.9546667,-71.571,19.92,3.68,ml,36.0,232.0,1.705,0.51,ld,ld2010113000,2022-07-19T01:00:32.495Z,"123 km SSE of Wainscott, New York",earthquake,3.6,5.35,0.14,,reviewed,ld,ld
+2010-07-23T17:24:22.000Z,46.5,-71.62,18.0,3.51,ml,0.0,,2.733,,ld,ld60004916,2022-08-09T09:21:33.767Z,"18 km S of Saint-Antoine-de-Tilly, Canada",earthquake,,,0.15,0.0,reviewed,ld,ld
+2010-07-16T09:04:47.800Z,39.2606667,-77.4103333,7.03,3.6,ml,23.0,176.0,0.4666,0.4,ld,ld2010071600,2023-02-14T09:47:31.656Z,"5 km NNW of Barnesville, Maryland",earthquake,1.02,0.87,0.17,,reviewed,ld,ld
+2010-06-23T17:41:42.700Z,45.8835,-75.475,18.89,5.35,ml,56.0,82.0,,0.28,ld,ld2010062300,2022-08-09T06:08:58.089Z,"29 km NNE of Val-des-Monts, Canada",earthquake,0.25,0.31,0.2,,reviewed,ld,ld
+2011-12-31T20:05:01.060Z,41.1215,-80.6843333,5.0,4.0,ml,9.0,138.0,0.5495,0.23,ld,ld60029101,2022-08-06T08:43:05.710Z,"3 km NW of Youngstown, Ohio",earthquake,0.5,31.61,0.14,13.0,reviewed,ld,ld
+2011-09-18T19:19:14.040Z,45.6013333,-75.2345,5.0,3.84,ml,20.0,222.0,0.1991,0.22,ld,ld60026001,2022-07-23T05:39:45.106Z,"1 km E of Thurso, Canada",earthquake,0.59,31.61,0.17,10.0,reviewed,ld,ld
+2011-03-16T17:36:56.460Z,45.6165,-74.537,10.0,3.87,ml,13.0,241.0,0.9973,0.45,ld,ld60013616,2022-08-09T09:26:20.261Z,"6 km ENE of Hawkesbury, Canada",earthquake,1.68,31.61,0.21,14.0,reviewed,ld,ld
+2012-11-06T09:05:28.400Z,45.6185,-74.601,11.07,3.74,ml,21.0,204.0,0.6211,0.23,ld,ld60036901,2021-05-13T21:58:39.376Z,"Ontario-Quebec border region, Canada",earthquake,0.52,0.75,0.17,47.0,reviewed,ld,ld
+2012-10-16T23:12:25.080Z,43.5973333,-70.656,16.09,4.67,ml,27.0,116.0,,0.27,ld,ld60036706,2021-05-13T21:58:36.254Z,"5 km W of Hollis Center, Maine",earthquake,0.47,0.79,0.15,42.0,reviewed,ld,ld
+2012-10-10T04:19:29.090Z,45.7553333,-73.2685,8.55,3.93,ml,20.0,189.0,0.3562,0.44,ld,ld60036501,2021-05-13T21:58:35.738Z,"7 km ESE of Verchères, Canada",earthquake,1.12,1.32,0.18,35.0,reviewed,ld,ld
+2013-05-17T13:53:55.830Z,45.7576667,-76.3545,10.72,3.63,ml,17.0,141.0,,0.35,ld,ld60040531,2021-05-13T21:58:53.224Z,"20 km NNE of Shawville, Canada",earthquake,0.58,1.06,0.2,54.0,reviewed,ld,ld
+2013-05-17T13:43:24.440Z,45.7568333,-76.3533333,13.0,5.06,ml,17.0,141.0,,0.2,ld,ld60040526,2021-05-13T21:58:52.692Z,"20 km NNE of Shawville, Canada",earthquake,0.37,31.61,0.32,28.0,reviewed,ld,ld
+2017-11-30T21:47:31.250Z,39.1977,-75.4325,9.87,4.1,mwr,,129.0,0.633,1.3,us,us1000bjkn,2021-07-16T14:18:21.380Z,"3 km NNE of Little Creek, Delaware",earthquake,2.5,4.4,0.031,100.0,reviewed,ld,us

@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1999-12-24T02:01:48.000Z,45.06,-116.48,3.3,3.5,md,,,,,us,usp0009k7f,2016-07-23T19:14:03.020Z,"18 km WNW of New Meadows, Idaho",earthquake,,,,,reviewed,bse,but
+2000-09-14T17:21:51.000Z,44.3,-116.15,7.0,3.7,ml,28.0,,,,us,usp000a08n,2014-11-07T01:11:05.159Z,"4 km W of Smiths Ferry, Idaho",earthquake,,,,,reviewed,bse,but

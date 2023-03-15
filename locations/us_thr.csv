@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-09-01T15:58:58.400Z,29.34,52.53,15.3,4.6,mb,,,,1.0,us,usb000jeqf,2013-11-06T01:33:39.000Z,southern Iran,earthquake,,3.7,0.068,,reviewed,us_thr,us
+2013-08-14T19:50:07.000Z,30.82,50.51,18.0,4.5,mb,,,,1.09,us,usb000j3e2,2013-10-19T02:41:42.000Z,"5 km WNW of Dehdasht, Iran",earthquake,,1.7,0.083,,reviewed,us_thr,us
+2013-08-01T00:01:39.500Z,32.58,48.44,16.3,4.1,mb,,,,2.36,us,usb000it1p,2013-09-25T17:45:49.000Z,"25 km N of Shahrak-e K?l?r?, Iran",earthquake,,5.2,0.131,,reviewed,us_thr,us

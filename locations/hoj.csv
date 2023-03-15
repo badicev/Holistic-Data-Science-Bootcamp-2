@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1992-05-25T17:36:42.170Z,19.403,-77.788,20.0,3.5,md,,,,,us,usp000582k,2014-11-07T00:50:41.324Z,"74 km SSW of Niquero, Cuba",earthquake,,,,,reviewed,hoj,hoj

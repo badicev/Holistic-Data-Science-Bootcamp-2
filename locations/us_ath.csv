@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-09-16T06:35:44.700Z,34.73,23.47,36.0,4.2,mb,,,,1.25,us,usb000jyea,2013-11-19T17:38:11.000Z,"57 km WSW of Kastrí, Greece",earthquake,,7.0,0.167,,reviewed,us_ath,us
+2013-09-09T11:18:56.700Z,37.79,20.25,17.0,4.5,mb,,,,0.57,us,usb000jm0a,2013-11-15T03:20:29.000Z,"44 km W of Katastárion, Greece",earthquake,,4.3,0.121,,reviewed,us_ath,us
+2013-09-08T23:48:00.900Z,35.58,27.81,24.0,4.2,mb,,,,1.28,us,usb000jlt8,2013-11-15T03:20:29.000Z,"54 km E of Karpathos, Greece",earthquake,,6.8,0.072,,reviewed,us_ath,us
+2013-08-18T10:42:54.680Z,38.7018,22.7162,13.5,4.3,mb,,,,1.13,us,usb000j5uv,2013-10-19T02:41:49.000Z,"9 km NNW of Eláteia, Greece",earthquake,,2.9,0.265,,reviewed,us_ath,us

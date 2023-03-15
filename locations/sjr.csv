@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1999-02-26T19:34:38.400Z,8.738,-84.41,17.0,4.1,md,,,,,us,usp00093gy,2014-11-07T01:07:05.311Z,"81 km SSW of Quepos, Costa Rica",earthquake,,,,,reviewed,sjr,sjr
+1999-01-17T19:52:21.800Z,8.329,-82.801,20.0,4.2,md,,,,,us,usp0009183,2014-11-07T01:06:49.562Z,"1 km SE of Manaca Norte, Panama",earthquake,,,,,reviewed,sjr,sjr
+1999-01-17T13:15:32.700Z,8.187,-83.063,15.6,3.5,mb,,,,,us,usp000917n,2014-11-07T01:06:49.495Z,"23 km WNW of Limones, Panama",earthquake,,,,1.0,reviewed,sjr,us

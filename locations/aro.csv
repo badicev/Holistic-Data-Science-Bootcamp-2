@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1998-02-11T11:30:29.000Z,11.868,43.391,4.4,3.6,ml,,,,,us,usp0008ftx,2014-11-07T01:04:32.041Z,"15 km SE of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-03-12T23:41:08.100Z,12.0,43.814,5.0,3.5,ml,,,,,us,usp00094dm,2014-11-07T01:07:13.442Z,"57 km E of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-02-09T15:41:54.500Z,11.137,41.888,5.0,3.5,ml,,,,,us,usp00092hs,2014-11-07T01:07:00.652Z,"52 km W of Dikhil, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-02-08T09:35:53.900Z,11.141,41.87,5.0,3.5,ml,,,,,us,usp00092fq,2014-11-07T01:07:00.441Z,"54 km W of Dikhil, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-02-08T04:54:01.500Z,11.159,41.869,5.0,3.7,ml,,,,,us,usp00092fb,2014-11-07T01:07:00.405Z,"55 km W of Dikhil, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-02-08T04:08:29.300Z,11.146,41.871,5.0,3.9,ml,,,,,us,usp00092f7,2014-11-07T01:07:00.398Z,"54 km W of Dikhil, Djibouti",earthquake,,,,,reviewed,aro,aro
+1998-07-22T21:40:42.400Z,11.884,43.439,3.3,3.9,ml,,,,,us,usp0008s0x,2014-11-07T01:05:37.782Z,"18 km ESE of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1998-07-22T13:55:47.200Z,11.897,43.414,3.4,4.1,ml,,,,,us,usp0008s0n,2014-11-07T01:05:37.752Z,"15 km ESE of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1998-03-14T17:47:23.000Z,12.133,44.023,11.6,3.6,ml,,,,,us,usp0008hg3,2014-11-07T01:04:45.976Z,"82 km ENE of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-12-11T03:51:30.800Z,11.665,42.075,2.1,4.0,ml,,,,,us,usp0009jqh,2014-11-07T01:09:08.781Z,"26 km ESE of Gâlâfi, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-09-08T02:14:04.600Z,11.917,43.594,5.0,3.5,ml,,,,,us,usp0009e5j,2014-11-07T01:08:27.433Z,"33 km E of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-08-13T13:36:54.100Z,11.868,43.186,6.7,3.5,ml,,,,,us,usp0009czq,2014-11-07T01:08:16.173Z,"15 km SW of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-07-19T15:30:32.500Z,11.931,43.568,5.0,3.5,ml,,,,,us,usp0009buy,2014-11-07T01:08:07.121Z,"30 km E of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+1999-03-12T23:41:08.100Z,12.0,43.814,5.0,3.5,ml,,,,,us,usp00094dm,2014-11-07T01:07:13.442Z,"57 km E of Obock, Djibouti",earthquake,,,,,reviewed,aro,aro
+2001-11-02T16:23:44.590Z,11.794,43.188,4.6,5.2,mwc,27.0,,,,us,usp000as3u,2016-11-09T23:52:09.185Z,"22 km SSW of Obock, Djibouti",earthquake,,,,,reviewed,aro,hrv
+2006-09-13T06:39:19.150Z,11.791,43.081,5.1,4.7,ml,14.0,142.6,,,us,usp000et0p,2014-11-07T01:30:13.111Z,"21 km E of Tadjourah, Djibouti",earthquake,,,,,reviewed,aro,dhmr
+2007-04-28T00:25:42.850Z,12.05,43.865,7.5,4.6,mb,25.0,150.6,,,us,usp000farq,2014-11-07T01:32:17.826Z,"63 km E of Obock, Djibouti",earthquake,,,,2.0,reviewed,aro,us

@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1988-11-26T03:51:52.000Z,21.958,31.375,33.0,4.0,ml,,,,,us,usp0003p6z,2014-11-07T00:43:09.710Z,"49 km SSW of Abu Simbel, Egypt",earthquake,,,,,reviewed,hlw,hlw
+2005-12-31T13:58:52.500Z,28.73,32.93,21.3,4.4,ml,42.0,105.0,,,us,usp000e79j,2014-11-07T01:27:58.524Z,"43 km NNW of Ras Gharib, Egypt",earthquake,,,,,reviewed,hlw,gii
+2005-07-31T16:16:37.000Z,29.67,31.12,22.0,4.1,mw,72.0,83.1,,,us,usp000dwd1,2022-07-14T15:17:13.772Z,"14 km WNW of Al ‘Ayy??, Egypt",earthquake,,,,,reviewed,hlw,gii
+2008-06-21T17:59:46.950Z,29.782,30.637,6.2,4.3,md,50.0,54.3,,,us,usp000ga8h,2014-11-07T01:36:24.446Z,"40 km W of Mad?nat Sittah Ukt?bar, Egypt",earthquake,,,,,reviewed,hlw,gii

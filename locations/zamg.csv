@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2009-05-07T21:27:12.610Z,47.57,15.681,11.9,4.2,mwr,139.0,21.5,,,us,usp000gwx4,2022-07-15T09:31:54.009Z,Austria,earthquake,,,,,reviewed,zamg,us
+2014-10-02T04:43:35.090Z,45.17,16.38,10.0,3.9,mb,,21.0,1.78,0.34,us,usb000si29,2022-07-27T06:09:01.848Z,"8 km WNW of Dobrljin, Bosnia and Herzegovina",earthquake,5.5,4.8,0.514,4.0,reviewed,zamg,us
+2014-03-13T17:31:59.000Z,45.75,14.85,2.0,4.4,mb,,39.0,0.79,0.95,us,usc000nacg,2014-05-16T21:51:39.000Z,"9 km E of Ribnica, Slovenia",earthquake,,3.6,0.112,27.0,reviewed,zamg,us
+2015-07-19T19:18:04.090Z,51.57,16.11,1.0,4.0,mb,,25.0,3.65,1.34,us,us20002yjj,2015-10-14T21:05:45.040Z,"5 km SW of Gr?bocice, Poland",earthquake,5.4,6.9,0.365,2.0,reviewed,zamg,us

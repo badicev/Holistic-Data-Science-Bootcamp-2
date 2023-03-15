@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2012-03-29T04:22:22.100Z,71.576,-32.973,10.4,4.0,mb,26.0,96.5,,,us,usp000jgxq,2014-11-07T01:47:20.212Z,eastern Greenland,earthquake,,,,2.0,reviewed,dnk,us

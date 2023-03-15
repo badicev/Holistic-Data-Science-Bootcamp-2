@@ -1,0 +1,181 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2000-01-21T01:36:24.900Z,24.06,121.41,7.6,4.5,ml,,,,,us,usp0009mee,2014-11-07T01:09:21.123Z,Taiwan,earthquake,,,,,reviewed,tap,tap
+1999-11-11T15:25:58.900Z,23.13,120.5,13.1,4.5,ml,,,,,us,usp0009hd7,2014-11-07T01:08:57.121Z,"3 km E of Yujing, Taiwan",earthquake,,,,,reviewed,tap,tap
+1999-10-30T08:30:38.000Z,24.04,121.3,13.9,4.3,mb,,,,,us,usp0009gtp,2014-11-07T01:08:47.272Z,"31 km WNW of Hualien City, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+1999-10-21T00:30:05.500Z,23.98,120.67,11.6,4.4,ml,,,,,us,usp0009gb0,2014-11-07T01:08:45.170Z,"2 km NNW of Zhongxing New Village, Taiwan",earthquake,,,,,reviewed,tap,tap
+1999-10-08T01:51:45.200Z,24.05,121.45,21.6,3.9,mb,,,,,us,usp0009fjx,2014-11-07T01:08:40.818Z,"17 km WNW of Hualien City, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+1999-10-03T05:52:25.400Z,23.56,120.88,8.5,4.9,ml,,,,,us,usp0009fcd,2014-11-07T01:08:39.362Z,"24 km SSE of Lugu, Taiwan",earthquake,,,,,reviewed,tap,tap
+1999-09-30T09:28:14.600Z,23.57,120.89,8.7,4.3,mb,,,,,us,usp0009f7e,2014-11-07T01:08:33.820Z,"24 km SE of Lugu, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+1999-09-23T21:39:03.000Z,23.98,121.38,16.1,5.0,mb,,,,,us,usp0009exq,2014-11-07T01:08:31.526Z,"22 km W of Hualien City, Taiwan",earthquake,,,,21.0,reviewed,tap,us
+1999-09-23T18:50:39.300Z,23.62,120.8,2.5,4.1,mb,,,,,us,usp0009exf,2014-11-07T01:08:31.514Z,"14 km SSE of Lugu, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+1999-09-23T05:42:49.500Z,23.97,120.99,21.1,4.5,mb,,,,,us,usp0009ewf,2014-11-07T01:08:31.423Z,"2 km E of Puli, Taiwan",earthquake,,,,12.0,reviewed,tap,us
+1999-09-23T00:46:04.300Z,24.21,121.21,20.4,4.8,mb,,,,,us,usp0009ew4,2014-11-07T01:08:31.398Z,"36 km NE of Puli, Taiwan",earthquake,,,,10.0,reviewed,tap,us
+1999-09-21T17:38:36.800Z,23.81,121.32,13.7,5.2,mb,,,,,us,usp0009etx,2014-11-07T01:08:31.051Z,"34 km WSW of Hualien City, Taiwan",earthquake,,,,44.0,reviewed,tap,us
+2000-09-30T16:03:13.200Z,23.98,121.61,10.5,4.7,ml,5.0,,,,us,usp000a11z,2014-11-07T01:11:08.409Z,"0 km ENE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2000-09-29T23:41:24.200Z,23.07,120.84,11.0,4.5,ml,14.0,,,,us,usp000a10w,2014-11-07T01:11:08.336Z,"39 km E of Yujing, Taiwan",earthquake,,,,,reviewed,tap,tap
+2000-07-07T10:17:48.100Z,24.07,121.72,2.2,4.5,mb,15.0,,,,us,usp0009vzp,2014-11-07T01:10:33.185Z,"15 km NE of Hualien City, Taiwan",earthquake,,,,2.0,reviewed,tap,us
+2000-07-07T05:35:47.400Z,24.05,121.61,31.6,4.4,ml,5.0,,,,us,usp0009vz4,2014-11-07T01:10:32.997Z,"8 km N of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2000-04-29T07:46:55.600Z,24.25,121.17,3.0,4.5,mb,,,,,us,usp0009s1v,2014-11-07T01:09:57.632Z,"37 km NNE of Puli, Taiwan",earthquake,,,,2.0,reviewed,tap,us
+2003-12-14T23:16:40.300Z,24.34,121.02,11.1,4.2,mb,9.0,147.9,,,us,usp000cf9t,2014-11-07T01:20:45.243Z,"40 km ENE of Taichung, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2005-02-22T06:33:10.600Z,24.83,121.82,84.1,3.9,mb,8.0,140.6,,,us,usp000dgqg,2014-11-07T01:25:02.531Z,"10 km NE of Yilan, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2005-02-01T16:15:10.600Z,24.3,121.76,9.1,4.4,mb,9.0,127.9,,,us,usp000dfbw,2014-11-07T01:24:53.577Z,"39 km NNE of Hualien City, Taiwan",earthquake,,,,6.0,reviewed,tap,us
+2005-02-01T04:56:39.000Z,24.52,121.73,74.9,4.4,mb,12.0,155.4,,,us,usp000dfaw,2014-11-07T01:24:52.536Z,"26 km S of Yilan, Taiwan",earthquake,,,,7.0,reviewed,tap,us
+2005-01-11T00:58:21.500Z,23.58,121.64,38.3,4.4,mb,16.0,99.8,,,us,usp000dd0v,2014-11-07T01:24:37.034Z,"44 km S of Hualien City, Taiwan",earthquake,,,,5.0,reviewed,tap,us
+2004-10-26T08:20:43.900Z,22.86,121.32,25.4,4.4,ml,5.0,158.2,,,us,usp000d73x,2014-11-07T01:23:49.311Z,"92 km ESE of Yujing, Taiwan",earthquake,,,,,reviewed,tap,tap
+2006-02-24T01:55:50.400Z,24.72,122.22,8.6,4.8,mwc,60.0,82.5,,,us,usp000eaqu,2016-11-10T01:17:58.983Z,"47 km E of Yilan, Taiwan",earthquake,,,,,reviewed,tap,hrv
+2006-01-30T01:42:42.800Z,24.14,121.66,32.5,4.4,ml,7.0,173.8,,,us,usp000e945,2014-11-07T01:28:10.619Z,"18 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2005-11-15T13:41:34.000Z,23.35,120.92,2.5,4.6,mb,6.0,158.8,,,us,usp000e47r,2014-11-07T01:27:39.624Z,"47 km SSE of Lugu, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2005-10-01T07:50:07.700Z,24.47,121.86,23.2,4.3,mb,13.0,97.0,,,us,usp000e0mz,2014-11-07T01:27:14.342Z,"33 km SSE of Yilan, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2005-09-26T18:50:20.400Z,23.21,121.41,9.4,5.2,mwc,61.0,82.1,,,us,usp000e0as,2022-05-02T18:01:06.729Z,"87 km SSW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,hrv
+2005-09-12T22:53:21.400Z,24.41,120.97,4.2,4.5,ml,7.0,203.9,,,us,usp000dzbq,2014-11-07T01:27:03.793Z,"41 km NE of Taichung, Taiwan",earthquake,,,,,reviewed,tap,tap
+2005-08-29T23:50:54.800Z,24.53,121.68,46.6,4.5,mb,5.0,184.7,,,us,usp000dyaf,2014-11-07T01:26:54.451Z,"26 km SSW of Yilan, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2005-07-26T13:37:04.200Z,24.16,121.6,56.7,4.4,mb,24.0,119.6,,,us,usp000dvzq,2014-11-07T01:26:34.062Z,"20 km N of Hualien City, Taiwan",earthquake,,,,6.0,reviewed,tap,us
+2005-04-11T08:28:13.500Z,22.89,121.27,16.3,4.3,mb,36.0,55.3,,,us,usp000dn11,2014-11-07T01:25:33.088Z,"86 km ESE of Yujing, Taiwan",earthquake,,,,9.0,reviewed,tap,us
+2007-02-22T21:00:16.400Z,24.14,121.79,5.4,4.4,mb,24.0,101.5,,,us,usp000f5e3,2014-11-07T01:31:40.941Z,"26 km NE of Hualien City, Taiwan",earthquake,,,,5.0,reviewed,tap,us
+2006-12-06T01:36:09.600Z,23.85,121.76,20.9,4.2,mb,15.0,150.9,,,us,usp000ezm8,2014-11-07T01:31:05.437Z,"21 km SE of Hualien City, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2006-12-05T22:36:01.200Z,24.26,121.7,19.2,4.4,mb,38.0,75.1,,,us,usp000ezm3,2014-11-07T01:31:05.423Z,"32 km NNE of Hualien City, Taiwan",earthquake,,,,10.0,reviewed,tap,us
+2006-11-16T01:50:19.000Z,23.1,122.09,35.0,4.4,mb,37.0,108.2,,,us,usp000exq4,2014-11-07T01:30:50.869Z,"109 km SSE of Hualien City, Taiwan",earthquake,,,,9.0,reviewed,tap,us
+2006-11-13T22:29:27.400Z,23.4,122.22,35.2,4.5,mb,52.0,103.7,,,us,usp000exb7,2014-11-07T01:30:48.858Z,"89 km SE of Hualien City, Taiwan",earthquake,,,,15.0,reviewed,tap,us
+2006-11-12T02:40:59.300Z,23.94,121.57,31.5,4.4,mb,13.0,151.1,,,us,usp000ex6u,2014-11-07T01:30:48.194Z,"5 km SW of Hualien City, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2006-10-09T00:44:25.300Z,24.03,121.63,25.9,4.5,ml,6.0,170.9,,,us,usp000eur8,2014-11-07T01:30:31.408Z,"6 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2006-09-27T06:13:00.000Z,23.68,120.47,7.5,4.1,ml,3.0,331.7,,,us,usp000etws,2014-11-07T01:30:17.082Z,"8 km WSW of Douliu, Taiwan",earthquake,,,,,reviewed,tap,tap
+2006-09-06T22:24:38.800Z,24.22,121.75,24.9,4.2,mb,10.0,118.1,,,us,usp000eskm,2014-11-07T01:30:10.483Z,"30 km NNE of Hualien City, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2006-05-16T01:39:03.600Z,24.1,121.66,11.3,4.4,ml,18.0,102.7,,,us,usp000eh7q,2014-11-07T01:29:07.506Z,"14 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2006-04-27T00:30:58.800Z,24.01,121.53,15.9,4.2,mb,9.0,139.4,,,us,usp000efk7,2014-11-07T01:28:55.349Z,"8 km WNW of Hualien City, Taiwan",earthquake,,,,2.0,reviewed,tap,us
+2006-04-18T01:26:01.700Z,23.43,120.35,10.2,4.0,mb,24.0,153.6,,,us,usp000eetv,2014-11-07T01:28:51.503Z,"11 km WSW of Pizitou, Taiwan",earthquake,,,,4.0,reviewed,tap,us
+2006-04-12T01:42:14.900Z,22.71,121.28,39.8,4.2,mb,24.0,88.9,,,us,usp000ee8k,2014-11-07T01:28:47.025Z,"89 km ENE of Donggang, Taiwan",earthquake,,,,4.0,reviewed,tap,us
+2006-03-18T12:15:49.700Z,24.12,121.63,35.1,4.1,ml,4.0,179.3,,,us,usp000ecdn,2014-11-07T01:28:32.562Z,"16 km N of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-03-03T22:25:16.600Z,23.17,121.27,19.2,4.2,ml,11.0,118.5,,,us,usp000g0n0,2014-11-07T01:35:10.955Z,"82 km SE of Lugu, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-02-17T20:33:03.100Z,23.28,121.45,19.4,5.4,mwc,237.0,34.6,,,us,usp000fz4g,2022-07-13T21:52:48.680Z,"78 km SSW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2008-02-05T14:45:17.900Z,23.92,121.45,17.2,4.0,ml,6.0,168.7,,,us,usp000fy80,2014-11-07T01:34:54.137Z,"16 km WSW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-12-29T17:47:13.800Z,23.45,120.6,13.2,4.0,ml,7.0,218.3,,,us,usp000fvkb,2014-11-07T01:34:30.954Z,"16 km ESE of Pizitou, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-11-28T22:09:53.400Z,22.74,121.19,26.0,4.3,mb,26.0,64.8,,,us,usp000ftg6,2014-11-07T01:34:15.785Z,"82 km ENE of Donggang, Taiwan",earthquake,,,,4.0,reviewed,tap,us
+2007-11-28T21:05:14.300Z,24.82,122.01,65.0,4.6,mb,53.0,44.5,,,us,usp000ftg3,2014-11-07T01:34:15.774Z,"26 km ENE of Yilan, Taiwan",earthquake,,,,19.0,reviewed,tap,us
+2007-11-25T07:38:32.300Z,24.37,121.96,48.6,4.4,m,4.0,276.2,,,us,usp000ft8n,2014-11-07T01:34:14.498Z,"47 km SSE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-11-19T21:02:22.400Z,24.89,121.75,75.6,3.9,mb,21.0,93.1,,,us,usp000fsx7,2014-11-07T01:34:12.218Z,"14 km N of Yilan, Taiwan",earthquake,,,,4.0,reviewed,tap,us
+2007-11-12T10:24:42.500Z,24.46,121.84,18.4,4.5,ml,8.0,187.3,,,us,usp000fsdp,2014-11-07T01:34:09.760Z,"34 km SSE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-11-11T23:02:49.000Z,24.39,122.03,9.6,4.2,ml,12.0,95.2,,,us,usp000fsd3,2014-11-07T01:34:09.613Z,"49 km SE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-11-07T22:54:15.900Z,24.91,122.17,4.0,4.6,mb,46.0,80.7,,,us,usp000fs56,2014-11-07T01:34:08.327Z,"39 km SE of Jiufen, Taiwan",earthquake,,,,12.0,reviewed,tap,us
+2007-10-07T23:45:57.000Z,24.33,121.64,23.1,4.1,ml,4.0,181.2,,,us,usp000fq32,2014-11-07T01:33:51.964Z,"39 km N of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2007-07-16T23:42:52.700Z,23.57,121.55,18.6,4.7,mb,74.0,75.6,,,us,usp000fgd4,2014-11-07T01:32:58.727Z,"45 km S of Hualien City, Taiwan",earthquake,,,,30.0,reviewed,tap,us
+2009-02-09T21:24:35.700Z,22.71,121.01,5.7,4.8,mb,52.0,102.6,,,us,usp000gtkk,2014-11-07T01:38:21.437Z,"63 km ENE of Donggang, Taiwan",earthquake,,,,19.0,reviewed,tap,us
+2008-12-23T00:04:45.600Z,22.95,120.57,10.8,5.1,mwc,178.0,45.9,,,us,usp000gr7f,2022-07-14T22:48:18.647Z,"22 km SSE of Yujing, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2008-12-07T21:18:36.700Z,23.84,122.17,12.5,5.2,mwc,207.0,51.0,,,us,usp000gq51,2016-11-10T02:05:04.522Z,"59 km ESE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2008-12-02T03:16:53.300Z,23.28,121.6,29.8,5.3,mwc,174.0,35.3,,,us,usp000gpss,2022-07-14T22:00:24.003Z,"77 km S of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2008-11-28T22:37:11.300Z,24.32,121.79,19.6,4.1,ml,6.0,228.9,,,us,usp000gpmt,2014-11-07T01:37:48.838Z,"42 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-10-30T22:25:23.300Z,23.03,120.22,20.7,4.4,ml,15.0,98.0,,,us,usp000gmfc,2014-11-07T01:37:34.520Z,"4 km N of Tainan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-10-27T19:00:37.600Z,24.61,121.83,77.2,4.6,m,6.0,241.9,,,us,usp000gm5h,2014-11-07T01:37:32.912Z,"18 km SSE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-09-25T21:27:29.800Z,23.03,120.19,18.8,4.1,mb,11.0,145.3,,,us,usp000ghqs,2014-11-07T01:37:14.986Z,"4 km NNW of Tainan, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2008-08-12T03:28:11.500Z,24.03,121.59,8.9,4.2,ml,10.0,165.0,,,us,usp000gefp,2014-11-07T01:36:53.241Z,"6 km NNW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-07-31T21:01:55.100Z,23.73,121.56,17.0,4.0,mb,39.0,95.3,,,us,usp000gdj3,2014-11-07T01:36:44.836Z,Taiwan,earthquake,,,,6.0,reviewed,tap,us
+2008-07-03T00:05:37.900Z,23.19,120.71,5.9,4.5,ml,20.0,97.3,,,us,usp000gb6b,2014-11-07T01:36:33.135Z,"26 km ENE of Yujing, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-06-14T23:29:25.700Z,22.89,120.62,6.3,4.7,mb,34.0,98.2,,,us,usp000g9ny,2014-11-07T01:36:21.452Z,"30 km SSE of Yujing, Taiwan",earthquake,,,,7.0,reviewed,tap,us
+2008-06-12T22:28:03.200Z,24.04,121.5,17.5,4.1,ml,5.0,165.6,,,us,usp000g9cz,2014-11-07T01:36:20.288Z,"12 km WNW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-06-10T00:34:13.800Z,24.32,121.69,28.5,4.3,ml,12.0,179.0,,,us,usp000g92j,2014-11-07T01:36:17.812Z,"38 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-04-27T23:31:24.200Z,23.93,121.47,19.2,4.2,mb,33.0,96.5,,,us,usp000g500,2014-11-07T01:35:44.472Z,"14 km WSW of Hualien City, Taiwan",earthquake,,,,11.0,reviewed,tap,us
+2008-04-23T22:04:15.400Z,22.88,121.65,6.8,5.1,mwc,162.0,53.3,,,us,usp000g4p8,2022-05-02T20:44:28.694Z,"121 km S of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2008-04-13T16:02:07.700Z,24.19,121.61,21.4,4.3,ml,7.0,208.0,,,us,usp000g3um,2014-11-07T01:35:36.690Z,"23 km N of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2008-03-03T22:25:16.600Z,23.17,121.27,19.2,4.2,ml,11.0,118.5,,,us,usp000g0n0,2014-11-07T01:35:10.955Z,"82 km SE of Lugu, Taiwan",earthquake,,,,,reviewed,tap,tap
+2009-12-28T21:10:44.500Z,24.74,122.36,98.3,4.3,mb,44.0,46.0,,,us,usp000h5er,2014-11-07T01:40:19.162Z,"61 km E of Yilan, Taiwan",earthquake,,,,10.0,reviewed,tap,us
+2009-12-25T13:00:15.700Z,24.41,121.82,14.0,4.4,ml,9.0,116.6,,,us,usp000h5bs,2014-11-07T01:40:18.553Z,"39 km S of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2009-09-18T05:53:56.100Z,24.86,122.0,26.9,4.7,ml,7.0,278.9,,,us,usp000h1mf,2014-11-07T01:39:42.860Z,"27 km ENE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2009-08-11T21:41:03.000Z,23.96,121.58,4.2,4.3,mb,20.0,124.9,,,us,usp000h07e,2014-11-07T01:39:29.803Z,"3 km SW of Hualien City, Taiwan",earthquake,,,,4.0,reviewed,tap,us
+2009-06-24T21:09:51.300Z,23.85,122.41,18.4,4.9,mwc,126.0,89.0,,,us,usp000gyjn,2016-11-10T02:13:50.645Z,"83 km E of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2009-06-17T17:17:45.600Z,23.44,120.65,12.7,4.4,ml,12.0,68.3,,,us,usp000gyaa,2014-11-07T01:39:10.213Z,"21 km ESE of Pizitou, Taiwan",earthquake,,,,,reviewed,tap,tap
+2009-03-16T00:51:42.300Z,24.79,122.3,10.5,4.5,mb,41.0,81.8,,,us,usp000gv0z,2014-11-07T01:38:35.313Z,"55 km E of Yilan, Taiwan",earthquake,,,,7.0,reviewed,tap,us
+2011-03-08T02:46:53.100Z,23.99,121.77,50.4,4.0,mb,27.0,100.3,,,us,usp000hvgb,2014-11-07T01:43:52.951Z,"16 km E of Hualien City, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2011-01-12T03:53:10.300Z,24.38,122.01,9.9,4.5,mb,10.0,123.3,,,us,usp000hsy9,2014-11-07T01:43:25.597Z,"49 km SSE of Yilan, Taiwan",earthquake,,,,2.0,reviewed,tap,us
+2010-11-18T18:14:11.100Z,24.54,121.84,9.5,4.1,mb,11.0,117.0,,,us,usp000hpug,2014-11-07T01:42:56.355Z,"25 km SSE of Yilan, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2010-09-20T03:17:07.700Z,23.63,121.72,31.9,4.6,mwr,70.0,50.0,,,us,usp000hkz1,2014-11-07T01:42:29.669Z,"40 km SSE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2010-09-11T22:41:07.200Z,24.39,121.76,59.7,4.5,mb,26.0,116.0,,,us,usp000hkkh,2014-11-07T01:42:26.547Z,Taiwan,earthquake,,,,13.0,reviewed,tap,us
+2010-08-10T21:43:36.900Z,24.11,122.28,23.9,4.4,mb,45.0,84.4,,,us,usp000hhx3,2014-11-07T01:42:12.883Z,"70 km ENE of Hualien City, Taiwan",earthquake,,,,6.0,reviewed,tap,us
+2010-06-15T00:31:18.000Z,24.04,121.62,16.7,5.3,mwc,204.0,34.8,,,us,usp000hdzt,2022-07-16T15:36:20.307Z,"7 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,gcmt
+2010-04-09T03:53:19.300Z,24.77,121.79,80.9,3.9,mb,11.0,151.2,,,us,usp000hb0z,2014-11-07T01:41:14.124Z,"4 km ENE of Yilan, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2010-03-24T10:13:18.800Z,23.91,121.59,8.0,4.6,ml,8.0,137.0,,,us,usp000h9xj,2014-11-07T01:41:05.240Z,"7 km S of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2010-03-18T16:53:59.500Z,24.4,122.03,25.2,4.0,mb,16.0,123.5,,,us,usp000h9n2,2014-11-07T01:41:03.182Z,"48 km SE of Yilan, Taiwan",earthquake,,,,7.0,reviewed,tap,us
+2012-03-01T01:41:40.500Z,22.17,121.54,102.1,4.5,mb,33.0,142.5,,,us,usp000jfmn,2014-11-07T01:47:08.030Z,"84 km ENE of Hengchun, Taiwan",earthquake,,,,8.0,reviewed,tap,us
+2012-01-09T04:26:47.200Z,24.01,121.61,11.0,4.1,mb,18.0,92.7,,,us,usp000jd8n,2014-11-07T01:46:45.222Z,"3 km N of Hualien City, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2011-12-15T00:35:41.900Z,23.74,121.78,24.9,4.3,mb,37.0,99.2,,,us,usp000jc6z,2014-11-07T01:46:34.042Z,"31 km SE of Hualien City, Taiwan",earthquake,,,,6.0,reviewed,tap,us
+2011-09-22T01:00:59.000Z,23.78,121.67,26.0,4.6,mb,39.0,99.4,,,us,usp000j8cs,2014-11-07T01:45:56.267Z,"22 km SSE of Hualien City, Taiwan",earthquake,,,,9.0,reviewed,tap,us
+2011-09-22T00:55:57.700Z,24.12,121.65,20.0,4.0,mb,9.0,88.7,,,us,usp000j8cr,2014-11-07T01:45:56.266Z,"16 km NNE of Hualien City, Taiwan",earthquake,,,,1.0,reviewed,tap,us
+2011-09-21T22:42:34.000Z,24.1,121.67,21.0,4.0,ml,8.0,130.1,,,us,usp000j8ch,2014-11-07T01:45:56.245Z,"15 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2011-09-09T06:22:53.900Z,22.35,120.99,10.5,4.3,ml,8.0,299.6,,,us,usp000j7u6,2014-11-07T01:45:52.032Z,"45 km NNE of Hengchun, Taiwan",earthquake,,,,,reviewed,tap,tap
+2011-09-09T06:19:07.800Z,22.35,120.95,13.4,4.2,ml,7.0,324.9,,,us,usp000j7u5,2014-11-07T01:45:52.029Z,"43 km NNE of Hengchun, Taiwan",earthquake,,,,,reviewed,tap,tap
+2011-09-09T05:58:00.900Z,22.38,120.93,12.0,4.1,ml,8.0,300.9,,,us,usp000j7u4,2014-11-07T01:45:52.027Z,"45 km NNE of Hengchun, Taiwan",earthquake,,,,,reviewed,tap,tap
+2011-06-20T01:06:34.300Z,22.42,121.38,14.0,4.4,mb,33.0,106.0,,,us,usp000j3ex,2014-11-07T01:45:07.398Z,"80 km NE of Hengchun, Taiwan",earthquake,,,,5.0,reviewed,tap,us
+2011-05-22T21:07:16.000Z,23.88,121.06,19.3,4.5,mb,57.0,72.5,,,us,usp000j22f,2014-11-07T01:44:54.314Z,"13 km SE of Puli, Taiwan",earthquake,,,,17.0,reviewed,tap,us
+2011-03-30T04:22:31.500Z,23.91,121.55,23.2,4.4,mwr,66.0,92.7,,,us,usp000hywz,2014-11-07T01:44:22.291Z,"9 km SW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2011-03-24T03:24:17.700Z,22.01,121.73,2.7,4.3,mb,23.0,137.1,,,us,usp000hyeu,2014-11-07T01:44:18.931Z,Taiwan region,earthquake,,,,2.0,reviewed,tap,us
+2011-03-11T12:05:50.500Z,24.49,122.87,58.7,4.8,mb,12.0,85.9,,,us,usp000hvv9,2014-11-07T01:43:56.823Z,"13 km W of Yonakuni, Japan",earthquake,,,,1.0,reviewed,tap,us
+2011-03-08T02:46:53.100Z,23.99,121.77,50.4,4.0,mb,27.0,100.3,,,us,usp000hvgb,2014-11-07T01:43:52.951Z,"16 km E of Hualien City, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2013-03-07T03:36:46.090Z,24.31,121.49,15.2,5.5,mww,373.0,20.4,,,us,usb000fgws,2022-07-24T19:47:17.560Z,"38 km NNW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2013-03-06T22:37:24.500Z,24.61,122.12,71.2,4.5,ml,22.0,63.7,,,us,usp000jznx,2014-11-07T01:50:18.490Z,"40 km ESE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2013-02-19T02:12:45.900Z,23.36,120.57,15.9,4.5,mb,35.0,50.1,,,us,us2013lvbq,2014-11-07T01:50:09.646Z,"18 km SE of Pizitou, Taiwan",earthquake,,,,5.0,reviewed,tap,us
+2013-02-06T11:58:18.500Z,24.09,121.53,24.5,4.1,mb,6.0,262.7,,,us,us2013lhzr,2014-11-07T01:50:02.525Z,"14 km NNW of Hualien City, Taiwan",earthquake,,,,3.0,reviewed,tap,us
+2012-12-24T03:17:51.900Z,22.55,121.32,61.0,4.2,mb,55.0,107.7,,,us,usp000jxbb,2014-11-07T01:49:39.237Z,"84 km NE of Hengchun, Taiwan",earthquake,,,,9.0,reviewed,tap,us
+2012-11-03T08:06:29.900Z,22.37,120.43,39.8,4.5,ml,5.0,318.4,,,us,usp000juyx,2014-11-07T01:49:17.587Z,"10 km S of Donggang, Taiwan",earthquake,,,,,reviewed,tap,tap
+2012-08-14T02:06:48.100Z,23.93,122.54,28.1,4.9,mb,198.0,90.5,,,us,usp000jq9d,2014-11-07T01:48:34.128Z,"75 km SW of Yonakuni, Japan",earthquake,,,,109.0,reviewed,tap,us
+2012-06-14T04:07:59.900Z,23.72,121.53,6.2,4.4,mb,54.0,52.5,,,us,usp000jmr5,2014-11-07T01:48:04.891Z,"29 km SSW of Hualien City, Taiwan",earthquake,,,,18.0,reviewed,tap,us
+2012-06-06T02:24:00.790Z,22.44,121.41,33.6,4.6,mb,70.0,90.6,,,us,usp000jmdg,2014-11-07T01:48:01.231Z,"83 km NE of Hengchun, Taiwan",earthquake,,,,15.0,reviewed,tap,us
+2012-06-06T02:09:16.900Z,22.36,121.44,20.8,4.5,mb,68.0,94.4,,,us,usp000jmdf,2014-11-07T01:48:01.225Z,"81 km ENE of Hengchun, Taiwan",earthquake,,,,16.0,reviewed,tap,us
+2012-06-06T01:10:44.900Z,22.39,121.47,16.0,4.7,ml,7.0,315.7,,,us,usp000jmdd,2014-11-07T01:48:01.215Z,"86 km ENE of Hengchun, Taiwan",earthquake,,,,,reviewed,tap,tap
+2012-04-27T14:48:34.590Z,23.75,121.87,33.8,4.4,mb,71.0,79.4,,,us,usp000jjpc,2015-03-24T01:28:44.755Z,"36 km SE of Hualien City, Taiwan",earthquake,,,,16.0,reviewed,tap,us
+2012-04-19T01:58:08.600Z,24.13,121.67,29.1,5.0,mwr,231.0,34.8,,,us,usp000jj7e,2022-05-03T15:37:17.548Z,"18 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2012-04-08T21:43:30.900Z,24.0,122.35,10.0,5.3,mwb,373.0,69.4,,,us,usp000jhe8,2015-03-24T01:28:07.720Z,"75 km E of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2012-03-21T23:44:36.000Z,23.21,121.75,27.5,4.6,mb,70.0,102.8,,,us,usp000jgm5,2014-11-07T01:47:17.773Z,"86 km S of Hualien City, Taiwan",earthquake,,,,16.0,reviewed,tap,us
+2014-02-11T16:31:02.400Z,25.14,121.58,6.3,4.3,mb,,,,0.69,us,usc000mnru,2022-07-26T07:04:18.160Z,"11 km NNE of Taipei, Taiwan",earthquake,,4.9,0.239,7.0,reviewed,tap,us
+2014-01-29T02:14:51.300Z,23.24,121.41,23.4,4.3,mb,,,,0.74,us,usc000mqdy,2014-04-08T01:43:15.000Z,"83 km SSW of Hualien City, Taiwan",earthquake,,5.1,0.177,10.0,reviewed,tap,us
+2014-01-23T22:51:30.900Z,24.55,122.82,71.4,4.9,mb,,,,1.34,us,usb000m727,2014-03-27T18:15:37.000Z,"20 km WNW of Yonakuni, Japan",earthquake,,4.6,0.061,89.0,reviewed,tap,us
+2013-10-28T00:24:08.600Z,24.25,119.62,17.8,4.6,mb,,,,1.0,us,usb000ky9m,2014-01-03T00:32:56.000Z,"75 km N of Magong, Taiwan",earthquake,,4.1,0.114,,reviewed,tap,us
+2013-10-15T07:25:19.400Z,24.31,121.79,14.6,4.1,ml,,,,0.75,us,usb000l17v,2013-12-30T23:41:08.000Z,"41 km NNE of Hualien City, Taiwan",earthquake,,4.5,,,reviewed,tap,tap
+2013-09-30T12:05:19.800Z,23.85,120.96,11.1,4.1,mb,,,,0.45,us,usc000knhd,2013-12-13T09:00:37.000Z,"12 km S of Puli, Taiwan",earthquake,,2.4,0.198,,reviewed,tap,us
+2013-05-21T07:40:32.090Z,24.29,121.78,15.5,4.1,ml,9.0,100.0,,,us,us2013qlhl,2014-11-07T01:50:52.537Z,"38 km NNE of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,tap
+2013-05-21T04:25:46.200Z,24.28,121.76,14.3,4.5,mb,26.0,82.6,,,us,usp000k0uw,2014-11-07T01:50:52.121Z,"37 km NNE of Hualien City, Taiwan",earthquake,,,,9.0,reviewed,tap,us
+2013-03-12T09:03:45.700Z,24.35,121.8,47.4,4.4,mb,27.0,65.0,,,us,usp000jzr6,2014-11-07T01:50:19.818Z,"45 km S of Yilan, Taiwan",earthquake,,,,11.0,reviewed,tap,us
+2013-03-07T03:36:46.090Z,24.31,121.49,15.2,5.5,mww,373.0,20.4,,,us,usb000fgws,2022-07-24T19:47:17.560Z,"38 km NNW of Hualien City, Taiwan",earthquake,,,,,reviewed,tap,us
+2013-03-06T22:37:24.500Z,24.61,122.12,71.2,4.5,ml,22.0,63.7,,,us,usp000jznx,2014-11-07T01:50:18.490Z,"40 km ESE of Yilan, Taiwan",earthquake,,,,,reviewed,tap,tap
+2015-01-26T15:29:13.000Z,22.9,120.6,22.1,4.5,mb,,,,1.23,us,usc000tlaf,2015-04-24T16:56:07.040Z,"28 km SSE of Yujing, Taiwan",earthquake,4.2,6.3,0.313,4.0,reviewed,tap,us
+2015-01-26T15:08:18.300Z,22.92,120.54,14.9,4.5,mb,,,,1.34,us,usc000tlae,2022-07-27T23:58:43.990Z,"24 km SSE of Yujing, Taiwan",earthquake,4.2,3.4,0.14,17.0,reviewed,tap,us
+2015-01-24T07:15:26.400Z,23.21,120.4,11.1,4.6,mb,,,,1.19,us,usc000tl05,2015-04-24T16:55:59.040Z,"11 km NNW of Yujing, Taiwan",earthquake,2.9,4.0,0.387,3.0,reviewed,tap,us
+2015-01-18T14:03:22.800Z,22.77,121.26,18.2,4.1,mb,,,,1.06,us,usc000tt3w,2015-04-20T16:05:34.040Z,"89 km ENE of Donggang, Taiwan",earthquake,4.9,4.7,0.158,14.0,reviewed,tap,us
+2015-01-07T04:48:33.600Z,24.26,121.7,22.0,5.1,mwr,,,,0.55,us,usc000tcb4,2022-07-27T12:56:09.038Z,"32 km NNE of Hualien City, Taiwan",earthquake,2.3,3.5,0.068,21.0,reviewed,tap,us
+2015-01-01T17:10:44.700Z,23.69,121.5,13.7,4.4,mb,,,,1.12,us,usc000tg5j,2015-03-27T07:01:03.040Z,"33 km SSW of Hualien City, Taiwan",earthquake,2.7,5.3,0.22,6.0,reviewed,tap,us
+2014-12-12T21:50:20.700Z,23.23,120.49,7.2,4.1,ml,,,,1.08,us,usc000teep,2015-03-04T21:55:00.040Z,"11 km NNE of Yujing, Taiwan",earthquake,2.4,4.9,,,reviewed,tap,tap
+2014-10-23T00:53:41.300Z,23.68,120.74,28.7,4.1,ml,,,,0.59,us,usc000t69i,2015-01-17T01:25:33.040Z,"7 km S of Lugu, Taiwan",earthquake,3.4,7.5,,,reviewed,tap,tap
+2014-10-12T15:53:00.800Z,22.36,120.29,36.3,4.6,mb,,,,1.03,us,usb000sy07,2015-01-06T23:49:53.040Z,"20 km SW of Donggang, Taiwan",earthquake,6.1,8.1,0.243,7.0,reviewed,tap,us
+2014-10-08T21:23:54.300Z,23.66,121.57,36.2,4.0,ml,,,,0.84,us,usc000sxrg,2015-01-06T23:49:47.040Z,"35 km S of Hualien City, Taiwan",earthquake,3.9,8.1,,,reviewed,tap,tap
+2014-09-26T11:44:35.700Z,23.92,121.5,22.0,4.0,mb,,,,1.14,us,usb000sjvx,2014-12-20T00:53:59.040Z,"12 km WSW of Hualien City, Taiwan",earthquake,2.5,5.8,0.195,8.0,reviewed,tap,us
+2014-09-25T21:49:49.300Z,24.57,121.8,53.0,4.1,mb,,,,0.83,us,usb000snad,2014-12-20T00:53:58.040Z,"21 km SSE of Yilan, Taiwan",earthquake,3.1,4.6,0.37,4.0,reviewed,tap,us
+2014-09-24T01:01:15.000Z,24.34,121.78,16.2,4.1,mb,,,,0.86,us,usb000sh6k,2014-12-20T00:53:55.040Z,"43 km NNE of Hualien City, Taiwan",earthquake,2.4,2.1,0.302,3.0,reviewed,tap,us
+2014-09-20T21:14:04.500Z,23.59,121.54,24.1,4.3,mwr,,,,1.14,us,usb000sek1,2014-12-19T00:05:23.040Z,"43 km S of Hualien City, Taiwan",earthquake,5.3,4.4,0.066,22.0,reviewed,tap,us
+2014-09-12T00:35:26.300Z,24.4,121.87,39.2,4.1,ml,,,,1.04,us,usb000sj0e,2014-12-08T23:30:57.040Z,"41 km SSE of Yilan, Taiwan",earthquake,3.1,8.4,,,reviewed,tap,tap
+2014-08-06T03:46:07.500Z,22.23,121.46,85.6,4.7,mb,,,,0.37,us,usb000s0nl,2014-11-07T21:47:33.000Z,"78 km ENE of Hengchun, Taiwan",earthquake,,5.1,0.079,54.0,reviewed,tap,us
+2014-06-30T06:12:56.700Z,23.24,121.65,25.6,4.2,mb,,,,1.01,us,usb000rvse,2014-09-26T11:49:49.000Z,"81 km S of Hualien City, Taiwan",earthquake,,5.0,0.176,9.0,reviewed,tap,us
+2014-04-24T22:23:20.200Z,23.74,121.01,26.5,4.0,ml,,,,1.14,us,usb000qk4i,2014-07-14T20:11:14.000Z,"25 km S of Puli, Taiwan",earthquake,,7.8,,,reviewed,tap,tap
+2014-04-12T00:11:03.600Z,23.28,121.4,17.4,4.0,ml,,,,1.71,us,usb000qk4p,2014-07-01T02:37:58.000Z,"79 km SSW of Hualien City, Taiwan",earthquake,,4.1,,,reviewed,tap,tap
+2014-03-20T16:47:23.800Z,23.2,120.96,11.7,4.2,ml,,,,1.08,us,usb000q5v5,2014-05-24T00:54:35.000Z,"51 km E of Yujing, Taiwan",earthquake,,7.3,,,reviewed,tap,tap
+2016-01-03T16:00:09.600Z,24.39,121.91,27.2,3.9,mb,,,,1.13,us,us20004wp4,2016-03-28T22:09:34.040Z,"43 km SSE of Yilan, Taiwan",earthquake,4.6,2.2,0.195,7.0,reviewed,tap,us
+2015-12-25T21:10:05.300Z,24.78,121.26,12.9,4.0,ml,,,,0.63,us,us10004ezd,2016-03-18T01:13:01.040Z,"11 km SSW of Daxi, Taiwan",earthquake,3.7,6.2,,,reviewed,tap,tap
+2015-12-02T05:53:00.800Z,24.17,121.9,21.9,4.4,mb,,,,0.87,us,us100042mj,2016-02-25T22:33:05.040Z,"36 km NE of Hualien City, Taiwan",earthquake,4.4,5.3,0.135,16.0,reviewed,tap,us
+2015-12-02T05:21:57.400Z,24.19,121.92,5.0,4.6,mb,,,,1.3,us,us100042m5,2016-02-25T22:33:05.040Z,"39 km NE of Hualien City, Taiwan",earthquake,2.5,4.6,0.107,26.0,reviewed,tap,us
+2015-10-28T11:47:50.600Z,23.8,121.82,40.6,4.0,ml,,,,0.98,us,us10004204,2016-01-22T23:41:21.040Z,"29 km SE of Hualien City, Taiwan",earthquake,2.3,8.5,,,reviewed,tap,tap
+2015-10-19T03:55:46.800Z,24.83,121.96,16.3,4.0,ml,,,,0.49,us,us10003z5d,2016-01-15T20:51:11.040Z,"22 km ENE of Yilan, Taiwan",earthquake,2.1,6.7,,,reviewed,tap,tap
+2015-10-15T23:54:28.000Z,24.35,121.73,18.7,4.0,mwr,,,,0.47,us,us10003qq6,2016-01-15T20:50:43.040Z,Taiwan,earthquake,2.5,3.4,0.098,10.0,reviewed,tap,us
+2015-10-07T10:15:13.800Z,24.83,122.13,6.9,4.1,ml,,,,1.68,us,us10003rap,2016-01-04T22:29:31.040Z,"38 km ENE of Yilan, Taiwan",earthquake,3.4,4.5,,,reviewed,tap,tap
+2015-09-08T15:15:56.100Z,22.4,121.38,15.2,4.3,mb,,,,1.19,us,us10003nwt,2015-12-05T01:40:36.040Z,"78 km ENE of Hengchun, Taiwan",earthquake,5.2,4.4,0.161,11.0,reviewed,tap,us
+2015-09-02T03:03:36.400Z,24.85,122.0,6.1,4.5,mb,,,,0.64,us,us20003fla,2015-12-01T00:36:10.040Z,Taiwan,earthquake,2.4,4.0,0.136,16.0,reviewed,tap,us
+2015-07-10T09:38:50.100Z,23.22,120.47,6.8,4.4,mb,,,,1.03,us,us200031bm,2015-10-09T20:19:10.040Z,"10 km N of Yujing, Taiwan",earthquake,5.3,4.7,0.12,20.0,reviewed,tap,us
+2015-05-14T18:35:49.200Z,24.58,120.46,5.0,4.1,mb,,,,1.12,us,us1000296l,2015-07-23T01:03:59.040Z,"53 km NNW of Taichung, Taiwan",earthquake,5.0,5.6,0.213,6.0,reviewed,tap,us
+2015-05-11T23:43:15.900Z,23.96,121.5,21.3,4.3,mwr,,,,1.05,us,us20002ei9,2015-07-17T07:06:09.040Z,"10 km W of Hualien City, Taiwan",earthquake,4.1,5.0,0.061,26.0,reviewed,tap,us
+2015-05-11T08:53:58.000Z,24.53,120.44,5.0,4.5,mb,,,,1.2,us,us10002b5c,2015-07-17T07:06:08.040Z,"49 km NNW of Taichung, Taiwan",earthquake,2.3,5.0,0.242,5.0,reviewed,tap,us
+2015-05-11T08:38:21.500Z,24.59,120.42,15.6,4.6,mb,,,,1.03,us,us20002ebu,2022-07-31T05:48:18.733Z,"55 km NNW of Taichung, Taiwan",earthquake,2.4,4.0,0.076,52.0,reviewed,tap,us
+2015-05-01T12:54:47.000Z,24.58,120.45,10.6,4.3,mb,,,,1.29,us,us20002dhd,2015-07-09T22:00:05.040Z,"53 km NNW of Taichung, Taiwan",earthquake,3.9,4.6,0.153,12.0,reviewed,tap,us
+2015-04-27T15:14:55.200Z,24.01,121.59,40.2,4.5,mb,,,,0.94,us,us20002lr8,2015-07-03T00:23:44.040Z,"3 km NNW of Hualien City, Taiwan",earthquake,4.5,4.9,0.383,2.0,reviewed,tap,us
+2015-04-15T19:48:37.600Z,22.76,121.34,21.7,4.4,mb,,,,1.26,us,us200026st,2015-06-22T23:19:03.040Z,"97 km ENE of Donggang, Taiwan",earthquake,5.8,4.0,0.076,50.0,reviewed,tap,us
+2015-04-13T17:13:57.400Z,23.92,121.1,8.6,4.5,mb,,,,1.11,us,us2000266k,2022-07-28T07:50:24.855Z,"14 km ESE of Puli, Taiwan",earthquake,4.6,3.9,0.075,52.0,reviewed,tap,us
+2016-11-29T15:10:58.800Z,24.43,121.9,26.1,4.5,mb,,,,0.94,us,us10007r58,2017-02-23T00:11:52.040Z,"39 km SSE of Yilan, Taiwan",earthquake,4.5,4.7,0.144,14.0,reviewed,tap,us
+2016-11-29T15:10:45.900Z,24.44,121.89,25.7,4.3,mb,,,,1.07,us,us10007gkx,2017-02-23T00:11:52.040Z,"37 km SSE of Yilan, Taiwan",earthquake,4.4,5.9,0.238,9.0,reviewed,tap,us
+2016-10-13T20:45:38.000Z,23.83,121.74,53.5,4.5,ml,,,,1.44,us,us1000793v,2017-01-07T00:20:53.040Z,"21 km SE of Hualien City, Taiwan",earthquake,3.8,7.0,,,reviewed,tap,tap
+2016-10-10T20:18:03.300Z,23.07,121.53,15.4,4.4,ml,,,,0.68,us,us1000793p,2017-01-07T00:20:49.040Z,"100 km S of Hualien City, Taiwan",earthquake,4.7,5.7,,,reviewed,tap,tap
+2016-06-14T13:54:29.300Z,23.99,121.9,36.8,4.4,mb,,,,0.73,us,us200065p5,2016-08-25T01:22:56.040Z,"30 km E of Hualien City, Taiwan",earthquake,4.5,4.9,0.148,15.0,reviewed,tap,us
+2016-05-12T03:20:51.600Z,24.69,121.95,7.5,4.4,ml,,,,0.88,us,us200062zn,2016-07-20T18:10:54.040Z,"21 km ESE of Yilan, Taiwan",earthquake,1.6,7.6,,,reviewed,tap,tap

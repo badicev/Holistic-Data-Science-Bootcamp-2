@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2010-11-04T21:09:06.200Z,43.79,20.62,11.0,4.3,mwr,93.0,28.8,,,us,usp000hp2k,2014-11-07T01:42:52.138Z,"9 km NW of Kraljevo, Serbia",earthquake,,,,,reviewed,beo,us
+2010-11-03T00:56:55.400Z,43.76,20.73,0.9,5.5,mwc,380.0,16.7,,,us,usp000hny4,2022-07-18T23:22:20.268Z,"5 km NE of Kraljevo, Serbia",earthquake,,,,,reviewed,beo,gcmt
+2011-07-16T16:09:16.600Z,43.212,21.634,0.0,4.4,mb,100.0,20.4,,,us,usp000j519,2015-03-24T01:19:09.055Z,"4 km ESE of Prokuplje, Serbia",earthquake,,,,4.0,reviewed,beo,us
+2011-07-14T21:46:12.500Z,43.23,20.796,8.0,4.1,ml,36.0,43.6,,,us,usp000j4x3,2014-11-07T01:45:21.964Z,"14 km N of Leposaviq, Kosovo",earthquake,,,,,reviewed,beo,beo

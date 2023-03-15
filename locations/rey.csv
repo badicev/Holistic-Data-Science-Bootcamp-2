@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-01-24T07:25:47.000Z,64.67,-17.46,1.1,4.6,mb,,,,0.92,us,usc000tish,2015-04-24T16:55:18.040Z,"116 km SSE of Akureyri, Iceland",earthquake,7.1,4.7,0.082,55.0,reviewed,rey,us
+2015-01-15T07:10:27.000Z,64.61,-17.38,1.1,4.5,mb,,,,1.18,us,usc000tfye,2015-04-20T15:34:42.040Z,"111 km WNW of Höfn, Iceland",earthquake,5.6,5.0,0.115,22.0,reviewed,rey,us
+2014-12-02T02:18:28.000Z,64.666,-17.487,2.5,5.3,mww,,,,0.4,us,usb000t203,2022-05-03T18:20:43.213Z,"116 km SSE of Akureyri, Iceland",earthquake,6.8,3.9,,,reviewed,rey,us
+2014-09-09T01:07:29.000Z,64.666,-17.374,7.0,5.2,mww,,,,0.45,us,usb000sal7,2022-05-03T17:01:03.549Z,"113 km WNW of Höfn, Iceland",earthquake,5.4,3.4,,,reviewed,rey,us
+2014-08-23T14:04:24.000Z,64.665,-17.505,8.0,4.3,mb,,,,1.49,us,usb000s5qr,2014-11-22T02:06:29.000Z,"116 km SSE of Akureyri, Iceland",earthquake,8.4,5.1,0.142,14.0,reviewed,rey,us
+2016-08-29T01:47:02.000Z,63.653,-19.089,3.8,4.5,mb,,,,1.01,us,us20006uxe,2016-11-29T01:28:45.040Z,"63 km ENE of Vestmannaeyjar, Iceland",earthquake,8.5,4.7,0.068,63.0,reviewed,rey,us

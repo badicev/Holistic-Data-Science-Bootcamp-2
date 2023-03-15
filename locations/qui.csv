@@ -1,0 +1,22 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2008-09-24T23:32:20.000Z,-3.026,-79.054,14.5,4.4,md,8.0,153.0,,,us,usp000ghnq,2014-11-07T01:37:14.760Z,"14 km SSW of Cuenca, Ecuador",earthquake,,,,,reviewed,qui,qui
+2008-03-20T06:07:29.000Z,-0.221,-78.925,12.9,4.0,mb,8.0,151.2,,,us,usp000g1ug,2014-11-07T01:35:16.854Z,"28 km E of Santo Domingo de los Colorados, Ecuador",earthquake,,,,1.0,reviewed,qui,us
+2009-06-24T03:38:39.000Z,-1.644,-77.692,216.6,4.6,mb,97.0,95.3,,,us,usp000gyhy,2022-07-15T12:20:39.077Z,"31 km ENE of Palora, Ecuador",earthquake,,,,51.0,reviewed,qui,us
+2009-03-10T21:58:28.000Z,-0.834,-79.825,93.9,4.5,mb,51.0,62.0,,,us,usp000guu6,2014-11-07T01:38:33.739Z,"31 km NW of Velasco Ibarra, Ecuador",earthquake,,,,16.0,reviewed,qui,us
+2010-08-03T05:32:57.000Z,-2.363,-79.848,31.3,4.3,mb,5.0,197.2,,,us,usp000hhdu,2014-11-07T01:42:09.282Z,"18 km SSE of Guayaquil, Ecuador",earthquake,,,,1.0,reviewed,qui,us
+2010-06-01T11:12:13.000Z,-1.06,-78.325,10.7,4.3,md,9.0,140.6,,,us,usp000hdf2,2014-11-07T01:41:36.860Z,"27 km ENE of Píllaro, Ecuador",earthquake,,,,,reviewed,qui,qui
+2010-04-19T00:33:07.000Z,1.131,-79.489,12.0,4.1,mb,29.0,78.9,,,us,usp000hbmx,2014-11-07T01:41:17.581Z,"26 km NE of Esmeraldas, Ecuador",earthquake,,,,4.0,reviewed,qui,us
+2010-04-18T08:35:04.000Z,0.245,-78.356,5.2,4.4,mb,28.0,60.0,,,us,usp000hbks,2014-11-07T01:41:17.353Z,"10 km W of Otavalo, Ecuador",earthquake,,,,6.0,reviewed,qui,us
+2011-10-29T13:50:49.000Z,-0.13,-78.37,3.0,4.0,mb,19.0,86.5,,,us,usp000ja2x,2021-10-20T18:17:30.410Z,"20 km ENE of Quito, Ecuador",earthquake,,,,3.0,reviewed,qui,us
+2011-05-20T14:00:49.000Z,0.509,-79.871,17.1,4.1,mb,21.0,83.6,,,us,usp000j1w8,2014-11-07T01:44:52.851Z,"19 km SE of Muisne, Ecuador",earthquake,,,,2.0,reviewed,qui,us
+2012-10-04T00:23:46.000Z,-1.641,-81.256,6.0,4.1,mb,15.0,86.7,,,us,usp000jtgn,2014-11-07T01:49:02.287Z,"71 km NNW of Salinas, Ecuador",earthquake,,,,1.0,reviewed,qui,us
+2014-01-20T04:36:16.000Z,-1.99,-78.96,10.0,4.2,mb,,,,1.85,us,usc000mi05,2014-03-22T00:05:25.000Z,"26 km NNW of Alausí, Ecuador",earthquake,,1.9,0.147,13.0,reviewed,qui,us
+2013-10-24T00:37:20.000Z,-2.06,-79.79,57.0,4.5,mb,,,,1.63,us,usc000km1p,2022-07-26T00:24:23.709Z,"11 km WNW of Yaguachi Nuevo, Ecuador",earthquake,,5.2,0.128,,reviewed,qui,us
+2013-07-15T02:36:51.000Z,-0.65,-81.0,16.8,4.3,mb,9.0,100.0,,,us,usp000k20y,2014-11-07T01:51:16.214Z,"47 km NW of Manta, Ecuador",earthquake,,,,5.0,reviewed,qui,us
+2015-02-10T02:14:09.000Z,-0.82,-80.99,10.0,4.0,mb,,,,0.59,us,us10000a0a,2022-07-27T20:09:26.216Z,"34 km WNW of Manta, Ecuador",earthquake,7.9,5.7,0.211,6.0,reviewed,qui,us
+2015-01-24T20:39:31.000Z,0.8,-77.96,4.0,4.6,mb,,,,0.9,us,usc000titz,2022-07-27T17:37:18.139Z,"19 km N of El Ángel, Ecuador",earthquake,7.2,5.2,0.103,28.0,reviewed,qui,us
+2014-05-26T00:05:59.000Z,-1.6,-77.79,194.0,4.2,mb,,,,1.0,us,usb000r3tk,2014-08-23T08:36:48.000Z,"22 km ENE of Palora, Ecuador",earthquake,,5.2,0.062,80.0,reviewed,qui,us
+2015-05-30T06:26:05.000Z,1.22,-79.57,13.0,5.3,mww,,,,0.88,us,us20002kha,2022-07-31T10:15:01.779Z,"30 km NNE of Esmeraldas, Ecuador",earthquake,7.2,3.2,,,reviewed,qui,us
+2015-05-22T06:02:37.000Z,-1.43,-81.04,5.0,4.3,mb,,,,1.29,us,us20002l9e,2015-07-29T01:35:32.040Z,"52 km W of Jipijapa, Ecuador",earthquake,4.8,4.5,0.177,9.0,reviewed,qui,us
+2016-04-27T00:39:07.000Z,0.22,-80.25,5.0,4.1,mb,,,,1.12,us,us10005cdd,2016-07-08T02:49:25.040Z,"27 km NW of Pedernales, Ecuador",earthquake,10.7,8.5,0.233,5.0,reviewed,qui,us
+2016-04-18T02:09:26.000Z,-0.7,-81.08,5.0,3.9,mb,,,,1.46,us,us20005kc2,2016-06-27T23:02:03.040Z,"50 km NW of Manta, Ecuador",earthquake,7.3,7.3,0.23,5.0,reviewed,qui,us

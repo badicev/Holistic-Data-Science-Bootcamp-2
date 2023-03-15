@@ -1,0 +1,30 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1989-01-20T19:22:56.090Z,7.152,-82.474,23.9,4.3,md,,,,,us,usp0003r1f,2014-11-07T00:43:28.055Z,"106 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,hdc,hdc
+1988-12-18T21:35:05.660Z,6.989,-82.937,33.0,4.1,md,,,,,us,usp0003py9,2014-11-07T00:43:17.819Z,"115 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,hdc,hdc
+1988-12-11T08:09:03.600Z,7.076,-83.023,7.8,4.1,md,,,,,us,usp0003prs,2014-11-07T00:43:16.893Z,"107 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,hdc,hdc
+1988-11-25T12:38:42.230Z,11.258,-85.591,156.6,4.3,md,,,,,us,usp0003p69,2014-11-07T00:43:09.124Z,"11 km NW of Cárdenas, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-11-16T21:40:42.670Z,11.424,-87.814,4.1,4.1,md,,,,,us,usp0003nx8,2014-11-07T00:43:06.581Z,"136 km SSW of Corinto, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-11-16T04:51:15.920Z,11.34,-85.732,10.0,4.4,md,,,,,us,usp0003nwn,2014-11-07T00:43:06.473Z,"14 km SE of Rivas, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-10-18T03:34:53.840Z,10.638,-87.249,0.2,4.2,md,,,,,us,usp0003mxk,2014-11-07T00:42:58.493Z,"150 km SSW of Masachapa, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-10-15T19:28:34.070Z,11.808,-87.025,55.5,4.2,md,,,,,us,usp0003muy,2014-11-07T00:42:58.114Z,"55 km W of Masachapa, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-09-19T16:19:52.190Z,11.912,-86.817,58.0,4.6,md,,,,,us,usp0003m3k,2014-11-07T00:42:49.832Z,near the coast of Nicaragua,earthquake,,,,,reviewed,hdc,hdc
+1988-09-17T13:53:52.820Z,11.509,-86.244,139.1,4.6,md,,,,,us,usp0003m1t,2014-11-07T00:42:49.649Z,"25 km SSW of La Conquista, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1988-08-18T08:39:52.170Z,10.767,-84.891,179.9,4.1,md,,,,,us,usp0003k3z,2014-11-07T00:42:41.075Z,Costa Rica,earthquake,,,,,reviewed,hdc,hdc
+1988-07-20T07:46:27.410Z,11.15,-85.629,162.4,4.1,md,,,,,us,usp0003j0z,2014-11-07T00:42:31.516Z,"8 km N of La Cruz, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+1989-08-28T00:02:43.240Z,11.102,-85.687,158.9,4.2,md,,,,,us,usp0003yzm,2014-11-07T00:44:45.267Z,"6 km WNW of La Cruz, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+1989-08-26T05:12:30.710Z,10.92,-86.012,149.9,4.0,md,,,,,us,usp0003yx7,2014-11-07T00:44:45.014Z,"39 km SSW of San Juan del Sur, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1989-08-21T21:54:44.700Z,11.278,-87.046,0.0,4.2,md,,,,,us,usp0003yra,2014-11-07T00:44:44.355Z,"80 km SW of Masachapa, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1989-08-04T22:45:06.900Z,12.445,-87.172,50.5,4.4,md,,,,,us,usp0003y2b,2014-11-07T00:44:39.766Z,"4 km S of Corinto, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1989-05-30T08:45:03.920Z,12.12,-86.91,54.0,4.2,md,,,,,us,usp0003vt3,2014-11-07T00:44:15.548Z,"35 km SW of La Paz Centro, Nicaragua",earthquake,,,,,reviewed,hdc,sjr
+1989-05-17T19:13:39.020Z,11.122,-85.531,163.4,4.3,md,,,,,us,usp0003vbe,2014-11-07T00:44:12.979Z,"8 km SSW of Cárdenas, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1989-05-16T02:57:15.990Z,11.18,-85.632,156.4,4.3,md,,,,,us,usp0003v9h,2014-11-07T00:44:12.614Z,"11 km N of La Cruz, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+1989-05-14T15:17:08.660Z,8.344,-82.89,38.0,4.3,md,,,,,us,usp0003v7x,2014-11-07T00:44:12.321Z,"4 km SSW of Finca Blanco, Panama",earthquake,,,,,reviewed,hdc,hdc
+1989-05-14T12:47:10.920Z,11.253,-85.595,162.2,4.4,md,,,,,us,usp0003v7v,2014-11-07T00:44:12.318Z,"11 km WNW of Cárdenas, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+1989-04-18T17:02:20.870Z,10.599,-85.032,165.4,4.1,md,,,,,us,usp0003u3k,2014-11-07T00:44:00.642Z,"15 km S of Bijagua, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+1989-03-19T22:16:46.370Z,12.143,-86.937,43.6,4.6,md,,,,,us,usp0003t3e,2014-11-07T00:43:50.064Z,"33 km S of León, Nicaragua",earthquake,,,,,reviewed,hdc,hdc
+2008-07-23T05:54:56.200Z,10.615,-85.969,32.0,4.4,mb,61.0,142.3,,,us,usp000gcye,2014-11-07T01:36:41.722Z,"36 km WNW of Sardinal, Costa Rica",earthquake,,,,36.0,reviewed,hdc,us
+2008-07-03T12:10:13.500Z,10.516,-86.711,29.7,4.3,mb,7.0,222.6,,,us,usp000gb7x,2014-11-07T01:36:33.622Z,"116 km W of Sardinal, Costa Rica",earthquake,,,,1.0,reviewed,hdc,us
+2008-04-02T08:05:57.700Z,8.397,-83.036,11.9,4.3,mb,10.0,140.3,,,us,usp000g2y2,2014-11-07T01:35:27.578Z,"17 km W of Finca Blanco, Panama",earthquake,,,,1.0,reviewed,hdc,us
+2008-03-10T10:17:22.400Z,8.796,-83.173,12.1,3.8,md,13.0,132.4,,,us,usp000g155,2014-11-07T01:35:13.650Z,"22 km NNW of Golfito, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+2012-10-02T22:42:00.000Z,9.973,-85.539,10.0,3.9,md,10.0,153.2,,,us,usp000jtek,2014-11-07T01:49:01.664Z,"10 km N of Sámara, Costa Rica",earthquake,,,,,reviewed,hdc,hdc
+2014-12-02T09:29:26.000Z,11.5683,-85.9736,173.0,4.4,mb,,,,0.51,us,usc000t7cd,2015-02-24T00:35:16.040Z,"11 km NW of Belén, Nicaragua",earthquake,7.0,5.8,0.169,10.0,reviewed,hdc,us

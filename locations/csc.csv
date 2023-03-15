@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2002-11-11T23:39:29.720Z,32.404,-79.936,2.4,4.0,mb,66.0,,,,us,usp000bhft,2022-07-13T01:56:06.454Z,"26 km SSE of Kiawah Island, South Carolina",earthquake,,,,7.0,reviewed,csc,us
+2002-11-08T13:29:03.190Z,32.422,-79.95,3.9,3.5,mblg,12.0,,,,us,usp000bh2r,2014-11-07T01:17:04.383Z,"24 km SSE of Kiawah Island, South Carolina",earthquake,,,,,reviewed,csc,us

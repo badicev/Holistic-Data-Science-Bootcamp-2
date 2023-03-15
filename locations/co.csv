@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1992-08-21T16:31:56.100Z,32.985,-80.163,6.5,4.1,mb_lg,,73.0,0.07195,0.1,se,se61262,2022-06-28T14:41:04.008Z,"1 km SSE of Centerville, South Carolina",earthquake,,0.5,,,reviewed,co,us
+1995-04-17T13:46:00.000Z,32.997,-80.171,8.4,3.9,mb_lg,,85.0,0.07195,0.0,se,se61434,2022-06-28T14:49:13.044Z,"0 km NNW of Centerville, South Carolina",earthquake,,0.4,,,reviewed,co,us
+1998-04-13T09:56:15.600Z,34.471,-80.603,6.6,3.9,mb_lg,,248.0,0.17087,0.1,se,se61609,2022-06-28T14:57:54.411Z,"9 km S of Kershaw, South Carolina",earthquake,,0.9,,,reviewed,co,us

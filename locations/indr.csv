@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2003-11-06T06:00:48.200Z,18.101,-68.828,20.0,3.7,md,11.0,192.7,,,us,usp000cc6e,2014-11-07T01:20:25.133Z,"38 km SW of Boca de Yuma, Dominican Republic",earthquake,,,,,reviewed,indr,rspr

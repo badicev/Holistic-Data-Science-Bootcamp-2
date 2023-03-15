@@ -1,0 +1,29 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1999-02-22T23:20:26.820Z,34.669,32.795,10.0,3.5,ml,,,,,us,usp000938g,2014-11-07T01:07:04.067Z,"7 km SW of Sotíra, Cyprus",earthquake,,,,,reviewed,css,css
+2000-03-09T19:57:53.530Z,35.615,31.058,25.0,3.6,ml,,,,,us,usp0009pg5,2014-11-07T01:09:40.437Z,"104 km SE of Beykonak, Turkey",earthquake,,,,,reviewed,css,css
+1999-09-30T00:17:30.560Z,34.714,33.003,5.0,4.0,ml,,,,,us,usp0009f6q,2014-11-07T01:08:33.742Z,"1 km NE of Páno Polemídia, Cyprus",earthquake,,,,,reviewed,css,css
+1999-07-29T09:53:53.600Z,34.299,32.879,15.0,3.6,ml,,,,,us,usp0009c8w,2014-11-07T01:08:08.812Z,"41 km S of Kolossi, Cyprus",earthquake,,,,,reviewed,css,css
+1999-07-29T04:49:43.810Z,34.446,32.868,15.0,4.4,mb,,,,,us,usp0009c8g,2014-11-07T01:08:08.781Z,"25 km SSW of Kolossi, Cyprus",earthquake,,,,31.0,reviewed,css,us
+1999-04-22T21:45:12.880Z,34.479,31.988,25.0,3.7,ml,,,,,us,usp00096r1,2014-11-07T01:07:29.755Z,"51 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+1999-04-22T15:23:03.140Z,34.475,32.01,25.0,3.7,ml,,,,,us,usp00096qb,2014-11-07T01:07:29.709Z,"50 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+2000-11-06T14:56:35.260Z,36.657,32.294,25.0,3.7,ml,16.0,,,,us,usp000a324,2014-11-07T01:11:26.104Z,"25 km NE of Mahmutlar, Turkey",earthquake,,,,,reviewed,css,css
+2000-09-22T10:41:54.890Z,37.306,33.219,25.0,3.6,ml,6.0,,,,us,usp000a0nj,2014-11-07T01:11:06.753Z,"13 km N of Karaman, Turkey",earthquake,,,,,reviewed,css,css
+2000-08-08T04:57:38.580Z,34.308,31.977,25.0,3.8,ml,5.0,,,,us,usp0009y3n,2014-11-07T01:10:50.281Z,Cyprus region,earthquake,,,,,reviewed,css,css
+2000-08-08T04:56:12.440Z,34.334,31.953,25.0,3.6,ml,9.0,,,,us,usp0009y3m,2014-11-07T01:10:50.280Z,"65 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+2000-08-02T05:30:53.710Z,35.536,32.056,20.0,3.7,md,20.0,,,,us,usp0009xm8,2014-11-07T01:10:47.025Z,"65 km NNW of Pólis, Cyprus",earthquake,,,,,reviewed,css,isk
+2000-06-17T20:59:44.950Z,34.263,32.109,25.0,3.5,ml,6.0,,,,us,usp0009urw,2014-11-07T01:10:23.220Z,"63 km SSW of Koloni, Cyprus",earthquake,,,,,reviewed,css,css
+2000-06-13T15:08:28.850Z,34.555,31.887,25.0,3.5,md,8.0,,,,us,usp0009uh1,2014-11-07T01:10:22.172Z,"54 km WSW of Chlórakas, Cyprus",earthquake,,,,,reviewed,css,isk
+2000-06-08T01:58:28.690Z,34.401,32.114,25.0,3.8,ml,10.0,,,,us,usp0009u7e,2014-11-07T01:10:20.131Z,"50 km SW of Koloni, Cyprus",earthquake,,,,,reviewed,css,css
+2000-05-09T15:08:15.000Z,34.535,32.327,25.0,3.9,ml,,,,,us,usp0009spm,2014-11-07T01:10:06.121Z,"26 km SSW of Koloni, Cyprus",earthquake,,,,,reviewed,css,css
+2000-04-23T04:56:38.620Z,34.671,33.287,20.0,3.5,mb,,,,,us,usp0009rqz,2014-11-07T01:09:55.839Z,"12 km SE of Pyrgos, Cyprus",earthquake,,,,1.0,reviewed,css,us
+2000-04-06T11:05:59.050Z,35.171,34.132,15.0,3.8,md,,,,,us,usp0009qwp,2014-11-07T01:09:51.981Z,"18 km ENE of Famagusta, Cyprus",earthquake,,,,,reviewed,css,isk
+2000-03-29T12:28:53.360Z,34.752,33.136,8.0,3.5,ml,,,,,us,usp0009qe6,2014-11-07T01:09:45.913Z,"2 km WNW of Parekklisha, Cyprus",earthquake,,,,,reviewed,css,css
+2000-03-09T19:57:53.530Z,35.615,31.058,25.0,3.6,ml,,,,,us,usp0009pg5,2014-11-07T01:09:40.437Z,"104 km SE of Beykonak, Turkey",earthquake,,,,,reviewed,css,css
+2001-09-16T05:39:37.820Z,34.744,33.39,15.0,3.7,ml,6.0,,,,us,usp000ap8w,2014-11-07T01:13:48.490Z,"8 km S of Kofínou, Cyprus",earthquake,,,,,reviewed,css,css
+2001-09-08T19:19:25.200Z,34.423,32.215,25.0,3.5,ml,6.0,,,,us,usp000anv4,2014-11-07T01:13:45.638Z,"42 km SSW of Koloni, Cyprus",earthquake,,,,,reviewed,css,css
+2001-08-15T09:23:31.600Z,34.527,32.048,25.0,3.7,ml,10.0,,,,us,usp000amgw,2014-11-07T01:13:33.848Z,"44 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+2001-06-23T13:37:12.520Z,35.742,34.17,25.0,3.8,ml,5.0,,,,us,usp000ah40,2014-11-07T01:13:06.660Z,"24 km NW of Rizokárpaso, Cyprus",earthquake,,,,,reviewed,css,css
+2001-06-16T15:04:51.010Z,33.653,32.572,25.0,3.7,ml,6.0,,,,us,usp000agsr,2014-11-07T01:13:04.551Z,"113 km S of Pissoúri, Cyprus",earthquake,,,,,reviewed,css,css
+2001-06-10T22:51:36.030Z,34.452,31.928,25.0,3.5,ml,6.0,,,,us,usp000agd4,2014-11-07T01:13:01.759Z,"58 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+2001-04-28T07:06:43.670Z,34.555,32.167,15.0,3.6,ml,11.0,,,,us,usp000ae2y,2014-11-07T01:12:38.797Z,"34 km SW of Paphos, Cyprus",earthquake,,,,,reviewed,css,css
+2002-10-25T01:56:45.390Z,35.121,32.809,36.0,4.1,mb,87.0,,,,us,usp000bfa4,2014-11-07T01:16:48.851Z,"3 km WNW of Léfka, Cyprus",earthquake,,,,19.0,reviewed,css,us

@@ -1,0 +1,53 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1999-02-19T11:57:55.190Z,14.999,-60.489,52.0,4.3,mb,,,,,us,usp000932c,2014-11-07T01:07:02.793Z,"58 km ENE of La Trinité, Martinique",earthquake,,,,7.0,reviewed,fdf,us
+1999-02-16T17:14:59.880Z,14.841,-60.243,30.0,3.5,md,,,,,us,usp00092xh,2014-11-07T01:07:02.072Z,"71 km ENE of Le Vauclin, Martinique",earthquake,,,,,reviewed,fdf,trn
+1999-01-13T06:17:53.830Z,15.19,-61.033,127.2,3.8,md,,,,,us,usp0009110,2014-11-07T01:06:48.721Z,"27 km ESE of La Plaine, Dominica",earthquake,,,,,reviewed,fdf,trn
+1998-09-24T11:14:14.960Z,14.806,-60.458,42.6,3.8,m,,,,,us,usp0008vf3,2014-11-07T01:06:05.812Z,"50 km NE of Le Vauclin, Martinique",earthquake,,,,,reviewed,fdf,fdf
+1998-08-22T06:40:56.010Z,16.271,-61.164,21.4,3.6,ml,,,,,us,usp0008tp7,2014-11-07T01:05:52.114Z,"10 km WSW of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,fdf
+1998-06-25T21:50:41.380Z,17.547,-61.619,0.6,3.8,m,,,,,us,usp0008qga,2014-11-07T01:05:27.098Z,"24 km ESE of Codrington, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+1998-06-25T21:16:32.690Z,17.767,-61.573,26.0,3.8,m,,,,,us,usp0008qg6,2014-11-07T01:05:27.088Z,"31 km ENE of Codrington, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+1998-05-24T22:48:34.270Z,17.275,-62.451,128.1,4.1,m,,,,,us,usp0008npc,2014-11-07T01:05:15.738Z,"16 km ENE of Newcastle, Saint Kitts and Nevis",earthquake,,,,,reviewed,fdf,fdf
+1998-05-21T23:49:43.770Z,16.983,-61.685,51.5,3.5,m,,,,,us,usp0008nh0,2014-11-07T01:05:14.882Z,"11 km ESE of Falmouth, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+1999-12-18T07:04:46.600Z,15.526,-60.473,30.0,3.6,md,,,,,us,usp0009jz5,2014-11-07T01:09:10.002Z,"84 km E of Castle Bruce, Dominica",earthquake,,,,,reviewed,fdf,trn
+1999-09-25T00:24:40.100Z,16.944,-61.768,63.1,3.6,md,,,,,us,usp0009ezg,2014-11-07T01:08:31.689Z,"9 km S of Falmouth, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+1999-09-18T04:58:47.130Z,15.306,-61.179,134.0,3.5,md,,,,,us,usp0009ek7,2014-11-07T01:08:29.926Z,"7 km ESE of La Plaine, Dominica",earthquake,,,,,reviewed,fdf,trn
+1999-08-28T12:38:29.130Z,17.042,-61.378,18.0,3.5,md,,,,,us,usp0009drp,2014-11-07T01:08:20.951Z,"42 km E of Parham, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,trn
+1999-06-30T22:01:24.910Z,15.036,-60.394,35.1,3.6,md,,,,,us,usp0009aux,2014-11-07T01:07:58.250Z,"69 km ENE of La Trinité, Martinique",earthquake,,,,,reviewed,fdf,trn
+1999-05-18T00:15:12.200Z,16.782,-61.95,111.6,3.8,md,,,,,us,usp000987a,2014-11-07T01:07:41.338Z,"27 km E of Brades, Montserrat",earthquake,,,,,reviewed,fdf,trn
+2000-12-26T19:00:55.730Z,14.135,-60.948,14.0,3.5,md,11.0,,,,us,usp000a6s3,2014-11-07T01:11:46.515Z,"7 km N of Gros Islet, Saint Lucia",earthquake,,,,,reviewed,fdf,trn
+2000-07-13T07:05:05.700Z,15.95,-60.791,28.3,3.5,md,17.0,,,,us,usp0009wda,2014-11-07T01:10:35.883Z,"49 km SE of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,trn
+2000-05-18T21:05:02.810Z,15.241,-61.282,2.2,3.6,md,,,,,us,usp0009t5a,2014-11-07T01:10:10.166Z,"3 km ENE of Berekua, Dominica",earthquake,,,,,reviewed,fdf,trn
+2003-02-08T07:58:49.510Z,15.395,-60.927,129.6,3.6,mb,20.0,,,,us,usp000bq87,2014-11-07T01:17:46.237Z,"35 km ENE of La Plaine, Dominica",earthquake,,,,1.0,reviewed,fdf,us
+2003-01-04T19:42:00.460Z,14.122,-60.139,8.0,3.6,md,8.0,,,,us,usp000bn2r,2014-11-07T01:17:32.647Z,"84 km ENE of Dennery, Saint Lucia",earthquake,,,,,reviewed,fdf,fdf
+2002-12-15T16:08:14.640Z,13.783,-59.943,2.0,3.5,md,7.0,,,,us,usp000bks2,2014-11-07T01:17:21.949Z,"67 km NNW of Speightstown, Barbados",earthquake,,,,,reviewed,fdf,fdf
+2002-10-14T08:12:53.140Z,15.198,-58.363,30.0,3.8,md,8.0,,,,us,usp000beh4,2014-11-07T01:16:45.269Z,"251 km NNE of Greenland, Barbados",earthquake,,,,,reviewed,fdf,fdf
+2002-09-05T09:04:59.020Z,16.086,-58.685,30.0,3.8,md,13.0,,,,us,usp000bb9r,2014-11-07T01:16:26.817Z,"256 km E of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,fdf
+2002-08-03T11:26:25.100Z,15.003,-60.377,32.6,4.0,mb,17.0,,,,us,usp000b985,2014-11-07T01:16:12.600Z,"69 km ENE of La Trinité, Martinique",earthquake,,,,1.0,reviewed,fdf,us
+2002-07-19T21:23:56.080Z,17.198,-61.998,16.8,3.5,md,8.0,,,,us,usp000b8e0,2014-11-07T01:16:05.166Z,"18 km WNW of Saint John’s, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+2002-06-27T01:51:14.170Z,13.79,-60.72,88.1,3.5,md,9.0,,,,us,usp000b706,2014-11-07T01:15:53.994Z,"19 km E of Micoud, Saint Lucia",earthquake,,,,,reviewed,fdf,fdf
+2002-05-31T03:14:26.440Z,16.857,-61.057,24.0,3.8,md,26.0,,,,us,usp000b598,2014-11-07T01:15:41.458Z,"61 km N of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,fdf
+2003-10-23T17:32:08.580Z,17.691,-61.009,30.0,3.8,md,6.0,266.4,,,us,usp000cb3f,2014-11-07T01:20:14.873Z,"87 km E of Codrington, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+2003-10-11T18:24:35.100Z,13.981,-60.139,6.3,3.5,md,9.0,321.5,,,us,usp000ca5t,2014-11-07T01:20:11.101Z,"81 km E of Dennery, Saint Lucia",earthquake,,,,,reviewed,fdf,fdf
+2003-10-01T22:33:43.030Z,15.327,-60.601,92.0,4.2,mb,28.0,123.5,,,us,usp000c99y,2014-11-07T01:20:06.115Z,"69 km E of La Plaine, Dominica",earthquake,,,,3.0,reviewed,fdf,us
+2003-09-21T05:10:07.040Z,16.212,-59.494,30.0,3.7,md,9.0,298.8,,,us,usp000c85f,2014-11-07T01:19:53.545Z,"169 km E of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,fdf
+2004-07-30T04:24:32.600Z,16.789,-62.008,5.0,3.6,md,11.0,126.7,,,us,usp000d140,2014-11-07T01:23:01.975Z,"21 km E of Brades, Montserrat",earthquake,,,,,reviewed,fdf,fdf
+2004-07-28T09:54:26.340Z,15.979,-60.815,25.8,4.2,mb,28.0,82.5,,,us,usp000d108,2014-11-07T01:22:59.629Z,"45 km SE of Beauséjour, Guadeloupe",earthquake,,,,2.0,reviewed,fdf,us
+2004-07-23T20:42:24.410Z,16.903,-60.945,17.3,3.5,md,11.0,253.1,,,us,usp000d0rz,2014-11-07T01:22:57.556Z,"67 km NNE of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,fdf
+2004-07-20T20:23:23.750Z,17.228,-61.298,11.0,3.6,md,6.0,244.4,,,us,usp000d0jq,2014-11-07T01:22:56.299Z,"52 km ENE of Parham, Antigua and Barbuda",earthquake,,,,,reviewed,fdf,fdf
+2006-03-09T09:16:00.260Z,16.217,-61.63,135.0,4.4,md,18.0,94.8,,,us,usp000ebqs,2014-11-07T01:28:29.817Z,"4 km NW of Petit-Bourg, Guadeloupe",earthquake,,,,,reviewed,fdf,rspr
+2006-02-11T00:06:18.750Z,16.184,-61.718,142.7,4.1,md,28.0,111.4,,,us,usp000e9wt,2014-11-07T01:28:17.905Z,"8 km NE of Bouillante, Guadeloupe",earthquake,,,,,reviewed,fdf,trn
+2005-12-24T22:02:14.370Z,16.075,-59.632,30.0,3.5,md,8.0,299.1,,,us,usp000e6t4,2014-11-07T01:27:56.391Z,Leeward Islands,earthquake,,,,,reviewed,fdf,fdf
+2005-10-25T01:53:25.070Z,15.812,-61.626,9.3,3.9,mb,21.0,113.0,,,us,usp000e2sw,2014-11-07T01:27:28.608Z,"4 km SSE of Petites Anses, Guadeloupe",earthquake,,,,1.0,reviewed,fdf,us
+2005-10-06T15:47:52.050Z,15.918,-60.704,19.0,3.5,md,14.0,219.7,,,us,usp000e0z6,2014-11-07T01:27:17.743Z,"58 km SE of Beauséjour, Guadeloupe",earthquake,,,,,reviewed,fdf,trn
+2007-01-31T22:29:20.730Z,17.395,-62.405,126.2,3.6,md,5.0,175.7,,,us,usp000f41y,2014-11-07T01:31:29.606Z,"28 km NE of Newcastle, Saint Kitts and Nevis",earthquake,,,,,reviewed,fdf,trn
+2006-12-15T12:58:59.460Z,15.943,-60.691,24.8,4.9,mb,129.0,69.1,,,us,usp000f08u,2014-11-07T01:31:08.513Z,"57 km SE of Beauséjour, Guadeloupe",earthquake,,,,32.0,reviewed,fdf,us
+2006-09-28T12:06:51.860Z,14.851,-59.342,102.7,3.7,md,4.0,319.6,,,us,usp000eu04,2014-11-07T01:30:19.725Z,"164 km ENE of Le Vauclin, Martinique",earthquake,,,,,reviewed,fdf,fdf
+2006-09-27T23:02:42.570Z,15.044,-60.238,31.0,3.6,md,4.0,302.8,,,us,usp000etyk,2014-11-07T01:30:17.524Z,"84 km NE of Le Vauclin, Martinique",earthquake,,,,,reviewed,fdf,fdf
+2006-06-21T12:34:45.220Z,15.73,-61.519,10.2,4.3,mb,43.0,49.7,,,us,usp000ekxw,2014-11-07T01:29:25.936Z,"17 km NNW of Portsmouth, Dominica",earthquake,,,,6.0,reviewed,fdf,us
+2006-06-21T02:16:10.090Z,15.746,-61.517,10.8,4.6,mb,88.0,65.0,,,us,usp000ekwm,2014-11-07T01:29:25.841Z,"17 km SE of Petites Anses, Guadeloupe",earthquake,,,,29.0,reviewed,fdf,us
+2006-06-14T02:27:19.080Z,16.057,-61.196,19.0,3.8,md,34.0,84.4,,,us,usp000ekah,2014-11-07T01:29:22.191Z,"22 km NNE of Grand-Bourg, Guadeloupe",earthquake,,,,,reviewed,fdf,trn
+2006-05-19T16:17:53.350Z,12.664,-59.94,12.0,4.0,md,6.0,345.8,,,us,usp000ehgh,2014-11-07T01:29:08.614Z,"60 km SW of Bridgetown, Barbados",earthquake,,,,,reviewed,fdf,fdf
+2006-05-11T02:31:08.210Z,14.983,-60.358,28.9,4.6,mb,124.0,106.5,,,us,usp000egtt,2014-11-07T01:29:05.459Z,"70 km ENE of La Trinité, Martinique",earthquake,,,,46.0,reviewed,fdf,us
+2006-03-30T04:07:03.140Z,16.015,-60.737,19.2,4.1,mb,30.0,115.3,,,us,usp000ed8j,2014-11-07T01:28:36.966Z,"48 km SE of Beauséjour, Guadeloupe",earthquake,,,,10.0,reviewed,fdf,us
+2006-03-09T09:16:00.260Z,16.217,-61.63,135.0,4.4,md,18.0,94.8,,,us,usp000ebqs,2014-11-07T01:28:29.817Z,"4 km NW of Petit-Bourg, Guadeloupe",earthquake,,,,,reviewed,fdf,rspr
+2007-07-31T17:10:28.000Z,15.171,-61.142,115.0,3.5,md,13.0,154.7,,,us,usp000fhhs,2014-11-07T01:33:05.878Z,"19 km ESE of Berekua, Dominica",earthquake,,,,,reviewed,fdf,fdf

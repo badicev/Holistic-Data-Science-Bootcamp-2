@@ -1,0 +1,119 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2005-02-27T13:31:25.300Z,13.067,-88.779,58.2,4.2,md,25.0,123.1,,,us,usp000dh3e,2014-11-07T01:25:04.838Z,"34 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,,reviewed,snet,snet
+2005-01-12T00:15:34.800Z,13.227,-89.429,58.4,3.8,md,20.0,234.7,,,us,usp000dd4g,2014-11-07T01:24:37.755Z,"31 km SSW of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-12-14T04:40:00.000Z,13.339,-89.629,47.9,4.1,md,19.0,126.5,,,us,usp000danj,2014-11-07T01:24:16.674Z,"35 km SE of Acajutla, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-10-12T21:12:51.600Z,13.232,-89.789,44.4,4.4,mb,34.0,176.4,,,us,usp000d69g,2014-11-07T01:23:44.765Z,"40 km S of Acajutla, El Salvador",earthquake,,,,10.0,reviewed,snet,us
+2004-10-10T21:02:59.200Z,13.15,-89.264,59.0,3.5,md,18.0,189.8,,,us,usp000d65r,2014-11-07T01:23:44.315Z,"37 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-10-05T20:48:54.300Z,12.813,-88.635,50.0,4.7,mb,161.0,60.2,,,us,usp000d5up,2014-11-07T01:23:42.395Z,"52 km S of Puerto El Triunfo, El Salvador",earthquake,,,,42.0,reviewed,snet,us
+2004-09-21T06:00:54.000Z,12.712,-88.35,38.7,4.0,mb,24.0,123.1,,,us,usp000d4s1,2014-11-07T01:23:32.064Z,"60 km SSW of Chirilagua, El Salvador",earthquake,,,,1.0,reviewed,snet,us
+2004-09-05T07:14:35.300Z,13.05,-89.254,44.9,4.2,md,13.0,206.9,,,us,usp000d3jw,2014-11-07T01:23:25.601Z,"49 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-08-11T19:15:22.400Z,13.046,-89.421,34.7,4.2,ml,15.0,264.1,,,us,usp000d1ys,2014-11-07T01:23:11.233Z,"50 km SSW of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-08-04T17:24:01.900Z,12.996,-89.436,57.9,3.5,md,10.0,267.5,,,us,usp000d1fq,2014-11-07T01:23:08.884Z,"55 km SSW of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-07-07T13:11:20.600Z,13.612,-90.238,62.3,3.5,md,21.0,127.9,,,us,usp000czqk,2014-11-07T01:22:51.736Z,"35 km SW of San Francisco Menéndez, El Salvador",earthquake,,,,,reviewed,snet,snet
+2004-06-22T03:34:00.100Z,13.065,-89.264,51.4,4.1,md,10.0,212.9,,,us,usp000cyfu,2014-11-07T01:22:40.279Z,"47 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2006-09-23T08:31:00.000Z,13.362,-89.736,47.0,3.8,md,1.0,,,,us,usp000etn6,2014-11-07T01:30:16.097Z,"27 km SSE of Acajutla, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-02-13T01:42:14.900Z,13.032,-88.827,50.2,4.1,mb,38.0,119.0,,,us,usp000gtv6,2014-11-07T01:38:22.999Z,"40 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,7.0,reviewed,snet,us
+2009-02-03T11:38:42.200Z,12.943,-88.428,70.4,4.3,md,16.0,175.8,,,us,usp000gtdx,2014-11-07T01:38:19.786Z,"39 km SSW of Jucuarán, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-01-13T14:09:11.600Z,13.564,-89.823,73.6,4.2,md,12.0,289.3,,,us,usp000gshz,2014-11-07T01:38:11.764Z,"3 km S of Acajutla, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-01-01T23:03:30.000Z,13.054,-89.408,26.2,3.8,md,9.0,243.8,,,us,usp000grzm,2014-11-07T01:38:07.617Z,"48 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2008-12-16T00:24:17.000Z,13.611,-90.081,81.3,4.5,mb,55.0,121.3,,,us,usp000gqpk,2014-11-07T01:37:58.565Z,"26 km SSW of San Francisco Menéndez, El Salvador",earthquake,,,,20.0,reviewed,snet,us
+2009-12-01T05:45:29.300Z,13.288,-90.206,29.9,4.9,md,22.0,135.5,,,us,usp000h4mm,2014-11-07T01:40:11.877Z,"53 km SW of Acajutla, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-07-29T04:14:37.700Z,13.095,-89.197,56.1,4.3,md,16.0,217.0,,,us,usp000gzs1,2014-11-07T01:39:22.963Z,"46 km SSE of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-06-21T20:13:00.000Z,13.133,-89.596,45.2,4.4,mb,5.0,131.4,,,us,usp000gyex,2014-11-07T01:39:10.897Z,"49 km SW of La Libertad, El Salvador",earthquake,,,,2.0,reviewed,snet,us
+2009-05-24T18:04:38.000Z,13.127,-89.26,49.9,4.4,md,7.0,184.0,,,us,usp000gxg3,2014-11-07T01:39:00.870Z,"40 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-05-22T21:47:56.000Z,13.202,-89.271,53.7,4.3,md,4.0,228.3,,,us,usp000gxdq,2014-11-07T01:39:00.422Z,"32 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2009-03-30T23:33:08.200Z,13.134,-89.166,55.8,4.0,mb,19.0,203.7,,,us,usp000gvkb,2014-11-07T01:38:39.293Z,"42 km SSE of La Libertad, El Salvador",earthquake,,,,1.0,reviewed,snet,us
+2011-01-04T00:49:41.500Z,13.06,-89.271,51.4,4.8,mb,228.0,71.6,,,us,usp000hsjb,2022-07-19T01:55:37.916Z,"47 km S of La Libertad, El Salvador",earthquake,,,,88.0,reviewed,snet,us
+2010-03-17T09:09:12.400Z,12.899,-89.106,34.9,3.7,mb,28.0,125.7,,,us,usp000h9jb,2014-11-07T01:41:02.866Z,"66 km S of El Rosario, El Salvador",earthquake,,,,4.0,reviewed,snet,us
+2011-07-02T22:54:00.000Z,13.26,-87.849,6.0,4.0,mb,6.0,166.6,,,us,usp000j42t,2014-11-07T01:45:15.648Z,"5 km SSE of Conchagua, El Salvador",earthquake,,,,5.0,reviewed,snet,us
+2011-06-20T00:10:00.000Z,12.93,-88.951,30.0,4.0,mb,15.0,160.1,,,us,usp000j3ev,2014-11-07T01:45:07.394Z,"58 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,14.0,reviewed,snet,us
+2011-06-03T21:53:00.000Z,13.449,-89.984,39.3,4.0,mb,15.0,174.0,,,us,usp000j2nq,2014-11-07T01:45:01.641Z,"23 km SW of Acajutla, El Salvador",earthquake,,,,13.0,reviewed,snet,us
+2011-04-24T00:19:00.000Z,12.761,-88.631,35.0,4.3,md,9.0,130.2,,,us,usp000j0fy,2014-11-07T01:44:37.140Z,"58 km S of Puerto El Triunfo, El Salvador",earthquake,,,,,reviewed,snet,snet
+2013-02-15T23:00:15.000Z,12.539,-88.192,36.3,4.2,mb,9.0,189.9,,,us,us2013lrcz,2014-11-07T01:50:08.140Z,"74 km SSW of Intipucá, El Salvador",earthquake,,,,4.0,reviewed,snet,us
+2013-02-01T17:03:33.000Z,13.176,-89.262,55.8,4.4,md,11.0,180.0,,,us,usp000jyy1,2014-11-07T01:49:58.422Z,"35 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2013-01-29T15:09:32.000Z,13.05,-89.011,53.1,4.1,mb,15.0,164.2,,,us,usp000jyw0,2014-11-07T01:49:54.401Z,"49 km S of El Rosario, El Salvador",earthquake,,,,3.0,reviewed,snet,us
+2012-12-28T16:23:48.000Z,13.501,-89.098,169.6,4.7,mb,54.0,105.2,,,us,usp000jxhh,2014-11-07T01:49:40.533Z,"7 km W of El Rosario, El Salvador",earthquake,,,,29.0,reviewed,snet,us
+2012-12-14T19:18:51.000Z,12.813,-90.186,19.4,4.8,mb,251.0,76.9,,,us,usp000jwyt,2014-11-07T01:49:36.443Z,"94 km SSW of Acajutla, El Salvador",earthquake,,,,167.0,reviewed,snet,us
+2012-11-30T20:02:47.000Z,12.742,-88.211,54.4,4.2,md,8.0,232.5,,,us,usp000jw9k,2014-11-07T01:49:27.942Z,"53 km SSW of Intipucá, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-11-30T08:26:24.000Z,12.552,-88.799,18.7,4.2,mb,11.0,178.6,,,us,usp000jw8y,2014-11-07T01:49:27.813Z,"85 km SSW of Puerto El Triunfo, El Salvador",earthquake,,,,3.0,reviewed,snet,us
+2012-10-21T20:44:15.000Z,12.59,-88.332,38.2,5.1,mb,316.0,75.1,,,us,usp000ju9e,2014-11-07T01:49:07.668Z,"72 km SSW of Chirilagua, El Salvador",earthquake,,,,241.0,reviewed,snet,us
+2012-10-21T20:28:17.000Z,12.562,-88.337,36.0,5.4,mwb,435.0,36.4,,,us,usp000ju9c,2022-05-03T15:53:02.278Z,"75 km SSW of Chirilagua, El Salvador",earthquake,,,,,reviewed,snet,us
+2012-10-06T22:55:03.000Z,12.917,-88.805,34.1,4.0,mb,11.0,142.7,,,us,usp000jtnq,2014-11-07T01:49:03.368Z,"49 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,9.0,reviewed,snet,us
+2012-10-06T17:11:10.000Z,12.624,-88.075,43.9,4.2,md,6.0,261.8,,,us,usp000jtne,2014-11-07T01:49:03.309Z,"63 km S of Intipucá, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-10-05T05:27:59.000Z,13.328,-87.821,5.7,3.6,md,5.0,252.4,,,us,usp000jtjn,2014-11-07T01:49:02.739Z,"2 km ESE of La Unión, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-10-04T14:26:15.000Z,12.624,-88.644,37.3,3.6,md,6.0,208.7,,,us,usp000jthd,2014-11-07T01:49:02.478Z,"73 km S of Puerto El Triunfo, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-09-28T05:03:33.000Z,13.33,-87.824,5.5,3.6,md,6.0,162.0,,,us,usp000jt58,2014-11-07T01:48:56.147Z,"2 km ESE of La Unión, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-09-22T14:57:01.000Z,13.052,-89.555,31.9,4.3,md,8.0,184.4,,,us,usp000jsqs,2014-11-07T01:48:53.918Z,"54 km SSW of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2012-09-10T22:22:04.000Z,12.752,-88.471,56.2,4.2,mb,31.0,85.1,,,us,usp000js44,2014-11-07T01:48:50.163Z,"59 km S of Puerto El Triunfo, El Salvador",earthquake,,,,8.0,reviewed,snet,us
+2012-08-10T16:51:00.000Z,13.54,-89.825,76.3,4.2,mb,14.0,175.2,,,us,usp000jq4p,2014-11-07T01:48:32.798Z,"5 km S of Acajutla, El Salvador",earthquake,,,,1.0,reviewed,snet,us
+2012-07-31T00:20:00.000Z,13.673,-88.785,6.0,4.0,mb,8.0,163.0,,,us,usp000jpnt,2014-11-07T01:48:25.396Z,"0 km NNW of Apastepeque, El Salvador",earthquake,,,,6.0,reviewed,snet,us
+2012-04-23T00:16:00.000Z,13.352,-90.231,25.0,4.0,mb,13.0,171.1,,,us,usp000jjek,2014-11-07T01:47:36.116Z,"51 km WSW of Acajutla, El Salvador",earthquake,,,,5.0,reviewed,snet,us
+2012-04-19T00:47:59.600Z,13.601,-90.067,71.7,4.4,mb,61.0,176.3,,,us,usp000jj77,2014-11-07T01:47:34.144Z,"25 km W of Acajutla, El Salvador",earthquake,,,,40.0,reviewed,snet,us
+2014-03-05T18:25:48.000Z,13.754,-90.467,31.3,3.5,md,,,,2.88,us,usc000nz6q,2014-05-15T02:23:11.000Z,"32 km SE of Iztapa, Guatemala",earthquake,,8.4,,,reviewed,snet,snet
+2014-02-07T16:50:04.000Z,13.086,-89.014,50.7,4.2,md,,,,0.71,us,usc000mmca,2014-04-22T18:30:08.000Z,"45 km S of El Rosario, El Salvador",earthquake,,7.5,,,reviewed,snet,snet
+2014-01-23T07:29:39.000Z,12.828,-88.643,50.0,4.9,mwr,,,,1.13,us,usb000m6kb,2022-07-26T05:53:32.173Z,"51 km SSW of Puerto El Triunfo, El Salvador",earthquake,,4.2,0.073,18.0,reviewed,snet,us
+2014-01-20T12:54:42.000Z,12.99,-88.851,49.1,3.8,mb,,,,0.77,us,usb000m7ay,2014-03-22T00:05:26.000Z,"46 km SW of Puerto El Triunfo, El Salvador",earthquake,,8.9,0.293,3.0,reviewed,snet,us
+2014-01-16T01:15:45.000Z,13.816,-90.492,81.0,4.1,mb,,,,0.94,us,usb000m4fl,2014-03-22T00:05:15.000Z,"26 km ESE of Iztapa, Guatemala",earthquake,,7.2,0.111,24.0,reviewed,snet,us
+2013-12-22T23:30:29.000Z,13.239,-90.16,27.4,4.6,mb,,,,1.78,us,usc000lq45,2014-02-27T21:37:27.000Z,"53 km SW of Acajutla, El Salvador",earthquake,,4.3,0.053,,reviewed,snet,us
+2013-11-24T07:12:41.000Z,13.093,-89.18,53.3,4.0,md,,,,0.75,us,usc000lv94,2014-02-11T02:18:57.000Z,"46 km SSE of La Libertad, El Salvador",earthquake,,9.5,,,reviewed,snet,snet
+2013-11-20T18:29:37.000Z,12.915,-88.656,62.0,4.4,mb,,,,1.51,us,usb000l2zu,2014-02-11T02:18:52.000Z,"42 km SSW of Puerto El Triunfo, El Salvador",earthquake,,6.1,0.126,,reviewed,snet,us
+2013-11-16T19:24:08.000Z,13.211,-88.854,82.2,4.1,md,,,,0.59,us,usb000l3m8,2014-01-31T21:22:23.000Z,"31 km WSW of Jiquilisco, El Salvador",earthquake,,6.9,,,reviewed,snet,snet
+2013-09-25T09:40:13.000Z,13.095,-89.186,52.8,4.1,mb,,,,1.48,us,usb000kj3z,2013-12-13T09:00:32.000Z,"45 km SSE of La Libertad, El Salvador",earthquake,,8.0,0.369,,reviewed,snet,us
+2013-09-21T12:10:12.000Z,13.418,-90.736,20.0,4.0,mb,,,,1.27,us,usb000jykq,2013-12-09T21:11:10.000Z,"57 km S of Iztapa, Guatemala",earthquake,,7.6,0.149,,reviewed,snet,us
+2013-07-16T15:25:10.000Z,12.679,-89.001,22.1,4.3,mb,6.0,100.0,,,us,usp000k22q,2014-11-07T01:51:16.934Z,"82 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,2.0,reviewed,snet,us
+2013-07-15T21:59:31.000Z,13.177,-89.365,63.4,4.4,mb,65.0,100.0,,,us,usb000iexh,2014-11-07T01:51:16.659Z,"34 km S of La Libertad, El Salvador",earthquake,,,,84.0,reviewed,snet,us
+2013-07-09T12:03:30.000Z,13.182,-89.365,60.2,4.1,md,14.0,100.0,,,us,usp000k1ux,2014-11-07T01:51:14.560Z,"34 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2013-06-30T02:52:50.000Z,13.743,-91.033,9.3,4.1,md,8.0,100.0,,,us,usp000k1ke,2014-11-07T01:51:08.329Z,"30 km SW of Puerto San José, Guatemala",earthquake,,,,,reviewed,snet,snet
+2013-06-22T10:59:33.000Z,12.96,-89.351,44.5,4.0,md,13.0,100.0,,,us,us2013rtbb,2014-11-07T01:51:06.737Z,"59 km S of La Libertad, El Salvador",earthquake,,,,,reviewed,snet,snet
+2013-06-15T13:08:42.000Z,12.869,-88.902,37.6,4.5,mb,54.0,100.0,,,us,usc000hrhf,2014-11-07T01:51:04.528Z,"59 km SW of Puerto El Triunfo, El Salvador",earthquake,,,,71.0,reviewed,snet,us
+2013-04-21T23:59:32.000Z,12.117,-89.054,22.2,4.8,mb,215.0,85.2,,,us,usb000gd9b,2014-11-07T01:50:37.336Z,"140 km SSW of Puerto El Triunfo, El Salvador",earthquake,,,,167.0,reviewed,snet,us
+2013-04-20T00:47:36.000Z,12.549,-88.231,30.8,4.4,mb,51.0,163.5,,,us,us2013pfcb,2014-11-07T01:50:36.253Z,"74 km SSW of Intipucá, El Salvador",earthquake,,,,39.0,reviewed,snet,us
+2013-04-15T03:32:49.000Z,12.64,-88.251,33.8,4.5,mb,179.0,84.8,,,us,usb000g71c,2014-11-07T01:50:34.122Z,"65 km SSW of Intipucá, El Salvador",earthquake,,,,134.0,reviewed,snet,us
+2013-03-11T22:51:54.000Z,13.507,-90.711,14.5,4.0,mb,20.0,180.1,,,us,us2013mqei,2014-11-07T01:50:19.707Z,"47 km S of Iztapa, Guatemala",earthquake,,,,6.0,reviewed,snet,us
+2015-02-22T20:25:18.000Z,13.817,-90.407,87.9,4.6,mb,,,,1.48,us,usc000tt4d,2015-05-12T20:29:39.040Z,"28 km SW of Pasaco, Guatemala",earthquake,10.2,8.6,0.145,15.0,reviewed,snet,us
+2015-02-14T19:22:40.000Z,12.715,-90.208,21.2,4.5,mb,,,,1.27,us,usb000tpdr,2015-05-11T23:20:15.040Z,"105 km SSW of Acajutla, El Salvador",earthquake,8.1,6.9,0.084,44.0,reviewed,snet,us
+2015-02-03T21:37:45.000Z,12.883,-88.833,31.8,4.2,mb,,,,1.11,us,usc000tnri,2015-05-02T14:06:22.040Z,"53 km SW of Puerto El Triunfo, El Salvador",earthquake,4.0,7.3,0.199,7.0,reviewed,snet,us
+2015-02-01T17:47:16.000Z,13.29,-89.944,32.4,4.4,mb,,,,1.39,us,usc000tndw,2015-05-02T14:06:22.040Z,"35 km SSW of Acajutla, El Salvador",earthquake,5.2,7.7,0.268,4.0,reviewed,snet,us
+2015-02-01T00:48:18.000Z,12.951,-89.715,23.8,3.6,md,,,,0.67,us,us10001nd2,2015-05-02T14:06:21.040Z,"72 km S of Acajutla, El Salvador",earthquake,8.6,9.6,,,reviewed,snet,snet
+2015-01-31T23:15:44.000Z,12.901,-89.695,22.9,4.2,mb,,,,0.95,us,usc000tkqh,2015-05-02T14:06:21.040Z,"76 km SSW of La Libertad, El Salvador",earthquake,6.4,5.9,0.147,13.0,reviewed,snet,us
+2015-01-30T15:01:05.000Z,14.505,-89.185,1.1,4.0,md,,,,1.28,us,usc000tmh8,2015-05-02T14:05:50.040Z,"6 km N of Sinuapa, Honduras",earthquake,2.9,7.6,,,reviewed,snet,snet
+2015-01-29T07:42:15.000Z,12.963,-88.649,50.1,4.3,mwr,,,,1.48,us,usc000tmfm,2015-05-02T14:06:22.040Z,"37 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.8,9.0,0.086,13.0,reviewed,snet,us
+2015-01-22T03:56:34.000Z,12.901,-88.537,49.3,4.0,md,,,,0.66,us,usc000tij3,2015-04-24T16:55:10.040Z,"42 km S of Puerto El Triunfo, El Salvador",earthquake,6.6,9.0,,,reviewed,snet,snet
+2015-01-10T16:29:31.000Z,13.294,-90.194,24.1,4.4,mb,,,,1.29,us,usc000ti9b,2015-04-10T18:56:35.040Z,"51 km SW of Acajutla, El Salvador",earthquake,7.5,7.3,0.178,10.0,reviewed,snet,us
+2015-01-08T09:44:14.000Z,13.144,-89.303,49.4,4.4,mb,,,,1.29,us,usc000td33,2015-04-10T18:56:26.040Z,"38 km S of La Libertad, El Salvador",earthquake,7.5,3.2,0.068,74.0,reviewed,snet,us
+2014-12-30T22:03:07.000Z,13.139,-89.276,50.1,4.3,mb,,,,1.03,us,usc000tavb,2022-07-27T12:03:32.873Z,"38 km S of La Libertad, El Salvador",earthquake,6.7,7.0,0.108,26.0,reviewed,snet,us
+2014-12-29T23:13:42.000Z,12.817,-88.558,35.0,4.3,mb,,,,1.53,us,usc000tapp,2015-03-17T02:38:00.040Z,"51 km S of Puerto El Triunfo, El Salvador",earthquake,7.4,6.9,0.074,52.0,reviewed,snet,us
+2014-12-20T05:55:44.000Z,12.647,-90.123,15.0,3.9,mb,,,,1.06,us,usc000tcqy,2015-03-06T02:59:05.040Z,"109 km SSW of Acajutla, El Salvador",earthquake,8.0,7.0,0.163,10.0,reviewed,snet,us
+2014-12-13T23:52:46.000Z,12.272,-88.898,22.4,4.8,mb,,,,1.01,us,usc000t6f8,2015-03-04T21:55:02.040Z,"118 km SSW of Puerto El Triunfo, El Salvador",earthquake,7.0,4.9,0.05,122.0,reviewed,snet,us
+2014-11-13T05:18:09.000Z,12.936,-88.644,64.4,3.7,md,,,,1.34,us,usb000t1lk,2015-02-12T01:42:38.040Z,"39 km SSW of Puerto El Triunfo, El Salvador",earthquake,4.0,8.6,,,reviewed,snet,snet
+2014-10-29T22:43:41.000Z,13.672,-90.696,33.1,4.1,mb,,,,1.3,us,usb000srk7,2015-01-20T09:03:01.040Z,"28 km S of Iztapa, Guatemala",earthquake,3.8,6.5,0.151,12.0,reviewed,snet,us
+2014-10-23T23:05:32.000Z,12.952,-88.728,50.9,4.9,mb,,,,1.16,us,usb000sq7e,2022-07-27T05:41:35.989Z,"41 km SSW of Puerto El Triunfo, El Salvador",earthquake,5.5,3.9,0.033,312.0,reviewed,snet,us
+2014-10-18T05:22:58.000Z,13.093,-90.039,22.7,4.0,mb,,,,0.84,us,usb000ss11,2015-01-15T20:03:31.040Z,near the coast of Guatemala,earthquake,6.1,8.0,0.365,2.0,reviewed,snet,us
+2014-09-23T20:51:42.000Z,13.131,-89.209,62.2,4.0,md,,,,1.06,us,usb000si65,2014-12-19T00:05:27.040Z,"41 km SSE of La Libertad, El Salvador",earthquake,8.0,5.8,,,reviewed,snet,snet
+2014-09-22T13:56:48.000Z,13.997,-90.683,67.2,3.6,mb,,,,1.58,us,usb000srdd,2014-12-19T00:05:25.040Z,"7 km NNE of Iztapa, Guatemala",earthquake,7.3,9.2,0.499,1.0,reviewed,snet,us
+2014-08-13T09:11:42.000Z,13.579,-90.483,25.2,3.8,md,,,,0.74,us,usc000s9bz,2014-11-15T04:07:06.000Z,"46 km SSE of Iztapa, Guatemala",earthquake,,8.1,,8.0,reviewed,snet,unm
+2014-07-12T19:58:39.000Z,12.804,-88.387,41.9,4.1,mb,,,,1.05,us,usb000rt36,2014-10-10T08:02:15.000Z,"52 km SSW of Jucuarán, El Salvador",earthquake,,8.7,0.131,16.0,reviewed,snet,us
+2014-06-22T03:56:02.000Z,13.188,-89.335,58.4,4.1,mb,,,,0.95,us,usc000rjwh,2014-09-19T17:23:05.000Z,"33 km S of La Libertad, El Salvador",earthquake,,5.9,0.139,14.0,reviewed,snet,us
+2014-06-14T16:34:28.000Z,13.711,-90.716,29.1,4.3,mb,,,,2.48,us,usc000rq22,2014-09-12T15:48:14.000Z,"24 km S of Iztapa, Guatemala",earthquake,,7.4,0.142,14.0,reviewed,snet,us
+2014-06-03T04:54:44.820Z,12.911,-88.889,44.6,4.0,mb,,,,0.71,us,usc000rabt,2014-08-26T01:21:11.000Z,"55 km SW of Puerto El Triunfo, El Salvador",earthquake,,9.1,0.195,7.0,reviewed,snet,us
+2014-06-01T09:19:39.000Z,13.028,-88.636,64.1,4.1,mb,,,,1.39,us,usc000rhdx,2014-08-26T01:21:08.000Z,"29 km SSW of Puerto El Triunfo, El Salvador",earthquake,,6.6,0.081,43.0,reviewed,snet,us
+2014-03-27T20:36:12.000Z,12.8633,-88.832,55.1,4.7,mb,,,,1.21,us,usc000ntt2,2014-05-29T23:32:06.000Z,"55 km SSW of Puerto El Triunfo, El Salvador",earthquake,,5.2,0.039,207.0,reviewed,snet,us
+2014-03-20T17:12:48.000Z,13.387,-89.922,55.5,4.2,mb,,,,1.09,us,usc000nina,2014-05-24T00:54:35.000Z,"24 km SSW of Acajutla, El Salvador",earthquake,,5.5,0.166,11.0,reviewed,snet,us
+2014-03-20T17:04:47.000Z,13.267,-89.931,29.7,4.8,mb,,,,2.61,us,usc000nimh,2022-07-26T10:03:31.549Z,"37 km SSW of Acajutla, El Salvador",earthquake,,4.6,0.058,94.0,reviewed,snet,us
+2014-03-19T17:31:22.000Z,12.534,-89.514,20.4,4.6,mb,,,,1.11,us,usc000nh33,2014-05-24T00:54:34.000Z,"107 km S of La Libertad, El Salvador",earthquake,,3.0,0.067,66.0,reviewed,snet,us
+2014-03-15T23:26:05.000Z,13.152,-89.815,27.2,4.4,mb,,,,1.08,us,usc000nczj,2014-05-16T21:51:43.000Z,"48 km S of Acajutla, El Salvador",earthquake,,7.8,0.066,68.0,reviewed,snet,us
+2014-03-05T18:25:48.000Z,13.754,-90.467,31.3,3.5,md,,,,2.88,us,usc000nz6q,2014-05-15T02:23:11.000Z,"32 km SE of Iztapa, Guatemala",earthquake,,8.4,,,reviewed,snet,snet
+2015-09-27T21:16:20.000Z,12.951,-89.168,21.3,4.1,md,,,,0.53,us,us10003iz2,2015-12-28T23:08:45.040Z,"61 km SSE of La Libertad, El Salvador",earthquake,5.6,8.9,,,reviewed,snet,snet
+2015-06-18T04:45:35.000Z,12.662,-88.345,28.0,4.3,mb,,,,0.91,us,us10002l0p,2015-09-01T00:53:49.040Z,"65 km SSW of Chirilagua, El Salvador",earthquake,4.3,5.8,0.099,29.0,reviewed,snet,us
+2015-06-17T17:56:00.000Z,12.862,-88.602,49.1,4.2,mb,,,,1.26,us,us10002muq,2015-08-20T00:44:02.040Z,"46 km S of Puerto El Triunfo, El Salvador",earthquake,6.9,7.7,0.121,19.0,reviewed,snet,us
+2015-05-30T21:03:12.000Z,12.894,-88.657,47.4,4.1,mb,,,,0.78,us,us20002vws,2015-08-08T00:49:23.040Z,"44 km SSW of Puerto El Triunfo, El Salvador",earthquake,7.7,9.1,0.262,4.0,reviewed,snet,us
+2015-05-18T14:10:00.000Z,11.969,-88.958,14.0,4.3,mb,,,,1.07,us,us10002a6q,2015-07-23T01:04:07.040Z,"152 km SSW of Puerto El Triunfo, El Salvador",earthquake,7.8,3.8,0.08,44.0,reviewed,snet,us
+2015-04-03T12:36:58.000Z,13.004,-88.729,62.2,4.6,mb,,,,1.14,us,us10001tk0,2015-06-16T01:00:25.040Z,"36 km SSW of Puerto El Triunfo, El Salvador",earthquake,3.8,5.3,0.036,235.0,reviewed,snet,us
+2015-03-20T05:35:42.000Z,13.266,-89.781,42.6,3.9,md,,,,0.82,us,us10001q8y,2015-06-09T21:29:59.040Z,"36 km S of Acajutla, El Salvador",earthquake,2.9,7.7,,,reviewed,snet,snet
+2015-03-17T22:14:32.000Z,13.232,-89.667,48.8,4.0,md,,,,1.05,us,us10001th3,2015-06-04T00:46:25.040Z,"43 km SSE of Acajutla, El Salvador",earthquake,7.4,7.2,,,reviewed,snet,snet
+2015-03-15T17:22:03.000Z,12.051,-89.137,15.2,4.5,mb,,,,1.71,us,us10001mjq,2015-06-04T00:46:21.040Z,"150 km SSW of Puerto El Triunfo, El Salvador",earthquake,7.3,5.1,0.157,12.0,reviewed,snet,us
+2015-03-11T23:29:18.000Z,13.372,-90.016,32.4,3.8,md,,,,0.91,us,us2000289c,2015-05-28T00:48:42.040Z,"31 km SW of Acajutla, El Salvador",earthquake,7.2,9.0,,,reviewed,snet,snet
+2016-07-05T14:09:37.000Z,13.504,-90.346,46.7,4.2,mb,,,,0.79,us,us100069vu,2016-09-02T21:36:38.040Z,"51 km SW of San Francisco Menéndez, El Salvador",earthquake,7.0,7.1,0.146,15.0,reviewed,snet,us
+2016-05-24T07:55:47.000Z,13.568,-90.332,73.0,4.0,md,,,,1.33,us,us200061n3,2016-08-03T22:33:43.040Z,"45 km SW of San Francisco Menéndez, El Salvador",earthquake,10.0,9.8,,,reviewed,snet,snet
+2016-04-14T23:27:56.000Z,13.27,-89.6,60.0,4.1,md,,,,0.8,us,us20005jdq,2016-06-21T01:14:13.040Z,"38 km SW of La Libertad, El Salvador",earthquake,8.0,8.2,,,reviewed,snet,snet
+2016-03-15T16:05:56.000Z,12.29,-88.38,4.0,4.3,mb,,,,0.53,us,us20005hef,2016-05-21T00:05:32.040Z,"106 km SSW of Chirilagua, El Salvador",earthquake,7.6,7.2,0.238,5.0,reviewed,snet,us

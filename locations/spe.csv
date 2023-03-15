@@ -1,0 +1,56 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1983-03-04T06:32:18.690Z,44.214,-99.409,5.0,4.4,mb,,,,,us,usp0001tf2,2020-08-26T22:30:14.912Z,"16 km N of Fort Thompson, South Dakota",earthquake,,,,1.0,reviewed,spe,us
+1983-01-08T23:51:53.620Z,14.651,44.413,5.2,4.6,mb,,,,,us,usp0001s3a,2020-08-26T22:23:04.906Z,"12 km N of Dham?r, Yemen",earthquake,,,,9.0,reviewed,spe,us
+1982-12-29T23:53:15.430Z,14.649,44.463,5.0,5.3,mb,,,,,us,usp0001rvr,2022-04-27T23:01:31.474Z,"13 km NNE of Dham?r, Yemen",earthquake,,,,59.0,reviewed,spe,us
+1982-12-21T10:05:01.770Z,14.605,44.611,5.0,4.7,mb,,,,,us,usp0001rma,2014-11-07T00:32:21.693Z,"23 km ENE of Dham?r, Yemen",earthquake,,,,2.0,reviewed,spe,us
+1982-12-15T21:26:56.920Z,14.599,44.589,5.0,4.2,mb,,,,,us,usp0001rg1,2020-08-26T22:18:50.417Z,"20 km ENE of Dham?r, Yemen",earthquake,,,,2.0,reviewed,spe,us
+1982-12-13T17:57:10.270Z,14.734,44.086,5.0,4.6,mb,,,,,us,usp0001rep,2014-11-07T00:32:20.646Z,"40 km WNW of Dham?r, Yemen",earthquake,,,,2.0,reviewed,spe,us
+1982-12-13T16:28:34.690Z,14.691,44.4,5.0,4.0,mb,,,,,us,usp0001rem,2014-11-07T00:32:20.641Z,"16 km N of Dham?r, Yemen",earthquake,,,,1.0,reviewed,spe,us
+1982-12-13T09:12:48.050Z,14.701,44.379,5.0,6.3,mw,,,,,us,usp0001reb,2022-04-28T00:17:50.595Z,"17 km N of Dham?r, Yemen",earthquake,,,,,reviewed,spe,nc
+1982-11-15T02:58:22.930Z,43.007,-97.85,5.0,4.3,ml,,,,,us,usp0001qxv,2014-11-07T00:32:11.905Z,"1 km NE of Tyndall, South Dakota",earthquake,,,,,reviewed,spe,oth
+1982-10-04T07:46:52.860Z,51.435,-176.62,37.8,5.5,mb,,,,,us,usp0001q0r,2022-04-28T00:22:48.092Z,"48 km S of Adak, Alaska",earthquake,,,,67.0,reviewed,spe,us
+1984-05-29T20:18:32.680Z,44.232,-105.965,18.0,5.0,mb,,,,,us,usp00024q9,2022-04-27T23:25:24.044Z,"37 km W of Gillette, Wyoming",earthquake,,,,18.0,reviewed,spe,us
+1986-01-31T16:46:43.330Z,41.65,-81.162,10.0,5.0,mw,,,,,us,usp0002qkz,2022-04-27T22:28:05.517Z,"4 km NNW of Chardon, Ohio",earthquake,,,,,reviewed,spe,hrv
+1986-05-08T00:20:42.000Z,51.5,-174.8,33.0,4.4,mb,,,,,us,usp0002tnq,2014-11-07T00:38:21.531Z,"87 km SSW of Atka, Alaska",earthquake,,,,3.0,reviewed,spe,us
+1986-05-08T00:00:40.000Z,51.5,-174.8,33.0,4.7,mb,,,,,us,usp0002tnm,2014-11-07T00:38:21.524Z,"87 km SSW of Atka, Alaska",earthquake,,,,5.0,reviewed,spe,us
+1986-05-07T23:52:15.000Z,51.5,-174.8,33.0,5.7,mb,,,,,us,usp0002tnj,2018-06-04T20:43:45.000Z,"87 km SSW of Atka, Alaska",earthquake,,,,24.0,reviewed,spe,us
+1986-05-07T23:41:21.000Z,51.5,-174.8,33.0,5.1,mb,,,,,us,usp0002tnf,2014-11-07T00:38:21.487Z,"87 km SSW of Atka, Alaska",earthquake,,,,16.0,reviewed,spe,us
+1986-05-07T23:24:06.000Z,51.5,-174.8,33.0,5.2,mb,,,,,us,usp0002tn9,2014-11-07T00:38:21.443Z,"87 km SSW of Atka, Alaska",earthquake,,,,2.0,reviewed,spe,us
+1986-05-07T23:20:17.000Z,51.5,-174.8,33.0,5.2,mb,,,,,us,usp0002tn8,2014-11-07T00:38:21.442Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T23:18:23.000Z,51.5,-174.8,33.0,4.9,mb,,,,,us,usp0002tn7,2014-11-07T00:38:21.440Z,"87 km SSW of Atka, Alaska",earthquake,,,,2.0,reviewed,spe,us
+1986-05-07T23:17:16.000Z,51.5,-174.8,33.0,5.3,mb,,,,,us,usp0002tn6,2014-11-07T00:38:21.439Z,"87 km SSW of Atka, Alaska",earthquake,,,,5.0,reviewed,spe,us
+1986-05-07T23:13:16.000Z,51.5,-174.8,33.0,5.2,mb,,,,,us,usp0002tn4,2014-11-07T00:38:21.433Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T23:12:48.000Z,51.5,-174.8,33.0,5.3,mb,,,,,us,usp0002tn3,2014-11-07T00:38:21.430Z,"87 km SSW of Atka, Alaska",earthquake,,,,9.0,reviewed,spe,us
+1986-05-07T23:12:35.000Z,51.5,-174.8,33.0,5.0,mb,,,,,us,usp0002tn2,2014-11-07T00:38:21.428Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T23:07:45.000Z,51.5,-174.8,33.0,5.5,mb,,,,,us,usp0002tn1,2018-06-04T20:43:45.000Z,"87 km SSW of Atka, Alaska",earthquake,,,,8.0,reviewed,spe,us
+1986-05-07T23:06:38.000Z,51.5,-174.8,33.0,5.0,mb,,,,,us,usp0002tn0,2014-11-07T00:38:21.422Z,"87 km SSW of Atka, Alaska",earthquake,,,,5.0,reviewed,spe,us
+1986-05-07T23:04:52.000Z,51.5,-174.8,33.0,5.3,mb,,,,,us,usp0002tmz,2014-11-07T00:38:21.420Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T23:04:09.000Z,51.5,-174.8,33.0,4.9,mb,,,,,us,usp0002tmy,2014-11-07T00:38:21.418Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T23:00:41.000Z,51.5,-174.8,33.0,5.2,mb,,,,,us,usp0002tmx,2014-11-07T00:38:21.416Z,"87 km SSW of Atka, Alaska",earthquake,,,,4.0,reviewed,spe,us
+1986-05-07T22:57:43.000Z,51.5,-174.8,33.0,5.7,mb,,,,,us,usp0002tmw,2018-06-04T20:43:45.000Z,"87 km SSW of Atka, Alaska",earthquake,,,,21.0,reviewed,spe,us
+1986-05-07T22:55:05.000Z,51.5,-174.8,33.0,5.6,mb,,,,,us,usp0002tmv,2018-06-04T20:43:45.000Z,"87 km SSW of Atka, Alaska",earthquake,,,,5.0,reviewed,spe,us
+1987-11-30T19:23:19.590Z,58.679,-142.786,10.0,7.9,mw,,,,,us,usp0003aq8,2022-04-27T21:31:15.684Z,"200 km WSW of Yakutat, Alaska",earthquake,,,,,reviewed,spe,hrv
+1989-03-09T14:49:08.000Z,37.143,-116.067,0.0,3.7,ml,,,,,us,usp0003ssh,2014-11-07T00:43:48.173Z,"62 km SSW of Rachel, Nevada",earthquake,,,,,reviewed,spe,brk
+1988-10-13T16:18:07.850Z,37.089,-116.049,0.0,4.5,mb,,,,,us,usp0003msz,2014-11-07T00:42:57.885Z,"66 km ENE of Beatty, Nevada",earthquake,,,,3.0,reviewed,spe,us
+1988-08-17T22:21:53.000Z,37.297,-116.307,0.0,3.6,ml,,,,,us,usp0003k3n,2014-11-07T00:42:41.044Z,"58 km NE of Beatty, Nevada",earthquake,,,,,reviewed,spe,us
+1990-03-10T17:26:30.300Z,37.113,-116.055,0.0,4.0,mb,,,,,us,usp00046e3,2014-11-07T00:45:54.786Z,"65 km SSW of Rachel, Nevada",earthquake,,,,3.0,reviewed,spe,us
+1989-03-09T14:49:08.000Z,37.143,-116.067,0.0,3.7,ml,,,,,us,usp0003ssh,2014-11-07T00:43:48.173Z,"62 km SSW of Rachel, Nevada",earthquake,,,,,reviewed,spe,brk
+1991-02-21T11:17:41.000Z,58.4,-175.4,20.0,3.5,mb,,,,,us,usp0004n7z,2020-09-14T18:47:56.957Z,Bering Sea,earthquake,,,,1.0,reviewed,spe,us
+1991-02-21T05:27:54.000Z,58.4,-175.4,20.0,3.5,mb,,,,,us,usp0004n7c,2020-09-14T18:47:59.194Z,Bering Sea,earthquake,,,,1.0,reviewed,spe,us
+1991-02-21T04:27:10.000Z,58.4,-175.4,20.0,3.9,mb,,,,,us,usp0004n78,2020-09-14T18:48:00.139Z,Bering Sea,earthquake,,,,2.0,reviewed,spe,us
+1991-02-18T00:14:21.000Z,29.7,-113.8,10.0,3.8,mb,,,,,us,usp0004n26,2014-11-07T00:48:01.193Z,"109 km WSW of La Libertad, Mexico",earthquake,,,,2.0,reviewed,spe,us
+1991-02-16T11:25:34.000Z,29.7,-113.8,10.0,3.9,ml,,,,,us,usp0004n0e,2014-11-07T00:48:00.917Z,"109 km WSW of La Libertad, Mexico",earthquake,,,,,reviewed,spe,gs$
+1991-02-14T22:53:48.000Z,29.7,-113.8,10.0,3.6,ml,,,,,us,usp0004my6,2014-11-07T00:48:00.065Z,"109 km WSW of La Libertad, Mexico",earthquake,,,,,reviewed,spe,gs$
+1991-02-14T17:51:53.000Z,29.7,-113.8,10.0,3.5,mb,,,,,us,usp0004mxx,2014-11-07T00:47:59.966Z,"109 km WSW of La Libertad, Mexico",earthquake,,,,1.0,reviewed,spe,us
+1991-02-07T03:59:05.000Z,51.7,174.2,33.0,4.8,mb,,,,,us,usp0004mna,2020-09-14T18:49:23.974Z,"145 km SSE of Attu Station, Alaska",earthquake,,,,3.0,reviewed,spe,us
+1990-03-10T17:26:30.300Z,37.113,-116.055,0.0,4.0,mb,,,,,us,usp00046e3,2014-11-07T00:45:54.786Z,"65 km SSW of Rachel, Nevada",earthquake,,,,3.0,reviewed,spe,us
+1991-11-26T10:41:32.000Z,51.4,-176.0,24.0,6.0,mw,,,,,us,usp0004zp7,2022-04-28T19:00:21.788Z,"68 km SE of Adak, Alaska",earthquake,,,,,reviewed,spe,hrv
+1991-05-30T15:44:41.000Z,54.6,-161.6,33.0,5.1,mb,,,,,us,usp0004s9r,2020-09-14T18:56:54.303Z,"69 km SE of King Cove, Alaska",earthquake,,,,5.0,reviewed,spe,us
+1994-02-03T09:55:27.070Z,42.8,-111.0,5.0,3.5,ml,,,,,us,usp00067xn,2014-11-07T00:54:55.604Z,"0 km NNE of Auburn, Wyoming",earthquake,,,,,reviewed,spe,gs$
+1994-02-03T09:32:45.800Z,42.8,-111.0,5.0,3.7,ml,,,,,us,usp00067xf,2014-11-07T00:54:55.589Z,"0 km NNE of Auburn, Wyoming",earthquake,,,,,reviewed,spe,gs$
+1994-02-03T09:12:28.260Z,42.8,-111.0,5.0,4.4,ml,,,,,us,usp00067xd,2014-11-07T00:54:55.584Z,"0 km NNE of Auburn, Wyoming",earthquake,,,,,reviewed,spe,gs$
+1993-09-21T04:07:38.000Z,42.3,-122.0,5.0,3.6,ml,,,,,us,usp00060qp,2014-11-07T00:54:00.318Z,"19 km WNW of Klamath Falls, Oregon",earthquake,,,,,reviewed,spe,gs$
+1993-05-13T11:59:49.250Z,55.177,-160.458,32.3,6.9,mw,,,,,us,usp0005sqc,2022-04-28T18:11:45.526Z,"17 km S of Sand Point, Alaska",earthquake,,,,,reviewed,spe,hrv
+1994-08-17T06:56:49.000Z,47.472,-115.778,1.6,4.1,ml,,,,,us,usp0006h1t,2014-11-07T00:56:04.776Z,"1 km E of Mullan, Idaho",earthquake,,,,,reviewed,spe,but
+1995-11-12T17:45:59.400Z,30.3,-103.35,10.0,3.6,mblg,,,,,us,usp00076qd,2014-11-07T00:59:09.977Z,"14 km NW of Marathon, Texas",earthquake,,,,,reviewed,spe,gs$
+1995-06-01T01:06:15.700Z,30.3,-103.35,10.0,3.5,mblg,,,,,us,usp0006yds,2014-11-07T00:58:03.103Z,"14 km NW of Marathon, Texas",earthquake,,,,,reviewed,spe,gs$

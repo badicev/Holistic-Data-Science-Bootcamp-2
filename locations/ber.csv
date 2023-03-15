@@ -1,0 +1,18 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2004-02-21T06:54:24.700Z,71.467,-8.147,15.3,3.6,ml,12.0,136.7,,,us,usp000cmr3,2014-11-07T01:21:23.881Z,"64 km NNE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,ber
+2003-12-15T04:28:22.300Z,61.784,2.573,21.0,3.8,ml,76.0,171.1,,,us,usp000cfa1,2014-11-07T01:20:45.261Z,"131 km W of Florø, Norway",earthquake,,,,,reviewed,ber,bgs
+2004-11-16T12:13:39.700Z,71.451,-6.42,13.2,3.7,ml,4.0,260.2,,,us,usp000d8k8,2014-11-07T01:24:01.538Z,"101 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,ber
+2004-05-25T17:03:44.400Z,71.24,-7.43,14.3,3.5,ml,7.0,127.1,,,us,usp000cw6w,2014-11-07T01:22:24.159Z,"58 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,ber
+2004-04-17T08:40:28.300Z,71.064,-6.937,0.0,3.5,md,8.0,180.4,,,us,usp000csrq,2014-11-07T01:22:00.924Z,"66 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,ber
+2005-10-10T06:56:57.700Z,71.22,-6.584,15.0,3.8,ml,9.0,112.0,,,us,usp000e1gc,2014-11-07T01:27:22.012Z,"84 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,ber
+2007-01-28T10:30:58.600Z,57.844,6.582,29.8,4.4,ml,124.0,35.5,,,us,usp000f3tn,2014-11-07T01:31:28.436Z,"28 km S of Vestbygd, Norway",earthquake,,,,,reviewed,ber,bgs
+2007-01-21T13:45:22.700Z,62.631,6.591,10.0,3.7,ml,38.0,87.8,,,us,usp000f351,2014-11-07T01:31:25.322Z,"6 km SW of Midsund, Norway",earthquake,,,,,reviewed,ber,ber
+2006-08-14T01:25:48.100Z,71.647,-4.823,12.2,4.4,mb,120.0,61.1,,,us,usp000eqwd,2014-11-07T01:29:57.780Z,"161 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,58.0,reviewed,ber,us
+2006-08-13T20:07:05.000Z,71.43,-4.248,18.2,4.1,mb,47.0,75.2,,,us,usp000eqw2,2014-11-07T01:29:57.734Z,"170 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,7.0,reviewed,ber,us
+2006-08-13T19:43:09.700Z,71.357,-4.516,0.0,4.7,mwc,118.0,74.2,,,us,usp000eqw1,2016-11-10T01:26:58.165Z,"159 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,hrv
+2006-08-13T19:03:07.400Z,71.504,-4.355,0.1,5.0,mwc,261.0,40.0,,,us,usp000eqvw,2016-11-10T01:26:57.669Z,"169 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,,reviewed,ber,hrv
+2006-08-13T19:01:59.400Z,71.361,-4.593,0.0,4.3,mb,40.0,126.0,,,us,usp000eqvu,2014-11-07T01:29:57.689Z,"156 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,13.0,reviewed,ber,us
+2006-05-20T06:24:06.100Z,71.449,-5.523,0.0,4.5,mb,35.0,69.0,,,us,usp000ehj4,2014-11-07T01:29:09.062Z,"129 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,,,,4.0,reviewed,ber,us
+2010-09-24T22:57:00.300Z,68.225,13.819,19.4,4.0,mb,11.0,198.2,,,us,usp000hm4v,2014-11-07T01:42:30.585Z,"5 km SE of Evjen, Norway",earthquake,,,,2.0,reviewed,ber,us
+2011-06-28T10:03:05.700Z,65.048,0.555,15.0,4.4,ml,20.0,181.5,,,us,usp000j3w2,2014-11-07T01:45:11.434Z,Norwegian Sea,earthquake,,,,,reviewed,ber,ber
+2012-03-14T19:22:27.900Z,59.535,5.602,6.2,3.6,ml,39.0,75.1,,,us,usp000jg8s,2014-11-07T01:47:14.906Z,"13 km WSW of Ølen, Norway",earthquake,,,,,reviewed,ber,bgs

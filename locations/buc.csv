@@ -1,0 +1,169 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2002-12-30T15:41:35.360Z,45.679,26.565,153.5,4.5,md,26.0,,,,us,usp000bmr5,2014-11-07T01:17:26.859Z,"10 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2004-01-08T12:38:29.610Z,45.839,26.716,103.0,3.5,md,5.0,139.0,,,us,usp000cher,2014-11-07T01:21:00.253Z,"1 km WNW of Nistore?ti, Romania",earthquake,,,,,reviewed,buc,buc
+2003-11-25T23:21:39.630Z,45.392,26.448,130.5,3.7,md,6.0,101.0,,,us,usp000cdw8,2014-11-07T01:20:33.538Z,"2 km WNW of Bozioru, Romania",earthquake,,,,,reviewed,buc,buc
+2003-11-20T12:59:30.310Z,45.749,26.69,140.0,3.9,md,8.0,127.7,,,us,usp000cdg8,2014-11-07T01:20:31.796Z,"4 km NNW of Nereju, Romania",earthquake,,,,,reviewed,buc,buc
+2003-09-16T09:25:15.760Z,45.666,26.654,86.8,4.0,md,16.0,123.5,,,us,usp000c7pw,2014-11-07T01:19:49.949Z,"5 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2003-03-26T06:08:54.410Z,45.485,26.457,135.5,4.1,md,6.0,115.2,,,us,usp000bthd,2014-11-07T01:18:08.564Z,"3 km E of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,buc
+2005-03-06T22:32:49.080Z,45.62,26.502,146.1,4.0,mb,51.0,37.0,,,us,usp000dhpv,2014-11-07T01:25:12.033Z,"16 km NNW of Lop?tari, Romania",earthquake,,,,3.0,reviewed,buc,us
+2005-02-25T13:05:38.030Z,42.994,26.644,7.8,3.8,ml,4.0,308.2,,,us,usp000dgxs,2014-11-07T01:25:03.536Z,Bulgaria,earthquake,,,,,reviewed,buc,buc
+2005-02-14T23:37:01.920Z,45.398,22.435,20.9,4.2,ml,21.0,98.9,,,us,usp000dg5g,2014-11-07T01:24:59.716Z,"7 km ENE of Borlova, Romania",earthquake,,,,,reviewed,buc,buc
+2005-02-13T05:19:42.750Z,47.701,26.683,4.7,4.1,ml,7.0,224.5,,,us,usp000dg11,2014-11-07T01:24:59.179Z,"2 km N of Or??eni-Deal, Romania",earthquake,,,,,reviewed,buc,buc
+2005-02-12T00:01:25.760Z,44.41,26.877,0.0,3.6,ml,8.0,183.7,,,us,usp000dfyg,2014-11-07T01:24:58.816Z,"1 km SSW of R?zvani, Romania",earthquake,,,,,reviewed,buc,buc
+2005-02-01T19:26:00.280Z,45.441,25.389,0.0,3.5,ml,9.0,93.1,,,us,usp000dfc9,2014-11-07T01:24:53.699Z,"5 km SSE of ?imon, Romania",earthquake,,,,,reviewed,buc,buc
+2005-01-18T17:15:30.270Z,45.139,28.875,0.1,3.8,ml,6.0,312.4,,,us,usp000ddq5,2014-11-07T01:24:41.499Z,"1 km W of Malcoci, Romania",earthquake,,,,,reviewed,buc,buc
+2004-11-24T18:36:55.840Z,45.158,28.789,3.5,3.8,ml,9.0,179.6,,,us,usp000d947,2014-11-07T01:24:04.776Z,"2 km SSW of Tulcea, Romania",earthquake,,,,,reviewed,buc,buc
+2004-11-23T18:33:27.070Z,45.684,26.751,115.4,3.7,mb,28.0,88.1,,,us,usp000d921,2014-11-07T01:24:04.547Z,"4 km SE of Nereju, Romania",earthquake,,,,2.0,reviewed,buc,us
+2004-11-16T16:34:03.110Z,45.147,28.889,1.0,3.7,ml,5.0,254.6,,,us,usp000d8km,2014-11-07T01:24:01.565Z,"0 km N of Malcoci, Romania",earthquake,,,,,reviewed,buc,buc
+2004-09-12T04:26:09.070Z,45.465,26.373,139.0,3.9,md,8.0,116.6,,,us,usp000d449,2014-11-07T01:23:28.219Z,"2 km WNW of Furtune?ti, Romania",earthquake,,,,,reviewed,buc,buc
+2004-04-22T16:08:47.750Z,45.458,26.407,123.8,3.8,md,4.0,112.8,,,us,usp000ct4z,2014-11-07T01:22:04.348Z,"0 km ESE of Furtune?ti, Romania",earthquake,,,,,reviewed,buc,buc
+2004-04-21T01:03:22.570Z,45.656,26.548,151.7,3.6,md,4.0,141.9,,,us,usp000ct0p,2014-11-07T01:22:03.769Z,"12 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2004-04-02T03:21:05.080Z,45.669,26.657,133.2,3.9,md,5.0,123.4,,,us,usp000crg1,2014-11-07T01:21:52.158Z,"5 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2004-03-31T23:06:01.600Z,45.485,26.549,114.0,3.6,md,4.0,110.5,,,us,usp000crd3,2014-11-07T01:21:49.126Z,"2 km W of Lop?tari, Romania",earthquake,,,,,reviewed,buc,buc
+2006-02-18T11:36:58.020Z,45.595,26.538,143.5,3.8,md,8.0,83.8,,,us,usp000ea9v,2014-11-07T01:28:19.899Z,"12 km NNW of Lop?tari, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-02-16T02:49:40.270Z,45.699,26.686,122.7,4.6,mb,76.0,41.1,,,us,usp000ea4s,2014-11-07T01:28:18.758Z,"1 km SW of Nereju Mic, Romania",earthquake,,,,22.0,reviewed,buc,us
+2006-02-06T10:47:06.480Z,44.73,28.077,30.0,3.6,md,12.0,133.2,,,us,usp000e9mh,2014-11-07T01:28:16.922Z,"4 km S of Gârliciu, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-01-30T20:12:50.260Z,46.091,27.631,10.0,4.1,md,69.0,74.6,,,us,usp000e95j,2014-11-07T01:28:10.764Z,"2 km WSW of B?l??e?ti, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-12-18T15:09:48.820Z,45.374,26.095,59.7,3.8,md,57.0,44.9,,,us,usp000e6cq,2014-11-07T01:27:54.790Z,"4 km ENE of Slon, Romania",earthquake,,,,,reviewed,buc,sof
+2005-12-03T07:49:51.310Z,45.855,27.271,30.0,4.7,md,25.0,69.6,,,us,usp000e5du,2014-11-07T01:27:49.643Z,"2 km SW of Cosme?tii-Vale, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-11-15T16:41:32.710Z,45.826,27.199,29.6,4.1,mb,51.0,48.5,,,us,usp000e486,2014-11-07T01:27:39.658Z,"1 km ENE of Ige?ti, Romania",earthquake,,,,4.0,reviewed,buc,us
+2005-10-26T22:51:22.810Z,45.641,26.555,143.2,4.1,mb,103.0,43.5,,,us,usp000e2ws,2014-11-07T01:27:29.401Z,"13 km WSW of Nereju Mic, Romania",earthquake,,,,23.0,reviewed,buc,us
+2005-10-21T01:17:38.910Z,45.53,26.477,117.2,4.8,md,32.0,58.9,,,us,usp000e2cn,2014-11-07T01:27:27.298Z,"7 km NE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-10-13T14:03:17.790Z,45.714,26.447,110.0,4.0,md,15.0,91.9,,,us,usp000e1r0,2014-11-07T01:27:23.074Z,"15 km ESE of Comand?u, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-09-29T02:59:56.950Z,45.659,26.521,132.9,3.9,md,8.0,136.5,,,us,usp000e0g0,2014-11-07T01:27:11.197Z,"14 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-09-17T06:08:44.120Z,45.593,26.456,139.4,4.3,md,39.0,37.2,,,us,usp000dzkj,2014-11-07T01:27:05.100Z,"12 km NNE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2005-09-10T04:56:55.390Z,45.259,27.206,22.0,4.0,ml,26.0,85.4,,,us,usp000dz5e,2014-11-07T01:27:02.857Z,"0 km SSE of Ghergheasa, Romania",earthquake,,,,,reviewed,buc,buc
+2005-09-08T16:35:50.980Z,45.528,26.356,139.3,4.2,mb,121.0,21.4,,,us,usp000dz0q,2014-11-07T01:27:02.179Z,"6 km NW of Gura Teghii, Romania",earthquake,,,,34.0,reviewed,buc,us
+2005-08-25T17:53:55.800Z,44.785,27.012,10.0,4.0,ml,23.0,92.5,,,us,usp000dy1j,2014-11-07T01:26:52.364Z,"2 km N of Colelia, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-23T22:54:01.750Z,45.58,26.486,130.0,3.6,m,15.0,72.2,,,us,usp000dxx8,2014-11-07T01:26:51.790Z,"12 km NNE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-21T02:48:36.980Z,45.516,27.857,4.5,3.6,ml,17.0,106.2,,,us,usp000dxrx,2014-11-07T01:26:51.075Z,"3 km ENE of Schela, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-19T18:34:41.980Z,44.94,25.273,10.1,3.9,ml,13.0,103.7,,,us,usp000dxp0,2014-11-07T01:26:50.332Z,"3 km WSW of Dr?g?e?ti Ungureni, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-19T07:12:26.310Z,45.6,26.692,107.5,4.1,m,10.0,102.8,,,us,usp000dxn3,2014-11-07T01:26:50.207Z,"2 km NW of Jitia, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-17T13:35:24.950Z,45.584,26.432,152.0,4.0,m,16.0,80.4,,,us,usp000dxhr,2014-11-07T01:26:49.906Z,"11 km N of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-15T15:20:26.510Z,45.525,27.547,5.8,3.8,ml,8.0,169.2,,,us,usp000dxd0,2014-11-07T01:26:49.248Z,"1 km SSW of N?moloasa, Romania",earthquake,,,,,reviewed,buc,buc
+2005-08-02T09:33:30.390Z,45.473,26.376,135.6,4.0,m,15.0,53.9,,,us,usp000dwgh,2014-11-07T01:26:42.179Z,"2 km NW of Furtune?ti, Romania",earthquake,,,,,reviewed,buc,buc
+2005-05-17T22:48:14.580Z,45.381,26.293,148.3,3.9,m,14.0,69.9,,,us,usp000dr2e,2014-11-07T01:25:55.404Z,"2 km SW of P?ltineni, Romania",earthquake,,,,,reviewed,buc,buc
+2005-05-14T01:53:20.660Z,45.684,26.437,148.9,5.2,mwc,628.0,11.6,,,us,usp000dqrj,2022-07-14T16:11:54.355Z,"16 km SE of Comand?u, Romania",earthquake,,,,,reviewed,buc,hrv
+2005-05-13T00:36:05.390Z,45.798,26.708,80.0,3.8,m,11.0,110.0,,,us,usp000dqnm,2014-11-07T01:25:52.746Z,"1 km NNW of Paltin, Romania",earthquake,,,,,reviewed,buc,buc
+2005-05-09T06:53:54.750Z,45.463,26.334,135.8,4.1,m,18.0,56.9,,,us,usp000dq8y,2014-11-07T01:25:50.536Z,"1 km NNW of Bâsca Rozilei, Romania",earthquake,,,,,reviewed,buc,buc
+2005-04-22T12:34:21.250Z,45.41,26.344,114.8,3.7,m,10.0,118.1,,,us,usp000dp05,2014-11-07T01:25:39.619Z,"2 km NE of P?ltineni, Romania",earthquake,,,,,reviewed,buc,buc
+2005-04-18T12:29:21.560Z,45.183,28.938,5.7,3.5,ml,4.0,295.2,,,us,usp000dnpb,2014-11-07T01:25:37.824Z,"4 km NNE of Nuf?ru, Romania",earthquake,,,,,reviewed,buc,buc
+2005-04-07T15:49:24.790Z,46.384,27.897,0.0,3.7,ml,8.0,167.2,,,us,usp000dmh0,2014-11-07T01:25:30.424Z,"1 km E of Vii?oara, Romania",earthquake,,,,,reviewed,buc,buc
+2005-04-04T18:59:07.010Z,45.385,26.48,115.5,4.2,m,17.0,53.2,,,us,usp000dm8f,2014-11-07T01:25:29.284Z,"0 km NW of Bozioru, Romania",earthquake,,,,,reviewed,buc,buc
+2005-03-18T15:43:01.520Z,45.566,27.795,11.5,4.4,ml,7.0,123.1,,,us,usp000djfq,2014-11-07T01:25:16.129Z,"2 km SSE of Slobozia Conachi, Romania",earthquake,,,,,reviewed,buc,buc
+2005-03-15T23:58:01.670Z,45.699,26.584,81.8,3.6,m,11.0,89.0,,,us,usp000dj9x,2014-11-07T01:25:14.800Z,"8 km W of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2005-03-14T06:31:52.640Z,45.654,26.774,118.8,3.6,m,6.0,215.5,,,us,usp000dj64,2014-11-07T01:25:14.292Z,"6 km NNE of Vintileasca, Romania",earthquake,,,,,reviewed,buc,buc
+2005-03-06T22:32:49.080Z,45.62,26.502,146.1,4.0,mb,51.0,37.0,,,us,usp000dhpv,2014-11-07T01:25:12.033Z,"16 km NNW of Lop?tari, Romania",earthquake,,,,3.0,reviewed,buc,us
+2007-03-09T21:44:18.030Z,45.591,26.352,150.0,3.8,mb,42.0,55.6,,,us,usp000f6d6,2014-11-07T01:31:50.840Z,"12 km NNW of Gura Teghii, Romania",earthquake,,,,2.0,reviewed,buc,us
+2007-02-15T02:32:54.690Z,45.787,26.793,90.3,4.0,mb,70.0,48.9,,,us,usp000f4wj,2014-11-07T01:31:38.072Z,"3 km W of Reghiu, Romania",earthquake,,,,10.0,reviewed,buc,us
+2007-02-03T10:49:14.620Z,43.515,17.657,10.0,4.4,ml,152.0,42.5,,,us,usp000f46v,2014-11-07T01:31:33.435Z,"15 km NNE of Široki Brijeg, Bosnia and Herzegovina",earthquake,,,,,reviewed,buc,ldg
+2006-12-02T18:14:56.360Z,44.284,21.353,2.7,3.7,ml,7.0,255.4,,,us,usp000ezcm,2014-11-07T01:31:03.988Z,"23 km ENE of Lapovo, Serbia",earthquake,,,,,reviewed,buc,buc
+2006-11-23T07:15:20.570Z,48.195,22.46,10.0,4.8,mb,126.0,24.4,,,us,usp000eyky,2020-09-18T21:16:36.256Z,"6 km S of Koson’, Ukraine",earthquake,,,,13.0,reviewed,buc,us
+2006-11-19T20:51:13.950Z,45.65,26.584,150.0,4.0,md,38.0,33.7,,,us,usp000ey9y,2014-11-07T01:30:54.351Z,"10 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-10-04T18:51:42.890Z,45.588,26.384,142.3,3.6,md,8.0,120.4,,,us,usp000eugd,2014-11-07T01:30:30.352Z,"11 km NNW of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-09-23T05:44:08.340Z,45.591,26.41,120.0,4.2,mb,80.0,22.9,,,us,usp000etmv,2014-11-07T01:30:16.048Z,"11 km N of Gura Teghii, Romania",earthquake,,,,15.0,reviewed,buc,us
+2006-09-02T17:37:09.660Z,45.651,26.527,150.0,4.0,md,31.0,79.0,,,us,usp000esbf,2014-11-07T01:30:08.731Z,"14 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-08-08T20:14:40.780Z,45.75,26.78,69.6,3.8,md,13.0,100.2,,,us,usp000eqh8,2014-11-07T01:29:55.951Z,"1 km E of Spulber, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-06-30T10:48:01.400Z,45.639,26.577,88.2,3.7,md,16.0,87.4,,,us,usp000emms,2014-11-07T01:29:30.331Z,"11 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-05-12T10:30:44.530Z,45.822,26.623,90.0,3.8,md,21.0,100.5,,,us,usp000egxu,2014-11-07T01:29:06.055Z,"8 km WNW of Paltin, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-03-31T05:35:47.840Z,46.014,27.062,80.0,4.0,md,47.0,69.3,,,us,usp000edau,2014-11-07T01:28:37.263Z,"3 km NNE of Fitione?ti, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-03-27T19:54:18.410Z,45.551,26.504,119.6,4.2,md,32.0,43.6,,,us,usp000ed2z,2014-11-07T01:28:36.183Z,"9 km NW of Lop?tari, Romania",earthquake,,,,,reviewed,buc,irsa
+2006-03-19T11:05:54.830Z,45.611,26.454,147.2,4.5,mb,70.0,37.2,,,us,usp000ecfm,2014-11-07T01:28:33.345Z,"14 km NNE of Gura Teghii, Romania",earthquake,,,,5.0,reviewed,buc,us
+2008-03-05T23:21:14.490Z,45.586,26.499,150.0,3.5,md,12.0,71.8,,,us,usp000g0th,2014-11-07T01:35:11.627Z,"13 km NNE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2008-02-11T03:31:31.310Z,45.589,26.576,103.8,3.8,mb,67.0,57.2,,,us,usp000fyn6,2014-11-07T01:34:55.892Z,"10 km W of Jitia, Romania",earthquake,,,,14.0,reviewed,buc,us
+2008-02-07T16:45:31.420Z,45.89,20.69,19.0,3.6,ml,21.0,170.9,,,us,usp000fycy,2014-11-07T01:34:54.726Z,"4 km WNW of Grab??, Romania",earthquake,,,,,reviewed,buc,buc
+2008-01-30T13:09:30.790Z,45.626,26.499,150.0,3.9,mb,34.0,55.1,,,us,usp000fxsk,2014-11-07T01:34:47.101Z,"17 km NNE of Gura Teghii, Romania",earthquake,,,,2.0,reviewed,buc,us
+2008-01-28T02:56:21.500Z,45.555,26.489,10.9,3.6,ml,41.0,39.7,,,us,usp000fxky,2014-11-07T01:34:46.401Z,"9 km NE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,buc
+2007-12-23T18:29:25.890Z,45.825,26.326,200.0,3.7,m,14.0,104.1,,,us,usp000fv3e,2014-11-07T01:34:28.415Z,"7 km NE of Comand?u, Romania",earthquake,,,,,reviewed,buc,buc
+2007-11-29T18:50:05.980Z,45.574,27.04,7.1,4.0,mb,31.0,71.3,,,us,usp000ftj0,2014-11-07T01:34:16.030Z,"2 km ESE of Gura Cali?ei, Romania",earthquake,,,,1.0,reviewed,buc,us
+2007-10-30T17:56:03.300Z,45.497,27.625,50.0,4.1,mb,42.0,42.7,,,us,usp000frmd,2014-11-07T01:34:01.376Z,"5 km SE of N?moloasa-Sat, Romania",earthquake,,,,2.0,reviewed,buc,us
+2007-10-30T03:22:27.130Z,45.73,26.65,111.3,3.5,m,17.0,59.8,,,us,usp000frk6,2014-11-07T01:34:01.258Z,"4 km NW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2007-08-13T14:42:26.780Z,45.53,26.293,160.0,3.6,m,9.0,71.8,,,us,usp000fjkn,2014-11-07T01:33:15.614Z,"4 km NNE of Ca?oca, Romania",earthquake,,,,,reviewed,buc,buc
+2007-08-08T23:21:59.800Z,45.644,26.511,116.7,3.5,md,12.0,96.5,,,us,usp000fj7e,2014-11-07T01:33:13.547Z,"16 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2007-06-23T00:33:25.630Z,45.747,26.241,200.0,3.8,mb,11.0,111.3,,,us,usp000fekt,2014-11-07T01:32:44.998Z,"2 km SW of Comand?u, Romania",earthquake,,,,2.0,reviewed,buc,us
+2007-05-27T10:06:51.570Z,45.59,26.488,148.0,4.2,md,15.0,97.9,,,us,usp000fcv9,2014-11-07T01:32:32.295Z,"13 km NNE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2007-05-20T11:09:07.450Z,44.032,21.508,10.0,3.9,ml,46.0,47.4,,,us,usp000fcc9,2014-11-07T01:32:30.172Z,"16 km NE of ?uprija, Serbia",earthquake,,,,,reviewed,buc,the
+2007-05-12T19:06:41.100Z,45.594,26.468,141.8,4.1,mb,39.0,44.7,,,us,usp000fbus,2014-11-07T01:32:27.586Z,"12 km NNE of Gura Teghii, Romania",earthquake,,,,6.0,reviewed,buc,us
+2007-05-12T13:45:47.180Z,42.223,27.142,15.0,3.8,ml,10.0,256.4,,,us,usp000fbuk,2014-11-07T01:32:27.576Z,"14 km SSW of Sredets, Bulgaria",earthquake,,,,,reviewed,buc,buc
+2007-04-05T01:22:29.920Z,45.65,26.584,100.0,4.0,mb,31.0,75.1,,,us,usp000f8qk,2014-11-07T01:32:06.789Z,"10 km SW of Nereju Mic, Romania",earthquake,,,,1.0,reviewed,buc,us
+2007-03-28T00:59:05.830Z,45.591,26.41,140.0,4.2,md,14.0,90.6,,,us,usp000f7p4,2014-11-07T01:31:57.083Z,"11 km N of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2007-03-09T21:44:18.030Z,45.591,26.352,150.0,3.8,mb,42.0,55.6,,,us,usp000f6d6,2014-11-07T01:31:50.840Z,"12 km NNW of Gura Teghii, Romania",earthquake,,,,2.0,reviewed,buc,us
+2008-12-17T07:37:50.270Z,45.682,26.478,86.1,4.3,m,22.0,84.9,,,us,usp000gqsh,2014-11-07T01:37:58.825Z,"17 km W of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,buc
+2008-12-01T21:23:04.120Z,45.672,26.54,146.5,4.1,md,58.0,22.1,,,us,usp000gpsc,2014-11-07T01:37:51.807Z,"12 km WSW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2008-11-15T20:08:19.960Z,42.676,23.207,8.2,3.9,ml,20.0,93.5,,,us,usp000gnse,2014-11-07T01:37:44.496Z,"8 km S of Bozhurishte, Bulgaria",earthquake,,,,,reviewed,buc,the
+2008-11-05T07:36:53.070Z,42.932,27.653,10.0,4.1,ml,18.0,101.5,,,us,usp000gn03,2014-11-07T01:37:41.141Z,"8 km SW of Dolni Chiflik, Bulgaria",earthquake,,,,,reviewed,buc,buc
+2008-10-20T11:03:02.450Z,45.868,26.856,73.6,3.9,m,21.0,52.4,,,us,usp000gknm,2014-11-07T01:37:30.747Z,"4 km ESE of Valea S?rii, Romania",earthquake,,,,,reviewed,buc,buc
+2008-10-15T13:39:18.690Z,45.622,26.456,138.7,4.0,mb,17.0,61.8,,,us,usp000gkac,2014-11-07T01:37:29.365Z,"15 km NNE of Gura Teghii, Romania",earthquake,,,,1.0,reviewed,buc,us
+2008-08-29T07:55:54.960Z,45.505,26.328,170.0,3.9,md,18.0,82.5,,,us,usp000gfx3,2014-11-07T01:37:01.026Z,"5 km ENE of Ca?oca, Romania",earthquake,,,,,reviewed,buc,irsa
+2008-07-16T12:27:34.180Z,45.452,26.365,143.4,3.7,m,25.0,67.9,,,us,usp000gcaw,2014-11-07T01:36:38.676Z,"2 km E of Bâsca Rozilei, Romania",earthquake,,,,,reviewed,buc,buc
+2008-07-15T17:41:13.760Z,45.459,26.238,135.6,3.6,m,18.0,50.6,,,us,usp000gc8w,2014-11-07T01:36:38.281Z,"2 km SSW of Lunca Jari?tei, Romania",earthquake,,,,,reviewed,buc,buc
+2008-07-04T23:19:26.840Z,45.648,26.538,146.7,4.0,mb,58.0,40.6,,,us,usp000gbbm,2014-11-07T01:36:34.316Z,"13 km WSW of Nereju Mic, Romania",earthquake,,,,9.0,reviewed,buc,us
+2008-07-03T13:44:06.690Z,45.629,26.554,138.5,3.7,md,22.0,91.7,,,us,usp000gb83,2014-11-07T01:36:33.639Z,"13 km WNW of Jitia, Romania",earthquake,,,,,reviewed,buc,irsa
+2008-06-26T21:46:28.710Z,45.685,26.658,135.0,3.8,md,30.0,47.6,,,us,usp000ganj,2014-11-07T01:36:26.465Z,"3 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,irsa
+2008-05-27T04:32:43.660Z,45.626,26.556,150.0,3.7,m,9.0,91.2,,,us,usp000g7vp,2014-11-07T01:36:06.773Z,"13 km WNW of Jitia, Romania",earthquake,,,,,reviewed,buc,buc
+2008-05-12T10:11:56.320Z,43.195,25.944,15.7,4.1,mb,116.0,53.8,,,us,usp000g67x,2014-11-07T01:35:58.001Z,"4 km SSW of Strazhitsa, Bulgaria",earthquake,,,,6.0,reviewed,buc,us
+2008-03-21T16:19:00.210Z,45.79,27.125,23.0,4.1,ml,50.0,52.6,,,us,usp000g1zj,2014-11-07T01:35:17.475Z,"4 km E of Jari?tea, Romania",earthquake,,,,,reviewed,buc,buc
+2008-03-14T00:25:41.080Z,40.681,30.517,10.0,3.8,ml,19.0,168.4,,,us,usp000g1ec,2014-11-07T01:35:15.180Z,"4 km NNW of Karapürçek, Turkey",earthquake,,,,,reviewed,buc,isk
+2008-03-05T23:21:14.490Z,45.586,26.499,150.0,3.5,md,12.0,71.8,,,us,usp000g0th,2014-11-07T01:35:11.627Z,"13 km NNE of Gura Teghii, Romania",earthquake,,,,,reviewed,buc,irsa
+2009-12-26T23:04:39.490Z,45.75,26.718,102.3,4.5,mb,67.0,27.4,,,us,usp000h5d7,2014-11-07T01:40:18.841Z,"3 km W of Spulber, Romania",earthquake,,,,11.0,reviewed,buc,us
+2009-12-06T20:15:44.000Z,45.421,27.032,20.0,4.5,mb,61.0,39.8,,,us,usp000h4tq,2014-11-07T01:40:14.701Z,"1 km ENE of Podgoria, Romania",earthquake,,,,5.0,reviewed,buc,us
+2009-04-25T17:18:48.640Z,45.654,26.606,100.7,5.2,mwb,355.0,13.9,,,us,usp000gwk1,2022-07-15T08:49:18.936Z,"9 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,us
+2010-10-07T19:51:21.950Z,43.065,27.574,10.0,4.4,mb,39.0,78.8,,,us,usp000hmqt,2014-11-07T01:42:39.642Z,"14 km NW of Dolni Chiflik, Bulgaria",earthquake,,,,3.0,reviewed,buc,us
+2012-01-10T18:25:45.990Z,45.495,26.293,139.9,4.5,mb,74.0,33.5,,,us,usp000jdap,2014-11-07T01:46:45.968Z,"2 km ENE of Ca?oca, Romania",earthquake,,,,11.0,reviewed,buc,us
+2012-01-01T23:57:19.400Z,45.03,23.54,6.0,4.5,mb,97.0,26.6,,,us,usp000jcy5,2015-03-24T01:24:30.030Z,"4 km W of Albeni, Romania",earthquake,,,,16.0,reviewed,buc,us
+2011-10-04T02:40:48.350Z,45.542,26.463,133.9,4.7,mb,241.0,19.5,,,us,usp000j8wd,2015-03-24T01:41:35.278Z,"7 km NNE of Gura Teghii, Romania",earthquake,,,,81.0,reviewed,buc,us
+2011-09-08T13:50:32.400Z,45.65,26.57,114.0,4.2,mb,9.0,118.6,,,us,usp000j7ss,2014-11-07T01:45:51.485Z,"11 km WSW of Nereju Mic, Romania",earthquake,,,,5.0,reviewed,buc,us
+2011-06-24T13:08:40.000Z,47.38,25.81,6.0,4.4,mb,35.0,42.6,,,us,usp000j3p3,2014-11-07T01:45:09.776Z,"3 km SE of Ostra, Romania",earthquake,,,,3.0,reviewed,buc,us
+2011-05-01T02:24:16.060Z,45.584,26.455,137.5,4.6,mb,207.0,15.0,,,us,usp000j0uj,2022-07-19T14:00:41.626Z,"11 km NNE of Gura Teghii, Romania",earthquake,,,,55.0,reviewed,buc,us
+2012-12-01T20:52:07.700Z,45.711,26.738,92.8,4.7,mb,172.0,18.1,,,us,usp000jwat,2015-03-24T01:48:01.562Z,"1 km ESE of Nereju, Romania",earthquake,,,,35.0,reviewed,buc,us
+2012-07-12T02:20:23.950Z,45.723,26.526,120.0,4.3,mb,61.0,50.4,,,us,usp000jnwp,2014-11-07T01:48:18.820Z,"13 km W of Nereju Mic, Romania",earthquake,,,,6.0,reviewed,buc,us
+2012-07-06T22:48:00.460Z,45.684,26.672,112.9,4.1,mwr,111.0,18.6,,,us,usp000jnpf,2015-03-24T01:55:35.873Z,"3 km SW of Nereju Mic, Romania",earthquake,,,,,reviewed,buc,us
+2012-05-26T02:30:26.420Z,45.754,26.705,120.5,4.5,mb,33.0,75.4,,,us,usp000jkxs,2014-11-07T01:47:52.884Z,"3 km SSW of Paltin, Romania",earthquake,,,,1.0,reviewed,buc,us
+2014-02-24T00:22:53.070Z,45.7205,26.6776,106.7,4.4,mb,,62.0,0.13,1.0,us,usc000mx4w,2014-05-07T00:03:09.000Z,"2 km NW of Nereju Mic, Romania",earthquake,,3.9,0.09,35.0,reviewed,buc,us
+2014-02-03T00:26:31.070Z,45.6743,26.471,135.0,4.1,mb,,25.0,0.21,0.74,us,usc000mfty,2014-04-08T01:43:24.000Z,Romania,earthquake,,4.1,0.12,21.0,reviewed,buc,us
+2014-01-23T06:15:05.000Z,45.4215,26.2587,127.0,4.7,mb,,53.0,0.23,1.24,us,usb000m6js,2022-07-26T05:48:43.727Z,"3 km W of Nehoiu, Romania",earthquake,,3.7,0.084,44.0,reviewed,buc,us
+2014-01-19T01:34:34.000Z,48.0527,19.3481,3.1,4.0,mwr,,119.0,0.39,0.72,us,usb000m402,2014-03-22T00:05:23.000Z,"4 km ESE of Balassagyarmat, Hungary",earthquake,,3.7,0.078,16.0,reviewed,buc,us
+2014-01-12T18:26:02.030Z,45.5036,26.3878,137.0,3.9,mb,,79.0,0.23,1.09,us,usc000m1n2,2014-03-15T03:39:19.000Z,"3 km NW of Gura Teghii, Romania",earthquake,,2.5,0.194,10.0,reviewed,buc,us
+2013-12-29T19:22:12.050Z,45.6365,26.4553,145.0,4.3,mb,,21.0,0.2,0.46,us,usc000ltty,2014-02-28T08:44:13.000Z,"17 km N of Gura Teghii, Romania",earthquake,,4.9,0.533,,reviewed,buc,us
+2013-11-21T06:38:52.050Z,45.793,26.7264,89.9,4.4,mb,,105.0,0.07,1.14,us,usb000l3cy,2014-02-11T02:18:53.000Z,"1 km NE of Paltin, Romania",earthquake,,3.8,0.143,,reviewed,buc,us
+2013-11-18T13:15:04.000Z,42.8982,20.9716,10.0,4.1,mwr,,133.0,1.34,0.89,us,usb000l1as,2022-07-26T01:49:33.838Z,"8 km N of Vushtrri, Kosovo",earthquake,,4.2,0.068,,reviewed,buc,us
+2013-11-07T14:34:53.060Z,45.7094,26.7098,136.2,4.2,mb,,31.0,0.15,0.76,us,usb000kx54,2014-01-17T00:29:11.000Z,"0 km SSW of Nereju, Romania",earthquake,,3.6,0.265,,reviewed,buc,us
+2013-09-30T05:01:57.740Z,45.487,27.794,4.9,4.1,mb,,,,1.28,us,usb000k2gp,2013-12-13T09:00:37.000Z,"2 km SW of Schela, Romania",earthquake,,5.6,0.14,,reviewed,buc,us
+2013-09-29T18:10:51.000Z,45.49,27.84,5.0,4.1,mb,,,,1.83,us,usb000k28u,2013-12-13T09:00:36.000Z,"2 km ESE of Schela, Romania",earthquake,,1.9,0.165,,reviewed,buc,us
+2013-04-22T22:28:47.240Z,47.624,20.227,13.0,4.4,mwr,124.0,23.2,,,us,usb000gdw3,2022-07-25T00:23:56.159Z,"5 km WNW of Heves, Hungary",earthquake,,,,,reviewed,buc,us
+2013-03-16T00:34:18.080Z,46.189,27.096,15.0,4.2,mb,39.0,67.8,,,us,usb000flqq,2014-11-07T01:50:20.662Z,"1 km SSW of Sascut, Romania",earthquake,,,,7.0,reviewed,buc,us
+2015-02-21T19:10:12.080Z,45.7301,26.6366,143.7,4.2,ml,,25.0,0.12,0.71,us,usc000ts68,2015-05-12T20:29:38.040Z,"5 km WNW of Nereju Mic, Romania",earthquake,5.2,5.3,0.3,4.0,reviewed,buc,buc
+2015-02-05T21:49:40.070Z,43.2599,20.8852,8.2,3.8,mb,,126.0,0.64,0.95,us,usc000tmk4,2022-07-28T00:55:55.133Z,"18 km NNE of Leposaviq, Kosovo",earthquake,3.2,1.8,0.359,2.0,reviewed,buc,us
+2015-01-28T22:51:59.090Z,45.6413,26.4919,127.5,4.1,mb,,20.0,0.18,0.79,us,usc000tjxu,2015-04-24T16:55:46.040Z,"17 km WSW of Nereju Mic, Romania",earthquake,3.9,4.4,0.26,4.0,reviewed,buc,us
+2015-01-24T07:55:47.060Z,45.6965,26.5708,84.5,4.5,mb,,48.0,0.2,0.92,us,usc000tisi,2022-07-27T16:18:36.668Z,"9 km W of Nereju Mic, Romania",earthquake,3.7,4.7,0.095,36.0,reviewed,buc,us
+2015-01-19T23:53:07.090Z,45.8756,27.1509,40.0,4.0,mb,,39.0,0.13,0.96,us,usc000thcc,2015-04-20T16:05:36.040Z,"4 km NE of ?ife?ti, Romania",earthquake,2.9,5.6,0.144,17.0,reviewed,buc,us
+2015-01-12T06:08:31.020Z,45.533,27.0418,17.8,4.2,mb,,59.0,0.16,1.14,us,usc000terv,2015-04-10T18:56:30.040Z,"1 km SSW of Borde?ti, Romania",earthquake,1.7,2.9,0.159,15.0,reviewed,buc,us
+2015-01-04T19:40:38.090Z,45.5605,26.4225,119.3,4.3,mb,,69.0,0.2,0.96,us,usc000tbn6,2015-03-27T07:01:46.040Z,"8 km N of Gura Teghii, Romania",earthquake,2.6,3.6,0.129,17.0,reviewed,buc,us
+2015-01-03T03:39:35.000Z,45.7819,26.6671,75.8,4.2,mb,,26.0,0.07,0.45,us,usc000tbdi,2015-03-27T07:01:21.040Z,"3 km W of Paltin, Romania",earthquake,3.3,5.1,0.371,5.0,reviewed,buc,us
+2014-12-12T08:25:38.080Z,45.7388,26.7849,120.1,4.0,ml,,56.0,0.13,0.69,us,usc000t5wh,2015-03-04T21:54:59.040Z,"2 km SE of Spulber, Romania",earthquake,4.2,5.7,0.3,1.0,reviewed,buc,buc
+2014-12-07T21:04:05.010Z,45.9073,27.1727,38.3,4.6,mb,,66.0,0.17,0.89,us,usc000t4ga,2015-02-28T02:16:13.040Z,"5 km WNW of M?r??e?ti, Romania",earthquake,2.3,4.1,0.126,22.0,reviewed,buc,us
+2014-11-03T13:09:59.050Z,45.5715,26.4019,118.7,4.3,mb,,71.0,0.16,1.0,us,usc000stnd,2022-07-27T06:35:12.893Z,"9 km N of Gura Teghii, Romania",earthquake,4.2,4.3,0.113,26.0,reviewed,buc,us
+2014-10-31T23:00:04.000Z,45.1647,22.2912,4.1,4.1,mwr,,74.0,0.41,1.0,us,usc000st9z,2022-07-27T06:24:17.810Z,"1 km NNE of Teregova, Romania",earthquake,3.1,1.7,0.053,34.0,reviewed,buc,us
+2014-09-30T15:12:40.020Z,43.0647,18.2413,4.0,4.4,mb,,144.0,0.98,1.64,us,usb000shdf,2014-12-20T00:54:04.040Z,"17 km NE of Ljubinje, Bosnia and Herzegovina",earthquake,3.6,4.7,0.144,16.0,reviewed,buc,us
+2014-09-10T19:45:58.010Z,45.6066,26.526,107.3,4.7,mb,,82.0,0.26,1.28,us,usb000sb63,2022-07-27T01:31:17.365Z,"14 km NNW of Lop?tari, Romania",earthquake,4.7,3.3,0.081,51.0,reviewed,buc,us
+2014-08-24T07:12:49.030Z,45.6092,26.3172,147.9,4.3,mb,,153.0,0.38,0.8,us,usb000s5t6,2014-11-22T02:06:32.000Z,"13 km NNE of Ca?oca, Romania",earthquake,4.8,4.3,0.077,48.0,reviewed,buc,us
+2014-06-24T19:39:53.090Z,43.8088,24.4734,17.9,4.1,mwr,,67.0,0.2,1.17,us,usc000rlct,2014-09-19T17:23:39.000Z,"4 km NNW of Corabia, Romania",earthquake,,5.7,0.098,10.0,reviewed,buc,us
+2014-04-03T12:38:57.040Z,45.4746,26.4005,124.1,4.6,mb,,79.0,0.23,1.05,us,usc000p2ua,2022-07-26T12:03:15.180Z,"1 km SW of Gura Teghii, Romania",earthquake,,3.7,0.099,32.0,reviewed,buc,us
+2014-03-29T19:18:04.100Z,45.5782,26.4271,135.7,4.7,mb,,115.0,0.2,0.77,us,usc000nw6b,2022-07-26T11:06:00.201Z,"10 km N of Gura Teghii, Romania",earthquake,,3.3,0.052,115.0,reviewed,buc,us
+2014-03-29T01:55:16.040Z,45.35,26.2472,147.1,4.1,mb,,18.0,0.25,0.55,us,usc000nvjh,2014-05-29T23:32:07.000Z,"3 km N of Corbu, Romania",earthquake,,4.8,0.523,3.0,reviewed,buc,us
+2014-03-26T19:46:29.010Z,45.6409,26.5562,132.7,4.6,mb,,71.0,0.22,0.84,us,usc000nrts,2014-05-29T23:32:05.000Z,"13 km WSW of Nereju Mic, Romania",earthquake,,4.0,0.107,29.0,reviewed,buc,us
+2016-03-01T11:06:12.870Z,45.825,26.987,66.5,4.3,mb,,,,0.63,us,us10004tss,2016-05-06T23:34:21.040Z,"6 km W of Bolote?ti, Romania",earthquake,3.8,5.0,0.265,4.0,reviewed,buc,us
+2015-12-16T20:27:33.050Z,45.652,26.5742,138.7,4.1,ml,,56.0,0.21,0.38,us,us20004hmi,2016-03-05T01:42:09.040Z,"11 km WSW of Nereju Mic, Romania",earthquake,4.7,5.8,0.3,2.0,reviewed,buc,buc
+2015-11-29T21:28:37.230Z,45.8103,26.7208,121.4,3.9,mb,,,,0.81,us,us100042zq,2016-02-25T22:33:01.040Z,"2 km SSW of Nistore?ti, Romania",earthquake,5.3,5.3,0.194,7.0,reviewed,buc,us
+2015-10-07T09:25:02.050Z,45.6574,26.8586,129.699,4.4,mb,,47.0,0.15,0.81,us,us10003leh,2016-01-04T22:29:31.040Z,"9 km W of Poiana Cristei, Romania",earthquake,3.8,3.4,0.179,9.0,reviewed,buc,us
+2015-09-29T15:53:49.030Z,45.7228,26.7268,121.0,4.1,ml,,39.0,0.14,0.57,us,us10003iw9,2015-12-28T23:08:49.040Z,"1 km NE of Nereju, Romania",earthquake,3.8,3.7,0.35,5.0,reviewed,buc,buc
+2015-07-19T11:30:47.060Z,48.0951,23.6567,4.6,4.0,mb,,177.0,0.44,1.22,us,us20002yi4,2015-10-14T21:05:44.040Z,"8 km WSW of Neresnytsya, Ukraine",earthquake,4.5,6.1,0.299,3.0,reviewed,buc,us
+2015-07-15T08:30:38.090Z,43.3661,28.5652,20.4,3.8,mb,,153.0,0.12,0.85,us,us20002xkv,2022-07-31T18:46:08.980Z,"13 km ESE of Balgarevo, Bulgaria",earthquake,3.1,2.6,0.294,3.0,reviewed,buc,us
+2015-07-13T23:35:10.010Z,45.6612,26.4432,147.9,4.0,mb,,56.0,0.22,0.81,us,us20002xbq,2015-10-09T20:19:16.040Z,"18 km SE of Comand?u, Romania",earthquake,4.4,3.9,0.164,10.0,reviewed,buc,us
+2015-07-05T14:26:48.040Z,45.6957,26.6526,132.9,4.4,mb,,29.0,0.16,0.76,us,us10002nj3,2015-09-30T00:20:57.040Z,"3 km WSW of Nereju Mic, Romania",earthquake,4.1,4.2,0.536,1.0,reviewed,buc,us
+2015-06-29T22:20:56.000Z,46.0347,27.1698,21.4,4.3,mb,,57.0,0.17,0.89,us,us10002mfv,2022-07-31T16:02:25.396Z,"2 km NNW of Domne?ti-Târg, Romania",earthquake,2.4,4.3,0.147,13.0,reviewed,buc,us
+2015-03-29T00:44:58.080Z,45.6231,26.4579,141.6,4.5,mb,,38.0,0.19,0.88,us,us10001rp6,2022-07-28T05:06:38.553Z,"15 km NNE of Gura Teghii, Romania",earthquake,3.1,3.3,0.065,69.0,reviewed,buc,us
+2015-03-16T15:49:49.050Z,45.6587,26.4354,115.7,4.4,mb,,56.0,0.22,0.85,us,us10001msg,2022-07-28T02:38:46.733Z,"17 km SE of Comand?u, Romania",earthquake,3.4,3.3,0.052,108.0,reviewed,buc,us
+2016-10-31T11:59:49.800Z,45.87,26.78,90.0,4.1,mb,,,,1.43,us,us1000738i,2017-01-24T02:02:12.040Z,"1 km WSW of Valea S?rii, Romania",earthquake,6.7,6.4,0.157,11.0,reviewed,buc,us
+2016-06-09T02:05:40.060Z,44.4626,21.6239,2.0,4.2,mwr,,73.0,0.33,0.68,us,us200062z2,2019-12-09T12:37:54.347Z,"6 km S of Turija, Serbia",earthquake,3.0,4.2,0.062,25.0,reviewed,buc,us
+2016-04-18T06:46:14.040Z,42.3999,25.9692,5.0,4.3,mb,,93.0,1.33,0.92,us,us20005je7,2022-08-02T19:01:45.911Z,"10 km SSW of Nova Zagora, Bulgaria",earthquake,3.4,5.2,0.129,17.0,reviewed,buc,us

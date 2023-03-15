@@ -1,0 +1,33 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2007-09-05T11:35:14.860Z,41.521,20.128,8.0,3.5,md,8.0,176.6,,,us,usp000fmg5,2014-11-07T01:33:30.638Z,"3 km ENE of Klos, Albania",earthquake,,,,,reviewed,tir,ath
+2007-08-02T12:45:41.070Z,42.265,19.208,0.0,3.7,ml,10.0,153.9,,,us,usp000fhq1,2014-11-07T01:33:10.620Z,"7 km S of Gori?ani, Montenegro",earthquake,,,,,reviewed,tir,tir
+2009-11-11T03:43:32.750Z,40.367,19.962,0.0,4.1,ml,50.0,46.7,,,us,usp000h3ye,2014-11-07T01:40:05.912Z,"2 km NW of Memaliaj, Albania",earthquake,,,,,reviewed,tir,tir
+2010-11-07T07:56:31.520Z,41.905,20.063,38.0,4.2,ml,61.0,51.2,,,us,usp000hp80,2014-11-07T01:42:52.980Z,"14 km N of Kurbnesh, Albania",earthquake,,,,,reviewed,tir,tir
+2010-09-11T15:47:11.690Z,40.658,20.896,0.1,4.3,mb,125.0,22.8,,,us,usp000hkk6,2014-11-07T01:42:26.480Z,"8 km WNW of Bilisht, Albania",earthquake,,,,1.0,reviewed,tir,us
+2010-07-09T22:15:10.370Z,41.171,20.034,22.2,4.9,mb,175.0,34.0,,,us,usp000hf2y,2022-07-18T16:01:43.962Z,"7 km SE of Krrabë, Albania",earthquake,,,,46.0,reviewed,tir,us
+2010-05-30T11:40:28.210Z,41.169,20.27,0.0,3.9,ml,14.0,86.6,,,us,usp000hdd9,2014-11-07T01:41:34.190Z,"6 km WSW of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,tir,tir
+2011-06-09T16:16:33.000Z,40.716,19.864,6.9,4.5,mb,137.0,32.4,,,us,usp000j2x2,2022-07-19T17:22:06.147Z,"5 km S of Ura Vajgurore, Albania",earthquake,,,,7.0,reviewed,tir,us
+2012-11-27T19:06:21.830Z,40.773,19.772,16.4,3.9,mwr,113.0,60.8,,,us,usp000jw5h,2014-11-07T01:49:27.014Z,"7 km NE of Roskovec, Albania",earthquake,,,,,reviewed,tir,us
+2012-09-04T22:43:41.760Z,41.111,19.917,2.0,3.9,mwr,59.0,32.8,,,us,usp000jrqm,2014-11-07T01:48:47.315Z,"10 km NNW of Cërrik, Albania",earthquake,,,,,reviewed,tir,us
+2012-05-05T15:55:05.920Z,40.142,19.784,1.0,4.4,mb,89.0,65.9,,,us,usp000jk1r,2014-11-07T01:47:44.591Z,"5 km NE of Himarë, Albania",earthquake,,,,4.0,reviewed,tir,us
+2014-03-08T17:32:49.770Z,41.5297,19.5297,14.9,4.3,mb,,,,0.84,us,usc000n5ex,2014-05-15T02:23:44.000Z,"14 km WSW of Mamurras, Albania",earthquake,,4.5,0.16,13.0,reviewed,tir,us
+2014-03-08T15:12:32.600Z,41.52,19.58,21.0,4.1,mwr,,,,1.08,us,usc000n5dt,2014-05-15T02:23:44.000Z,"11 km SW of Mamurras, Albania",earthquake,,5.7,0.062,25.0,reviewed,tir,us
+2014-03-08T15:06:31.600Z,41.53,19.55,14.0,4.0,mwr,,,,0.93,us,usc000n5ds,2014-05-15T02:23:44.000Z,"12 km WSW of Mamurras, Albania",earthquake,,4.8,0.083,14.0,reviewed,tir,us
+2014-03-08T14:19:52.200Z,41.52,19.48,11.0,4.2,mb,,,,1.23,us,usc000n5dk,2014-05-15T02:23:42.000Z,"18 km WSW of Mamurras, Albania",earthquake,,4.5,0.265,5.0,reviewed,tir,us
+2014-03-03T10:13:07.210Z,40.7032,19.6938,3.0,4.0,ml,,,,0.0,us,usb000mzws,2014-05-13T21:36:49.000Z,"3 km S of Roskovec, Albania",earthquake,,0.0,,,reviewed,tir,tir
+2014-01-20T06:26:50.750Z,41.366,19.49,11.16,4.2,mb,,,,1.26,us,usb000m4kc,2014-03-22T00:05:25.000Z,"5 km NNE of Durrës, Albania",earthquake,,2.0,0.187,8.0,reviewed,tir,us
+2013-11-21T19:45:30.490Z,40.7343,19.6128,17.18,4.3,mb,,,,1.04,us,usc000lvan,2014-02-11T02:18:54.000Z,"4 km ENE of Fier-Çifçi, Albania",earthquake,,5.7,0.218,,reviewed,tir,us
+2013-06-22T08:41:09.000Z,40.261,19.66,13.4,4.7,mb,120.0,100.0,,,us,usc000hxz4,2014-11-07T01:51:06.706Z,"17 km ESE of Orikum, Albania",earthquake,,,,60.0,reviewed,tir,us
+2013-03-25T07:20:57.940Z,41.836,20.148,11.1,4.0,mb,91.0,52.8,,,us,usp000jzx2,2014-11-07T01:50:23.118Z,"8 km NE of Kurbnesh, Albania",earthquake,,,,11.0,reviewed,tir,us
+2014-12-29T20:34:11.570Z,41.7007,19.2785,7.01,5.0,mb,,,,0.85,us,usc000tan7,2022-07-27T11:55:33.935Z,"25 km S of Ulcinj, Montenegro",earthquake,4.7,3.5,0.043,191.0,reviewed,tir,us
+2014-05-25T21:05:09.270Z,41.967,21.2478,6.94,4.0,ml,,,,1.52,us,usb000r3p3,2015-01-30T09:59:24.069Z,"0 km ESE of Bukovik, North Macedonia",earthquake,,6.8,,,reviewed,tir,tir
+2014-05-20T04:43:25.500Z,40.95,20.03,14.0,4.6,mb,,,,1.1,us,usb000qw19,2014-08-09T02:53:50.000Z,"10 km SSE of Cërrik, Albania",earthquake,,1.2,0.09,38.0,reviewed,tir,us
+2014-05-19T01:16:58.760Z,40.9522,20.0757,0.02,4.1,ml,,,,1.05,us,usb000qu6h,2014-08-09T02:53:48.000Z,"12 km SE of Cërrik, Albania",earthquake,,7.4,,,reviewed,tir,tir
+2014-04-19T13:33:34.000Z,41.2573,20.0925,4.87,3.8,ml,,,,0.72,us,usb000pr8a,2014-07-04T01:34:01.000Z,"11 km ENE of Krrabë, Albania",earthquake,,7.4,,,reviewed,tir,tir
+2014-03-08T17:32:49.770Z,41.5297,19.5297,14.9,4.3,mb,,,,0.84,us,usc000n5ex,2014-05-15T02:23:44.000Z,"14 km WSW of Mamurras, Albania",earthquake,,4.5,0.16,13.0,reviewed,tir,us
+2014-03-08T15:12:32.600Z,41.52,19.58,21.0,4.1,mwr,,,,1.08,us,usc000n5dt,2014-05-15T02:23:44.000Z,"11 km SW of Mamurras, Albania",earthquake,,5.7,0.062,25.0,reviewed,tir,us
+2014-03-08T15:06:31.600Z,41.53,19.55,14.0,4.0,mwr,,,,0.93,us,usc000n5ds,2014-05-15T02:23:44.000Z,"12 km WSW of Mamurras, Albania",earthquake,,4.8,0.083,14.0,reviewed,tir,us
+2014-03-08T14:19:52.200Z,41.52,19.48,11.0,4.2,mb,,,,1.23,us,usc000n5dk,2014-05-15T02:23:42.000Z,"18 km WSW of Mamurras, Albania",earthquake,,4.5,0.265,5.0,reviewed,tir,us
+2014-03-03T10:13:07.210Z,40.7032,19.6938,3.0,4.0,ml,,,,0.0,us,usb000mzws,2014-05-13T21:36:49.000Z,"3 km S of Roskovec, Albania",earthquake,,0.0,,,reviewed,tir,tir
+2015-11-01T06:27:05.530Z,41.3513,20.2265,17.77,4.7,mb,,,,0.48,us,us2000415x,2022-08-01T15:06:20.558Z,"15 km S of Bulqizë, Albania",earthquake,6.9,4.3,0.104,28.0,reviewed,tir,us
+2015-10-31T09:20:32.820Z,41.376,20.2697,4.01,4.3,mb,,,,1.42,us,us20004124,2016-01-30T02:10:58.040Z,"13 km SSE of Bulqizë, Albania",earthquake,4.2,5.7,0.153,12.0,reviewed,tir,us

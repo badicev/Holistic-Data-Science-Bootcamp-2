@@ -1,0 +1,101 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1986-10-24T04:54:47.700Z,46.303,-112.043,3.4,3.5,ml,,,,,us,usp0002z9n,2014-11-07T00:39:11.396Z,"8 km WNW of Elkhorn, Montana",earthquake,,,,,reviewed,but,us
+1986-10-18T18:55:38.700Z,46.292,-112.023,5.0,3.5,ml,,,,,us,usp0002z21,2014-11-07T00:39:09.770Z,"6 km WNW of Elkhorn, Montana",earthquake,,,,,reviewed,but,us
+1987-08-20T05:39:14.200Z,45.54,-111.664,5.4,3.5,ml,,,,,us,usp00037nj,2014-11-07T00:40:49.241Z,"20 km SSE of Harrison, Montana",earthquake,,,,,reviewed,but,but
+1987-07-22T06:18:52.000Z,45.566,-111.691,7.3,3.5,ml,,,,,us,usp00036ut,2014-11-07T00:40:41.733Z,"16 km SSE of Harrison, Montana",earthquake,,,,,reviewed,but,but
+1987-07-22T05:23:06.800Z,45.552,-111.68,3.8,4.0,mb,,,,,us,usp00036up,2014-11-07T00:40:41.726Z,"18 km SSE of Harrison, Montana",earthquake,,,,3.0,reviewed,but,us
+1987-07-21T20:35:39.800Z,45.555,-111.685,4.7,3.6,ml,,,,,us,usp00036u3,2014-11-07T00:40:41.677Z,"18 km SSE of Harrison, Montana",earthquake,,,,,reviewed,but,but
+1987-05-27T12:05:06.000Z,45.582,-111.705,6.1,3.6,ml,,,,,us,usp000359w,2014-11-07T00:40:26.906Z,"14 km SSE of Harrison, Montana",earthquake,,,,,reviewed,but,us
+1989-01-30T11:47:30.900Z,45.928,-111.568,0.3,3.8,md,,,,,us,usp0003rcm,2014-11-07T00:43:30.199Z,"4 km NNW of Three Forks, Montana",earthquake,,,,,reviewed,but,but
+1990-02-02T07:49:08.600Z,44.39,-112.737,0.2,3.9,ml,,,,,us,usp00044zn,2014-11-07T00:45:38.664Z,"29 km SSW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1990-01-02T22:09:18.400Z,46.227,-111.397,0.5,3.7,ml,,,,,us,usp00043va,2014-11-07T00:45:27.835Z,"6 km NNE of Toston, Montana",earthquake,,,,,reviewed,but,but
+1989-09-17T08:47:16.900Z,47.34,-113.87,19.0,3.6,ml,,,,,us,usp0003zpq,2014-11-07T00:44:52.873Z,"17 km E of Saint Ignatius, Montana",earthquake,,,,,reviewed,but,but
+1989-08-25T20:06:37.900Z,45.91,-111.29,9.6,3.6,ml,,,,,us,usp0003ywp,2014-11-07T00:44:44.954Z,"6 km NNE of Manhattan, Montana",earthquake,,,,,reviewed,but,but
+1989-08-07T13:30:50.800Z,45.898,-111.288,0.3,4.0,mb,,,,,us,usp0003y6k,2014-11-07T00:44:40.894Z,"5 km NE of Manhattan, Montana",earthquake,,,,4.0,reviewed,but,us
+1989-06-16T22:25:22.800Z,45.705,-111.368,1.3,3.6,ml,,,,,us,usp0003wbb,2014-11-07T00:44:23.020Z,"6 km SSW of Amsterdam, Montana",earthquake,,,,,reviewed,but,but
+1992-02-17T01:32:30.500Z,44.77,-112.353,10.1,4.0,ml,,,,,us,usp000535e,2014-11-07T00:50:06.351Z,"24 km NE of Lima, Montana",earthquake,,,,,reviewed,but,gs$
+1993-07-02T20:07:10.100Z,45.937,-111.332,5.1,3.5,ml,,,,,us,usp0005vhd,2014-11-07T00:53:23.879Z,"8 km N of Manhattan, Montana",earthquake,,,,,reviewed,but,but
+1993-03-17T14:21:10.600Z,45.55,-111.681,6.2,3.6,ml,,,,,us,usp0005pp7,2014-11-07T00:52:36.129Z,"18 km SSE of Harrison, Montana",earthquake,,,,,reviewed,but,but
+1996-03-10T12:16:24.000Z,44.773,-112.712,8.4,4.0,ml,,,,,us,usp0007ek0,2014-11-07T01:00:05.414Z,"17 km NNW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1996-02-26T03:27:10.500Z,44.785,-112.685,7.5,3.6,ml,,,,,us,usp0007dy8,2014-11-07T00:59:58.735Z,"18 km NNW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1996-02-17T18:29:36.770Z,44.77,-112.705,8.6,3.8,ml,,,,,us,usp0007d6j,2014-11-07T00:59:54.785Z,"17 km NNW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1996-01-17T17:31:00.900Z,44.782,-112.711,8.2,3.7,ml,,,,,us,usp0007b92,2014-11-07T00:59:41.378Z,"18 km NNW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1995-09-24T21:55:08.600Z,45.517,-111.892,4.6,3.9,ml,,,,,us,usp00073xr,2014-11-07T00:58:46.787Z,"15 km S of Pony, Montana",earthquake,,,,,reviewed,but,gs$
+1995-09-24T17:02:22.940Z,45.518,-111.891,4.1,3.7,ml,,,,,us,usp00073x2,2014-11-07T00:58:46.719Z,"15 km S of Pony, Montana",earthquake,,,,,reviewed,but,but
+1995-05-02T20:47:07.900Z,48.133,-114.493,9.0,3.8,mb,,,,,us,usp0006wr5,2014-11-07T00:57:51.385Z,"3 km WNW of Kila, Montana",earthquake,,,,1.0,reviewed,but,us
+1995-05-02T19:31:02.200Z,48.142,-114.479,9.0,4.1,mb,,,,,us,usp0006wr1,2014-11-07T00:57:51.352Z,"2 km NW of Kila, Montana",earthquake,,,,1.0,reviewed,but,us
+1997-02-02T20:14:40.900Z,47.818,-114.22,5.0,3.6,md,,,,,us,usp0007wpa,2014-11-07T01:02:05.045Z,"1 km NNE of Lindisfarne, Montana",earthquake,,,,,reviewed,but,but
+1997-01-26T09:59:33.200Z,45.293,-112.543,7.4,3.6,ml,,,,,us,usp0007wcp,2014-11-07T01:02:00.316Z,"11 km NE of Dillon, Montana",earthquake,,,,,reviewed,but,but
+1997-01-05T01:11:05.300Z,44.84,-111.545,5.9,3.7,ml,,,,,us,usp0007vgb,2014-11-07T01:01:55.986Z,"29 km WNW of Hebgen Lake Estates, Montana",earthquake,,,,,reviewed,but,but
+1996-06-01T15:49:09.900Z,47.23,-113.171,10.0,3.8,ml,,,,,us,usp0007j0p,2014-11-07T01:00:31.987Z,"23 km N of Ovando, Montana",earthquake,,,,,reviewed,but,but
+1996-03-10T12:16:24.000Z,44.773,-112.712,8.4,4.0,ml,,,,,us,usp0007ek0,2014-11-07T01:00:05.414Z,"17 km NNW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1998-01-20T16:33:06.500Z,47.954,-115.051,7.2,4.0,ml,,,,,us,usp0008eqq,2014-11-07T01:04:21.846Z,"15 km SSE of Happys Inn, Montana",earthquake,,,,,reviewed,but,but
+1997-11-06T21:00:14.440Z,45.818,-111.084,4.9,4.0,ml,,,,,us,usp0008a73,2014-11-07T01:03:52.423Z,"4 km WSW of Springhill, Montana",earthquake,,,,,reviewed,but,us
+1997-10-14T19:08:46.700Z,45.015,-112.85,9.0,3.7,ml,,,,,us,usp000891u,2014-11-07T01:03:41.938Z,"27 km SW of Dillon, Montana",earthquake,,,,,reviewed,but,but
+1997-08-30T11:41:27.900Z,44.84,-111.498,3.8,4.1,ml,,,,,us,usp00086wk,2014-11-07T01:03:21.567Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,,,,,reviewed,but,but
+1997-08-29T09:10:15.100Z,44.542,-113.223,9.9,3.7,ml,,,,,us,usp00086u9,2014-11-07T01:03:21.312Z,"18 km SE of Leadore, Idaho",earthquake,,,,,reviewed,but,but
+1997-03-14T17:18:32.000Z,47.47,-115.78,2.0,3.6,ml,,,,,us,usp0007yup,2014-11-07T01:02:19.800Z,"1 km E of Mullan, Idaho",earthquake,,,,,reviewed,but,but
+1999-02-06T23:29:48.670Z,46.357,-111.202,1.1,3.9,md,,,,,us,usp00092cy,2014-11-07T01:06:59.465Z,"24 km E of Townsend, Montana",earthquake,,,,,reviewed,but,but
+1998-12-22T01:17:47.730Z,47.993,-115.206,12.3,4.7,ml,,,,,us,usp0008zzr,2014-11-07T01:06:41.133Z,Idaho-Montana border region,earthquake,,,,,reviewed,but,but
+1998-10-28T03:11:54.410Z,45.702,-112.132,5.0,4.3,mb,,,,,us,usp0008x5t,2014-11-07T01:06:18.174Z,"18 km S of Whitehall, Montana",earthquake,,,,4.0,reviewed,but,us
+1998-09-15T00:47:37.700Z,47.062,-113.017,5.9,3.6,ml,,,,,us,usp0008uy5,2014-11-07T01:06:03.414Z,"9 km ENE of Ovando, Montana",earthquake,,,,,reviewed,but,but
+1998-05-28T14:02:24.700Z,44.577,-112.405,13.1,3.7,ml,,,,,us,usp0008nvm,2014-11-07T01:05:16.511Z,"16 km ESE of Lima, Montana",earthquake,,,,,reviewed,but,but
+1998-04-15T02:28:35.450Z,48.008,-113.748,4.3,4.1,md,,,,,us,usp0008k9d,2014-11-07T01:04:59.884Z,"11 km NE of Swan Lake, Montana",earthquake,,,,,reviewed,but,but
+2000-03-04T02:42:01.000Z,49.17,-114.03,1.0,4.6,ml,,,,,us,usp0009p89,2014-11-07T01:09:38.781Z,"35 km S of Pincher Creek, Canada",earthquake,,,,,reviewed,but,but
+1999-11-16T18:14:25.500Z,44.488,-112.643,6.4,3.7,ml,,,,,us,usp0009hqj,2014-11-07T01:08:58.493Z,"17 km SSW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1999-11-13T21:58:01.900Z,44.487,-112.663,4.3,3.6,ml,,,,,us,usp0009hjp,2014-11-07T01:08:57.968Z,"17 km SSW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1999-10-26T11:39:57.900Z,47.908,-114.893,12.2,3.6,ml,,,,,us,usp0009gmq,2014-11-07T01:08:46.388Z,"23 km WNW of Niarada, Montana",earthquake,,,,,reviewed,but,but
+1999-09-03T17:46:56.900Z,44.802,-112.747,10.6,3.5,ml,,,,,us,usp0009dzq,2014-11-07T01:08:25.939Z,"22 km NW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1999-08-26T02:34:36.200Z,44.782,-112.775,11.7,4.0,md,,,,,us,usp0009dnb,2014-11-07T01:08:20.045Z,"21 km NW of Lima, Montana",earthquake,,,,,reviewed,but,but
+1999-08-20T13:50:25.600Z,44.785,-112.788,16.0,5.1,mb,,,,,us,usp0009dcx,2014-11-07T01:08:18.283Z,"22 km NW of Lima, Montana",earthquake,,,,83.0,reviewed,but,us
+1999-08-19T15:12:51.000Z,48.12,-114.98,13.9,3.7,ml,,,,,us,usp0009day,2014-11-07T01:08:17.621Z,"12 km ENE of Happys Inn, Montana",earthquake,,,,,reviewed,but,pgc
+2001-01-28T20:30:19.200Z,44.68,-111.865,6.1,3.8,ml,55.0,,,,us,usp000a8kf,2014-11-07T01:11:59.840Z,"43 km NE of Spencer, Idaho",earthquake,,,,,reviewed,but,but
+2000-11-10T19:14:05.430Z,46.398,-111.369,2.1,4.0,md,65.0,,,,us,usp000a3c7,2014-11-07T01:11:27.297Z,"14 km NE of Townsend, Montana",earthquake,,,,,reviewed,but,but
+2000-08-15T18:03:23.000Z,44.49,-112.625,9.6,3.5,ml,29.0,,,,us,usp0009yh7,2014-11-07T01:10:51.981Z,"16 km S of Lima, Montana",earthquake,,,,,reviewed,but,but
+2000-08-15T15:31:05.800Z,44.492,-112.625,9.4,3.6,ml,28.0,,,,us,usp0009ygm,2014-11-07T01:10:51.887Z,"16 km S of Lima, Montana",earthquake,,,,,reviewed,but,but
+2000-08-15T14:17:25.800Z,44.49,-112.637,9.3,3.8,ml,35.0,,,,us,usp0009ygd,2014-11-07T01:10:51.858Z,"16 km SSW of Lima, Montana",earthquake,,,,,reviewed,but,but
+2000-06-28T14:28:31.900Z,46.623,-113.537,9.8,4.0,mb,88.0,,,,us,usp0009vae,2022-06-18T00:23:35.255Z,"21 km SE of Clinton, Montana",earthquake,,,,4.0,reviewed,but,us
+2000-05-24T04:22:06.200Z,46.343,-111.4,2.5,3.7,mb,,,,,us,usp0009tdc,2014-11-07T01:10:11.308Z,"9 km ENE of Townsend, Montana",earthquake,,,,2.0,reviewed,but,us
+2000-04-08T11:30:22.030Z,46.342,-111.41,4.7,4.1,ml,,,,,us,usp0009r04,2014-11-07T01:09:52.444Z,"8 km ENE of Townsend, Montana",earthquake,,,,,reviewed,but,but
+2002-02-02T06:06:56.000Z,45.73,-112.12,6.3,3.6,ml,42.0,,,,us,usp000axma,2014-11-07T01:14:50.351Z,"15 km S of Whitehall, Montana",earthquake,,,,,reviewed,but,but
+2001-10-08T13:47:15.000Z,44.85,-112.85,0.1,3.6,ml,19.0,,,,us,usp000aqfn,2014-11-07T01:13:57.534Z,"31 km NW of Lima, Montana",earthquake,,,,,reviewed,but,but
+2001-05-08T10:20:11.140Z,44.795,-112.775,10.2,3.8,ml,71.0,,,,us,usp000aekx,2014-11-07T01:12:46.465Z,"22 km NW of Lima, Montana",earthquake,,,,,reviewed,but,but
+2003-01-20T02:38:05.000Z,48.53,-112.34,1.0,3.5,ml,11.0,,,,us,usp000bnva,2014-11-07T01:17:36.577Z,"10 km S of Little Browning, Montana",earthquake,,,,,reviewed,but,but
+2003-01-09T00:02:17.000Z,46.02,-110.36,10.7,3.7,ml,23.0,,,,us,usp000bn9d,2014-11-07T01:17:33.819Z,"23 km E of Wilsall, Montana",earthquake,,,,,reviewed,but,but
+2002-07-19T19:58:26.000Z,47.43,-113.05,24.6,4.0,ml,41.0,,,,us,usp000b8dq,2014-11-07T01:16:05.143Z,"43 km NE of Seeley Lake, Montana",earthquake,,,,,reviewed,but,but
+2004-01-17T09:59:46.000Z,46.19,-111.69,11.3,3.5,ml,16.0,118.7,,,us,usp000cj33,2014-11-07T01:21:05.517Z,"4 km W of Radersburg, Montana",earthquake,,,,,reviewed,but,but
+2003-04-22T02:26:15.000Z,45.64,-111.56,9.0,3.6,ml,23.0,113.1,,,us,usp000bvqk,2014-11-07T01:18:23.944Z,"18 km ESE of Harrison, Montana",earthquake,,,,,reviewed,but,but
+2004-09-26T21:46:43.000Z,47.57,-114.31,17.2,3.8,ml,41.0,72.9,,,us,usp000d546,2022-06-18T09:43:18.499Z,"14 km WSW of Pablo, Montana",earthquake,,,,,reviewed,but,but
+2004-06-28T12:10:35.000Z,45.88,-111.89,14.1,3.5,ml,16.0,101.9,,,us,usp000cz2j,2014-11-07T01:22:43.349Z,"5 km ENE of Cardwell, Montana",earthquake,,,,,reviewed,but,but
+2006-02-05T03:25:52.000Z,44.69,-111.87,14.0,4.4,mwr,93.0,26.2,,,us,usp000e9gw,2022-06-18T11:23:14.970Z,"44 km NE of Spencer, Idaho",earthquake,,,,,reviewed,but,slm
+2006-01-18T09:47:45.000Z,45.36,-112.51,8.7,4.0,mwr,52.0,29.8,,,us,usp000e8e3,2022-06-18T11:17:03.090Z,"18 km NNE of Dillon, Montana",earthquake,,,,,reviewed,but,slm
+2005-12-28T17:13:35.000Z,47.22,-111.74,27.2,3.6,ml,19.0,67.5,,,us,usp000e73v,2014-11-07T01:27:57.880Z,"6 km SSW of Cascade, Montana",earthquake,,,,,reviewed,but,but
+2005-03-18T23:31:18.000Z,45.0,-111.89,10.5,3.6,ml,28.0,46.7,,,us,usp000djge,2014-11-07T01:25:16.205Z,"32 km S of Virginia City, Montana",earthquake,,,,,reviewed,but,but
+2006-06-21T19:25:48.000Z,45.61,-111.92,11.0,3.9,ml,33.0,48.8,,,us,usp000ekyz,2014-11-07T01:29:26.108Z,"5 km SSW of Pony, Montana",earthquake,,,,,reviewed,but,but
+2006-06-18T00:05:32.400Z,45.602,-111.902,11.5,4.1,mwr,123.0,26.6,,,us,usp000eknw,2014-11-07T01:29:23.708Z,"6 km S of Pony, Montana",earthquake,,,,,reviewed,but,slm
+2006-06-17T16:22:13.540Z,45.6,-111.907,11.2,3.8,mwr,81.0,38.7,,,us,usp000ekmk,2022-06-18T12:07:56.032Z,"6 km S of Pony, Montana",earthquake,,,,,reviewed,but,slm
+2006-06-04T03:02:19.000Z,45.38,-112.6,11.3,3.8,ml,70.0,31.9,,,us,usp000ejnr,2022-06-18T12:06:09.983Z,"18 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but
+2006-03-22T17:24:32.430Z,48.828,-115.2,8.2,4.3,mwr,91.0,42.1,,,us,usp000ecqm,2022-06-18T11:41:15.590Z,"8 km SSW of Rexford, Montana",earthquake,,,,,reviewed,but,pgc
+2008-01-03T13:28:16.000Z,49.31,-112.78,38.4,3.5,ml,29.0,51.7,,,us,usp000fvwx,2014-11-07T01:34:36.173Z,"13 km SSE of Magrath, Canada",earthquake,,,,,reviewed,but,pgc
+2007-12-13T10:51:26.500Z,44.383,-115.254,17.9,3.8,ml,29.0,46.0,,,us,usp000fucr,2022-08-09T07:47:17.734Z,"31 km NW of Stanley, Idaho",earthquake,,,,,reviewed,but,but
+2007-11-26T06:27:32.000Z,46.92,-108.87,1.8,4.1,ml,53.0,49.5,,,us,usp000ftb9,2022-07-12T20:59:42.824Z,"12 km SSW of Grass Range, Montana",earthquake,,,,,reviewed,but,but
+2007-05-08T15:46:49.110Z,45.394,-112.13,13.5,4.4,mwr,177.0,11.9,,,us,usp000fbhu,2022-06-18T12:47:01.318Z,"8 km NNW of Alder, Montana",earthquake,,,,,reviewed,but,slm
+2007-03-29T05:39:31.000Z,45.34,-112.58,13.4,3.7,mwr,75.0,26.2,,,us,usp000f7rv,2022-06-18T12:42:50.099Z,"14 km NNE of Dillon, Montana",earthquake,,,,,reviewed,but,slm
+2009-03-06T11:29:54.500Z,45.703,-112.128,11.7,4.0,mb,83.0,24.8,,,us,usp000gups,2022-06-19T01:24:38.145Z,"18 km S of Whitehall, Montana",earthquake,,,,1.0,reviewed,but,us
+2008-11-27T03:14:16.000Z,44.06,-114.68,10.9,3.6,ml,46.0,49.4,,,us,usp000gphb,2014-11-07T01:37:48.371Z,"27 km SE of Stanley, Idaho",earthquake,,,,,reviewed,but,but
+2008-11-26T17:33:58.000Z,44.06,-114.68,10.5,3.7,ml,42.0,48.8,,,us,usp000gpgj,2014-11-07T01:37:48.296Z,"27 km SE of Stanley, Idaho",earthquake,,,,,reviewed,but,but
+2008-11-15T01:04:30.000Z,48.18,-113.96,12.8,3.5,ml,41.0,89.7,,,us,usp000gnqj,2014-11-07T01:37:44.310Z,"15 km NNE of Bigfork, Montana",earthquake,,,,,reviewed,but,but
+2008-08-20T19:43:12.000Z,46.2,-111.34,10.0,3.6,ml,37.0,60.5,,,us,usp000gf3v,2014-11-07T01:36:57.251Z,"8 km ENE of Toston, Montana",earthquake,,,,,reviewed,but,but
+2010-01-13T11:17:55.000Z,47.431,-113.174,20.8,3.7,mwr,63.0,39.1,,,us,usp000h62m,2022-06-19T01:28:35.371Z,"36 km NE of Seeley Lake, Montana",earthquake,,,,,reviewed,but,us
+2009-12-04T03:54:43.000Z,44.78,-112.34,14.3,3.6,ml,58.0,23.9,,,us,usp000h4qq,2014-11-07T01:40:13.728Z,"25 km NE of Lima, Montana",earthquake,,,,,reviewed,but,but
+2009-09-29T11:34:55.800Z,49.014,-112.643,21.1,3.6,md,19.0,153.9,,,us,usp000h1yf,2014-11-07T01:39:45.467Z,"42 km NW of Santa Rita, Montana",earthquake,,,,,reviewed,but,but
+2009-09-25T15:11:34.100Z,45.02,-104.21,4.5,4.2,ml,53.0,57.2,,,us,usp000h1v2,2022-07-15T18:11:24.867Z,"15 km E of Alzada, Montana",earthquake,,,,,reviewed,but,but
+2009-08-22T15:48:52.000Z,45.14,-106.45,13.9,4.0,ml,45.0,100.4,,,us,usp000h0rv,2014-11-07T01:39:33.151Z,"20 km SSE of Birney, Montana",earthquake,,,,,reviewed,but,but
+2009-08-08T02:14:18.000Z,44.87,-111.74,11.2,3.7,ml,59.0,29.8,,,us,usp000h034,2022-06-19T01:26:57.408Z,"44 km WNW of Hebgen Lake Estates, Montana",earthquake,,,,,reviewed,but,but
+2009-03-06T11:29:54.500Z,45.703,-112.128,11.7,4.0,mb,83.0,24.8,,,us,usp000gups,2022-06-19T01:24:38.145Z,"18 km S of Whitehall, Montana",earthquake,,,,1.0,reviewed,but,us
+2011-01-16T07:52:50.000Z,46.79,-112.18,15.2,3.7,ml,81.0,39.5,,,us,usp000ht74,2022-08-09T08:20:53.110Z,"10 km ENE of Marysville, Montana",earthquake,,,,,reviewed,but,but
+2010-09-07T10:08:26.000Z,44.95,-111.75,12.1,3.6,ml,47.0,43.4,,,us,usp000hkd1,2014-11-07T01:42:24.749Z,"41 km SSE of Virginia City, Montana",earthquake,,,,,reviewed,but,but
+2011-12-14T16:56:22.000Z,46.61,-113.56,12.2,3.5,ml,69.0,36.5,,,us,usp000jc6h,2022-08-09T08:42:07.192Z,"21 km SSE of Clinton, Montana",earthquake,,,,,reviewed,but,but
+2011-11-11T17:51:53.510Z,46.618,-113.557,12.1,3.8,mwr,131.0,31.2,,,us,usp000jaq2,2022-08-09T08:39:16.935Z,"20 km SE of Clinton, Montana",earthquake,,,,,reviewed,but,us
+2011-04-05T07:05:26.000Z,44.611,-112.087,12.1,4.4,mwr,207.0,20.4,,,us,usp000hzap,2022-08-09T08:26:25.465Z,"28 km NNE of Spencer, Idaho",earthquake,,,,,reviewed,but,us
+2012-09-05T20:39:53.900Z,45.412,-112.616,12.2,3.5,ml,75.0,28.9,,,us,usp000jrta,2022-08-09T08:49:52.393Z,"21 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but

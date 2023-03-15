@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-20T11:23:40.000Z,16.239,-62.015,165.3,5.8,Mi,21.0,122.3999902080008,,,pt,pt23020000,2023-01-20T19:25:03.931Z,"24 km W of Pointe-Noire, Guadeloupe",earthquake,,,,7.0,reviewed,pt,pt

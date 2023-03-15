@@ -1,0 +1,175 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1998-03-10T03:22:55.400Z,7.026,-79.88,25.2,3.8,md,,,,,us,usp0008h8c,2014-11-07T01:04:44.297Z,"58 km SSE of Pedasí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-03-09T04:32:17.000Z,9.089,-78.435,50.0,3.5,md,,,,,us,usp0008h6t,2014-11-07T01:04:44.123Z,"18 km N of Tortí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-03-03T08:42:20.900Z,7.702,-82.421,0.0,4.0,md,,,,,us,usp0008gvr,2014-11-07T01:04:39.894Z,"61 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-03-02T15:44:28.700Z,7.112,-80.124,5.4,3.9,md,,,,,us,usp0008gua,2014-11-07T01:04:39.339Z,"40 km SSE of Cañas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-23T05:48:52.300Z,8.382,-82.923,10.0,4.4,md,,,,,us,usp0008gf5,2014-11-07T01:04:34.968Z,"5 km W of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-22T03:04:29.500Z,6.652,-77.31,42.2,4.1,md,,,,,us,usp0008gdq,2014-11-07T01:04:34.769Z,"46 km W of Vigía del Fuerte, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-02-22T00:52:30.100Z,5.169,-75.933,33.2,4.1,md,,,,,us,usp0008gdj,2014-11-07T01:04:34.730Z,"6 km N of Apía, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-02-21T14:10:21.700Z,9.09,-78.365,56.4,3.7,md,,,,,us,usp0008gcs,2014-11-07T01:04:34.664Z,"19 km NNE of Tortí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-21T06:27:16.900Z,5.644,-78.261,10.0,3.9,md,,,,,us,usp0008gc5,2014-11-07T01:04:34.621Z,south of Panama,earthquake,,,,,reviewed,upa,upa
+1998-02-21T06:24:41.200Z,5.661,-78.493,0.0,4.1,mb,,,,,us,usp0008gc4,2014-11-07T01:04:34.619Z,"135 km W of Nuquí, Colombia",earthquake,,,,1.0,reviewed,upa,us
+1998-02-20T09:32:04.300Z,8.694,-82.378,5.7,3.5,md,,,,,us,usp0008ga7,2014-11-07T01:04:34.326Z,"4 km N of Caldera, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-18T17:17:24.300Z,9.33,-83.671,10.0,4.0,md,,,,,us,usp0008g6w,2014-11-07T01:04:33.954Z,"0 km SSW of Daniel Flores, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-02-18T10:26:25.110Z,4.336,-82.973,9.2,4.1,md,,,,,us,usp0008g6a,2014-11-07T01:04:33.909Z,south of Panama,earthquake,,,,,reviewed,upa,upa
+1998-02-18T05:07:03.500Z,7.877,-82.3,19.9,3.8,md,,,,,us,usp0008g5n,2014-11-07T01:04:33.821Z,"38 km SSW of Boca Chica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-17T22:18:06.500Z,8.502,-82.884,4.0,3.9,md,,,,,us,usp0008g52,2014-11-07T01:04:33.782Z,"6 km SW of Canoas, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-02-16T08:11:45.900Z,8.381,-82.879,0.0,3.6,md,,,,,us,usp0008g24,2014-11-07T01:04:33.277Z,"0 km WSW of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-15T09:55:25.600Z,7.53,-80.654,0.0,3.6,md,,,,,us,usp0008g0w,2014-11-07T01:04:33.122Z,"11 km NNW of El Cortezo, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-15T05:22:27.900Z,7.055,-81.467,6.7,4.4,md,,,,,us,usp0008g0f,2014-11-07T01:04:33.092Z,"74 km SSW of Río Grande, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-15T03:17:09.900Z,8.414,-82.956,10.4,3.6,md,,,,,us,usp0008g0a,2014-11-07T01:04:33.081Z,"9 km WNW of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-14T12:18:07.300Z,9.207,-83.985,27.6,3.6,md,,,,,us,usp0008fzk,2014-11-07T01:04:33.015Z,"31 km SE of Quepos, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-02-13T11:42:49.300Z,5.876,-79.612,10.0,3.6,md,,,,,us,usp0008fxe,2014-11-07T01:04:32.709Z,"181 km SSE of Cambutal, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-13T11:07:08.600Z,5.782,-79.416,43.0,3.9,md,,,,,us,usp0008fxd,2014-11-07T01:04:32.707Z,south of Panama,earthquake,,,,,reviewed,upa,upa
+1998-02-12T03:05:08.300Z,7.577,-81.515,22.0,3.5,md,,,,,us,usp0008fuw,2014-11-07T01:04:32.211Z,"25 km SW of Río Grande, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-10T22:50:52.300Z,7.6,-78.099,8.6,3.5,md,,,,,us,usp0008ft5,2014-11-07T01:04:31.965Z,"11 km NE of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-07T22:57:54.700Z,10.008,-77.538,10.0,3.5,mb,,,,,us,usp0008fn7,2014-11-07T01:04:31.066Z,"101 km NNE of Ailigandí, Panama",earthquake,,,,1.0,reviewed,upa,us
+1998-02-05T12:00:48.700Z,8.548,-82.745,0.0,4.2,md,,,,,us,usp0008fg7,2014-11-07T01:04:29.778Z,"2 km SSW of Gómez, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-04T03:25:16.700Z,8.528,-82.811,0.2,4.5,md,,,,,us,usp0008fdr,2014-11-07T01:04:28.721Z,"1 km E of San Isidro, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-03T01:13:27.100Z,8.855,-80.617,15.0,3.7,md,,,,,us,usp0008fbr,2014-11-07T01:04:27.920Z,"24 km SSW of Coclé del Norte, Panama",earthquake,,,,,reviewed,upa,upa
+1998-02-02T13:21:36.100Z,9.145,-83.758,0.5,4.5,md,,,,,us,usp0008fb7,2014-11-07T01:04:27.681Z,"23 km SSW of Daniel Flores, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-02-02T01:03:21.100Z,8.691,-81.447,14.9,3.6,md,,,,,us,usp0008fam,2014-11-07T01:04:27.466Z,"5 km WSW of Loma Yuca, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-30T10:03:40.400Z,7.057,-82.439,31.1,4.0,mb,,,,,us,usp0008f74,2014-11-07T01:04:24.018Z,"117 km SSE of Punta de Burica, Panama",earthquake,,,,3.0,reviewed,upa,us
+1998-01-30T09:06:28.800Z,8.614,-82.961,16.0,3.9,md,,,,,us,usp0008f70,2014-11-07T01:04:24.010Z,"3 km SSW of Corredor, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-01-30T07:41:21.700Z,5.784,-80.326,0.5,3.8,md,,,,,us,usp0008f6s,2014-11-07T01:04:23.968Z,"164 km S of Cambutal, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-30T03:06:45.900Z,6.597,-77.106,0.1,4.0,md,,,,,us,usp0008f6f,2014-11-07T01:04:23.946Z,"23 km W of Vigía del Fuerte, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-01-27T23:35:41.300Z,10.067,-78.837,11.4,3.5,md,,,,,us,usp0008f2s,2014-11-07T01:04:23.491Z,"58 km NNE of El Porvenir, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-24T00:42:46.600Z,8.773,-82.803,5.9,3.7,mb,,,,,us,usp0008ew5,2014-11-07T01:04:22.537Z,"3 km ESE of Monte Lirio, Panama",earthquake,,,,1.0,reviewed,upa,us
+1998-01-22T06:26:51.900Z,8.643,-82.932,5.2,4.0,md,,,,,us,usp0008et0,2014-11-07T01:04:22.169Z,"1 km ENE of Corredor, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-01-21T15:24:48.700Z,8.451,-82.787,0.1,3.9,md,,,,,us,usp0008es2,2014-11-07T01:04:22.012Z,"4 km S of Aserrío de Gariché, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-18T13:15:38.500Z,8.841,-82.785,14.6,4.2,md,,,,,us,usp0008ek5,2014-11-07T01:04:21.091Z,"1 km NW of Santa Clara, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-16T04:10:23.700Z,8.741,-82.97,15.0,4.2,md,,,,,us,usp0008eea,2014-11-07T01:04:20.612Z,Panama-Costa Rica border region,earthquake,,,,,reviewed,upa,upa
+1998-01-15T12:44:16.600Z,5.922,-79.143,22.9,3.5,md,,,,,us,usp0008ed7,2014-11-07T01:04:20.456Z,"195 km W of Bahía Solano, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-01-14T01:39:00.800Z,6.662,-78.112,11.4,4.0,md,,,,,us,usp0008e9t,2014-11-07T01:04:20.058Z,"62 km SW of Juradó, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-01-13T17:23:56.100Z,6.614,-77.854,46.4,3.9,md,,,,,us,usp0008e99,2014-11-07T01:04:19.950Z,"55 km S of Juradó, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-01-13T16:17:54.900Z,9.277,-79.177,65.4,3.7,md,,,,,us,usp0008e94,2014-11-07T01:04:19.927Z,"6 km W of El Progreso, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-13T10:08:51.700Z,6.66,-79.634,33.1,4.1,md,,,,,us,usp0008e8a,2014-11-07T01:04:19.870Z,"105 km SSE of Pedasí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-13T05:12:42.700Z,8.67,-82.91,6.2,3.5,md,,,,,us,usp0008e7u,2014-11-07T01:04:19.794Z,"5 km NE of Corredor, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-01-11T02:40:50.400Z,7.439,-82.164,3.9,3.8,md,,,,,us,usp0008e2u,2014-11-07T01:04:19.161Z,"86 km S of Boca Chica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-10T16:50:49.600Z,8.027,-82.861,15.0,4.1,md,,,,,us,usp0008e29,2014-11-07T01:04:19.055Z,"0 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-01-08T19:56:47.900Z,8.682,-82.081,25.8,3.9,md,,,,,us,usp0008dyh,2014-11-07T01:04:18.386Z,"17 km NNW of Boca de Balsa, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-24T05:27:42.100Z,7.01,-82.724,32.8,4.0,md,,,,,us,usp0008ynp,2014-11-07T01:06:28.746Z,"114 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-23T14:46:14.300Z,7.785,-83.027,3.5,3.9,md,,,,,us,usp0008yn4,2014-11-07T01:06:28.649Z,"32 km SSW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-21T22:06:55.400Z,7.937,-82.957,2.6,4.1,md,,,,,us,usp0008yjq,2014-11-07T01:06:28.391Z,"14 km SW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-21T07:20:31.300Z,8.775,-82.518,40.9,3.7,md,,,,,us,usp0008yhu,2014-11-07T01:06:28.305Z,"7 km NW of Palmira, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-21T06:42:47.600Z,8.322,-82.871,10.0,3.8,md,,,,,us,usp0008yhq,2014-11-07T01:06:28.297Z,"3 km NW of El Palmar, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-19T00:32:27.200Z,7.306,-77.398,5.0,4.1,md,,,,,us,usp0008ydk,2014-11-07T01:06:27.900Z,"34 km WSW of Riosucio, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-11-17T05:16:56.300Z,7.515,-82.855,7.0,4.3,md,,,,,us,usp0008yb1,2014-11-07T01:06:27.643Z,"57 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-12T07:50:34.200Z,7.772,-83.049,1.9,4.0,md,,,,,us,usp0008y2d,2014-11-07T01:06:26.572Z,"35 km SW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-08T13:15:21.300Z,7.808,-82.865,1.3,3.7,md,,,,,us,usp0008xur,2014-11-07T01:06:25.048Z,"24 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-07T08:55:52.800Z,8.828,-77.809,10.0,3.6,md,,,,,us,usp0008xrw,2014-11-07T01:06:24.547Z,"14 km SSW of Mulatupo, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-06T16:19:26.700Z,8.11,-77.556,10.0,4.1,md,,,,,us,usp0008xqv,2014-11-07T01:06:24.382Z,"3 km NW of Unión Chocó, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-06T14:22:58.600Z,8.542,-77.754,7.2,4.2,md,,,,,us,usp0008xqm,2014-11-07T01:06:24.357Z,"25 km E of Metetí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-03T22:32:38.800Z,8.209,-82.79,10.0,3.7,md,,,,,us,usp0008xjq,2014-11-07T01:06:23.185Z,"10 km SE of Puerto Armuelles, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-02T02:01:49.200Z,9.473,-82.401,43.0,3.7,md,,,,,us,usp0008xfg,2014-11-07T01:06:21.802Z,"13 km ENE of Changuinola, Panama",earthquake,,,,,reviewed,upa,upa
+1998-11-01T21:19:04.500Z,7.965,-83.075,5.8,4.0,md,,,,,us,usp0008xeu,2014-11-07T01:06:21.609Z,"24 km WSW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-10-28T13:17:12.600Z,7.288,-80.115,0.5,3.9,md,,,,,us,usp0008x6g,2014-11-07T01:06:18.227Z,"24 km SE of Cañas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-10-26T15:45:21.400Z,8.084,-82.772,11.0,4.1,md,,,,,us,usp0008x3g,2014-11-07T01:06:17.878Z,"10 km E of Limones, Panama",earthquake,,,,,reviewed,upa,upa
+1998-10-26T07:41:19.800Z,8.033,-83.33,11.8,4.2,md,,,,,us,usp0008x2q,2014-11-07T01:06:17.582Z,"51 km W of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-10-19T14:52:57.100Z,9.363,-79.234,70.0,4.0,md,,,,,us,usp0008wrw,2014-11-07T01:06:16.231Z,"16 km NW of El Progreso, Panama",earthquake,,,,,reviewed,upa,upa
+1998-09-29T17:07:23.500Z,8.392,-82.907,0.3,3.9,md,,,,,us,usp0008vqn,2014-11-07T01:06:07.013Z,"3 km WNW of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-09-18T07:43:19.400Z,8.642,-83.828,5.5,4.3,md,,,,,us,usp0008v4g,2014-11-07T01:06:04.291Z,"48 km SW of Ciudad Cortés, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-09-11T16:39:05.400Z,9.274,-79.04,65.1,3.7,md,,,,,us,usp0008usp,2014-11-07T01:06:01.906Z,"8 km E of El Progreso, Panama",earthquake,,,,,reviewed,upa,upa
+1998-09-10T05:31:04.700Z,7.979,-83.165,10.0,4.3,md,,,,,us,usp0008uq5,2014-11-07T01:06:01.680Z,"33 km W of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-09-04T22:58:54.900Z,8.266,-82.868,0.0,4.1,md,,,,,us,usp0008ueb,2014-11-07T01:06:00.495Z,"1 km SSW of Puerto Armuelles, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-26T00:21:02.100Z,8.217,-82.74,9.1,3.6,md,,,,,us,usp0008tw8,2014-11-07T01:05:53.316Z,"14 km SE of Manaca Civil, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-25T23:47:14.000Z,7.944,-82.766,10.0,3.8,md,,,,,us,usp0008tw7,2014-11-07T01:05:53.314Z,"14 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-24T04:06:11.400Z,7.093,-82.326,37.1,3.8,md,,,,,us,usp0008tsm,2014-11-07T01:05:52.601Z,"119 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-23T18:28:51.300Z,8.575,-82.796,0.0,3.7,md,,,,,us,usp0008trw,2014-11-07T01:05:52.503Z,"3 km ENE of Paso Canoas Arriba, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-23T01:18:32.600Z,7.401,-80.354,0.1,3.6,md,,,,,us,usp0008tqn,2014-11-07T01:05:52.286Z,"7 km SE of El Cacao, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-16T20:33:34.300Z,7.236,-80.546,10.0,3.5,md,,,,,us,usp0008tch,2014-11-07T01:05:49.581Z,"6 km WSW of Cambutal, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-13T06:50:29.700Z,7.308,-82.37,15.1,4.1,md,,,,,us,usp0008t6c,2014-11-07T01:05:48.727Z,"97 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-07T18:18:38.400Z,9.292,-78.624,68.0,3.8,md,,,,,us,usp0008sxg,2014-11-07T01:05:47.597Z,"17 km SSW of Narganá, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-04T07:59:50.200Z,8.186,-82.783,2.5,3.9,md,,,,,us,usp0008sr6,2014-11-07T01:05:45.375Z,"13 km NE of Limones, Panama",earthquake,,,,,reviewed,upa,upa
+1998-08-01T08:57:22.100Z,9.092,-82.632,10.0,4.1,md,,,,,us,usp0008sk8,2014-11-07T01:05:41.679Z,"26 km NNW of Barrio Guadalupe, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-27T23:08:21.500Z,7.227,-78.191,10.0,3.8,md,,,,,us,usp0008s99,2014-11-07T01:05:39.096Z,"32 km S of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-24T06:28:25.300Z,9.424,-82.299,4.2,4.0,md,,,,,us,usp0008s35,2014-11-07T01:05:37.961Z,"11 km NW of Bocas del Toro, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-24T05:27:59.100Z,9.446,-82.372,11.0,3.9,md,,,,,us,usp0008s32,2014-11-07T01:05:37.958Z,"16 km ENE of El Empalme, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-19T23:47:44.200Z,9.511,-79.212,47.7,4.0,md,,,,,us,usp0008rwc,2014-11-07T01:05:37.322Z,"3 km SSW of Santa Isabel, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-17T17:23:52.500Z,8.535,-82.958,0.0,4.2,md,,,,,us,usp0008rr5,2014-11-07T01:05:36.646Z,"11 km S of Corredor, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1998-07-16T22:00:56.600Z,7.447,-78.02,27.2,4.0,md,,,,,us,usp0008rn8,2014-11-07T01:05:36.343Z,"17 km ESE of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-10T10:48:24.300Z,7.321,-81.222,10.0,4.2,md,,,,,us,usp0008r9c,2014-11-07T01:05:34.565Z,"38 km WSW of La Loma, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-10T01:39:45.100Z,8.712,-77.508,40.5,4.0,md,,,,,us,usp0008r8x,2014-11-07T01:05:34.516Z,"10 km WNW of Puerto Obaldía, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-08T03:40:33.800Z,7.698,-77.323,10.0,4.1,md,,,,,us,usp0008r53,2014-11-07T01:05:33.816Z,"35 km SSE of Púcuro, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-07T02:34:22.900Z,7.061,-78.243,10.0,4.1,md,,,,,us,usp0008r2u,2014-11-07T01:05:33.411Z,"51 km S of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-06T07:59:01.000Z,9.453,-78.391,45.7,3.9,md,,,,,us,usp0008r18,2014-11-07T01:05:33.201Z,"21 km E of Narganá, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-05T12:42:03.600Z,8.346,-82.907,5.0,4.0,md,,,,,us,usp0008qzz,2014-11-07T01:05:32.859Z,"5 km SW of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-05T08:44:40.600Z,8.234,-82.506,2.4,4.1,md,,,,,us,usp0008qzm,2014-11-07T01:05:32.810Z,"12 km SSE of Guarumal, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-04T21:04:17.900Z,8.442,-82.766,1.4,4.2,md,,,,,us,usp0008qym,2014-11-07T01:05:32.624Z,"4 km NE of La Esperanza, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-03T23:49:47.700Z,8.864,-82.783,1.4,4.2,md,,,,,us,usp0008qx3,2014-11-07T01:05:31.974Z,"3 km N of Santa Clara, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-02T07:57:40.300Z,8.051,-77.284,21.2,4.1,md,,,,,us,usp0008qu8,2014-11-07T01:05:31.169Z,"21 km W of Unguía, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-07-02T06:54:33.300Z,8.175,-77.644,1.9,4.3,md,,,,,us,usp0008qu3,2014-11-07T01:05:31.117Z,"5 km ENE of Yaviza, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-02T03:36:04.500Z,6.919,-82.631,9.7,4.1,md,,,,,us,usp0008qts,2014-11-07T01:05:30.850Z,"125 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-02T00:35:25.200Z,7.389,-82.77,21.9,4.2,md,,,,,us,usp0008qtm,2014-11-07T01:05:30.805Z,"72 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-07-02T00:22:42.700Z,7.2,-81.568,10.0,4.1,md,,,,,us,usp0008qtj,2014-11-07T01:05:30.791Z,"62 km SSW of Río Grande, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-28T18:29:09.600Z,7.389,-80.497,2.6,3.9,md,,,,,us,usp0008qng,2014-11-07T01:05:27.699Z,"6 km WSW of Tonosí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-25T20:41:48.800Z,8.278,-82.997,2.6,3.9,md,,,,,us,usp0008qg4,2014-11-07T01:05:27.064Z,"14 km W of Puerto Armuelles, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-24T09:33:39.000Z,10.37,-76.562,9.9,3.9,md,,,,,us,usp0008qdh,2014-11-07T01:05:26.758Z,"114 km W of Cartagena, Colombia",earthquake,,,,,reviewed,upa,upa
+1998-06-24T04:36:15.100Z,8.613,-82.793,37.1,4.5,md,,,,,us,usp0008qd0,2014-11-07T01:05:26.722Z,Panama-Costa Rica border region,earthquake,,,,,reviewed,upa,upa
+1998-06-24T03:33:25.600Z,8.092,-83.349,0.0,3.9,md,,,,,us,usp0008qcz,2014-11-07T01:05:26.721Z,"53 km W of Limones, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-24T03:14:17.100Z,8.043,-82.871,0.6,4.3,md,,,,,us,usp0008qcy,2014-11-07T01:05:26.720Z,"1 km NNW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-24T00:51:28.900Z,8.239,-82.826,1.1,3.8,md,,,,,us,usp0008qcv,2014-11-07T01:05:26.715Z,"5 km SE of Puerto Armuelles, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-24T00:03:01.400Z,8.105,-82.863,1.1,3.9,md,,,,,us,usp0008qcu,2014-11-07T01:05:26.713Z,"0 km NE of Limones, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-23T23:50:29.800Z,8.066,-82.856,1.3,4.0,md,,,,,us,usp0008qct,2014-11-07T01:05:26.712Z,"3 km NNE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-22T18:04:22.600Z,9.249,-78.641,71.3,3.5,md,,,,,us,usp0008qae,2014-11-07T01:05:26.251Z,"22 km SSW of Narganá, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-19T04:18:44.900Z,7.432,-80.74,10.0,3.8,md,,,,,us,usp0008q4b,2014-11-07T01:05:25.524Z,"11 km W of El Cortezo, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-17T13:43:48.000Z,7.547,-80.502,0.0,3.7,md,,,,,us,usp0008q18,2014-11-07T01:05:25.225Z,"11 km SSW of Mogollón, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-17T12:31:17.200Z,7.289,-81.112,0.0,4.0,md,,,,,us,usp0008q12,2014-11-07T01:05:25.210Z,"28 km WSW of Arenas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-16T15:36:47.300Z,7.551,-80.476,3.1,3.6,md,,,,,us,usp0008pzp,2014-11-07T01:05:25.072Z,"10 km S of Mogollón, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-13T18:43:44.200Z,9.035,-77.986,72.6,3.7,md,,,,,us,usp0008pux,2014-11-07T01:05:24.621Z,"12 km SSW of Ustupo, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-13T10:55:27.800Z,7.128,-78.541,24.1,3.7,md,,,,,us,usp0008puh,2014-11-07T01:05:24.584Z,"60 km SW of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-09T15:07:57.100Z,7.364,-80.943,0.0,3.8,md,,,,,us,usp0008pmr,2014-11-07T01:05:23.588Z,"8 km W of Arenas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-08T22:06:47.600Z,8.48,-82.283,7.3,3.9,md,,,,,us,usp0008pk3,2014-11-07T01:05:23.316Z,"1 km NNW of Rincón, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-07T12:57:15.700Z,7.53,-80.562,1.0,3.8,md,,,,,us,usp0008pgh,2014-11-07T01:05:22.958Z,"10 km NNE of La Tronosa, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-06T09:27:28.900Z,7.696,-82.184,3.7,3.8,md,,,,,us,usp0008pe5,2014-11-07T01:05:22.646Z,"57 km S of Boca Chica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-05T04:22:19.100Z,8.711,-77.997,167.6,3.7,md,,,,,us,usp0008pbx,2014-11-07T01:05:22.282Z,"14 km S of Mortí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-06-01T07:58:38.100Z,8.719,-82.472,10.0,3.8,md,,,,,us,usp0008p4f,2014-11-07T01:05:20.068Z,"2 km SW of Palmira, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-19T09:03:43.700Z,7.881,-78.308,160.8,3.6,md,,,,,us,usp0008nce,2014-11-07T01:05:14.336Z,"13 km SW of Bayamón, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-12T05:25:19.100Z,7.16,-78.439,18.7,3.9,md,,,,,us,usp0008mxq,2014-11-07T01:05:12.545Z,"49 km SW of Jaqué, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-08T23:45:37.900Z,8.406,-82.649,0.1,3.9,md,,,,,us,usp0008mq8,2014-11-07T01:05:11.549Z,"1 km N of Santo Tomás, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-07T14:58:21.300Z,7.344,-80.945,0.2,3.8,md,,,,,us,usp0008mmq,2014-11-07T01:05:11.178Z,"9 km WSW of Arenas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-07T12:55:57.000Z,7.036,-82.653,39.1,4.0,md,,,,,us,usp0008mmh,2014-11-07T01:05:11.160Z,"112 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-06T23:55:09.500Z,7.266,-80.999,4.6,3.9,md,,,,,us,usp0008mkq,2014-11-07T01:05:11.073Z,"18 km SW of Arenas, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-05T03:29:54.100Z,9.15,-78.766,81.4,3.8,md,,,,,us,usp0008mga,2014-11-07T01:05:10.476Z,"16 km ESE of Cañita, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-01T12:42:56.600Z,8.324,-83.112,0.0,3.7,md,,,,,us,usp0008m8n,2014-11-07T01:05:08.396Z,"27 km WSW of Finca Blanco, Panama",earthquake,,,,,reviewed,upa,upa
+1998-05-01T09:07:10.700Z,4.957,-83.193,48.5,3.5,mb,,,,,us,usp0008m84,2014-11-07T01:05:07.866Z,off the coast of Central America,earthquake,,,,1.0,reviewed,upa,us
+1998-04-28T13:15:35.200Z,7.37,-82.366,5.4,3.7,md,,,,,us,usp0008m35,2014-11-07T01:05:05.039Z,"91 km SE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1998-04-27T01:15:28.400Z,8.509,-82.43,7.6,3.9,md,,,,,us,usp0008m0u,2014-11-07T01:05:04.770Z,"1 km SW of Algarrobos Arriba, Panama",earthquake,,,,,reviewed,upa,upa
+1998-04-23T20:29:34.500Z,9.568,-78.279,25.6,3.6,md,,,,,us,usp0008kuq,2014-11-07T01:05:03.703Z,"28 km N of Playón Chico, Panama",earthquake,,,,,reviewed,upa,upa
+1998-03-10T03:22:55.400Z,7.026,-79.88,25.2,3.8,md,,,,,us,usp0008h8c,2014-11-07T01:04:44.297Z,"58 km SSE of Pedasí, Panama",earthquake,,,,,reviewed,upa,upa
+1998-03-09T04:32:17.000Z,9.089,-78.435,50.0,3.5,md,,,,,us,usp0008h6t,2014-11-07T01:04:44.123Z,"18 km N of Tortí, Panama",earthquake,,,,,reviewed,upa,upa
+2000-02-16T05:28:30.000Z,8.516,-82.815,0.7,3.6,md,,,,,us,usp0009nhj,2014-11-07T01:09:31.095Z,"2 km SE of San Isidro, Panama",earthquake,,,,,reviewed,upa,upa
+2000-02-14T22:50:42.700Z,9.26,-81.61,8.2,4.1,md,,,,,us,usp0009nfw,2014-11-07T01:09:30.907Z,"28 km ENE of Tobobe, Panama",earthquake,,,,,reviewed,upa,upa
+2000-02-10T06:01:35.700Z,8.629,-82.422,0.1,3.5,md,,,,,us,usp0009n9f,2014-11-07T01:09:29.210Z,"5 km WSW of Caldera, Panama",earthquake,,,,,reviewed,upa,upa
+2000-02-07T06:06:40.900Z,8.769,-78.291,37.5,3.6,md,,,,,us,usp0009n5e,2014-11-07T01:09:28.293Z,"19 km NW of Santa Fé, Panama",earthquake,,,,,reviewed,upa,upa
+2000-01-28T13:53:07.900Z,9.245,-82.591,10.0,3.7,md,,,,,us,usp0009mse,2014-11-07T01:09:22.409Z,"15 km SSW of El Silencio, Panama",earthquake,,,,,reviewed,upa,upa
+2000-01-22T11:18:46.600Z,7.602,-83.057,19.9,4.2,md,,,,,us,usp0009mgr,2014-11-07T01:09:21.325Z,"52 km SSW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+2000-01-20T12:20:47.100Z,10.379,-83.968,10.0,4.5,md,,,,,us,usp0009mdt,2014-11-07T01:09:21.040Z,"26 km WNW of Roxana, Costa Rica",earthquake,,,,,reviewed,upa,upa
+2000-01-19T07:40:39.200Z,7.181,-82.428,28.9,4.0,md,,,,,us,usp0009mbw,2014-11-07T01:09:20.695Z,"105 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+2000-01-19T05:27:12.900Z,9.803,-79.155,6.0,3.7,md,,,,,us,usp0009mbs,2014-11-07T01:09:20.574Z,"29 km N of Santa Isabel, Panama",earthquake,,,,,reviewed,upa,upa
+2000-01-14T21:21:57.800Z,8.223,-83.53,6.6,3.6,mb,,,,,us,usp0009m4m,2014-11-07T01:09:19.552Z,"62 km SW of Golfito, Costa Rica",earthquake,,,,1.0,reviewed,upa,us
+2000-01-09T08:43:06.500Z,8.459,-82.841,10.3,3.5,md,,,,,us,usp0009ky8,2014-11-07T01:09:18.719Z,"1 km N of Progreso, Panama",earthquake,,,,,reviewed,upa,upa
+1999-12-31T21:09:12.500Z,9.159,-78.848,2.0,3.9,md,,,,,us,usp0009kjp,2014-11-07T01:09:12.969Z,"8 km SE of Cañita, Panama",earthquake,,,,,reviewed,upa,upa
+1999-12-29T04:53:54.000Z,7.666,-80.682,12.3,3.5,md,,,,,us,usp0009kdw,2014-11-07T01:09:12.158Z,"3 km NNW of Pitaloza Arriba, Panama",earthquake,,,,,reviewed,upa,upa
+1999-12-28T07:01:44.700Z,8.329,-82.78,10.0,3.7,md,,,,,us,usp0009kcw,2014-11-07T01:09:11.993Z,"3 km ESE of Manaca Norte, Panama",earthquake,,,,,reviewed,upa,upa
+1999-12-21T14:48:51.700Z,7.568,-80.548,10.0,3.7,md,,,,,us,usp0009k3t,2014-11-07T01:09:10.594Z,"10 km S of Llano de Piedra, Panama",earthquake,,,,,reviewed,upa,upa
+1999-12-12T01:50:31.000Z,7.602,-80.612,1.3,3.8,md,,,,,us,usp0009jrw,2014-11-07T01:09:09.027Z,"6 km S of La Mesa, Panama",earthquake,,,,,reviewed,upa,upa
+1999-11-07T09:07:52.900Z,7.196,-80.078,0.1,4.0,md,,,,,us,usp0009h75,2014-11-07T01:08:55.557Z,"34 km SE of Cañas, Panama",earthquake,,,,,reviewed,upa,upa
+1999-11-07T08:49:39.300Z,9.453,-83.384,10.0,4.1,md,,,,,us,usp0009h73,2014-11-07T01:08:55.549Z,"30 km NE of Mercedes, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1999-11-01T04:25:26.900Z,7.213,-81.82,13.5,4.0,md,,,,,us,usp0009gxc,2014-11-07T01:08:49.589Z,"77 km SW of Río Grande, Panama",earthquake,,,,,reviewed,upa,upa
+1999-10-25T04:43:49.400Z,8.912,-82.84,14.0,4.2,md,,,,,us,usp0009gjh,2014-11-07T01:08:46.138Z,"10 km N of Río Sereno, Panama",earthquake,,,,,reviewed,upa,upa
+1999-10-19T22:43:27.700Z,12.307,-81.138,3.6,4.4,md,,,,,us,usp0009g8y,2014-11-07T01:08:44.593Z,"68 km ESE of San Andrés, Colombia",earthquake,,,,,reviewed,upa,upa
+1999-10-13T12:54:10.700Z,8.29,-82.787,10.0,4.0,md,,,,,us,usp0009fsw,2014-11-07T01:08:41.670Z,"4 km SE of Manaca Civil, Panama",earthquake,,,,,reviewed,upa,upa
+1999-10-13T03:06:12.500Z,8.827,-84.246,64.6,4.3,md,,,,,us,usp0009fsc,2014-11-07T01:08:41.628Z,"67 km S of Quepos, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1999-10-08T11:31:39.800Z,8.322,-84.736,10.0,4.1,md,,,,,us,usp0009fkb,2014-11-07T01:08:40.903Z,"137 km SSW of Quepos, Costa Rica",earthquake,,,,,reviewed,upa,upa
+1999-04-29T07:12:30.900Z,6.82,-82.35,10.0,4.3,md,,,,,us,usp0009710,2014-11-07T01:07:31.426Z,"145 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1999-04-28T15:16:29.000Z,8.368,-82.818,0.0,4.1,md,,,,,us,usp0009700,2014-11-07T01:07:31.320Z,"3 km NNW of Manaca Norte, Panama",earthquake,,,,,reviewed,upa,upa
+1999-04-27T16:38:36.600Z,6.787,-82.483,34.7,3.8,md,,,,,us,usp00096yj,2014-11-07T01:07:31.145Z,"144 km SSE of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+1999-04-27T08:54:49.800Z,7.335,-80.627,0.2,3.9,md,,,,,us,usp00096y1,2014-11-07T01:07:31.110Z,"10 km S of El Cortezo, Panama",earthquake,,,,,reviewed,upa,upa
+1999-04-26T12:03:25.400Z,7.311,-79.675,7.7,3.8,md,,,,,us,usp00096x1,2014-11-07T01:07:30.468Z,"45 km ESE of Pedasí, Panama",earthquake,,,,,reviewed,upa,upa
+1999-04-23T15:50:58.400Z,8.617,-82.845,5.5,4.3,md,,,,,us,usp00096sg,2014-11-07T01:07:29.895Z,"3 km WSW of Breñón, Panama",earthquake,,,,,reviewed,upa,casc
+1999-04-23T01:15:04.300Z,7.582,-82.833,20.2,3.8,md,,,,,us,usp00096r7,2014-11-07T01:07:29.790Z,"50 km S of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa
+2004-03-02T21:13:03.000Z,8.386,-82.898,0.4,4.4,mb,61.0,91.2,,,us,usp000cny1,2014-11-07T01:21:37.242Z,"2 km W of Finca Blanco, Panama",earthquake,,,,13.0,reviewed,upa,us
+2005-02-04T11:28:52.100Z,8.278,-82.642,19.5,4.6,mb,64.0,137.6,,,us,usp000dfgb,2014-11-07T01:24:55.745Z,"13 km S of Santo Tomás, Panama",earthquake,,,,28.0,reviewed,upa,us
+2004-09-13T18:54:23.100Z,9.071,-81.316,28.1,4.3,mb,21.0,93.6,,,us,usp000d47m,2014-11-07T01:23:28.926Z,"33 km NNW of Calovébora, Panama",earthquake,,,,1.0,reviewed,upa,us
+2011-05-12T04:06:33.000Z,7.993,-82.898,10.0,4.5,md,8.0,155.5,,,us,usp000j1fd,2014-11-07T01:44:49.821Z,"5 km SW of Punta de Burica, Panama",earthquake,,,,,reviewed,upa,upa

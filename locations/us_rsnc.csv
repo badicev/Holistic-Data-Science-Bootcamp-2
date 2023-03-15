@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-08-06T02:50:10.000Z,7.304,-77.404,28.0,4.7,mb,,,,1.35,us,usb000iw55,2013-10-12T21:32:29.000Z,"34 km WSW of Riosucio, Colombia",earthquake,,3.4,0.035,,reviewed,us_rsnc,us

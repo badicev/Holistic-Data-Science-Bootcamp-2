@@ -1,0 +1,46 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2004-12-05T01:52:37.200Z,48.115,8.077,10.0,4.8,mwc,315.0,12.0,,,us,usp000da1z,2022-07-14T19:21:39.715Z,"6 km S of Elzach, Germany",earthquake,,,,,reviewed,csem,hrv
+2004-09-21T15:48:04.800Z,42.3,2.46,2.0,4.5,mb,244.0,56.1,,,us,usp000d4t5,2014-11-07T01:23:32.243Z,"7 km E of Camprodon, Spain",earthquake,,,,8.0,reviewed,csem,us
+2006-02-22T15:28:15.400Z,39.133,24.315,5.0,3.9,md,48.0,39.8,,,us,usp000eakx,2014-11-07T01:28:20.972Z,"33 km NW of Skýros, Greece",earthquake,,,,,reviewed,csem,ath
+2006-02-20T17:20:09.000Z,41.708,25.544,10.0,4.6,mb,140.0,38.6,,,us,usp000eaez,2020-09-18T20:52:56.109Z,"16 km ENE of Kardzhali, Bulgaria",earthquake,,,,7.0,reviewed,csem,us
+2006-02-02T09:49:49.900Z,27.884,34.411,2.0,4.5,mb,109.0,74.1,,,us,usp000e9ae,2014-11-07T01:28:14.158Z,"8 km ESE of Sharm el-Sheikh, Egypt",earthquake,,,,19.0,reviewed,csem,us
+2006-01-20T23:09:26.500Z,42.627,26.549,10.0,4.0,ml,42.0,68.0,,,us,usp000e8jc,2014-11-07T01:28:07.819Z,"11 km WNW of Straldzha, Bulgaria",earthquake,,,,,reviewed,csem,buc
+2005-10-29T10:17:07.300Z,35.46,22.44,80.0,4.0,mb,136.0,113.2,,,us,usp000e32u,2014-11-07T01:27:30.216Z,"91 km SSW of Kýthira, Greece",earthquake,,,,24.0,reviewed,csem,us
+2005-08-22T12:02:08.600Z,41.47,12.53,10.0,4.8,mwc,312.0,71.4,,,us,usp000dxud,2022-07-14T15:03:13.771Z,"6 km SW of Lavinio, Italy",earthquake,,,,,reviewed,csem,hrv
+2005-08-02T21:35:21.300Z,34.12,21.99,25.0,4.3,ml,50.0,232.6,,,us,usp000dwhm,2014-11-07T01:26:42.732Z,"152 km N of Al Bay??’, Libya",earthquake,,,,,reviewed,csem,the
+2005-06-06T07:41:28.700Z,39.22,41.08,10.0,5.6,mwc,290.0,60.2,,,us,usp000dsbj,2022-05-02T16:45:46.299Z,"10 km SE of Karl?ova, Turkey",earthquake,,,,,reviewed,csem,hrv
+2005-04-26T18:22:08.900Z,39.05,26.0,10.0,3.5,md,19.0,126.7,,,us,usp000dpac,2014-11-07T01:25:41.491Z,"14 km SSE of Eresós, Greece",earthquake,,,,,reviewed,csem,ath
+2005-04-18T06:42:50.700Z,45.93,-1.31,10.0,5.2,mb,116.0,54.1,,,us,usp000dnnm,2020-09-18T20:32:16.475Z,"1 km SSW of Saint-Pierre-d'Oléron, France",earthquake,,,,2.0,reviewed,csem,us
+2006-05-25T08:04:02.600Z,39.537,48.079,30.0,3.9,mblg,26.0,62.7,,,us,usp000ehwz,2014-11-07T01:29:10.845Z,"18 km SE of P?rs?b?d, Iran",earthquake,,,,,reviewed,csem,teh
+2006-05-10T07:29:54.900Z,43.021,22.796,2.0,4.1,ml,71.0,31.4,,,us,usp000egrq,2014-11-07T01:29:05.244Z,"15 km NW of Dragoman, Bulgaria",earthquake,,,,,reviewed,csem,the
+2006-04-26T08:25:49.600Z,36.44,6.44,2.0,4.2,ml,42.0,92.1,,,us,usp000efhw,2014-11-07T01:28:55.185Z,"14 km WNW of Hamma Bouziane, Algeria",earthquake,,,,,reviewed,csem,csem
+2006-04-23T16:46:15.200Z,37.577,20.892,10.0,4.1,ml,62.0,99.6,,,us,usp000efc1,2014-11-07T01:28:54.190Z,"16 km SSE of Lithakiá, Greece",earthquake,,,,,reviewed,csem,csem
+2007-05-02T12:49:12.200Z,46.49,14.544,2.0,3.7,ml,126.0,21.9,,,us,usp000fb33,2014-11-07T01:32:22.946Z,"6 km SSE of Gallizien, Austria",earthquake,,,,,reviewed,csem,csem
+2009-02-07T18:39:29.300Z,42.774,25.227,2.0,3.8,ml,5.0,207.7,,,us,usp000gthe,2014-11-07T01:38:20.889Z,"10 km NW of Shipka, Bulgaria",earthquake,,,,,reviewed,csem,csem
+2009-02-03T22:09:11.400Z,44.359,18.06,2.0,4.0,ml,134.0,20.7,,,us,usp000gted,2014-11-07T01:38:19.907Z,"7 km SSE of Žep?e, Bosnia and Herzegovina",earthquake,,,,,reviewed,csem,csem
+2008-11-22T22:27:55.100Z,49.914,18.455,2.0,4.1,ml,56.0,52.4,,,us,usp000gp81,2021-10-20T17:51:56.183Z,"2 km SW of Godów, Poland",earthquake,,,,,reviewed,csem,grf
+2008-11-05T05:38:46.400Z,35.828,7.677,5.0,3.9,ml,35.0,94.4,,,us,usp000gmzv,2014-11-07T01:37:41.125Z,"19 km WSW of El Aouinet, Algeria",earthquake,,,,,reviewed,csem,sbs
+2008-10-09T22:20:35.300Z,50.232,12.546,5.0,3.5,ml,56.0,69.7,,,us,usp000gjtg,2014-11-07T01:37:26.516Z,"2 km SSW of Oloví, Czechia",earthquake,,,,,reviewed,csem,csem
+2008-09-15T22:48:04.400Z,36.887,4.135,30.0,3.9,ml,23.0,113.2,,,us,usp000gh48,2014-11-07T01:37:12.334Z,"9 km N of Boudjima, Algeria",earthquake,,,,,reviewed,csem,alg
+2008-07-16T00:03:25.200Z,36.3,1.4,30.0,3.8,ml,51.0,233.9,,,us,usp000gc9m,2014-11-07T01:36:38.395Z,"16 km NNE of Chlef, Algeria",earthquake,,,,,reviewed,csem,csem
+2008-07-07T00:08:16.200Z,35.779,6.03,2.0,3.5,ml,19.0,198.1,,,us,usp000gbh2,2014-11-07T01:36:35.219Z,"5 km ESE of Draa Klalouche, Algeria",earthquake,,,,,reviewed,csem,alg
+2010-01-15T09:44:44.900Z,51.593,16.101,2.0,4.2,mb,44.0,46.0,,,us,usp000h654,2014-11-07T01:40:28.172Z,"4 km W of Gr?bocice, Poland",earthquake,,,,2.0,reviewed,csem,us
+2009-07-10T18:19:17.900Z,33.305,35.348,10.0,4.0,md,17.0,88.4,,,us,usp000gz3t,2014-11-07T01:39:18.683Z,"14 km ENE of Tyre, Lebanon",earthquake,,,,,reviewed,csem,bhl
+2009-03-30T13:27:18.700Z,43.866,18.635,2.0,3.9,ml,37.0,41.2,,,us,usp000gvjr,2014-11-07T01:38:39.217Z,"7 km NE of Pale, Bosnia and Herzegovina",earthquake,,,,,reviewed,csem,zag
+2010-11-08T06:55:43.700Z,34.919,-11.862,30.0,4.0,ml,13.0,243.6,,,us,usp000hp9a,2014-11-07T01:42:53.163Z,"Madeira Islands, Portugal region",earthquake,,,,,reviewed,csem,csem
+2010-06-04T12:10:33.000Z,36.991,2.954,15.0,3.9,ml,11.0,104.0,,,us,usp000hdk3,2014-11-07T01:41:38.581Z,"21 km N of ’Aïn Benian, Algeria",earthquake,,,,,reviewed,csem,alg
+2010-05-20T13:01:31.800Z,36.691,2.859,10.0,3.8,ml,11.0,78.8,,,us,usp000hcza,2014-11-07T01:41:30.717Z,"2 km SSE of Zeralda, Algeria",earthquake,,,,,reviewed,csem,alg
+2010-05-14T12:29:22.300Z,35.9,4.12,2.0,5.3,mwc,312.0,28.4,,,us,usp000hcre,2022-07-16T13:33:34.864Z,"10 km SW of Melouza, Algeria",earthquake,,,,,reviewed,csem,gcmt
+2010-03-18T17:28:26.900Z,43.792,19.075,2.0,4.0,ml,24.0,80.9,,,us,usp000h9n5,2014-11-07T01:41:03.188Z,"5 km E of Rogatica, Bosnia and Herzegovina",earthquake,,,,,reviewed,csem,csem
+2012-02-27T16:31:21.400Z,44.488,6.685,0.0,4.1,ml,72.0,48.4,,,us,usp000jfgt,2014-11-07T01:47:05.237Z,"8 km NNW of Jausiers, France",earthquake,,,,,reviewed,csem,csem
+2012-02-26T22:37:55.790Z,44.538,6.658,2.0,4.2,mwr,172.0,34.4,,,us,usp000jff8,2015-03-24T01:26:37.545Z,"13 km ESE of Embrun, France",earthquake,,,,,reviewed,csem,us
+2011-10-14T04:15:45.800Z,51.617,16.172,2.0,4.2,mb,46.0,54.1,,,us,usp000j9au,2014-11-07T01:46:06.619Z,"2 km N of Gr?bocice, Poland",earthquake,,,,5.0,reviewed,csem,us
+2011-09-04T03:52:29.400Z,50.17,12.478,2.0,4.0,ml,32.0,182.8,,,us,usp000j7jv,2014-11-07T01:45:49.970Z,"5 km WSW of Habartov, Czechia",earthquake,,,,,reviewed,csem,ldg
+2011-05-22T14:51:22.500Z,36.72,27.13,121.0,4.2,mb,37.0,44.0,,,us,usp000j21t,2014-11-07T01:44:54.049Z,"7 km S of Kardámaina, Greece",earthquake,,,,1.0,reviewed,csem,us
+2013-04-28T16:31:05.100Z,37.45,22.7,58.0,4.8,mb,102.0,74.4,,,us,us2013pnax,2014-11-07T01:50:39.388Z,"5 km NNW of Ástros, Greece",earthquake,,,,13.0,reviewed,csem,us
+2013-04-28T16:30:53.200Z,36.94,27.76,6.0,4.5,mb,49.0,44.2,,,us,usb000gh38,2014-11-07T01:50:39.384Z,"23 km NNE of Datça, Turkey",earthquake,,,,10.0,reviewed,csem,us
+2014-11-30T16:28:14.500Z,51.26,19.07,10.0,4.5,mb,,,,1.24,us,usb000t1ew,2020-07-10T18:43:11.856Z,"8 km SSW of Szczerców, Poland",earthquake,4.5,3.9,0.171,13.0,reviewed,csem,us
+2014-11-30T16:01:02.100Z,37.37,26.82,2.0,3.8,mb,,,,0.94,us,usb000t1er,2015-02-24T00:35:14.040Z,"16 km SW of Megálo Chorió, Greece",earthquake,5.8,5.5,0.506,1.0,reviewed,csem,us
+2014-05-26T13:58:21.100Z,38.1428,20.3012,2.0,4.1,mb,,,,1.57,us,usc000rezs,2014-08-23T08:36:50.000Z,"13 km WSW of Lixoúri, Greece",earthquake,,3.9,0.524,1.0,reviewed,csem,us
+2016-06-19T17:27:36.400Z,47.2669,-0.6721,10.0,3.5,ml,,,,0.73,us,us200065k4,2016-08-27T02:15:30.040Z,"4 km ESE of La Jumellière, France",earthquake,3.1,1.6,,,reviewed,csem,ldg
+2016-04-25T04:44:09.600Z,43.4658,-0.5662,2.0,3.9,ml,,,,1.0,us,us10005bjg,2016-07-08T02:49:21.040Z,"3 km E of Arthez-de-Béarn, France",earthquake,6.7,2.0,,,reviewed,csem,csem

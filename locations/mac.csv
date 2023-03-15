@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1991-05-30T22:07:44.000Z,39.2,-99.4,5.0,3.5,mblg,,,,,us,usp0004sa8,2014-11-07T00:48:38.230Z,"5 km SE of Zurich, Kansas",earthquake,,,,,reviewed,mac,tul
+1993-07-24T21:18:12.000Z,51.1,-178.0,33.0,3.6,mb,,,,,us,usp0005xaj,2014-11-07T00:53:33.592Z,"128 km SW of Adak, Alaska",earthquake,,,,3.0,reviewed,mac,us
+1994-12-15T08:56:35.000Z,55.0,-162.0,33.0,3.5,ml,,,,,us,usp0006q2t,2020-09-14T20:47:51.775Z,"21 km ESE of King Cove, Alaska",earthquake,,,,,reviewed,mac,pmr
+1994-09-16T07:01:54.780Z,45.3,-68.2,5.0,3.6,mblg,,,,,us,usp0006jhn,2014-11-07T00:56:17.909Z,"9 km SE of Lee, Maine",earthquake,,,,,reviewed,mac,gs/

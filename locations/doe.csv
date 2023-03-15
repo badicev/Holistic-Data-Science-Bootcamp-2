@@ -1,0 +1,124 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1983-02-17T17:00:00.090Z,37.163,-116.063,0.0,4.0,mb,,,,,us,usp0001t4b,2016-02-02T18:50:56.300Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,1.0,reviewed,doe,us
+1983-02-11T16:00:00.100Z,37.051,-116.045,0.0,4.1,ml,,,,,us,usp0001syu,2016-04-02T10:09:15.341Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-12-10T15:20:00.090Z,37.03,-116.072,0.0,4.6,mb,,,,,us,usp0001rbz,2016-04-02T06:16:44.258Z,"62 km NW of Indian Springs, Nevada",nuclear explosion,,,,7.0,reviewed,doe,us
+1982-11-12T19:17:00.100Z,37.024,-116.032,0.0,4.4,mb,,,,,us,usp0001qvc,2016-04-02T06:15:00.584Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,2.0,reviewed,doe,us
+1982-09-29T13:30:00.100Z,37.091,-116.045,0.0,4.1,ml,,,,,us,usp0001pwn,2016-04-02T06:15:06.620Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-09-23T17:00:00.080Z,37.175,-116.088,0.0,4.9,mb,,,,,us,usp0001psg,2016-04-02T03:02:01.611Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,28.0,reviewed,doe,us
+1982-09-23T16:00:00.090Z,37.212,-116.207,0.0,4.9,mb,,,,,us,usp0001pse,2016-04-01T20:31:42.578Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,33.0,reviewed,doe,us
+1982-08-05T14:00:00.090Z,37.084,-116.007,0.0,5.7,mb,,,,,us,usp0001nv7,2016-02-02T21:07:54.080Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,93.0,reviewed,doe,us
+1982-07-29T20:05:00.080Z,37.102,-116.075,0.0,4.5,mb,,,,,us,usp0001nrc,2016-04-02T15:42:34.597Z,"64 km ENE of Beatty, Nevada",earthquake,,,,3.0,reviewed,doe,us
+1982-06-24T14:15:00.090Z,37.236,-116.37,0.0,5.6,mb,,,,,us,usp0001n3x,2016-04-01T23:47:59.529Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,74.0,reviewed,doe,us
+1982-06-16T14:00:00.850Z,37.114,-116.017,0.0,4.3,ml,,,,,us,usp0001myz,2016-02-03T02:52:55.400Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-05-07T18:17:00.110Z,37.069,-116.045,0.0,5.7,mb,,,,,us,usp0001m5d,2016-04-02T12:40:41.370Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,76.0,reviewed,doe,us
+1982-05-06T20:00:00.080Z,37.117,-116.127,0.0,4.3,mb,,,,,us,usp0001m4r,2016-04-01T23:48:02.408Z,"60 km ENE of Beatty, Nevada",earthquake,,,,1.0,reviewed,doe,us
+1982-04-25T18:05:00.080Z,37.256,-116.422,0.0,5.4,mb,,,,,us,usp0001kxs,2016-04-02T15:50:18.458Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,77.0,reviewed,doe,us
+1982-04-17T18:00:00.090Z,37.017,-116.01,0.0,4.5,mb,,,,,us,usp0001ksx,2016-04-01T23:48:08.732Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1984-03-01T17:45:00.090Z,37.066,-116.046,0.0,5.9,mb,,,,,us,usp00022cq,2016-02-02T20:12:59.080Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,75.0,reviewed,doe,us
+1984-02-15T17:00:00.100Z,37.221,-116.181,0.0,5.0,mb,,,,,us,usp000220a,2016-04-01T23:23:01.472Z,"60 km SW of Rachel, Nevada",nuclear explosion,,,,41.0,reviewed,doe,us
+1984-01-31T15:30:00.080Z,37.113,-116.122,0.0,4.1,mb,,,,,us,usp00021py,2016-04-01T20:12:01.430Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,3.0,reviewed,doe,us
+1983-12-16T18:30:00.090Z,37.14,-116.072,0.0,5.1,mb,,,,,us,usp00020hf,2016-04-01T20:30:27.686Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,30.0,reviewed,doe,us
+1983-09-22T15:00:00.120Z,37.106,-116.049,0.0,4.1,ml,,,,,us,usp0001yjp,2016-04-01T20:28:16.137Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1983-09-21T15:00:00.090Z,37.21,-116.209,0.0,4.1,ml,,,,,us,usp0001yhm,2016-02-03T01:20:17.930Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1983-09-01T14:00:00.080Z,37.273,-116.355,0.0,5.4,mb,,,,,us,usp0001y3m,2016-04-02T12:39:58.488Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,56.0,reviewed,doe,us
+1983-08-11T14:00:00.120Z,36.998,-116.003,0.0,4.4,mb,,,,,us,usp0001xky,2016-04-02T19:33:41.018Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,1.0,reviewed,doe,us
+1983-08-03T13:33:00.100Z,37.119,-116.089,0.0,4.2,mb,,,,,us,usp0001xan,2016-04-02T09:22:44.266Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,1.0,reviewed,doe,us
+1983-06-09T17:10:00.090Z,37.158,-116.089,0.0,4.5,mb,,,,,us,usp0001vzq,2016-04-02T07:07:50.881Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,13.0,reviewed,doe,us
+1983-05-26T15:00:00.090Z,37.103,-116.006,0.0,4.4,mb,,,,,us,usp0001vpa,2016-04-02T13:19:25.353Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1983-05-05T15:20:00.080Z,37.012,-116.089,0.0,4.5,mb,,,,,us,usp0001v36,2016-04-02T13:21:36.993Z,"60 km E of Beatty, Nevada",nuclear explosion,,,,6.0,reviewed,doe,us
+1983-04-22T13:53:00.080Z,37.112,-116.022,0.0,4.0,mb,,,,,us,usp0001up3,2016-02-03T04:09:24.080Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,1.0,reviewed,doe,us
+1983-04-14T19:05:00.120Z,37.073,-116.046,0.0,5.7,mb,,,,,us,usp0001ufa,2016-02-02T20:10:21.200Z,"65 km NNW of Indian Springs, Nevada",nuclear explosion,,,,73.0,reviewed,doe,us
+1983-03-26T20:20:00.070Z,37.301,-116.46,0.0,5.1,mb,,,,,us,usp0001tzq,2016-02-03T00:06:23.780Z,"51 km NNE of Beatty, Nevada",earthquake,,,,35.0,reviewed,doe,us
+1984-12-15T14:45:00.000Z,37.281,-116.305,0.0,5.4,mb,,,,,us,usp0002a2j,2016-04-02T12:22:29.031Z,"57 km NE of Beatty, Nevada",nuclear explosion,,,,65.0,reviewed,doe,us
+1984-12-09T19:40:00.090Z,37.27,-116.498,0.0,5.5,mb,,,,,us,usp00029ws,2016-04-02T12:22:25.242Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,89.0,reviewed,doe,us
+1984-11-10T16:40:00.090Z,37.0,-116.017,0.0,4.5,mb,,,,,us,usp00028ys,2016-04-01T23:27:28.842Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5.0,reviewed,doe,us
+1984-09-13T14:00:00.000Z,37.087,-116.071,0.0,5.0,mb,,,,,us,usp00027bt,2016-04-02T09:07:18.719Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,39.0,reviewed,doe,us
+1984-08-30T14:45:00.100Z,37.09,-115.998,0.0,4.5,mb,,,,,us,usp00026vh,2016-04-02T02:43:40.098Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1984-08-02T15:00:00.090Z,37.017,-116.008,0.0,4.7,mb,,,,,us,usp000265y,2016-04-02T12:15:17.050Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,9.0,reviewed,doe,us
+1984-07-25T15:30:00.080Z,37.268,-116.411,0.0,5.3,mb,,,,,us,usp00025zj,2016-04-02T05:49:52.188Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,55.0,reviewed,doe,us
+1984-06-20T15:15:00.090Z,37.0,-116.043,0.0,4.6,mb,,,,,us,usp000254t,2016-04-02T12:15:20.291Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,7.0,reviewed,doe,us
+1984-05-31T13:04:00.100Z,37.103,-116.048,0.0,5.8,mb,,,,,us,usp00024s3,2016-04-01T23:20:39.265Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,85.0,reviewed,doe,us
+1984-05-01T19:05:00.090Z,37.106,-116.022,0.0,5.3,mb,,,,,us,usp000241u,2016-04-02T02:36:26.167Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,55.0,reviewed,doe,us
+1984-03-31T14:30:00.080Z,37.146,-116.084,0.0,4.1,mb,,,,,us,usp0002357,2016-04-02T18:38:28.235Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,5.0,reviewed,doe,us
+1985-12-28T19:01:00.090Z,37.238,-116.473,0.0,5.3,mb,,,,,us,usp0002phg,2016-04-02T18:32:52.949Z,"44 km NE of Beatty, Nevada",nuclear explosion,,,,57.0,reviewed,doe,us
+1985-12-05T15:00:00.070Z,37.053,-116.045,0.0,5.7,mb,,,,,us,usp0002nju,2016-04-02T09:01:23.095Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,89.0,reviewed,doe,us
+1985-10-16T21:35:00.090Z,37.11,-116.121,0.0,4.6,mb,,,,,us,usp0002kut,2016-04-01T20:04:25.689Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,12.0,reviewed,doe,us
+1985-10-09T23:20:00.090Z,37.21,-116.21,0.0,4.2,mb,,,,,us,usp0002kn7,2016-04-01T20:04:28.342Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,2.0,reviewed,doe,us
+1985-09-27T14:15:00.090Z,37.09,-116.002,0.0,4.6,mb,,,,,us,usp0002k6u,2016-04-02T15:23:57.332Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,16.0,reviewed,doe,us
+1985-08-17T16:25:00.090Z,37.002,-116.043,0.0,4.6,mb,,,,,us,usp0002hv4,2016-04-02T12:14:48.792Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1985-07-25T14:00:00.090Z,37.297,-116.438,0.0,5.2,mb,,,,,us,usp0002h2w,2016-04-02T05:49:41.249Z,"51 km NNE of Beatty, Nevada",nuclear explosion,,,,57.0,reviewed,doe,us
+1985-06-26T18:03:00.080Z,37.124,-116.122,0.0,4.3,mb,,,,,us,usp0002g68,2016-04-01T20:04:32.189Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,1.0,reviewed,doe,us
+1985-06-12T17:30:00.090Z,37.088,-116.084,0.0,4.4,mb,,,,,us,usp0002fs8,2016-04-02T05:49:50.529Z,"63 km ENE of Beatty, Nevada",nuclear explosion,,,,3.0,reviewed,doe,us
+1985-06-12T15:15:00.080Z,37.248,-116.489,0.0,5.5,mb,,,,,us,usp0002fs6,2016-04-02T12:15:07.977Z,"44 km NNE of Beatty, Nevada",nuclear explosion,,,,67.0,reviewed,doe,us
+1985-05-02T15:20:00.080Z,37.253,-116.325,0.0,5.7,mb,,,,,us,usp0002ed1,2016-04-02T18:32:34.648Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,81.0,reviewed,doe,us
+1985-04-06T23:15:00.090Z,37.201,-116.207,0.0,4.8,mb,,,,,us,usp0002dj7,2016-04-02T02:36:11.391Z,"58 km ENE of Beatty, Nevada",nuclear explosion,,,,28.0,reviewed,doe,us
+1985-04-02T20:00:00.090Z,37.095,-116.032,0.0,5.7,mb,,,,,us,usp0002dde,2016-04-02T08:59:28.528Z,"66 km SSW of Rachel, Nevada",earthquake,,,,87.0,reviewed,doe,us
+1985-03-23T18:30:00.080Z,37.18,-116.089,0.0,5.3,mb,,,,,us,usp0002d5a,2016-04-02T12:14:54.720Z,"59 km SSW of Rachel, Nevada",nuclear explosion,,,,68.0,reviewed,doe,us
+1985-03-15T16:31:00.100Z,37.058,-116.045,0.0,4.8,mb,,,,,us,usp0002cx3,2016-04-02T03:42:35.339Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,28.0,reviewed,doe,us
+1987-02-11T16:45:00.060Z,37.011,-116.045,0.0,4.5,mb,,,,,us,usp00032d8,2016-04-02T05:47:24.193Z,"59 km NW of Indian Springs, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1986-12-13T17:50:05.090Z,37.263,-116.412,0.0,5.5,mb,,,,,us,usp00030v1,2016-04-02T08:58:52.315Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,73.0,reviewed,doe,us
+1986-11-14T16:00:00.070Z,37.1,-116.048,0.0,5.8,mb,,,,,us,usp0002zzw,2016-04-02T05:49:07.823Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,79.0,reviewed,doe,us
+1986-10-16T19:25:00.090Z,37.22,-116.462,0.0,5.6,mb,,,,,us,usp0002z08,2016-04-01T23:19:40.252Z,"43 km NE of Beatty, Nevada",nuclear explosion,,,,80.0,reviewed,doe,us
+1986-09-30T22:30:00.100Z,37.3,-116.307,0.0,5.5,mb,,,,,us,usp0002yj1,2016-04-01T23:19:10.951Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,73.0,reviewed,doe,us
+1986-07-24T15:05:00.080Z,37.143,-116.071,0.0,4.4,mb,,,,,us,usp0002wfh,2016-04-02T02:35:59.386Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,11.0,reviewed,doe,us
+1986-07-17T21:00:00.060Z,37.279,-116.356,0.0,5.7,mb,,,,,us,usp0002w4a,2016-04-02T18:32:27.191Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,81.0,reviewed,doe,us
+1986-06-25T20:27:45.100Z,37.265,-116.499,0.0,5.5,mb,,,,,us,usp0002vdk,2016-02-04T01:25:04.400Z,"45 km NNE of Beatty, Nevada",earthquake,,,,77.0,reviewed,doe,us
+1986-06-05T15:04:00.060Z,37.098,-116.016,0.0,5.3,mb,,,,,us,usp0002utq,2016-04-01T23:18:20.803Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,62.0,reviewed,doe,us
+1986-05-21T13:59:00.080Z,37.125,-116.06,0.0,3.9,ml,,,,,us,usp0002u93,2016-04-02T12:13:02.756Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1986-04-22T14:30:00.090Z,37.264,-116.44,0.0,5.3,mb,,,,,us,usp0002t40,2016-04-02T08:57:49.539Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,56.0,reviewed,doe,us
+1986-04-10T14:08:30.100Z,37.218,-116.183,0.0,4.9,mb,,,,,us,usp0002str,2016-04-01T23:18:25.953Z,"61 km SW of Rachel, Nevada",nuclear explosion,,,,43.0,reviewed,doe,us
+1986-03-22T16:15:00.080Z,37.083,-116.066,0.0,5.1,mb,,,,,us,usp0002s3j,2016-04-02T02:34:06.583Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,49.0,reviewed,doe,us
+1988-02-15T18:10:00.090Z,37.314,-116.471,0.0,5.3,mb,,,,,us,usp0003d1q,2016-04-02T08:57:01.001Z,"51 km NNE of Beatty, Nevada",nuclear explosion,,,,60.0,reviewed,doe,us
+1987-12-02T16:30:00.080Z,37.235,-116.163,0.0,4.1,mb,,,,,us,usp0003avq,2016-04-02T18:31:15.071Z,"58 km SW of Rachel, Nevada",earthquake,,,,1.0,reviewed,doe,us
+1987-10-23T16:00:00.090Z,37.142,-116.079,0.0,5.2,mb,,,,,us,usp00039hj,2016-04-02T12:13:29.503Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,53.0,reviewed,doe,us
+1987-09-24T15:00:00.060Z,37.228,-116.375,0.0,5.7,mb,,,,,us,usp00038p8,2016-04-02T08:57:59.754Z,Nevada,nuclear explosion,,,,67.0,reviewed,doe,us
+1987-08-13T14:00:00.090Z,37.061,-116.045,0.0,5.9,mb,,,,,us,usp00037ga,2016-04-01T23:18:10.413Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,71.0,reviewed,doe,us
+1987-07-16T19:00:00.080Z,37.104,-116.023,0.0,4.8,mb,,,,,us,usp00036pt,2016-04-02T15:22:15.607Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,33.0,reviewed,doe,us
+1987-06-30T16:05:00.100Z,36.999,-116.043,0.0,4.1,mb,,,,,us,usp0003679,2016-04-02T18:30:26.360Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,2.0,reviewed,doe,us
+1987-06-20T16:00:00.180Z,37.22,-116.178,0.0,3.5,ml,,,,,us,usp00035y4,2016-04-02T18:30:25.068Z,"60 km SW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1987-06-18T15:20:00.080Z,37.194,-116.035,0.0,4.1,ml,,,,,us,usp00035w9,2016-04-01T20:02:10.863Z,"56 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1987-04-30T13:30:00.090Z,37.233,-116.423,0.0,5.5,mb,,,,,us,usp00034ku,2016-04-02T08:57:10.651Z,"46 km NE of Beatty, Nevada",nuclear explosion,,,,67.0,reviewed,doe,us
+1987-04-22T22:00:00.090Z,36.983,-116.005,0.0,4.2,mb,,,,,us,usp00034ct,2016-04-01T20:02:13.925Z,"54 km NNW of Indian Springs, Nevada",earthquake,,,,1.0,reviewed,doe,us
+1987-04-18T13:40:00.600Z,37.248,-116.509,0.0,5.5,mb,,,,,us,usp000348v,2016-04-02T02:33:42.921Z,"43 km NNE of Beatty, Nevada",nuclear explosion,,,,72.0,reviewed,doe,us
+1987-03-18T18:28:00.090Z,37.21,-116.209,0.0,4.3,mb,,,,,us,usp00033e0,2016-04-01T23:18:08.822Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1989-03-09T14:05:00.090Z,37.143,-116.067,0.0,5.0,mb,,,,,us,usp0003ssf,2016-04-02T05:44:53.812Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,19.0,reviewed,doe,us
+1989-02-24T16:15:00.080Z,37.128,-116.122,0.0,4.4,mb,,,,,us,usp0003s9p,2016-04-01T20:00:15.518Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1989-02-10T20:06:00.060Z,37.077,-116.001,0.0,5.2,mb,,,,,us,usp0003rrz,2016-04-01T23:14:42.117Z,"63 km NNW of Indian Springs, Nevada",earthquake,,,,54.0,reviewed,doe,us
+1988-12-10T20:30:00.060Z,37.199,-116.209,0.0,5.0,mb,,,,,us,usp0003prf,2016-04-02T12:12:58.661Z,"58 km ENE of Beatty, Nevada",earthquake,,,,33.0,reviewed,doe,us
+1988-10-13T14:00:00.080Z,37.089,-116.049,0.0,5.9,mb,,,,,us,usp0003msv,2016-04-02T18:30:37.298Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,82.0,reviewed,doe,us
+1988-08-30T18:00:00.090Z,37.086,-116.069,0.0,5.0,mb,,,,,us,usp0003kha,2016-04-02T12:13:01.411Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,47.0,reviewed,doe,us
+1988-08-17T17:00:00.090Z,37.297,-116.307,0.0,5.5,mb,,,,,us,usp0003k3a,2016-02-04T05:34:57.020Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,82.0,reviewed,doe,us
+1988-07-07T15:05:30.070Z,37.252,-116.377,0.0,5.6,mb,,,,,us,usp0003hpc,2016-04-02T02:33:56.621Z,"51 km NE of Beatty, Nevada",nuclear explosion,,,,65.0,reviewed,doe,us
+1988-06-02T13:00:00.090Z,37.26,-116.441,0.0,5.4,mb,,,,,us,usp0003gn1,2016-04-02T05:47:28.739Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,68.0,reviewed,doe,us
+1988-05-21T22:30:00.140Z,37.032,-115.987,0.0,4.3,mb,,,,,us,usp0003g73,2016-04-02T02:33:54.656Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,3.0,reviewed,doe,us
+1988-05-13T15:35:00.110Z,37.124,-116.072,0.0,4.8,mb,,,,,us,usp0003fxz,2016-04-02T18:30:33.959Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,20.0,reviewed,doe,us
+1988-04-07T17:15:00.080Z,37.013,-116.044,0.0,4.0,mb,,,,,us,usp0003esr,2016-04-01T20:02:05.712Z,"59 km NW of Indian Springs, Nevada",nuclear explosion,,,,3.0,reviewed,doe,us
+1990-03-10T16:00:00.080Z,37.113,-116.055,0.0,5.0,mb,,,,,us,usp00046e0,2016-04-02T05:46:02.295Z,"65 km SSW of Rachel, Nevada",earthquake,,,,44.0,reviewed,doe,us
+1989-12-08T15:00:00.090Z,37.231,-116.409,0.0,5.5,mb,,,,,us,usp00042vm,2016-04-01T20:01:58.462Z,"47 km NE of Beatty, Nevada",nuclear explosion,,,,61.0,reviewed,doe,us
+1989-10-31T15:30:00.090Z,37.263,-116.491,0.0,5.7,mb,,,,,us,usp00041hu,2016-04-02T18:30:19.105Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,55.0,reviewed,doe,us
+1989-09-14T15:00:00.100Z,37.236,-116.163,0.0,4.2,mb,,,,,us,usp0003zjs,2016-04-02T05:47:16.659Z,"58 km SW of Rachel, Nevada",nuclear explosion,,,,4.0,reviewed,doe,us
+1989-06-27T15:30:00.020Z,37.275,-116.354,0.0,4.9,mb,,,,,us,usp0003wqd,2016-04-02T12:12:50.883Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,25.0,reviewed,doe,us
+1989-06-22T21:15:00.830Z,37.283,-116.412,0.0,5.3,mb,,,,,us,usp0003whe,2016-04-02T08:57:09.106Z,"51 km NE of Beatty, Nevada",nuclear explosion,,,,54.0,reviewed,doe,us
+1989-05-26T18:07:00.020Z,37.086,-116.055,0.0,3.7,ml,,,,,us,usp0003vp8,2016-04-02T03:52:21.262Z,"65 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1989-05-15T13:10:00.090Z,37.108,-116.121,0.0,4.4,mb,,,,,us,usp0003v8u,2016-04-01T23:17:55.401Z,"60 km ENE of Beatty, Nevada",nuclear explosion,,,,7.0,reviewed,doe,us
+1989-03-09T14:05:00.090Z,37.143,-116.067,0.0,5.0,mb,,,,,us,usp0003ssf,2016-04-02T05:44:53.812Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,19.0,reviewed,doe,us
+1991-03-08T21:02:45.080Z,37.104,-116.074,0.0,4.3,mb,,,,,us,usp0004nud,2016-04-02T18:22:55.568Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,8.0,reviewed,doe,us
+1990-11-14T19:17:00.710Z,37.227,-116.371,0.0,5.4,mb,,,,,us,usp0004gy0,2016-04-01T23:15:52.136Z,"49 km NE of Beatty, Nevada",nuclear explosion,,,,56.0,reviewed,doe,us
+1990-10-12T17:30:00.080Z,37.248,-116.494,0.0,5.6,mb,,,,,us,usp0004fp1,2016-04-02T02:30:31.214Z,"44 km NNE of Beatty, Nevada",nuclear explosion,,,,75.0,reviewed,doe,us
+1990-07-25T15:00:00.060Z,37.207,-116.214,0.0,4.7,mb,,,,,us,usp0004chf,2016-04-01T23:16:48.228Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,24.0,reviewed,doe,us
+1990-06-21T18:15:00.000Z,36.993,-116.004,0.0,4.0,mb,,,,,us,usp0004atr,2016-04-02T18:29:17.847Z,"55 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5.0,reviewed,doe,us
+1990-06-13T16:00:00.010Z,37.262,-116.42,0.0,5.7,mb,,,,,us,usp0004af6,2016-04-02T02:32:53.068Z,"49 km NE of Beatty, Nevada",nuclear explosion,,,,85.0,reviewed,doe,us
+1990-03-10T16:00:00.080Z,37.113,-116.055,0.0,5.0,mb,,,,,us,usp00046e0,2016-04-02T05:46:02.295Z,"65 km SSW of Rachel, Nevada",earthquake,,,,44.0,reviewed,doe,us
+1991-11-26T18:35:00.070Z,37.096,-116.07,0.0,4.6,mb,,,,,us,usp0004zq2,2016-04-01T23:14:14.715Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,11.0,reviewed,doe,us
+1991-10-18T19:12:00.000Z,37.063,-116.045,0.0,5.2,mb,,,,,us,usp0004xzt,2016-04-02T08:49:26.081Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,46.0,reviewed,doe,us
+1991-09-19T16:30:00.070Z,37.236,-116.166,0.0,4.0,mb,,,,,us,usp0004wtg,2016-04-02T02:30:05.538Z,"58 km SW of Rachel, Nevada",earthquake,,,,3.0,reviewed,doe,us
+1991-09-14T19:00:00.050Z,37.226,-116.428,0.0,5.5,mb,,,,,us,usp0004wmv,2016-02-04T22:36:59.500Z,"45 km NE of Beatty, Nevada",nuclear explosion,,,,75.0,reviewed,doe,us
+1991-08-15T16:00:00.000Z,37.087,-116.002,0.0,4.2,mb,,,,,us,usp0004vdc,2016-04-02T02:30:20.640Z,Nevada,nuclear explosion,,,,2.0,reviewed,doe,us
+1991-04-16T15:30:00.070Z,37.245,-116.442,0.0,5.4,mb,,,,,us,usp0004qdt,2016-04-02T12:05:23.214Z,"46 km NE of Beatty, Nevada",nuclear explosion,,,,62.0,reviewed,doe,us
+1991-04-04T19:00:00.000Z,37.296,-116.313,0.0,5.6,mb,,,,,us,usp0004py1,2016-04-01T23:08:58.232Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,70.0,reviewed,doe,us
+1991-03-08T21:02:45.080Z,37.104,-116.074,0.0,4.3,mb,,,,,us,usp0004nud,2016-04-02T18:22:55.568Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,8.0,reviewed,doe,us
+1992-09-23T15:04:00.000Z,37.021,-115.988,0.0,4.4,mb,,,,,us,usp0005ect,2016-02-10T15:44:21.994Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5.0,reviewed,doe,us
+1992-09-18T17:00:00.010Z,37.207,-116.21,0.0,4.4,mb,,,,,us,usp0005e67,2016-04-02T15:13:57.589Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,7.0,reviewed,doe,us
+1992-06-23T15:00:00.070Z,37.124,-116.031,0.0,3.9,ml,,,,,us,usp00059hn,2016-04-01T23:07:30.348Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,gs$
+1992-03-26T16:30:00.000Z,37.272,-116.36,0.0,5.5,mb,,,,,us,usp00054w1,2016-04-02T08:38:56.423Z,"53 km NE of Beatty, Nevada",nuclear explosion,,,,81.0,reviewed,doe,us
+1993-09-22T07:01:00.080Z,37.201,-116.21,0.0,4.1,mb,,,,,us,usp00060up,2016-02-10T13:34:30.687Z,"58 km ENE of Beatty, Nevada",earthquake,,,,6.0,reviewed,doe,us

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2005-02-23T19:55:11.300Z,52.36,101.61,15.0,4.8,mb,184.0,17.2,,,us,usp000dgu6,2022-05-02T17:49:33.740Z,"83 km NNW of Kyren, Russia",earthquake,,,,73.0,reviewed,bykl,us
+2005-12-12T18:48:24.900Z,57.36,120.87,5.0,3.8,mb,14.0,150.0,,,us,usp000e61k,2014-11-07T01:27:53.125Z,"165 km ENE of Chara, Russia",earthquake,,,,1.0,reviewed,bykl,us
+2005-05-06T03:09:23.000Z,55.76,110.13,0.0,3.6,m,25.0,65.8,,,us,usp000dq0x,2014-11-07T01:25:49.660Z,"19 km S of Kichera, Russia",earthquake,,,,,reviewed,bykl,obn
+2008-03-09T23:28:05.200Z,56.28,118.49,19.0,3.9,mb,17.0,114.9,,,us,usp000g13r,2014-11-07T01:35:13.438Z,"60 km S of Novaya Chara, Russia",earthquake,,,,2.0,reviewed,bykl,us
+2008-02-19T02:43:42.600Z,54.94,107.84,9.0,3.5,mb,15.0,101.1,,,us,usp000fz75,2014-11-07T01:34:58.570Z,"122 km SW of Severobaykal’sk, Russia",earthquake,,,,1.0,reviewed,bykl,us
+2008-03-09T23:28:05.200Z,56.28,118.49,19.0,3.9,mb,17.0,114.9,,,us,usp000g13r,2014-11-07T01:35:13.438Z,"60 km S of Novaya Chara, Russia",earthquake,,,,2.0,reviewed,bykl,us

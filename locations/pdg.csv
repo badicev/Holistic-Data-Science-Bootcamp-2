@@ -1,0 +1,188 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1998-11-06T09:35:09.700Z,41.532,19.663,12.2,3.9,mb,,,,,us,usp0008xq2,2014-11-07T01:06:24.261Z,"5 km SSW of Mamurras, Albania",earthquake,,,,1.0,reviewed,pdg,us
+1998-10-02T04:55:19.070Z,43.914,18.437,7.5,3.6,ml,,,,,us,usp0008vv7,2014-11-07T01:06:10.515Z,"5 km NE of Kobilja Glava, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+1998-10-01T00:47:00.720Z,44.165,20.097,9.5,3.5,ml,,,,,us,usp0008vt2,2014-11-07T01:06:08.881Z,"13 km WSW of Ljig, Serbia",earthquake,,,,,reviewed,pdg,pdg
+1998-10-01T00:12:16.230Z,41.258,20.191,6.8,3.5,mb,,,,,us,usp0008vsx,2014-11-07T01:06:08.774Z,"13 km WNW of Librazhd-Qendër, Albania",earthquake,,,,1.0,reviewed,pdg,us
+1998-08-19T07:58:38.470Z,42.525,19.052,11.3,3.6,mb,,,,,us,usp0008tgt,2014-11-07T01:05:50.568Z,"8 km WSW of Danilovgrad, Montenegro",earthquake,,,,3.0,reviewed,pdg,us
+1998-05-15T05:33:36.200Z,41.495,20.317,8.9,3.5,ml,,,,,us,usp0008n3a,2014-11-07T01:05:13.300Z,"7 km E of Bulqizë, Albania",earthquake,,,,,reviewed,pdg,pdg
+1999-12-22T13:52:55.110Z,41.861,20.607,7.4,3.7,md,,,,,us,usp0009k5f,2014-11-07T01:09:10.809Z,"18 km SSW of Dragash, Kosovo",earthquake,,,,,reviewed,pdg,pdg
+1999-12-22T09:12:11.880Z,42.076,20.478,15.3,3.8,md,,,,,us,usp0009k4u,2014-11-07T01:09:10.720Z,"4 km E of Kukës, Albania",earthquake,,,,,reviewed,pdg,pdg
+1999-12-18T01:12:50.340Z,42.883,17.606,3.9,3.5,mb,,,,,us,usp0009jyw,2014-11-07T01:09:09.976Z,"4 km S of Neum, Bosnia and Herzegovina",earthquake,,,,3.0,reviewed,pdg,us
+1999-12-03T09:33:24.800Z,38.877,19.972,9.4,3.6,md,,,,,us,usp0009jea,2014-11-07T01:09:05.448Z,"40 km SSW of Gáïos, Greece",earthquake,,,,,reviewed,pdg,pdg
+1999-09-30T10:30:02.500Z,43.096,18.953,10.0,4.0,ml,,,,,us,usp0009f7m,2014-11-07T01:08:33.837Z,"11 km SE of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,lju
+1999-08-17T00:08:31.220Z,43.687,20.757,10.0,3.7,md,,,,,us,usp0009d51,2014-11-07T01:08:16.891Z,"6 km SE of Kraljevo, Serbia",earthquake,,,,,reviewed,pdg,pdg
+1999-04-24T07:23:18.660Z,41.484,19.6,13.1,4.0,mb,,,,,us,usp00096ta,2014-11-07T01:07:30.016Z,"9 km W of Fushë-Krujë, Albania",earthquake,,,,2.0,reviewed,pdg,us
+2001-07-22T20:08:15.260Z,42.761,18.067,9.7,3.6,ml,35.0,,,,us,usp000ak05,2014-11-07T01:13:19.851Z,"9 km NNW of Mokošica, Croatia",earthquake,,,,,reviewed,pdg,bud
+2001-05-12T22:55:43.040Z,41.286,20.242,9.4,3.6,md,18.0,,,,us,usp000aev1,2014-11-07T01:12:47.467Z,"12 km NW of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,ath
+2001-03-15T19:01:54.100Z,44.555,20.118,0.7,3.6,md,52.0,,,,us,usp000abfk,2014-11-07T01:12:21.359Z,"2 km SSW of Stubline, Serbia",earthquake,,,,,reviewed,pdg,pdg
+2003-01-26T05:13:09.530Z,42.743,20.154,0.4,3.6,ml,27.0,,,,us,usp000bp6n,2014-11-07T01:17:38.210Z,"10 km S of Rožaje, Montenegro",earthquake,,,,,reviewed,pdg,bud
+2003-01-25T23:02:11.000Z,41.385,20.361,8.6,3.6,mb,96.0,,,,us,usp000bp63,2014-11-07T01:17:38.160Z,"16 km SE of Bulqizë, Albania",earthquake,,,,3.0,reviewed,pdg,us
+2002-11-27T05:53:31.500Z,41.971,20.199,10.0,3.5,ml,28.0,,,,us,usp000bjgh,2014-11-07T01:17:11.563Z,"18 km SE of Fushë-Arrëz, Albania",earthquake,,,,,reviewed,pdg,pdg
+2002-11-06T06:02:04.500Z,41.884,20.443,11.0,3.7,md,23.0,,,,us,usp000bgsh,2014-11-07T01:17:02.087Z,"21 km S of Kukës, Albania",earthquake,,,,,reviewed,pdg,ath
+2002-10-23T11:01:28.740Z,42.612,17.157,16.3,4.6,mb,177.0,,,,us,usp000bf2q,2014-11-07T01:16:47.884Z,"27 km SE of Lastovo, Croatia",earthquake,,,,16.0,reviewed,pdg,us
+2002-09-25T18:46:04.960Z,41.153,20.215,1.1,4.1,mb,38.0,,,,us,usp000bd3q,2014-11-07T01:16:34.648Z,"11 km WSW of Librazhd-Qendër, Albania",earthquake,,,,1.0,reviewed,pdg,us
+2002-08-23T12:34:42.650Z,43.228,17.552,1.3,3.6,md,35.0,,,,us,usp000bafv,2014-11-07T01:16:19.508Z,"1 km ENE of Radiši?i, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2002-08-18T08:33:13.500Z,42.462,21.502,10.0,3.6,ml,10.0,,,,us,usp000ba4c,2014-11-07T01:16:17.427Z,"2 km E of Gjilan, Kosovo",earthquake,,,,,reviewed,pdg,bud
+2002-07-27T15:25:19.080Z,41.046,20.113,0.9,4.0,ml,77.0,,,,us,usp000b8vz,2014-11-07T01:16:07.080Z,"7 km SSE of Elbasan, Albania",earthquake,,,,,reviewed,pdg,pdg
+2002-07-25T02:32:15.780Z,41.0,20.174,1.1,3.6,md,31.0,,,,us,usp000b8qx,2014-11-07T01:16:06.614Z,"14 km N of Gramsh, Albania",earthquake,,,,,reviewed,pdg,rom
+2002-07-24T10:26:19.790Z,41.005,19.994,9.3,3.8,md,51.0,,,,us,usp000b8pg,2014-11-07T01:16:06.458Z,"3 km SSE of Cërrik, Albania",earthquake,,,,,reviewed,pdg,ath
+2002-06-13T19:29:47.160Z,41.92,20.103,10.0,3.9,ml,53.0,,,,us,usp000b63q,2014-11-07T01:15:49.692Z,"15 km N of Kurbnesh, Albania",earthquake,,,,,reviewed,pdg,zamg
+2002-05-30T20:29:57.640Z,41.094,19.866,23.2,3.5,md,34.0,,,,us,usp000b58k,2014-11-07T01:15:41.394Z,Albania,earthquake,,,,,reviewed,pdg,ath
+2002-04-10T21:15:11.260Z,42.387,19.794,6.4,4.1,ml,105.0,,,,us,usp000b24z,2014-11-07T01:15:23.831Z,"19 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,rom
+2004-02-13T00:39:05.860Z,41.099,20.01,6.2,3.6,md,51.0,71.6,,,us,usp000cm2j,2014-11-07T01:21:20.824Z,"6 km WSW of Elbasan, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-01-30T10:42:26.000Z,42.209,19.512,14.3,3.6,md,35.0,63.0,,,us,usp000ck0e,2014-11-07T01:21:10.563Z,"6 km E of Koplik, Albania",earthquake,,,,,reviewed,pdg,ath
+2003-12-31T05:37:04.450Z,42.29,19.446,18.8,3.8,ml,80.0,47.9,,,us,usp000cgm5,2014-11-07T01:20:51.860Z,"8 km N of Koplik, Albania",earthquake,,,,,reviewed,pdg,bud
+2003-12-11T22:10:21.120Z,41.89,19.375,12.0,3.7,md,79.0,40.5,,,us,usp000cf1z,2014-11-07T01:20:44.409Z,"13 km ESE of Ulcinj, Montenegro",earthquake,,,,,reviewed,pdg,ath
+2003-12-06T00:18:55.470Z,41.935,19.217,18.5,4.7,mb,233.0,63.5,,,us,usp000cemc,2014-11-07T01:20:41.837Z,"0 km NW of Ulcinj, Montenegro",earthquake,,,,5.0,reviewed,pdg,us
+2003-12-05T04:47:32.490Z,41.252,19.945,16.9,3.7,md,50.0,55.9,,,us,usp000cej9,2014-11-07T01:20:41.488Z,"4 km NNW of Krrabë, Albania",earthquake,,,,,reviewed,pdg,ath
+2003-10-23T13:11:56.400Z,42.997,17.574,4.0,3.6,ml,44.0,58.3,,,us,usp000cb2y,2014-11-07T01:20:14.812Z,"2 km SSE of Opuzen, Croatia",earthquake,,,,,reviewed,pdg,pdg
+2003-10-17T02:55:37.680Z,42.356,18.612,11.5,3.5,ml,26.0,86.6,,,us,usp000cak0,2014-11-07T01:20:13.007Z,"11 km SW of Tivat, Montenegro",earthquake,,,,,reviewed,pdg,bud
+2003-10-16T11:28:09.600Z,43.327,19.946,12.0,4.1,ml,82.0,51.9,,,us,usp000cagh,2014-11-07T01:20:12.273Z,"21 km NNE of Osje?enik, Serbia",earthquake,,,,,reviewed,pdg,bud
+2003-10-16T00:58:57.810Z,42.233,19.569,2.4,3.6,md,71.0,47.4,,,us,usp000cafr,2014-11-07T01:20:12.189Z,"11 km E of Koplik, Albania",earthquake,,,,,reviewed,pdg,ath
+2003-09-10T06:31:40.280Z,43.027,17.832,12.0,3.7,ml,35.0,64.6,,,us,usp000c75r,2014-11-07T01:19:47.622Z,"11 km SSW of Crni?i, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,zamg
+2003-08-29T20:15:18.940Z,43.027,17.682,10.0,4.1,ml,108.0,38.5,,,us,usp000c67h,2014-11-07T01:19:36.707Z,"4 km SE of Metkovi?, Croatia",earthquake,,,,,reviewed,pdg,ldg
+2003-08-23T17:52:35.570Z,42.103,20.767,9.7,3.5,ml,35.0,124.1,,,us,usp000c5rh,2014-11-07T01:19:34.824Z,"12 km S of Prizren, Kosovo",earthquake,,,,,reviewed,pdg,rom
+2003-08-15T20:34:19.880Z,41.895,20.682,12.0,4.0,ml,126.0,37.3,,,us,usp000c508,2014-11-07T01:19:31.809Z,"14 km S of Dragash, Kosovo",earthquake,,,,,reviewed,pdg,bud
+2003-05-02T15:27:40.080Z,43.118,15.333,23.9,3.8,ml,71.0,48.3,,,us,usp000bwf7,2014-11-07T01:18:31.644Z,"62 km W of Komiža, Croatia",earthquake,,,,,reviewed,pdg,ldg
+2003-04-20T01:47:23.730Z,42.052,20.849,10.0,3.5,md,65.0,124.5,,,us,usp000bvjv,2014-11-07T01:18:23.168Z,"5 km WNW of Šipkovica, North Macedonia",earthquake,,,,,reviewed,pdg,ath
+2003-04-10T03:36:09.810Z,40.931,19.957,0.1,3.5,md,15.0,139.0,,,us,usp000buuq,2014-11-07T01:18:19.366Z,"11 km S of Cërrik, Albania",earthquake,,,,,reviewed,pdg,ath
+2003-04-08T18:49:55.290Z,38.331,18.287,22.4,3.6,md,14.0,228.9,,,us,usp000buqu,2014-11-07T01:18:18.813Z,"121 km ESE of Capo Rizzuto, Italy",earthquake,,,,,reviewed,pdg,pdg
+2003-04-03T05:41:56.220Z,42.825,15.337,12.6,3.6,md,18.0,237.1,,,us,usp000bu8g,2014-11-07T01:18:15.687Z,"66 km WSW of Komiža, Croatia",earthquake,,,,,reviewed,pdg,pdg
+2004-12-14T09:52:38.130Z,41.939,20.069,12.4,3.5,ml,38.0,77.3,,,us,usp000dape,2014-11-07T01:24:16.816Z,"14 km SSE of Fushë-Arrëz, Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-11-23T04:12:46.960Z,40.963,19.566,20.9,4.3,mb,84.0,77.3,,,us,usp000d90b,2014-11-07T01:24:04.409Z,"11 km WNW of Lushnjë, Albania",earthquake,,,,5.0,reviewed,pdg,us
+2004-11-05T08:21:56.630Z,42.098,19.266,12.7,3.7,ml,72.0,47.4,,,us,usp000d7qv,2014-11-07T01:23:56.296Z,"10 km E of Stari Bar, Montenegro",earthquake,,,,,reviewed,pdg,the
+2004-10-29T23:30:39.610Z,41.126,19.566,11.9,3.7,md,57.0,54.7,,,us,usp000d7au,2014-11-07T01:23:50.317Z,"6 km S of Kavajë, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-10-18T04:24:52.310Z,41.901,19.839,2.3,3.8,ml,78.0,106.7,,,us,usp000d6kk,2014-11-07T01:23:46.862Z,"14 km NNE of Rubik, Albania",earthquake,,,,,reviewed,pdg,the
+2004-09-28T01:52:27.430Z,42.554,20.948,5.2,3.5,ml,50.0,131.9,,,us,usp000d56s,2014-11-07T01:23:34.183Z,"9 km SSE of Glogovac, Kosovo",earthquake,,,,,reviewed,pdg,csem
+2004-09-21T04:46:09.760Z,43.074,18.069,11.0,3.7,ml,112.0,50.0,,,us,usp000d4rx,2014-11-07T01:23:32.045Z,"8 km E of Stolac, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,zamg
+2004-09-20T10:46:59.330Z,41.552,20.02,10.4,3.6,md,12.0,179.1,,,us,usp000d4q6,2014-11-07T01:23:31.390Z,"6 km S of Burrel, Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-09-09T09:33:20.880Z,41.692,20.166,7.5,3.6,md,58.0,66.4,,,us,usp000d3yz,2014-11-07T01:23:27.552Z,"11 km SE of Kurbnesh, Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-09-07T12:51:31.000Z,41.642,20.19,10.3,3.5,ml,19.0,169.2,,,us,usp000d3uw,2014-11-07T01:23:26.976Z,"15 km ENE of Burrel, Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-08-27T08:10:53.960Z,41.466,19.531,9.0,3.5,md,37.0,79.0,,,us,usp000d2y7,2014-11-07T01:23:16.181Z,"13 km NW of Vorë, Albania",earthquake,,,,,reviewed,pdg,pdg
+2004-08-25T23:26:03.380Z,41.448,19.541,13.4,3.6,md,56.0,53.9,,,us,usp000d2vu,2014-11-07T01:23:15.943Z,"11 km WNW of Vorë, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-08-25T22:41:15.990Z,41.377,19.605,11.0,3.8,md,87.0,46.0,,,us,usp000d2vt,2014-11-07T01:23:15.922Z,"4 km WSW of Vorë, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-08-07T23:11:29.300Z,40.839,19.953,10.0,3.6,md,56.0,47.8,,,us,usp000d1qd,2014-11-07T01:23:10.081Z,"5 km NE of Kuçovë, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-06-19T21:44:54.450Z,41.162,20.002,11.0,4.2,ml,137.0,39.7,,,us,usp000cy9d,2014-11-07T01:22:39.063Z,"6 km SSE of Krrabë, Albania",earthquake,,,,,reviewed,pdg,ath
+2004-06-15T22:18:43.760Z,42.221,19.022,15.9,3.9,ml,107.0,53.7,,,us,usp000cxzh,2014-11-07T01:22:38.105Z,"6 km ENE of Petrovac na Moru, Montenegro",earthquake,,,,,reviewed,pdg,bud
+2004-05-26T17:52:15.030Z,43.391,17.432,4.3,3.9,ml,87.0,42.6,,,us,usp000cwa4,2014-11-07T01:22:24.462Z,"2 km NE of Grude, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,bud
+2004-05-22T21:36:52.830Z,43.397,20.753,11.0,3.6,ml,73.0,65.1,,,us,usp000cvxq,2014-11-07T01:22:23.026Z,"16 km NE of Raška, Serbia",earthquake,,,,,reviewed,pdg,bud
+2004-04-24T00:38:56.520Z,42.995,17.777,11.0,3.7,ml,137.0,25.9,,,us,usp000ct88,2014-11-07T01:22:04.797Z,"12 km ESE of Metković, Croatia",earthquake,,,,,reviewed,pdg,pdg
+2004-03-31T15:23:26.720Z,43.823,18.567,10.0,3.9,ml,152.0,27.6,,,us,usp000crcb,2014-11-07T01:21:49.073Z,"0 km NNW of Pale, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2004-03-23T12:38:30.520Z,43.291,19.733,3.1,4.8,ml,105.0,48.8,,,us,usp000cqpc,2014-11-07T01:21:46.245Z,"12 km SSE of Prijepolje, Serbia",earthquake,,,,,reviewed,pdg,bud
+2004-03-14T05:00:20.910Z,41.8,20.13,16.9,4.3,mb,223.0,34.4,,,us,usp000cpwk,2014-11-07T01:21:41.888Z,"4 km ENE of Kurbnesh, Albania",earthquake,,,,3.0,reviewed,pdg,us
+2006-03-01T09:51:33.270Z,42.202,19.42,17.0,4.4,ml,89.0,42.9,,,us,usp000eb3c,2014-11-07T01:28:25.121Z,"1 km SW of Koplik, Albania",earthquake,,,,,reviewed,pdg,the
+2006-02-26T19:38:47.710Z,42.383,19.841,10.0,3.5,ml,79.0,34.0,,,us,usp000eaxp,2014-11-07T01:28:22.469Z,"19 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2006-02-16T09:03:41.160Z,41.044,20.18,4.1,3.6,ml,30.0,68.3,,,us,usp000ea58,2014-11-07T01:28:18.807Z,"11 km SE of Elbasan, Albania",earthquake,,,,,reviewed,pdg,pdg
+2006-02-02T00:00:27.500Z,40.517,21.292,18.4,3.7,md,10.0,337.0,,,us,usp000e99t,2014-11-07T01:28:13.956Z,"2 km WNW of Mavrochóri, Greece",earthquake,,,,,reviewed,pdg,pdg
+2005-12-26T05:53:33.000Z,41.3,20.0,2.0,4.1,mb,142.0,34.0,,,us,usp000e6xm,2014-11-07T01:27:57.130Z,"9 km NNE of Krrabë, Albania",earthquake,,,,4.0,reviewed,pdg,us
+2005-11-26T20:05:07.500Z,43.833,21.804,25.4,4.0,mb,57.0,86.8,,,us,usp000e4yv,2014-11-07T01:27:44.091Z,"31 km ENE of ?i?evac, Serbia",earthquake,,,,1.0,reviewed,pdg,us
+2005-11-20T21:24:58.000Z,43.24,21.055,11.0,4.0,mb,144.0,38.3,,,us,usp000e4kr,2014-11-07T01:27:41.691Z,"25 km NE of Leposaviq, Kosovo",earthquake,,,,3.0,reviewed,pdg,us
+2005-11-14T01:29:12.380Z,43.031,17.741,11.0,3.5,ml,97.0,54.7,,,us,usp000e44g,2014-11-07T01:27:39.251Z,"7 km ESE of Metkovi?, Croatia",earthquake,,,,,reviewed,pdg,rom
+2005-11-10T16:55:13.600Z,42.81,17.82,3.1,3.5,ml,75.0,59.7,,,us,usp000e3wg,2014-11-07T01:27:37.762Z,"4 km SSW of Podgora, Croatia",earthquake,,,,,reviewed,pdg,pdg
+2005-10-31T13:00:07.280Z,42.938,17.529,2.6,4.0,mb,89.0,62.2,,,us,usp000e37e,2014-11-07T01:27:30.826Z,"7 km WNW of Neum, Bosnia and Herzegovina",earthquake,,,,1.0,reviewed,pdg,us
+2005-09-17T18:43:53.060Z,41.255,19.985,1.1,4.1,ml,102.0,42.5,,,us,usp000dzmb,2014-11-07T01:27:05.180Z,"4 km NNE of Krrabë, Albania",earthquake,,,,,reviewed,pdg,the
+2005-07-28T14:38:20.610Z,40.828,20.238,9.8,4.1,mb,93.0,43.8,,,us,usp000dw4p,2014-11-07T01:26:34.920Z,"6 km SE of Gramsh, Albania",earthquake,,,,3.0,reviewed,pdg,us
+2005-07-10T20:40:20.110Z,42.416,19.801,9.7,3.5,ml,54.0,66.7,,,us,usp000duy5,2014-11-07T01:26:28.318Z,"16 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2005-07-07T13:30:55.960Z,41.264,19.753,10.1,3.5,md,17.0,143.3,,,us,usp000duq7,2014-11-07T01:26:26.943Z,"8 km SW of Tirana, Albania",earthquake,,,,,reviewed,pdg,ath
+2005-06-30T19:44:48.830Z,41.885,20.414,6.7,3.5,ml,64.0,47.6,,,us,usp000du8q,2014-11-07T01:26:18.734Z,"21 km S of Kukës, Albania",earthquake,,,,,reviewed,pdg,pdg
+2005-06-17T05:33:03.110Z,41.918,19.677,11.0,3.8,ml,99.0,39.5,,,us,usp000dt8f,2014-11-07T01:26:14.498Z,Albania,earthquake,,,,,reviewed,pdg,pdg
+2005-05-19T23:45:25.250Z,42.718,18.937,19.4,3.8,ml,105.0,29.8,,,us,usp000dr6c,2014-11-07T01:25:56.211Z,"6 km S of Nikši?, Montenegro",earthquake,,,,,reviewed,pdg,zamg
+2005-05-19T23:19:56.060Z,42.721,18.948,22.0,4.2,mb,127.0,24.7,,,us,usp000dr6b,2014-11-07T01:25:56.197Z,"5 km S of Nikši?, Montenegro",earthquake,,,,12.0,reviewed,pdg,us
+2005-05-08T00:18:59.500Z,43.719,17.527,1.7,3.5,ml,48.0,84.7,,,us,usp000dq5s,2014-11-07T01:25:50.090Z,"12 km S of Rumboci, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2005-03-18T17:03:57.810Z,39.091,21.969,11.0,3.7,md,65.0,42.6,,,us,usp000djfw,2014-11-07T01:25:16.139Z,"15 km SW of Anávra, Greece",earthquake,,,,,reviewed,pdg,ath
+2007-03-11T22:14:26.800Z,41.741,20.465,0.5,4.2,ml,147.0,21.1,,,us,usp000f6hk,2014-11-07T01:31:51.598Z,"6 km NNE of Peshkopi, Albania",earthquake,,,,,reviewed,pdg,the
+2007-02-11T18:19:11.800Z,41.711,20.487,0.3,3.6,ml,47.0,52.0,,,us,usp000f4pm,2014-11-07T01:31:36.698Z,"5 km ENE of Peshkopi, Albania",earthquake,,,,,reviewed,pdg,the
+2007-02-10T20:11:31.100Z,41.713,20.469,0.6,3.6,ml,71.0,43.5,,,us,usp000f4mx,2014-11-07T01:31:36.362Z,"4 km NE of Peshkopi, Albania",earthquake,,,,,reviewed,pdg,the
+2006-12-22T19:07:07.400Z,42.379,21.557,11.0,3.8,ml,84.0,56.6,,,us,usp000f0t1,2014-11-07T01:31:10.672Z,"10 km ESE of Partesh, Kosovo",earthquake,,,,,reviewed,pdg,pdg
+2006-12-13T10:06:30.970Z,41.941,20.011,8.8,4.0,ml,78.0,31.9,,,us,usp000f04n,2014-11-07T01:31:08.045Z,"13 km S of Fushë-Arrëz, Albania",earthquake,,,,,reviewed,pdg,the
+2006-12-13T08:57:28.810Z,41.916,20.082,11.0,4.2,ml,54.0,50.7,,,us,usp000f04g,2014-11-07T01:31:08.034Z,"15 km N of Kurbnesh, Albania",earthquake,,,,,reviewed,pdg,the
+2006-12-13T08:50:34.830Z,41.919,20.073,11.0,4.4,ml,124.0,27.1,,,us,usp000f04f,2014-11-07T01:31:08.023Z,"15 km N of Kurbnesh, Albania",earthquake,,,,,reviewed,pdg,the
+2006-11-21T01:58:47.370Z,43.84,21.595,7.9,4.9,mb,279.0,13.4,,,us,usp000eyeb,2022-07-14T08:53:51.046Z,"15 km E of Para?in, Serbia",earthquake,,,,13.0,reviewed,pdg,us
+2006-10-21T19:40:20.500Z,42.383,19.826,7.8,3.7,md,26.0,116.9,,,us,usp000evqz,2014-11-07T01:30:36.806Z,"19 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,ath
+2006-10-19T09:34:51.000Z,42.3,19.8,6.0,5.0,mb,259.0,33.5,,,us,usp000evh3,2014-11-07T01:30:35.885Z,"29 km S of Gusinje, Montenegro",earthquake,,,,23.0,reviewed,pdg,us
+2006-10-08T06:59:08.550Z,42.354,19.84,4.0,3.7,ml,32.0,61.2,,,us,usp000eupn,2014-11-07T01:30:31.146Z,"23 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,the
+2006-09-29T05:01:41.660Z,44.158,19.691,10.3,3.6,ml,60.0,52.2,,,us,usp000eu1s,2014-11-07T01:30:20.208Z,"20 km S of Kamenica, Serbia",earthquake,,,,,reviewed,pdg,buc
+2006-09-28T08:03:43.130Z,42.366,19.828,10.7,3.7,ml,75.0,34.6,,,us,usp000etzq,2014-11-07T01:30:19.683Z,"21 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2006-09-27T00:37:05.880Z,42.372,19.924,1.3,3.9,ml,78.0,114.1,,,us,usp000etw8,2014-11-07T01:30:17.030Z,"22 km SSE of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,rom
+2006-09-26T23:51:04.480Z,42.312,19.87,2.0,4.0,mb,266.0,33.6,,,us,usp000etw5,2014-11-07T01:30:16.992Z,"27 km S of Gusinje, Montenegro",earthquake,,,,19.0,reviewed,pdg,us
+2006-09-26T06:48:35.940Z,42.394,19.852,2.1,3.8,ml,77.0,33.6,,,us,usp000etuq,2014-11-07T01:30:16.862Z,"18 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2006-08-30T18:59:42.390Z,42.168,19.452,18.7,3.6,ml,87.0,129.2,,,us,usp000es43,2014-11-07T01:30:03.373Z,"5 km SSE of Koplik, Albania",earthquake,,,,,reviewed,pdg,pdg
+2006-08-09T22:57:22.020Z,42.423,19.791,10.0,3.8,md,64.0,41.5,,,us,usp000eqm9,2014-11-07T01:29:56.428Z,"15 km SSW of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,ath
+2006-08-09T22:36:50.520Z,40.163,19.745,22.5,4.4,ml,79.0,64.5,,,us,usp000eqm8,2014-11-07T01:29:56.417Z,"6 km N of Himarë, Albania",earthquake,,,,,reviewed,pdg,ath
+2006-08-07T07:19:14.190Z,43.176,20.006,11.0,3.6,ml,29.0,79.5,,,us,usp000eqds,2014-11-07T01:29:55.186Z,"12 km ENE of Osje?enik, Serbia",earthquake,,,,,reviewed,pdg,buc
+2006-08-07T00:02:25.110Z,40.109,19.664,8.7,3.6,md,45.0,81.9,,,us,usp000eqd1,2014-11-07T01:29:55.083Z,"6 km W of Himarë, Albania",earthquake,,,,,reviewed,pdg,ath
+2006-07-06T01:32:12.330Z,43.361,20.121,9.1,3.7,ml,61.0,64.8,,,us,usp000emz0,2014-11-07T01:29:35.793Z,"22 km NW of Sokolovica, Serbia",earthquake,,,,,reviewed,pdg,buc
+2006-06-15T23:36:42.710Z,41.118,20.04,11.0,4.5,ml,159.0,27.6,,,us,usp000ekfu,2014-11-07T01:29:22.914Z,"3 km W of Elbasan, Albania",earthquake,,,,,reviewed,pdg,ath
+2006-06-09T21:36:36.450Z,43.292,18.777,15.4,3.8,ml,124.0,31.7,,,us,usp000ek19,2014-11-07T01:29:20.777Z,"16 km NNW of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,rom
+2006-05-25T10:45:38.490Z,42.372,19.193,17.3,3.6,ml,103.0,47.2,,,us,usp000ehx6,2014-11-07T01:29:10.965Z,"4 km NW of Mojanovi?i, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2006-04-18T19:18:59.940Z,42.717,17.716,10.0,4.0,mb,110.0,53.8,,,us,usp000eevn,2014-11-07T01:28:51.719Z,"13 km S of Ston, Croatia",earthquake,,,,7.0,reviewed,pdg,us
+2006-03-31T13:18:13.630Z,44.032,20.156,11.0,4.2,ml,56.0,63.5,,,us,usp000edbf,2014-11-07T01:28:37.355Z,"22 km NW of ?a?ak, Serbia",earthquake,,,,,reviewed,pdg,buc
+2008-02-26T04:16:56.000Z,42.4,19.8,6.0,4.1,mb,140.0,49.4,,,us,usp000fzzh,2014-11-07T01:35:03.803Z,"18 km S of Gusinje, Montenegro",earthquake,,,,2.0,reviewed,pdg,us
+2008-02-15T17:03:02.330Z,43.883,20.43,14.2,4.0,mb,262.0,12.9,,,us,usp000fyzg,2014-11-07T01:34:57.332Z,"6 km E of ?a?ak, Serbia",earthquake,,,,8.0,reviewed,pdg,us
+2008-02-06T00:52:54.130Z,41.512,19.632,2.0,3.5,ml,36.0,83.2,,,us,usp000fy93,2014-11-07T01:34:54.251Z,"8 km WNW of Fushë-Krujë, Albania",earthquake,,,,,reviewed,pdg,the
+2008-01-20T21:18:39.230Z,41.901,19.197,10.0,3.5,ml,66.0,51.6,,,us,usp000fx46,2014-11-07T01:34:44.289Z,"3 km SW of Ulcinj, Montenegro",earthquake,,,,,reviewed,pdg,the
+2007-11-24T08:46:07.400Z,41.169,19.882,14.7,3.6,ml,47.0,48.8,,,us,usp000ft6u,2014-11-07T01:34:14.181Z,"9 km SW of Krrabë, Albania",earthquake,,,,,reviewed,pdg,rom
+2007-11-23T01:06:16.400Z,41.292,20.305,9.9,3.5,ml,33.0,88.5,,,us,usp000ft41,2014-11-07T01:34:13.847Z,"10 km NNW of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,pdg
+2007-11-14T20:47:33.900Z,41.125,20.138,2.6,3.5,md,15.0,127.6,,,us,usp000fsk0,2014-11-07T01:34:10.443Z,"4 km ENE of Elbasan, Albania",earthquake,,,,,reviewed,pdg,ath
+2007-10-26T01:36:57.300Z,41.011,19.783,14.8,3.8,md,64.0,35.4,,,us,usp000fr95,2014-11-07T01:33:59.492Z,"4 km SE of Peqin, Albania",earthquake,,,,,reviewed,pdg,ath
+2007-10-18T15:41:20.900Z,43.23,17.827,13.9,4.5,mb,287.0,35.1,,,us,usp000fqub,2022-07-14T02:00:47.994Z,"5 km WSW of Blagaj, Bosnia and Herzegovina",earthquake,,,,7.0,reviewed,pdg,us
+2007-09-05T05:08:15.580Z,41.352,19.469,9.0,4.9,mwc,285.0,42.9,,,us,usp000fmfh,2022-07-14T03:22:34.340Z,"3 km NNE of Durrës, Albania",earthquake,,,,,reviewed,pdg,gcmt
+2007-08-30T04:20:08.300Z,41.812,19.786,11.0,4.5,ml,112.0,34.4,,,us,usp000fkzm,2014-11-07T01:33:24.457Z,"4 km N of Rubik, Albania",earthquake,,,,,reviewed,pdg,the
+2007-08-29T12:30:15.200Z,41.53,20.108,7.6,3.6,ml,16.0,175.7,,,us,usp000fky1,2014-11-07T01:33:24.250Z,"3 km NE of Klos, Albania",earthquake,,,,,reviewed,pdg,the
+2007-08-25T03:55:07.800Z,43.482,17.24,0.0,3.9,ml,114.0,43.4,,,us,usp000fkn3,2014-11-07T01:33:22.622Z,"3 km ESE of Grabovci, Croatia",earthquake,,,,,reviewed,pdg,pdg
+2007-08-20T01:14:20.900Z,43.128,17.821,7.7,4.0,ml,28.0,106.7,,,us,usp000fk83,2014-11-07T01:33:19.568Z,"3 km W of Crni?i, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,the
+2007-07-30T19:43:03.300Z,41.902,20.377,8.7,3.8,md,38.0,33.3,,,us,usp000fhfa,2014-11-07T01:33:05.503Z,"19 km S of Kukës, Albania",earthquake,,,,,reviewed,pdg,ath
+2007-06-18T14:22:08.900Z,41.049,19.98,7.1,4.2,mb,110.0,31.0,,,us,usp000fe9k,2014-11-07T01:32:43.534Z,"1 km N of Cërrik, Albania",earthquake,,,,2.0,reviewed,pdg,us
+2007-05-12T14:22:20.500Z,41.069,19.818,7.9,3.5,md,13.0,144.2,,,us,usp000fbum,2014-11-07T01:32:27.578Z,"6 km ENE of Peqin, Albania",earthquake,,,,,reviewed,pdg,ath
+2007-04-23T14:11:30.700Z,43.898,20.292,3.3,3.7,ml,85.0,23.4,,,us,usp000fadr,2014-11-07T01:32:15.583Z,"4 km W of ?a?ak, Serbia",earthquake,,,,,reviewed,pdg,pdg
+2007-04-20T22:34:12.100Z,41.17,19.99,11.0,3.5,ml,52.0,78.7,,,us,usp000fa7h,2014-11-07T01:32:14.691Z,"5 km SSE of Krrabë, Albania",earthquake,,,,,reviewed,pdg,pdg
+2007-04-19T22:21:29.800Z,43.119,21.158,11.0,3.8,ml,137.0,41.0,,,us,usp000fa3f,2014-11-07T01:32:13.950Z,"23 km N of Podujeva, Kosovo",earthquake,,,,,reviewed,pdg,pdg
+2007-04-17T03:27:20.000Z,40.982,19.685,13.7,3.5,ml,53.0,56.2,,,us,usp000f9wv,2014-11-07T01:32:12.961Z,"4 km NNW of Lushnjë, Albania",earthquake,,,,,reviewed,pdg,pdg
+2007-04-16T07:38:53.800Z,41.172,19.897,13.7,4.5,mb,390.0,31.9,,,us,usp000f9uq,2022-05-02T20:11:28.989Z,"7 km SW of Krrabë, Albania",earthquake,,,,35.0,reviewed,pdg,us
+2007-04-09T15:53:47.900Z,42.165,21.325,8.5,3.7,ml,33.0,62.6,,,us,usp000f96c,2014-11-07T01:32:09.344Z,"2 km NE of Hani i Elezit, Kosovo",earthquake,,,,,reviewed,pdg,the
+2007-04-04T02:55:15.000Z,41.736,20.434,4.5,4.1,ml,63.0,50.2,,,us,usp000f8k5,2014-11-07T01:32:05.719Z,"5 km N of Peshkopi, Albania",earthquake,,,,,reviewed,pdg,the
+2007-03-19T09:43:16.290Z,45.18,16.66,21.0,3.6,ml,45.0,82.1,,,us,usp000f6zs,2014-11-07T01:31:53.960Z,"8 km N of Knežica, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2007-03-11T22:14:26.800Z,41.741,20.465,0.5,4.2,ml,147.0,21.1,,,us,usp000f6hk,2014-11-07T01:31:51.598Z,"6 km NNE of Peshkopi, Albania",earthquake,,,,,reviewed,pdg,the
+2008-11-27T03:52:29.410Z,43.147,17.603,0.6,3.5,ml,20.0,70.4,,,us,usp000gphe,2014-11-07T01:37:48.381Z,"7 km WNW of ?apljina, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2008-11-14T13:26:04.740Z,42.581,18.557,11.0,4.2,mwr,88.0,49.0,,,us,usp000gnp5,2014-11-07T01:37:44.181Z,"13 km WNW of Risan, Montenegro",earthquake,,,,,reviewed,pdg,us
+2008-10-29T18:04:21.360Z,41.23,20.319,2.0,3.5,ml,10.0,323.0,,,us,usp000gmbf,2014-11-07T01:37:34.072Z,"3 km NNW of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,pdg
+2008-10-28T15:19:45.430Z,41.219,20.367,2.0,3.5,ml,12.0,263.8,,,us,usp000gm7f,2014-11-07T01:37:33.113Z,"3 km NE of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,pdg
+2008-10-28T12:23:28.320Z,41.288,20.387,2.0,3.5,ml,10.0,321.5,,,us,usp000gm72,2014-11-07T01:37:33.077Z,"10 km NNE of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,sko
+2008-10-24T20:52:18.720Z,41.251,20.275,7.7,4.1,mb,54.0,121.3,,,us,usp000gkyw,2014-11-07T01:37:32.117Z,"7 km NW of Librazhd-Qendër, Albania",earthquake,,,,3.0,reviewed,pdg,us
+2008-10-24T17:00:15.790Z,41.163,20.245,6.3,4.0,ml,43.0,121.9,,,us,usp000gkyd,2014-11-07T01:37:32.065Z,Albania-Macedonia border region,earthquake,,,,,reviewed,pdg,pdg
+2008-10-24T16:56:41.940Z,41.214,20.221,6.1,3.6,ml,35.0,163.5,,,us,usp000gkyb,2014-11-07T01:37:32.058Z,"9 km W of Librazhd-Qendër, Albania",earthquake,,,,,reviewed,pdg,pdg
+2008-10-23T14:44:58.280Z,38.44,21.99,12.2,3.9,ml,18.0,191.4,,,us,usp000gkvp,2014-11-07T01:37:31.806Z,"15 km ENE of Náfpaktos, Greece",earthquake,,,,,reviewed,pdg,pdg
+2008-09-19T11:19:13.050Z,43.581,19.551,2.6,3.5,ml,23.0,141.7,,,us,usp000ghbf,2014-11-07T01:37:13.372Z,"2 km E of Priboj, Serbia",earthquake,,,,,reviewed,pdg,pdg
+2008-08-28T03:37:08.720Z,40.719,20.718,7.0,4.0,ml,84.0,40.8,,,us,usp000gfsj,2014-11-07T01:37:00.492Z,"2 km NE of Maliq, Albania",earthquake,,,,,reviewed,pdg,ath
+2008-08-28T03:31:14.910Z,40.656,20.909,13.1,4.0,ml,74.0,29.1,,,us,usp000gfsg,2014-11-07T01:37:00.483Z,"7 km WNW of Bilisht, Albania",earthquake,,,,,reviewed,pdg,ath
+2008-08-14T19:39:21.740Z,41.78,20.22,11.0,4.0,ml,99.0,35.4,,,us,usp000gepa,2014-11-07T01:36:54.024Z,Albania-Macedonia border region,earthquake,,,,,reviewed,pdg,pdg
+2008-06-25T18:05:28.360Z,41.354,19.627,11.0,4.0,ml,66.0,55.9,,,us,usp000gaj7,2014-11-07T01:36:26.078Z,"4 km SSW of Vorë, Albania",earthquake,,,,,reviewed,pdg,ath
+2008-06-21T01:16:43.440Z,41.194,20.163,6.0,3.5,ml,46.0,71.0,,,us,usp000ga6x,2014-11-07T01:36:23.999Z,"11 km NE of Elbasan, Albania",earthquake,,,,,reviewed,pdg,pdg
+2008-06-17T19:49:26.220Z,43.93,17.15,1.8,3.9,ml,67.0,76.1,,,us,usp000g9x8,2014-11-07T01:36:22.506Z,"16 km NE of Livno, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,pdg
+2008-05-19T21:28:49.920Z,41.376,19.657,14.4,4.0,mb,87.0,67.6,,,us,usp000g792,2014-11-07T01:36:03.532Z,"1 km S of Vorë, Albania",earthquake,,,,2.0,reviewed,pdg,us
+2008-05-05T18:13:51.810Z,42.8,16.3,2.3,3.7,ml,31.0,84.8,,,us,usp000g5jq,2014-11-07T01:35:51.443Z,"30 km SSE of Vis, Croatia",earthquake,,,,,reviewed,pdg,zag
+2008-05-05T08:11:42.660Z,42.419,19.768,1.7,3.9,md,27.0,71.9,,,us,usp000g5j0,2014-11-07T01:35:51.375Z,"16 km SSW of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,ath
+2008-04-03T06:52:33.630Z,42.308,19.867,8.0,4.3,ml,83.0,56.0,,,us,usp000g30u,2014-11-07T01:35:28.706Z,"28 km S of Gusinje, Montenegro",earthquake,,,,,reviewed,pdg,the
+2008-03-31T00:14:35.850Z,42.732,18.0,9.0,4.2,mb,176.0,39.6,,,us,usp000g2rw,2014-11-07T01:35:21.586Z,"9 km NW of Mokošica, Croatia",earthquake,,,,3.0,reviewed,pdg,us
+2009-07-28T23:34:56.690Z,41.388,18.873,44.6,4.2,mb,61.0,72.8,,,us,usp000gzrx,2014-11-07T01:39:22.947Z,"49 km W of Durrës, Albania",earthquake,,,,2.0,reviewed,pdg,us
+2011-01-24T01:26:38.270Z,43.153,18.726,6.0,4.4,ml,115.0,34.7,,,us,usp000htk1,2014-11-07T01:43:29.086Z,"9 km W of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,the
+2011-01-22T00:48:45.000Z,43.17,18.7,9.0,4.0,ml,65.0,88.8,,,us,usp000htfq,2014-11-07T01:43:28.409Z,"11 km W of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2010-12-21T08:56:28.100Z,43.149,18.876,6.7,4.1,ml,37.0,174.0,,,us,usp000hr8s,2014-11-07T01:43:10.409Z,"3 km E of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,the
+2010-12-07T12:35:00.570Z,43.131,18.735,8.0,4.3,mb,31.0,99.2,,,us,usp000hqmb,2014-11-07T01:43:05.218Z,"8 km WSW of Plužine, Montenegro",earthquake,,,,1.0,reviewed,pdg,us
+2012-02-24T17:31:36.780Z,42.478,19.213,19.7,4.4,mb,109.0,33.3,,,us,usp000jfaz,2014-11-07T01:47:03.996Z,"4 km SSE of Spuž, Montenegro",earthquake,,,,17.0,reviewed,pdg,us
+2011-12-22T23:26:19.000Z,41.81,19.27,15.0,4.0,mb,57.0,38.9,,,us,usp000jcgw,2014-11-07T01:46:36.507Z,"13 km SSE of Ulcinj, Montenegro",earthquake,,,,1.0,reviewed,pdg,us
+2011-09-25T13:17:10.220Z,42.542,18.605,10.0,4.6,mb,116.0,62.8,,,us,usp000j8hz,2014-11-07T01:45:57.111Z,"8 km WNW of Risan, Montenegro",earthquake,,,,8.0,reviewed,pdg,us
+2011-03-21T00:04:12.000Z,44.88,17.18,8.0,3.6,ml,23.0,105.4,,,us,usp000hy40,2014-11-07T01:44:16.059Z,"5 km WNW of Trn, Bosnia and Herzegovina",earthquake,,,,,reviewed,pdg,beo
+2013-02-03T12:00:59.940Z,43.182,18.731,13.1,4.0,ml,44.0,58.8,,,us,us2013lede,2014-11-07T01:50:00.301Z,"9 km WNW of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2013-02-03T03:37:15.100Z,43.27,18.72,10.0,4.0,ml,25.0,103.8,,,us,usp000jyyz,2014-11-07T01:50:00.111Z,"16 km NW of Plužine, Montenegro",earthquake,,,,,reviewed,pdg,pdg
+2012-11-28T01:49:45.070Z,42.466,20.101,9.0,4.1,mwr,171.0,25.2,,,us,usp000jw5u,2014-11-07T01:49:27.075Z,"14 km W of Junik, Kosovo",earthquake,,,,,reviewed,pdg,us
+2012-11-13T23:24:10.000Z,42.55,19.02,17.0,4.4,mb,170.0,25.7,,,us,usp000jvjc,2015-03-24T02:13:48.047Z,"10 km W of Danilovgrad, Montenegro",earthquake,,,,23.0,reviewed,pdg,us
+2012-11-12T23:18:42.500Z,42.544,19.066,18.9,4.4,mwr,174.0,26.7,,,us,usp000jvg5,2015-03-24T02:09:10.537Z,"6 km W of Danilovgrad, Montenegro",earthquake,,,,,reviewed,pdg,us
+2012-04-21T21:48:45.490Z,42.954,17.836,7.4,3.5,mwr,47.0,54.9,,,us,usp000jjcm,2014-11-07T01:47:35.711Z,"11 km N of Podgora, Croatia",earthquake,,,,,reviewed,pdg,us
+2012-03-26T03:00:17.670Z,41.79,19.354,16.7,4.7,mb,240.0,39.0,,,us,usp000jgta,2015-03-24T02:29:08.290Z,"18 km SE of Ulcinj, Montenegro",earthquake,,,,53.0,reviewed,pdg,us
+2015-02-28T08:24:25.300Z,43.57,18.43,5.0,4.1,mb,,,,1.09,us,usc000tty8,2022-07-27T23:36:12.324Z,"21 km SSE of Gra?anica, Bosnia and Herzegovina",earthquake,3.5,1.9,0.214,6.0,reviewed,pdg,us
+2014-04-21T21:25:29.800Z,41.82,19.35,10.0,4.4,mb,,,,1.37,us,usb000pt3h,2022-07-26T13:28:51.798Z,"16 km SE of Ulcinj, Montenegro",earthquake,,1.8,0.114,22.0,reviewed,pdg,us
+2016-02-27T02:50:31.700Z,42.54,18.49,10.0,3.5,ml,,,,0.73,us,us10004t2y,2016-05-06T23:34:15.040Z,"8 km N of Igalo, Montenegro",earthquake,4.6,5.7,,,reviewed,pdg,pdg
+2015-07-06T23:58:09.590Z,42.381,19.3946,20.7,4.3,mb,,,,0.84,us,us20002vkp,2022-07-31T17:09:36.862Z,"5 km ENE of Tuzi, Montenegro",earthquake,3.6,5.3,0.168,10.0,reviewed,pdg,us
+2015-05-19T01:06:40.220Z,41.8,19.229,11.0,3.7,mb,,,,1.14,us,us10002aey,2022-07-31T07:54:12.446Z,"14 km S of Ulcinj, Montenegro",earthquake,4.7,5.6,0.291,3.0,reviewed,pdg,us
+2015-05-01T21:25:33.370Z,42.767,17.93,2.0,4.0,mb,,,,1.24,us,us20002arf,2022-07-31T03:51:31.125Z,"11 km SE of Podgora, Croatia",earthquake,3.0,2.0,0.164,10.0,reviewed,pdg,us

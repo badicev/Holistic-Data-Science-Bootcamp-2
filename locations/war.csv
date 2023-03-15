@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2002-02-20T11:27:43.600Z,51.561,16.082,1.0,4.9,mb,158.0,,,,us,usp000ayty,2020-09-18T18:44:17.305Z,"6 km N of Polkowice, Poland",earthquake,,,,9.0,reviewed,war,us

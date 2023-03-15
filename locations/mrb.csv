@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2003-02-26T03:32:57.200Z,42.303,2.224,7.5,4.4,ml,152.0,,,,us,usp000brgj,2014-11-07T01:17:52.228Z,"4 km E of Ribes de Freser, Spain",earthquake,,,,,reviewed,mrb,ldg
+2002-05-19T04:44:15.000Z,42.944,0.145,6.0,3.5,ml,72.0,,,,us,usp000b4k3,2014-11-07T01:15:38.402Z,"8 km SSW of Campan, France",earthquake,,,,,reviewed,mrb,str
+2004-09-23T09:58:05.700Z,42.34,2.147,4.0,4.0,ml,108.0,70.4,,,us,usp000d4wu,2014-11-07T01:23:32.832Z,"4 km NNW of Ribes de Freser, Spain",earthquake,,,,,reviewed,mrb,ldg
+2004-09-23T09:50:19.200Z,42.342,2.166,5.3,3.5,ml,59.0,84.1,,,us,usp000d4wt,2014-11-07T01:23:32.823Z,Pyrenees,earthquake,,,,,reviewed,mrb,str
+2004-08-22T10:12:37.000Z,40.915,1.581,7.6,3.6,ml,65.0,114.4,,,us,usp000d2ne,2014-11-07T01:23:15.115Z,"29 km S of Coma-ruga, Spain",earthquake,,,,,reviewed,mrb,str
+2005-12-27T21:33:22.800Z,42.329,1.451,4.0,3.8,ml,79.0,33.0,,,us,usp000e724,2014-11-07T01:27:57.625Z,"3 km SSW of La Seu d'Urgell, Spain",earthquake,,,,,reviewed,mrb,ldg

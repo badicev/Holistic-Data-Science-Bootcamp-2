@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2005-09-22T17:53:26.300Z,12.514,40.333,14.3,3.9,ml,5.0,327.2,,,us,usp000dzyn,2014-11-07T01:27:07.893Z,"88 km E of Korem, Ethiopia",earthquake,,,,,reviewed,dhmr,dhmr
+2005-09-22T16:08:08.500Z,12.628,40.396,21.7,3.9,ml,4.0,326.5,,,us,usp000dzyf,2014-11-07T01:27:07.780Z,"94 km E of Maych’ew, Ethiopia",earthquake,,,,,reviewed,dhmr,dhmr
+2005-09-22T15:59:31.400Z,12.694,40.375,21.5,4.5,ml,6.0,290.6,,,us,usp000dzye,2014-11-07T01:27:07.778Z,"91 km E of Maych’ew, Ethiopia",earthquake,,,,,reviewed,dhmr,dhmr
+2005-09-22T12:10:38.800Z,12.045,40.413,0.1,4.2,ml,9.0,232.3,,,us,usp000dzxx,2014-11-07T01:27:07.713Z,"70 km WNW of Semera, Ethiopia",earthquake,,,,,reviewed,dhmr,dhmr
+2005-09-22T07:13:03.600Z,12.88,40.374,4.0,3.9,ml,4.0,316.9,,,us,usp000dzxf,2014-11-07T01:27:07.287Z,"90 km E of Maych’ew, Ethiopia",earthquake,,,,,reviewed,dhmr,dhmr

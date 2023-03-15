@@ -1,0 +1,8 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2013-08-24T17:18:18.000Z,36.711,14.996,10.0,4.4,mb,,,,1.69,us,usb000jbbn,2022-07-25T21:00:24.948Z,"8 km W of Pachino, Italy",earthquake,,4.8,0.12,,reviewed,us_rom,us
+2013-08-24T13:59:01.000Z,46.219,12.496,9.2,3.6,ml,,,,1.61,us,usb000jb7t,2022-07-25T21:03:24.181Z,"5 km SSW of Claut, Italy",earthquake,,6.2,,,reviewed,us_rom,us_rom
+2013-08-22T06:44:50.000Z,43.583,13.804,7.9,4.3,mwr,,,,1.38,us,usb000j960,2022-07-25T20:55:15.350Z,"16 km ENE of Sirolo, Italy",earthquake,,4.3,0.065,,reviewed,us_rom,us
+2013-08-15T23:06:51.000Z,38.17,14.924,10.4,4.4,mb,,,,1.59,us,usb000j4gm,2013-10-19T02:41:44.000Z,"2 km W of San Giorgio, Italy",earthquake,,5.7,0.098,,reviewed,us_rom,us
+2013-08-15T23:04:57.800Z,38.1282,15.0424,10.1,4.4,mb,,,,0.8,us,usb000j4gh,2022-07-25T20:37:15.072Z,"1 km WNW of Oliveri, Italy",earthquake,,1.5,0.082,,reviewed,us_rom,us
+2013-08-14T22:18:55.000Z,44.166,10.195,6.5,3.9,mb,,,,1.15,us,usb000j3ki,2022-07-25T20:33:15.831Z,"1 km WSW of Minucciano, Italy",earthquake,,5.3,0.257,,reviewed,us_rom,us
+2013-08-09T10:44:08.000Z,47.242,11.473,6.4,3.7,ml,,,,1.65,us,usb000izfh,2022-07-25T20:05:11.871Z,"1 km ESE of Aldrans, Austria",earthquake,,6.8,,,reviewed,us_rom,us_zamg

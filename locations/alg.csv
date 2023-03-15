@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2004-06-01T01:39:06.600Z,34.092,2.213,10.0,3.7,ml,18.0,244.6,,,us,usp000cwsm,2014-11-07T01:22:28.537Z,"10 km ESE of Aflou, Algeria",earthquake,,,,,reviewed,alg,alg
+2012-04-05T04:56:20.480Z,36.186,4.566,1.0,4.6,mb,87.0,74.0,,,us,usp000jh91,2014-11-07T01:47:26.278Z,"14 km NNW of El Achir, Algeria",earthquake,,,,18.0,reviewed,alg,us
