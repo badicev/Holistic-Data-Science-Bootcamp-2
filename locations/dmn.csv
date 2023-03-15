@@ -1,5 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2006-08-30T18:25:00.600Z,29.052,83.602,10.0,4.5,ml,23.0,74.9,,,us,usp000es41,2014-11-07T01:30:03.357Z,"69 km N of Chitre, Nepal",earthquake,,,,,reviewed,dmn,dmn
-2007-11-05T17:32:26.800Z,28.2,84.453,2.0,4.3,mb,23.0,67.8,,,us,usp000fs0t,2014-11-07T01:34:07.448Z,"48 km E of Pokhara, Nepal",earthquake,,,,1.0,reviewed,dmn,us
-2007-10-18T05:54:42.400Z,27.794,77.614,10.0,4.7,ml,12.0,220.7,,,us,usp000fqtm,2020-09-18T21:51:05.400Z,"13 km NE of Chh?ta, India",earthquake,,,,,reviewed,dmn,dmn
-2008-03-17T18:55:51.300Z,29.76,81.531,10.0,4.7,ml,26.0,132.7,,,us,usp000g1ps,2014-11-07T01:35:16.324Z,"68 km SSE of Burang, China",earthquake,,,,,reviewed,dmn,dmn

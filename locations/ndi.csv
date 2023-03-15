@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2007-08-20T19:15:53.500Z,17.2,73.7,5.0,4.4,mb,28.0,194.4,,,us,usp000fkam,2021-10-20T18:13:09.732Z,"22 km ESE of M?khjan, India",earthquake,,,,7.0,reviewed,ndi,us

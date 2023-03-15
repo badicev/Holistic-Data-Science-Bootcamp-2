@@ -1,4 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2003-06-30T19:21:17.200Z,41.8,-81.2,4.6,3.6,mblg,19.0,80.5,,,us,usp000c1bd,2022-07-13T01:30:00.460Z,"6 km NW of Perry, Ohio",earthquake,,,,,reviewed,ogso,ott
-2007-03-12T23:18:16.410Z,41.28,-81.38,5.0,3.7,mblg,70.0,54.1,,,us,usp000f6ke,2022-07-12T23:35:05.865Z,Ohio,earthquake,,,,,reviewed,ogso,ott
-2007-03-12T23:18:16.410Z,41.28,-81.38,5.0,3.7,mblg,70.0,54.1,,,us,usp000f6ke,2022-07-12T23:35:05.865Z,Ohio,earthquake,,,,,reviewed,ogso,ott

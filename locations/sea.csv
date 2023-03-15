@@ -1,7 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1988-05-20T15:05:53.210Z,45.064,-128.641,5.3,3.6,md,,,,,us,usp0003g4s,2014-11-07T00:42:10.607Z,off the coast of Oregon,earthquake,,,,,reviewed,sea,sea
-1988-05-06T10:04:56.650Z,43.039,-127.803,12.4,4.0,mb,,,,,us,usp0003fq1,2014-11-07T00:42:05.258Z,"271 km W of Port Orford, Oregon",earthquake,,,,1.0,reviewed,sea,us
-1996-05-03T04:56:44.800Z,47.791,-121.831,5.0,3.5,md,,,,,us,usp0007gx0,2014-11-07T01:00:24.478Z,"8 km S of Sultan, Washington",earthquake,,,,,reviewed,sea,sea
-1998-06-28T07:35:32.060Z,46.534,-116.894,10.0,3.8,md,,,,,us,usp0008qmp,2016-07-23T18:17:32.620Z,"3 km SE of Genesee, Idaho",earthquake,,,,,reviewed,sea,sea
-2002-11-30T09:29:25.920Z,44.769,-115.515,10.0,4.1,ml,59.0,,,,us,usp000bjs3,2014-11-07T01:17:12.678Z,"21 km S of Yellow Pine, Idaho",earthquake,,,,,reviewed,sea,us
-2006-09-22T21:32:08.420Z,43.561,-128.583,10.0,4.5,mb,40.0,186.7,,,us,usp000etm2,2014-11-07T01:30:15.978Z,off the coast of Oregon,earthquake,,,,6.0,reviewed,sea,us

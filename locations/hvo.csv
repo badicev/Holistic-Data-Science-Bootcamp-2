@@ -1,3 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2011-05-21T02:17:40.430Z,20.118,-157.772,15.8,3.5,ml,38.0,201.0,,,us,usp000j1xa,2022-07-19T15:51:36.279Z,"118 km SW of Lanai City, Hawaii",earthquake,,,,,reviewed,hvo,hvo
-2013-05-04T11:53:26.780Z,20.558,-154.569,10.6,3.6,ml,30.0,100.0,,,us,us2013pucv,2020-07-06T20:36:00.610Z,"94 km NE of Laup?hoehoe, Hawaii",earthquake,,,,,reviewed,hvo,hvo

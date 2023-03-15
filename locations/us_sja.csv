@@ -1,7 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-14T12:37:08.000Z,-27.935,-67.398,136.0,4.7,mb,,,,0.69,us,usc000juck,2013-11-19T17:37:47.000Z,"21 km NE of Tinogasta, Argentina",earthquake,,4.9,0.062,,reviewed,us_sja,us
-2013-09-12T01:43:22.000Z,-31.719,-64.973,20.0,4.7,mb,,,,1.46,us,usc000js9i,2022-07-25T22:02:07.794Z,"3 km E of Mina Clavero, Argentina",earthquake,,3.7,0.065,,reviewed,us_sja,us
-2013-09-08T22:38:48.000Z,-22.472,-66.149,269.0,4.4,mb,,,,2.83,us,usb000jlsl,2013-11-15T03:20:29.000Z,"54 km WNW of Abra Pampa, Argentina",earthquake,,8.0,0.239,,reviewed,us_sja,us
-2013-08-31T02:32:16.000Z,-31.546,-69.386,110.0,4.7,mb,,,,0.91,us,usb000je7b,2013-11-06T01:33:35.000Z,"23 km S of Calingasta, Argentina",earthquake,,4.3,0.052,,reviewed,us_sja,us
-2013-08-28T21:51:06.000Z,-26.928,-66.901,115.0,4.3,md,,,,1.85,us,usa000kklf,2013-11-06T01:33:32.000Z,"33 km N of Puerta de Corral Quemado, Argentina",earthquake,,9.8,,,reviewed,us_sja,us_sja
-2013-08-20T04:56:42.000Z,-29.061,-69.6,115.0,4.5,mb,,,,2.36,us,usb000j701,2013-10-25T20:09:20.000Z,"125 km ESE of Vallenar, Chile",earthquake,,6.6,0.163,,reviewed,us_sja,us

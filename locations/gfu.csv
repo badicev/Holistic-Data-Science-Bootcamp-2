@@ -1,3 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2006-10-14T07:41:08.000Z,51.4,15.96,10.0,4.4,mb,66.0,67.2,,,us,usp000ev5s,2014-11-07T01:30:33.907Z,"4 km ESE of Chocianów, Poland",earthquake,,,,3.0,reviewed,gfu,us
-2008-10-10T07:32:01.800Z,50.2,12.5,0.0,3.5,ml,16.0,191.5,,,us,usp000gjuz,2014-11-07T01:37:26.773Z,"4 km WNW of Habartov, Czechia",earthquake,,,,,reviewed,gfu,ldg

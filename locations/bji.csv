@@ -1,7 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2011-01-19T04:07:43.600Z,30.65,117.1,10.0,4.9,mb,97.0,64.8,,,us,usp000htbj,2022-07-19T02:40:03.485Z,"15 km NNE of Anqing, China",earthquake,,,,40.0,reviewed,bji,us
-2010-11-19T06:42:03.300Z,22.566,113.928,20.0,3.8,ml,5.0,146.1,,,us,usp000hpv1,2022-07-19T00:15:39.267Z,"4 km NNW of Haikuotiankong, China",earthquake,,,,,reviewed,bji,bji
-2015-12-10T21:27:45.600Z,32.01,104.51,16.0,4.0,mb,,,,0.84,us,us20004h3m,2016-03-05T01:42:01.040Z,"33 km NW of Jiangyou, China",earthquake,10.4,5.6,0.183,8.0,reviewed,bji,us
-2015-11-09T12:28:31.600Z,25.53,101.88,6.0,4.1,mb,,,,0.67,us,us10003xv5,2016-02-05T03:16:39.040Z,"90 km NW of Lianran, China",earthquake,10.3,4.8,0.151,12.0,reviewed,bji,us
-2015-10-28T20:12:09.500Z,27.55,100.3,10.0,4.7,mb,,,,0.75,us,us200040av,2016-11-10T21:57:33.664Z,"65 km ESE of Shangri-La, China",earthquake,8.0,4.4,0.08,47.0,reviewed,bji,us
-2015-10-03T05:26:13.400Z,30.95,98.37,5.0,4.4,mb,,,,0.93,us,us10003pu4,2016-01-04T22:28:51.040Z,"115 km E of Qamdo, China",earthquake,8.8,5.3,0.117,21.0,reviewed,bji,us

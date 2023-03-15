@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2010-08-20T14:05:44.400Z,24.15,-154.56,15.0,4.0,ml,37.0,297.6,,,us,usp000hjh1,2020-07-06T20:21:35.650Z,Hawaiian Islands region,earthquake,,,,,reviewed,hon,us

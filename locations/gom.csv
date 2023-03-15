@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2006-04-08T02:22:48.200Z,-2.469,29.593,3.4,4.2,mb,17.0,103.1,,,us,usp000edxq,2014-11-07T01:28:44.369Z,"4 km ENE of Nzega, Rwanda",earthquake,,,,4.0,reviewed,gom,us

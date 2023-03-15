@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-02T12:36:36.600Z,43.4167,-0.6333,2.0,4.2,ml,,,,1.29,us,usb000k0up,2013-11-06T01:33:40.000Z,"2 km SE of Mont, France",earthquake,,6.5,,,reviewed,us_ldg,us_ldg

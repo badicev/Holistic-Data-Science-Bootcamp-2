@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1991-06-20T16:05:00.000Z,33.619,-106.475,0.0,3.5,ml,,,,,us,usp0004t79,2014-11-07T00:48:46.174Z,"47 km SE of San Antonito, New Mexico",earthquake,,,,,reviewed,exp,gs$

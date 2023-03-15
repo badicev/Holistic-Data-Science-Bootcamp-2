@@ -1,5 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-08T13:22:12.630Z,45.6097,22.8657,5.0,4.6,mb,,,,0.75,us,usb000jlkt,2022-07-25T21:49:02.307Z,"1 km WSW of General Berthelot, Romania",earthquake,,4.7,0.137,,reviewed,us_buc,us
-2013-09-08T13:00:42.500Z,45.59,22.9,10.0,4.3,mb,,,,0.59,us,usb000jlkd,2013-11-15T03:20:29.000Z,"2 km NNE of Tote?ti, Romania",earthquake,,5.5,0.308,,reviewed,us_buc,us
-2013-08-13T06:14:36.050Z,43.1218,27.4906,2.0,3.9,ml,,,,0.68,us,usb000j1yc,2013-10-19T02:41:41.000Z,"8 km SE of Provadia, Bulgaria",earthquake,,6.6,,,reviewed,us_buc,us_buc
-2013-08-11T13:31:08.760Z,45.7937,26.6976,100.0,4.3,mb,,,,1.18,us,usb000j0p4,2013-10-12T21:32:35.000Z,"1 km NW of Paltin, Romania",earthquake,,7.7,0.201,,reviewed,us_buc,us

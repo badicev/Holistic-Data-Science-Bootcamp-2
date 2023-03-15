@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2009-09-29T21:47:42.970Z,32.703,-7.26,17.0,3.8,ml,13.0,99.4,,,us,usp000h210,2014-11-07T01:39:45.862Z,"38 km WSW of Khouribga, Morocco",earthquake,,,,,reviewed,cnrm,cnrm
