@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 Earthquakes EDA1.ipynb
 Earthquakes EDA2.ipynb
+map_html/map.html
