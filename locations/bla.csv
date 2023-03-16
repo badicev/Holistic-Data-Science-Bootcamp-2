@@ -1,4 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1988-04-14T23:37:31.100Z,37.238,-81.987,0.0,4.1,mb,,,,,us,usp0003f1n,2014-11-07T00:41:57.585Z,"9 km E of Vansant, Virginia",earthquake,,,,1.0,reviewed,bla,us
-1989-04-10T18:12:16.000Z,37.136,-82.068,0.0,4.3,mb,,,,,us,usp0003tu6,2014-11-07T00:43:59.409Z,"11 km SSE of Vansant, Virginia",earthquake,,,,1.0,reviewed,bla,us
-2006-11-23T10:42:57.420Z,37.157,-81.975,0.0,4.3,mb,61.0,40.7,,,us,usp000eym9,2022-07-12T23:43:30.289Z,"13 km NW of Raven, Virginia",earthquake,,,,15.0,reviewed,bla,us

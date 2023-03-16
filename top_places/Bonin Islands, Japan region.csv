@@ -3595,12 +3595,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2021-03-09T19:30:41.192Z,27.2968,142.7927,24.18,4.4,mb,,138.0,0.577,1.1,us,us7000dkjf,2021-05-21T19:52:42.040Z,"Bonin Islands, Japan region",earthquake,9.1,5.8,0.108,29.0,reviewed,us,us
 2021-03-06T18:31:35.330Z,28.0636,142.6755,10.0,5.1,mb,,94.0,1.058,0.82,us,us7000dgks,2021-05-21T19:47:39.040Z,"Bonin Islands, Japan region",earthquake,7.8,1.8,0.05,135.0,reviewed,us,us
 2021-03-03T13:10:53.099Z,27.9528,139.4407,505.52,4.1,mb,,79.0,2.581,0.6,us,us7000dh60,2021-05-13T22:42:19.040Z,"Bonin Islands, Japan region",earthquake,13.6,10.8,0.112,22.0,reviewed,us,us
+2023-03-10T12:57:35.397Z,28.4745,139.6201,464.411,4.6,mb,110.0,106.0,4.629,0.65,us,us7000jisq,2023-03-10T13:20:28.040Z,"Bonin Islands, Japan region",earthquake,11.0,8.123,0.032,291.0,reviewed,us,us
 2023-03-03T12:26:51.681Z,27.2298,142.5749,10.0,4.5,mb,43.0,129.0,6.334,0.57,us,us7000jh1f,2023-03-03T13:24:38.040Z,"Bonin Islands, Japan region",earthquake,12.08,1.908,0.099,30.0,reviewed,us,us
 2023-03-01T13:59:22.322Z,27.4185,142.7435,17.451,5.0,mb,97.0,73.0,6.217,0.63,us,us7000jgk0,2023-03-01T14:42:45.040Z,"Bonin Islands, Japan region",earthquake,8.6,4.445,0.054,113.0,reviewed,us,us
 2023-02-28T00:25:55.296Z,27.9383,139.5283,491.602,4.1,mb,48.0,136.0,5.166,0.34,us,us7000jg51,2023-03-05T01:56:37.040Z,"Bonin Islands, Japan region",earthquake,12.38,9.14,0.097,29.0,reviewed,us,us
 2023-02-22T00:55:27.890Z,27.1078,143.413,10.0,4.9,mb,67.0,128.0,6.75,0.8,us,us6000jqp4,2023-02-22T01:12:09.040Z,"Bonin Islands, Japan region",earthquake,11.46,1.886,0.064,76.0,reviewed,us,us
-2023-02-21T18:05:33.799Z,27.1068,143.5371,13.323,5.1,mb,153.0,53.0,6.801,0.58,us,us6000jqli,2023-02-24T19:06:40.040Z,"Bonin Islands, Japan region",earthquake,9.56,3.642,0.034,276.0,reviewed,us,us
+2023-02-21T18:05:34.251Z,27.1222,143.5156,15.728,5.1,mb,173.0,53.0,1.187,0.62,us,us6000jqli,2023-03-11T22:59:52.040Z,"Bonin Islands, Japan region",earthquake,7.94,3.601,0.034,277.0,reviewed,us,us
+2023-02-21T00:05:27.488Z,27.1097,143.426,14.286,4.4,mb,45.0,70.0,10.395,0.46,us,us7000jgkk,2023-03-12T04:38:36.040Z,"Bonin Islands, Japan region",earthquake,12.57,4.475,0.105,26.0,reviewed,us,us
+2023-02-20T23:21:47.906Z,27.1369,143.3638,10.0,4.3,mb,16.0,139.0,10.348,0.34,us,us7000jgac,2023-03-12T03:39:56.040Z,"Bonin Islands, Japan region",earthquake,14.98,1.944,0.2,7.0,reviewed,us,us
 2023-02-17T11:29:21.589Z,27.9707,139.7747,445.577,4.2,mb,64.0,75.0,2.31,0.47,us,us6000jpmb,2023-03-04T08:37:51.040Z,"Bonin Islands, Japan region",earthquake,12.21,8.678,0.075,49.0,reviewed,us,us
+2023-02-12T16:13:47.752Z,26.4624,141.799,53.577,4.4,mb,32.0,151.0,6.851,0.78,us,us6000jngn,2023-03-11T20:52:29.040Z,"Bonin Islands, Japan region",earthquake,13.41,8.208,0.102,28.0,reviewed,us,us
 2023-02-05T21:58:49.516Z,27.2151,143.4908,10.0,4.7,mb,54.0,99.0,1.17,0.78,us,us6000jllc,2023-02-27T00:34:13.040Z,"Bonin Islands, Japan region",earthquake,4.91,1.649,0.076,53.0,reviewed,us,us
 2023-01-28T12:09:40.067Z,27.1504,140.1231,386.984,4.0,mb,67.0,68.0,1.838,0.61,us,us6000jmwb,2023-02-23T12:53:41.040Z,"Bonin Islands, Japan region",earthquake,12.44,7.701,0.06,75.0,reviewed,us,us
 2023-01-24T22:54:58.475Z,27.9386,139.4243,513.977,4.5,mb,158.0,56.0,2.591,0.5,us,us6000jj1l,2023-02-14T02:10:09.040Z,"Bonin Islands, Japan region",earthquake,10.1,5.492,0.048,129.0,reviewed,us,us

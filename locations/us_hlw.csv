@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-08-31T07:15:47.430Z,31.0523,26.42,11.0,4.2,mb,,,,1.57,us,usc000jqt0,2013-11-06T01:33:35.000Z,"84 km WSW of Mersa Matruh, Egypt",earthquake,,5.2,0.215,,reviewed,us_hlw,us

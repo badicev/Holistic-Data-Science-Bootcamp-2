@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-11-20T17:59:39.820Z,39.445,-82.205,8.0,3.5,mb_lg,,,,0.57,us,usb000l2y3,2022-08-06T19:40:58.195Z,"2 km SW of Buchtel, Ohio",earthquake,,6.8,0.042,,reviewed,oh,us

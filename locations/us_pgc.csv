@@ -1,9 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-06T00:05:24.000Z,51.043,-130.499,10.0,4.3,mwr,,,,0.7,us,usb000jjbz,2013-11-15T03:20:25.000Z,"245 km W of Port McNeill, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc
-2013-09-04T15:33:13.480Z,51.0831,-130.5088,10.0,4.2,mwr,,,,1.67,us,usb000kdsa,2013-11-15T03:20:24.000Z,"247 km WNW of Port McNeill, Canada",earthquake,,2.0,,,reviewed,us_pgc,us_pgc
-2013-09-04T15:26:32.000Z,51.052,-130.56,10.0,4.6,mwr,,,,0.98,us,usb000jh7l,2013-11-15T03:20:24.000Z,"250 km W of Port McNeill, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc
-2013-09-04T12:37:08.400Z,51.06,-130.64,10.0,4.3,mwr,,,,1.98,us,usc000kma7,2013-11-15T03:20:24.000Z,"255 km W of Port McNeill, Canada",earthquake,,7.5,,,reviewed,us_pgc,us_pgc
-2013-09-04T01:44:11.720Z,50.9949,-130.5932,10.0,4.3,mwr,,,,1.08,us,usb000jxqg,2013-11-15T03:20:23.000Z,"251 km W of Port McNeill, Canada",earthquake,,7.3,,,reviewed,us_pgc,us_pgc
-2013-09-03T22:25:46.210Z,51.088,-130.4752,10.0,4.2,mwr,,,,2.08,us,usb000k9wq,2013-11-15T03:20:22.000Z,"245 km WNW of Port McNeill, Canada",earthquake,,2.0,,,reviewed,us_pgc,us_pgc
-2013-08-19T17:25:18.000Z,67.655,-137.183,20.0,3.8,ml,,,,0.68,us,usb000j6id,2019-05-15T23:55:17.755Z,"100 km WNW of Fort McPherson, Canada",earthquake,,2.0,,,reviewed,us_pgc,us_pgc
-2013-08-07T01:32:46.770Z,50.4683,-130.3687,10.0,4.0,mwr,,,,2.01,us,usb000ix7a,2013-10-12T21:32:30.000Z,"233 km W of Port McNeill, Canada",earthquake,,1.9,,,reviewed,us_pgc,us_pgc

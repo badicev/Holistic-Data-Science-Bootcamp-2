@@ -2673,10 +2673,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T08:43:08.467Z,30.5148,-41.8801,10.0,4.8,mb,108.0,75.0,15.341,0.36,us,us6000jrw0,2023-02-27T09:12:53.040Z,northern Mid-Atlantic Ridge,earthquake,8.56,1.898,0.048,136.0,reviewed,us,us
 2023-02-12T07:08:22.045Z,17.5544,-46.5341,10.0,5.1,mww,106.0,84.0,13.738,0.35,us,us6000jnes,2023-03-08T13:56:05.040Z,northern Mid-Atlantic Ridge,earthquake,11.02,1.856,0.071,19.0,reviewed,us,us
 2023-02-09T19:07:37.105Z,28.4249,-43.7428,10.0,4.7,mb,91.0,87.0,17.857,0.82,us,us6000jmu9,2023-03-08T21:03:18.040Z,northern Mid-Atlantic Ridge,earthquake,7.1,1.809,0.06,83.0,reviewed,us,us
+2023-02-07T08:49:35.851Z,49.513,-28.4226,10.0,5.1,mww,69.0,58.0,16.422,0.6,us,us6000jm74,2023-03-10T19:58:16.571Z,northern Mid-Atlantic Ridge,earthquake,6.19,1.723,0.05,38.0,reviewed,us,us
 2023-01-31T14:48:12.095Z,30.0239,-42.0252,10.0,4.6,mb,41.0,145.0,25.543,0.59,us,us6000jkjd,2023-02-14T19:36:05.040Z,northern Mid-Atlantic Ridge,earthquake,7.6,1.891,0.097,32.0,reviewed,us,us
 2023-01-15T07:42:44.677Z,10.798,-40.9854,10.0,4.7,mb,34.0,147.0,12.852,0.57,us,us7000j4hp,2023-02-09T13:20:58.040Z,northern Mid-Atlantic Ridge,earthquake,6.11,1.841,0.075,54.0,reviewed,us,us
 2023-01-09T11:01:37.140Z,29.6048,-43.0026,10.0,4.4,mb,30.0,76.0,16.652,0.38,us,us7000j5gf,2023-01-27T09:50:28.040Z,northern Mid-Atlantic Ridge,earthquake,13.12,1.889,0.123,19.0,reviewed,us,us
-2023-01-02T19:25:14.135Z,30.2167,-41.9612,10.0,5.2,mww,116.0,56.0,15.561,0.71,us,us7000j1nh,2023-02-01T19:19:23.040Z,northern Mid-Atlantic Ridge,earthquake,9.82,1.791,0.056,31.0,reviewed,us,us
+2023-01-03T03:15:15.854Z,45.8784,-27.6336,10.0,4.5,mb,57.0,57.0,18.1,0.45,us,us7000j45b,2023-03-11T22:51:48.040Z,northern Mid-Atlantic Ridge,earthquake,11.44,1.824,0.088,38.0,reviewed,us,us
+2023-01-02T19:25:14.135Z,30.2167,-41.9612,10.0,5.2,mww,116.0,56.0,15.561,0.71,us,us7000j1nh,2023-03-11T22:51:33.040Z,northern Mid-Atlantic Ridge,earthquake,9.82,1.791,0.056,31.0,reviewed,us,us
 2022-12-29T08:01:10.923Z,30.5427,-42.1938,10.0,4.4,mb,23.0,163.0,25.633,0.76,us,us7000j3m0,2023-03-07T19:00:09.040Z,northern Mid-Atlantic Ridge,earthquake,10.46,1.854,0.143,22.0,reviewed,us,us
 2022-12-12T05:35:51.110Z,12.8897,-44.8966,10.0,4.7,mb,25.0,204.0,10.874,0.34,us,us6000j9q9,2023-02-18T22:04:16.040Z,northern Mid-Atlantic Ridge,earthquake,13.93,1.963,0.13,18.0,reviewed,us,us
 2022-12-09T04:41:22.352Z,45.3087,-27.9682,10.0,4.8,mb,67.0,60.0,18.546,0.79,us,us6000j82z,2023-02-11T23:03:19.040Z,northern Mid-Atlantic Ridge,earthquake,11.67,1.858,0.077,52.0,reviewed,us,us

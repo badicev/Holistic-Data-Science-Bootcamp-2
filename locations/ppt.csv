@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2008-03-17T02:35:02.800Z,-17.485,-148.921,10.0,4.0,mb,20.0,127.0,,,us,usp000g1ne,2014-11-07T01:35:16.171Z,"38 km NE of Tautira, French Polynesia",earthquake,,,,1.0,reviewed,ppt,us

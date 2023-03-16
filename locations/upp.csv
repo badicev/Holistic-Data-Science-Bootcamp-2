@@ -1,3 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2010-06-15T20:30:51.400Z,64.495,21.248,21.6,4.1,mb,33.0,32.9,,,us,usp000he2n,2022-07-16T15:39:36.416Z,"13 km S of Bureå, Sweden",earthquake,,,,7.0,reviewed,upp,us
-2012-08-06T02:57:16.100Z,56.607,12.053,9.8,4.2,mb,121.0,30.9,,,us,usp000jpxz,2015-03-24T01:41:13.695Z,"39 km WSW of Steninge, Sweden",earthquake,,,,2.0,reviewed,upp,us

@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-07T20:46:19.200Z,14.472,-90.572,7.6,3.6,md,,,,0.63,us,usb000jlfk,2013-11-15T03:20:27.000Z,"3 km SSW of Petapa, Guatemala",earthquake,,8.3,,,reviewed,us_gcg,us_gcg

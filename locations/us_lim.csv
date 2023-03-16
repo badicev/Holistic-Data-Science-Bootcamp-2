@@ -1,7 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-09-09T16:32:08.000Z,-16.69,-71.6,33.0,3.8,ml,,,,2.55,us,usb000kdxl,2013-11-15T03:20:30.000Z,"20 km SW of Yarabamba, Peru",earthquake,,10.1,,,reviewed,us_lim,us_lim
-2013-09-05T00:51:54.000Z,-12.13,-75.68,38.0,4.0,mb,,,,2.68,us,usc000jwtv,2013-11-15T03:20:24.000Z,"13 km NNE of Tomas, Peru",earthquake,,8.5,0.366,,reviewed,us_lim,us
-2013-08-25T05:43:43.000Z,-17.45,-70.85,17.0,4.2,mb,,,,0.88,us,usb000jblx,2013-10-25T20:10:03.000Z,"20 km NNW of Locumba, Peru",earthquake,,5.6,0.527,,reviewed,us_lim,us
-2013-08-20T21:29:09.000Z,-10.74,-74.91,21.0,3.9,mb,,,,1.79,us,usb000k50s,2013-10-25T20:09:24.000Z,"19 km N of Santa Rosa, Peru",earthquake,,7.2,0.364,,reviewed,us_lim,us
-2013-08-20T01:16:21.000Z,-8.64,-79.67,36.0,4.7,mb,,,,1.16,us,usb000j6yy,2013-10-25T20:09:19.000Z,"87 km SW of Huanchaquito Alto, Peru",earthquake,,1.9,0.065,,reviewed,us_lim,us
-2013-08-12T02:27:57.000Z,-6.32,-80.14,58.0,4.2,mb,,,,1.33,us,usb000j7p5,2013-10-12T21:32:38.000Z,"27 km NNW of Mórrope, Peru",earthquake,,5.7,0.2,,reviewed,us_lim,us

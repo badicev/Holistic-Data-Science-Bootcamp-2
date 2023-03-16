@@ -1,6 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1998-09-17T02:58:56.000Z,43.84,-111.01,0.0,3.8,ml,,,,,us,usp0008v1z,2014-11-07T01:06:04.047Z,"9 km NNE of Alta, Wyoming",earthquake,,,,,reviewed,usbr,but
-1998-06-20T21:16:21.000Z,43.28,-110.68,0.0,4.4,mb,,,,,us,usp0008q6n,2014-11-07T01:05:25.877Z,"8 km E of Hoback, Wyoming",earthquake,,,,12.0,reviewed,usbr,us
-1999-06-29T12:50:41.000Z,43.82,-110.99,0.0,3.6,ml,,,,,us,usp0009asj,2014-11-07T01:07:58.015Z,"8 km NNE of Alta, Wyoming",earthquake,,,,,reviewed,usbr,but
-1999-06-18T01:27:33.000Z,43.18,-110.75,7.0,3.5,ml,,,,,us,usp0009a2v,2014-11-07T01:07:54.654Z,"11 km SSE of Hoback, Wyoming",earthquake,,,,,reviewed,usbr,but
-2000-10-03T08:49:07.000Z,43.61,-110.34,6.5,3.9,ml,44.0,,,,us,usp000a16p,2014-11-07T01:11:12.881Z,"22 km E of Kelly, Wyoming",earthquake,,,,,reviewed,usbr,but

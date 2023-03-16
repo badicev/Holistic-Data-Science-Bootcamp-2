@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1986-06-18T08:05:15.450Z,51.356,-176.653,27.0,6.5,mw,,,,,us,usp0002v5r,2022-04-27T22:14:20.495Z,"57 km S of Adak, Alaska",earthquake,,,,,reviewed,bou,hrv

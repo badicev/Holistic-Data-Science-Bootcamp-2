@@ -1,3 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-1995-02-19T12:57:06.000Z,39.12,-83.47,10.0,3.6,md,,,,,us,usp0006t72,2014-11-07T00:57:21.075Z,"8 km SSE of Rocky Fork Point, Ohio",earthquake,,,,,reviewed,slm,slm
-2010-02-10T09:59:35.140Z,41.969,-88.498,10.0,3.8,mwr,82.0,31.2,,,us,usp000h751,2023-02-12T04:27:42.092Z,"2 km NW of Lily Lake, Illinois",earthquake,,,,,reviewed,slm,slm

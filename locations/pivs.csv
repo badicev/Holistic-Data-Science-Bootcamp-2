@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2015-10-07T14:37:42.000Z,12.33,123.73,11.0,4.6,mb,,,,0.37,us,us10003xmh,2016-01-04T22:29:33.040Z,"4 km N of Marintoc, Philippines",earthquake,28.7,9.3,0.173,10.0,reviewed,pivs,us

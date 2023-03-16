@@ -1,3 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2009-08-23T12:02:57.000Z,18.888,-68.906,77.2,4.0,md,16.0,184.7,,,us,usp000h0sk,2014-11-07T01:39:33.300Z,"18 km SE of Miches, Dominican Republic",earthquake,,,,,reviewed,sdd,sdd
-2009-08-23T03:00:28.000Z,18.91,-69.287,82.2,4.6,mb,128.0,34.1,,,us,usp000h0s6,2022-07-15T16:21:55.770Z,"12 km SE of El Valle, Dominican Republic",earthquake,,,,54.0,reviewed,sdd,us

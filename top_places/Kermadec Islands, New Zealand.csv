@@ -3085,6 +3085,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T07:41:09.205Z,-29.9009,-177.4604,34.334,4.4,mb,16.0,212.0,0.752,0.69,us,us6000jpje,2023-03-01T06:11:09.040Z,"Kermadec Islands, New Zealand",earthquake,13.2,11.993,0.155,12.0,reviewed,us,us
 2023-02-16T20:56:36.461Z,-30.8487,-177.6481,10.0,4.8,mb,33.0,141.0,1.599,1.05,us,us6000jpfx,2023-02-27T14:45:30.040Z,"Kermadec Islands, New Zealand",earthquake,7.69,1.851,0.128,24.0,reviewed,us,us
 2023-02-16T04:51:10.445Z,-30.1842,-177.5829,35.0,4.6,mb,23.0,197.0,0.965,0.88,us,us6000jpax,2023-02-16T20:25:09.040Z,"Kermadec Islands, New Zealand",earthquake,10.12,1.993,0.119,21.0,reviewed,us,us
+2023-02-14T20:48:06.377Z,-29.7973,-178.5684,6.673,4.4,mb,9.0,131.0,0.777,0.43,us,us6000jqu4,2023-03-09T19:51:58.040Z,"Kermadec Islands, New Zealand",earthquake,7.55,6.235,0.31,5.0,reviewed,us,us
+2023-02-14T20:21:13.346Z,-29.9815,-177.4963,18.417,4.5,mb,23.0,166.0,0.807,1.27,us,us6000jqu9,2023-03-09T19:01:03.040Z,"Kermadec Islands, New Zealand",earthquake,4.19,5.116,0.15,14.0,reviewed,us,us
 2023-02-14T15:08:29.614Z,-30.2226,-177.3526,33.726,4.8,mb,35.0,189.0,1.077,0.98,us,us6000jnxi,2023-02-22T19:50:50.040Z,"Kermadec Islands, New Zealand",earthquake,8.86,5.521,0.121,21.0,reviewed,us,us
 2023-02-13T09:18:07.995Z,-29.5218,-177.9727,374.033,6.1,mww,47.0,178.0,0.263,0.51,us,us6000jnk5,2023-02-14T09:20:59.238Z,"Kermadec Islands, New Zealand",earthquake,15.39,5.63,0.093,11.0,reviewed,us,us
 2023-02-13T00:22:21.618Z,-29.9026,-178.1407,69.153,5.0,mb,30.0,153.0,0.667,1.1,us,us6000jqjn,2023-03-06T04:24:49.040Z,"Kermadec Islands, New Zealand",earthquake,13.02,6.539,0.188,9.0,reviewed,us,us
@@ -3192,16 +3194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T02:56:09.261Z,-30.2261,-177.4979,35.0,4.3,mb,,201.0,1.028,0.84,us,us6000h53u,2022-05-14T21:52:36.040Z,"Kermadec Islands, New Zealand",earthquake,10.1,2.0,0.188,8.0,reviewed,us,us
 2022-03-08T19:08:05.597Z,-30.4845,-177.2167,10.0,5.0,mb,,69.0,1.363,0.68,us,us6000h34m,2022-05-14T21:52:24.040Z,"Kermadec Islands, New Zealand",earthquake,4.7,1.8,0.068,73.0,reviewed,us,us
 2022-03-07T22:13:29.671Z,-30.1619,-177.9178,35.0,5.2,mb,,122.0,0.896,0.95,us,us6000h2wp,2022-05-14T21:52:22.040Z,"Kermadec Islands, New Zealand",earthquake,8.3,1.9,0.092,39.0,reviewed,us,us
-2022-03-05T12:48:02.401Z,-30.7707,-177.9247,35.0,4.3,mb,,233.0,8.876,0.81,us,us6000h3je,2022-05-14T21:52:28.040Z,"Kermadec Islands, New Zealand",earthquake,14.0,2.0,0.168,14.0,reviewed,us,us
-2022-03-04T15:52:12.041Z,-30.1375,-177.4669,10.0,4.5,mb,,200.0,0.957,0.86,us,us6000h3c8,2022-05-07T21:32:57.040Z,"Kermadec Islands, New Zealand",earthquake,9.9,2.0,0.156,13.0,reviewed,us,us
-2022-03-03T20:15:22.828Z,-30.0464,-177.5585,46.21,4.6,mb,,200.0,0.842,0.94,us,us6000h333,2022-05-07T21:32:56.040Z,"Kermadec Islands, New Zealand",earthquake,12.1,3.8,0.222,7.0,reviewed,us,us
-2022-03-03T14:13:10.567Z,-30.1586,-177.543,35.0,4.1,mb,,115.0,0.951,0.67,us,us6000h32v,2022-05-07T21:32:56.040Z,"Kermadec Islands, New Zealand",earthquake,7.8,2.0,0.174,12.0,reviewed,us,us
-2022-03-03T13:29:55.648Z,-30.0828,-177.7964,37.49,5.1,mww,,65.0,0.825,1.13,us,us6000h1q0,2022-05-07T21:32:45.040Z,"Kermadec Islands, New Zealand",earthquake,5.7,4.6,0.089,12.0,reviewed,us,us
-2022-03-03T12:08:53.872Z,-30.1225,-177.7557,37.22,4.8,mb,,70.0,0.869,1.25,us,us6000h1pn,2022-05-07T21:32:45.040Z,"Kermadec Islands, New Zealand",earthquake,8.5,5.0,0.085,43.0,reviewed,us,us
-2022-03-03T07:00:54.098Z,-30.1025,-177.6943,21.28,4.3,mb,,157.0,0.86,0.67,us,us6000h32m,2022-05-07T21:32:55.040Z,"Kermadec Islands, New Zealand",earthquake,5.4,7.4,0.161,12.0,reviewed,us,us
-2022-03-03T06:48:15.211Z,-30.1424,-177.8046,35.0,4.3,mb,,187.0,0.883,0.18,us,us6000h32l,2022-05-07T21:32:55.040Z,"Kermadec Islands, New Zealand",earthquake,12.2,2.0,0.178,12.0,reviewed,us,us
-2022-03-02T18:05:17.260Z,-29.9863,-177.9131,47.32,5.1,mb,,72.0,0.721,1.0,us,us6000h1gl,2022-05-07T21:32:43.040Z,"Kermadec Islands, New Zealand",earthquake,10.0,4.4,0.072,62.0,reviewed,us,us
-2022-03-02T15:27:44.875Z,-29.669,-177.3466,37.19,4.5,mb,,191.0,0.644,0.9,us,us6000h2tq,2022-05-07T21:32:55.040Z,"Kermadec Islands, New Zealand",earthquake,6.3,8.7,0.204,7.0,reviewed,us,us
-2022-03-02T15:03:00.154Z,-30.1272,-177.8194,34.59,5.2,mww,,62.0,0.866,0.93,us,us6000h1e8,2022-05-07T21:32:43.040Z,"Kermadec Islands, New Zealand",earthquake,9.3,3.3,0.098,10.0,reviewed,us,us
-2022-03-02T13:09:11.405Z,-29.9413,-177.7349,42.21,4.2,mb,,194.0,0.696,0.37,us,us6000h2tc,2022-05-07T21:32:54.040Z,"Kermadec Islands, New Zealand",earthquake,16.3,22.0,0.153,13.0,reviewed,us,us
-2022-03-02T12:52:07.344Z,-30.0751,-177.7264,24.0,6.6,mww,,46.0,0.827,0.68,us,us6000h1d2,2022-08-06T09:27:47.178Z,"Kermadec Islands, New Zealand",earthquake,7.2,1.8,0.058,29.0,reviewed,us,us

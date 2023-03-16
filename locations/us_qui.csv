@@ -1,2 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2013-08-16T05:29:57.000Z,-2.8872,-78.6475,25.0,3.9,mb,,,,1.8,us,usb000j4te,2013-10-19T02:41:46.000Z,"14 km E of Gualaceo, Ecuador",earthquake,,2.0,0.193,,reviewed,us_qui,us
