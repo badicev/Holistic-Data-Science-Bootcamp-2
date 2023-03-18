@@ -16,5 +16,4 @@ The project generates various plots that provide insights into earthquake data o
 The project could be extended in several ways, such as:
 * Analyzing the correlation between earthquakes and other factors, such as tectonic plates, fault lines, and geological features.
 * Using machine learning techniques to predict the likelihood and severity of earthquakes.
-* Developing a web application that provides real-time earthquake data and alerts.
- 
+
